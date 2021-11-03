@@ -1,0 +1,39 @@
+
+<link rel="stylesheet" type="text/css" href="default.css">
+
+<script language="JavaScript">
+<!--
+function gosort() {
+   document.sort.submit();
+}
+//-->
+</script>
+
+<title>bist-du-bloe.de - Übersicht</title><table border="0" cellspacing="1" cellpadding="3" width="100%"><tr><th class="head" align="left" bgcolor="" colspan="2">
+      <a href="index-brainfuck.php?artcat=0">Artikel</a></th></tr><tr>
+           <th align="left" class="head" valign="top" bgcolor=""><img src="http://disturbed-reality.de/artikel/img/cat.gif" align="absmiddle">
+           <a href="index-brainfuck.php?artcat=3">brainfuck*</a> - 90</th></tr>
+           <tr><td class="info" align="left" bgcolor=""><font size="1">
+          sozialethische desorientierung</td></tr></td></tr><tr><td height="5" class="no"></td></tr></table><center><table cellpadding=2 cellspacing=1 border=0 width="100%"><table border="0" cellspacing="1" cellpadding="3" width="100%"><tr><td align="center" valign="top" class="header" bgcolor="" colspan="5">
+           Keine Artikel in dieser Kategorie
+       </td></tr><tr><td align="left" valign="top" class="header" bgcolor="" colspan="4">
+      Seite: 
+      </td>
+      <td align="right" valign="top" class="header" bgcolor="">
+      <form method="post" name="sort" action="index-brainfuck.php">
+          <select onChange="gosort();" style='font-size:10px' name="setpasort">
+          <option value="titel">Sortierung</option>
+          <option value="titel">nach Titel</option>
+          <option value="time asc">nach Zeit</option>
+          <option value="time desc">nach Zeit rückwärts</option>
+          <option value="autor">nach Autor</option>
+          </select>
+      </td></form>
+      </tr><tr><td align="left" valign="top" class="info" bgcolor="" colspan="5">
+      <img src="http://disturbed-reality.de/artikel/img/cat.gif" align="absmiddle">
+      <a href="../artikel/suchen.php">Suchen</a> /
+      <a href="../artikel/admin.php">Admin</a>
+      </td></tr></table><table width="100%"><tr><td><center><font face=verdana size="1">
+              -- <a href="http://www.pscript.de" target="_blank">PSCRIPT Artikel 0.98 beta</a>  &copy; Thomas Ehrhardt, 2002-2003 --
+              </font></center></td></tr>
+      </table>0

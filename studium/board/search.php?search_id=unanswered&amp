@@ -1,0 +1,413 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<title>bist-du-bloe.de :: Search</title>
+<link rel="stylesheet" href="templates/smartBlue/smartBlue.css" type="text/css">
+
+</head>
+<body leftmargin="0" topmargin="0">
+
+<a name="top"></a>
+
+<table width="97%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=b383f9ded86a758877fdbea6d1a8656e"><img src="templates/smartBlue/images/logo_phpBB.gif" alt="bist-du-bloe.de" border="0"></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">bist-du-bloe.de</span><br /><span class="gen">das forum zum studium<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="faq.php?sid=b383f9ded86a758877fdbea6d1a8656e" class="mainmenu">FAQ</a></span><span class="mainmenu"> :: <a href="search.php?sid=b383f9ded86a758877fdbea6d1a8656e" class="mainmenu">Search</a> :: <a href="memberlist.php?sid=b383f9ded86a758877fdbea6d1a8656e" class="mainmenu">Memberlist</a> :: <a href="groupcp.php?sid=b383f9ded86a758877fdbea6d1a8656e" class="mainmenu">Usergroups</a>
+						:: <a href="profile.php?mode=register&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="mainmenu">Register</a></span>
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="profile.php?mode=editprofile&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="mainmenu">Profile</a> :: <a href="privmsg.php?folder=inbox&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="mainmenu">Login to check your private messages</a> :: <a href="login.php?sid=b383f9ded86a758877fdbea6d1a8656e" class="mainmenu">Login</a></span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+		<br />
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="bottom"><span class="maintitle">Search found 35 matches</span><br /></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left"><span class="nav"><a href="index.php?sid=b383f9ded86a758877fdbea6d1a8656e" class="nav">bist-du-bloe.de Forum Index</a></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellpadding="4" cellspacing="1" border="0" class="forumline" align="center">
+  <tr>
+	<th width="4%" height="25" class="thCornerL" nowrap="nowrap">&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Forum&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Topics&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Author&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Replies&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Views&nbsp;</th>
+	<th class="thCornerR" nowrap="nowrap">&nbsp;Last Post&nbsp;</th>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=8&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">praktikum</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=49&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">und wie läufts bei euch?</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">6</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Feb 24, 2004 9:40 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=77&amp;sid=b383f9ded86a758877fdbea6d1a8656e#77"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=48&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">schwander die beiden aufgaben</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">16</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Thu Jan 29, 2004 2:58 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=76&amp;sid=b383f9ded86a758877fdbea6d1a8656e#76"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">offtopic</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=47&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">wem der stress zu viel wird</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">11</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Jan 20, 2004 11:15 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=75&amp;sid=b383f9ded86a758877fdbea6d1a8656e#75"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder_announce.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><b>Announcement:</b> <a href="viewtopic.php?t=46&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">HIER GEHTS ZUM CHAT</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">6</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Jan 13, 2004 6:33 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=74&amp;sid=b383f9ded86a758877fdbea6d1a8656e#74"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=45&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">Schwander2</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=3&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lutzhasser</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">11</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Jan 07, 2004 12:20 pm<br /><a href="profile.php?mode=viewprofile&amp;u=3&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lutzhasser</a> <a href="viewtopic.php?p=72&amp;sid=b383f9ded86a758877fdbea6d1a8656e#72"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=44&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">Schwander 2</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=3&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lutzhasser</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">10</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Jan 07, 2004 12:18 pm<br /><a href="profile.php?mode=viewprofile&amp;u=3&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lutzhasser</a> <a href="viewtopic.php?p=71&amp;sid=b383f9ded86a758877fdbea6d1a8656e#71"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=43&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">Wie wichtig ist der Umweltschutz?</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lisa</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">13</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Dec 22, 2003 2:20 pm<br /><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lisa</a> <a href="viewtopic.php?p=68&amp;sid=b383f9ded86a758877fdbea6d1a8656e#68"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=42&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">Ohne Wasser, merkt euch das, wär` unsre Welt ein leeres Fass</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lisa</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">9</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Dec 22, 2003 2:18 pm<br /><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lisa</a> <a href="viewtopic.php?p=67&amp;sid=b383f9ded86a758877fdbea6d1a8656e#67"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=41&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">Farben und Färben</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lisa</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">9</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Dec 22, 2003 2:17 pm<br /><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lisa</a> <a href="viewtopic.php?p=66&amp;sid=b383f9ded86a758877fdbea6d1a8656e#66"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=40&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">Herstellen und Trennen von Stoffgemischen</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lisa</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">11</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Dec 22, 2003 2:16 pm<br /><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lisa</a> <a href="viewtopic.php?p=65&amp;sid=b383f9ded86a758877fdbea6d1a8656e#65"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=37&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">der affige VV beschluss</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">9</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Dec 12, 2003 12:19 am<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=61&amp;sid=b383f9ded86a758877fdbea6d1a8656e#61"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=36&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">Wasser 26.11.03</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=4&amp;sid=b383f9ded86a758877fdbea6d1a8656e">SchmuddelKerstin</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">12</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Dec 03, 2003 12:43 am<br /><a href="profile.php?mode=viewprofile&amp;u=4&amp;sid=b383f9ded86a758877fdbea6d1a8656e">SchmuddelKerstin</a> <a href="viewtopic.php?p=60&amp;sid=b383f9ded86a758877fdbea6d1a8656e#60"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">offtopic</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=35&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">Der &quot;Puzzlemacher&quot;</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e">momo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">16</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Nov 28, 2003 7:37 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e">momo</a> <a href="viewtopic.php?p=59&amp;sid=b383f9ded86a758877fdbea6d1a8656e#59"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=34&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">Chemieprotokoll II, Farben und Färben</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=4&amp;sid=b383f9ded86a758877fdbea6d1a8656e">SchmuddelKerstin</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">12</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Nov 25, 2003 5:29 pm<br /><a href="profile.php?mode=viewprofile&amp;u=4&amp;sid=b383f9ded86a758877fdbea6d1a8656e">SchmuddelKerstin</a> <a href="viewtopic.php?p=58&amp;sid=b383f9ded86a758877fdbea6d1a8656e#58"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=32&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">ADG Aufgaben</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e">momo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">9</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Nov 25, 2003 2:11 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e">momo</a> <a href="viewtopic.php?p=56&amp;sid=b383f9ded86a758877fdbea6d1a8656e#56"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=31&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">Juchu!! WGMS III</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e">momo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">9</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Nov 25, 2003 2:07 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e">momo</a> <a href="viewtopic.php?p=55&amp;sid=b383f9ded86a758877fdbea6d1a8656e#55"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=28&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">Hausaufgaben Mathe - Didaktik 5.11.03</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lisa</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">10</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 17, 2003 8:54 pm<br /><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e">Lisa</a> <a href="viewtopic.php?p=46&amp;sid=b383f9ded86a758877fdbea6d1a8656e#46"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=4&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">vorlesungen, seminare, ...</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=25&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">ADG</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e">momo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">15</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Nov 14, 2003 1:23 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e">momo</a> <a href="viewtopic.php?p=39&amp;sid=b383f9ded86a758877fdbea6d1a8656e#39"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=24&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">wasn nu am montag?</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">20</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Thu Nov 13, 2003 2:07 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=38&amp;sid=b383f9ded86a758877fdbea6d1a8656e#38"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=23&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">geburtstagsstreik!</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">14</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Thu Nov 13, 2003 1:10 am<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=37&amp;sid=b383f9ded86a758877fdbea6d1a8656e#37"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=20&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">wgms 3 blatt 2</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e">momo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">8</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Nov 12, 2003 7:59 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e">momo</a> <a href="viewtopic.php?p=31&amp;sid=b383f9ded86a758877fdbea6d1a8656e#31"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=4&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">vorlesungen, seminare, ...</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=19&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">instruktions psychologie cd</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">12</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Nov 12, 2003 7:58 am<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=30&amp;sid=b383f9ded86a758877fdbea6d1a8656e#30"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">hausaufgaben, übungszettel</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=18&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">mathe didaktik 150</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">9</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Nov 12, 2003 7:44 am<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=29&amp;sid=b383f9ded86a758877fdbea6d1a8656e#29"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=17&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">schreibt roland koch eine email!</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">10</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 10, 2003 9:40 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=19&amp;sid=b383f9ded86a758877fdbea6d1a8656e#19"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=13&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">giessener anzeiger zum senkenbergmuseum</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">43</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 10, 2003 7:49 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=13&amp;sid=b383f9ded86a758877fdbea6d1a8656e#13"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=12&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">koch im senkenbergmuseum blokiert</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">9</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 10, 2003 7:43 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=12&amp;sid=b383f9ded86a758877fdbea6d1a8656e#12"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=11&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">email vom asta</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">31</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 10, 2003 6:51 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=11&amp;sid=b383f9ded86a758877fdbea6d1a8656e#11"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=10&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">giessener anzeiger</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">15</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 10, 2003 5:34 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=10&amp;sid=b383f9ded86a758877fdbea6d1a8656e#10"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=9&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">süddeutsche</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">7</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 10, 2003 5:32 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=9&amp;sid=b383f9ded86a758877fdbea6d1a8656e#9"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=8&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">FAZ</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">11</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 10, 2003 5:31 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=8&amp;sid=b383f9ded86a758877fdbea6d1a8656e#8"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=7&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">das streikfestival</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">18</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 10, 2003 5:16 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=7&amp;sid=b383f9ded86a758877fdbea6d1a8656e#7"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=6&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">spiegel.de</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">11</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 10, 2003 5:14 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=6&amp;sid=b383f9ded86a758877fdbea6d1a8656e#6"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=5&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">gesetzeskonform?</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">10</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 10, 2003 5:08 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=5&amp;sid=b383f9ded86a758877fdbea6d1a8656e#5"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=3&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">was gibts als alternativen?</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">9</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 10, 2003 2:42 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=3&amp;sid=b383f9ded86a758877fdbea6d1a8656e#3"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="forumlink">streik!</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=2&amp;highlight=&amp;sid=b383f9ded86a758877fdbea6d1a8656e" class="topictitle">der warnstreik</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">13</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 10, 2003 2:28 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e">alo</a> <a href="viewtopic.php?p=2&amp;sid=b383f9ded86a758877fdbea6d1a8656e#2"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="catBottom" colspan="7" height="28" valign="middle">&nbsp; </td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+  <tr>
+	<td align="left" valign="top"><span class="nav">Page <b>1</b> of <b>1</b></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="nav"></span><br /><span class="gensmall">All times are GMT</span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td valign="top" align="right">
+<form method="get" name="jumpbox" action="viewforum.php?sid=b383f9ded86a758877fdbea6d1a8656e" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">protest</option><option value="-1">----------------</option><option value="1">streik!</option><option value="-1">&nbsp;</option><option value="-1">studium</option><option value="-1">----------------</option><option value="4">vorlesungen, seminare, ...</option><option value="5">hausaufgaben, übungszettel</option><option value="6">klausuren</option><option value="8">praktikum</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="7">offtopic</option></select><input type="hidden" name="sid" value="b383f9ded86a758877fdbea6d1a8656e" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+</td>
+  </tr>
+</table>
+
+<br />
+<div align="center"><span class="copyright"><br /><br />
+smartBlue Style &copy; 2002 <a href="http://smartor.is-root.com" target="_blank" class="copyright">Smartor</a><br />
+Powered by <a href="http://www.phpbb.com/" target="_blank" class="copyright">phpBB</a> 2.0.6 &copy; 2001, 2002 phpBB Group<br />&nbsp;&nbsp;patched by a.dahl<br>
+<script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript">
+<!--
+  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);
+// -->
+</script>
+</span>
+</div>
+</td></tr>
+</table>
+</body>
+</html>

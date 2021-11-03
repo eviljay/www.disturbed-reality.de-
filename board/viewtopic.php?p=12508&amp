@@ -1,0 +1,1226 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<title>::board.bist-du-bloe.de:: :: Thema anzeigen - board.bist-du-bloe.de relaunch</title>
+<link rel="stylesheet" href="templates/smartDark/smartDark.css" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0">
+
+<a name="top"></a>
+
+<table width="97%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/logo_phpBB.gif" alt="::board.bist-du-bloe.de::" border="0"></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">::board.bist-du-bloe.de::</span><br /><span class="gen">'leap your head up high and pull your brains out'<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="faq.php?sid=561b13bfa7034459a7929ed0e1e53ee6" class="mainmenu">FAQ</a></span><span class="mainmenu"> :: <a href="search.php?sid=561b13bfa7034459a7929ed0e1e53ee6" class="mainmenu">Suchen</a> :: <a href="memberlist.php?sid=561b13bfa7034459a7929ed0e1e53ee6" class="mainmenu">Mitgliederliste</a> :: <a href="groupcp.php?sid=561b13bfa7034459a7929ed0e1e53ee6" class="mainmenu">Benutzergruppen</a>
+						:: <a href="profile.php?mode=register&amp;sid=561b13bfa7034459a7929ed0e1e53ee6" class="mainmenu">Registrieren</a></span>
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="profile.php?mode=editprofile&amp;sid=561b13bfa7034459a7929ed0e1e53ee6" class="mainmenu">Profil</a> :: <a href="privmsg.php?folder=inbox&amp;sid=561b13bfa7034459a7929ed0e1e53ee6" class="mainmenu">Einloggen, um private Nachrichten zu lesen</a> :: <a href="login.php?sid=561b13bfa7034459a7929ed0e1e53ee6" class="mainmenu">Login</a></span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+		<br />
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=914&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=561b13bfa7034459a7929ed0e1e53ee6">board.bist-du-bloe.de relaunch</a><br />
+	  <span class="gensmall"><b></b><br />
+	  &nbsp; </span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=42&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/post.gif" border="0" alt="Neues Thema eröffnen" align="middle" /></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=914&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/reply.gif" border="0" alt="Neue Antwort erstellen" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=561b13bfa7034459a7929ed0e1e53ee6" class="nav">::board.bist-du-bloe.de:: Foren-Übersicht</a>
+	  -> <a href="viewforum.php?f=42&amp;sid=561b13bfa7034459a7929ed0e1e53ee6" class="nav">updates</a></span></td>
+  </tr>
+</table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tr align="right">
+		<td class="catHead" colspan="2" height="28"><span class="nav"><a href="viewtopic.php?t=914&amp;view=previous&amp;sid=561b13bfa7034459a7929ed0e1e53ee6" class="nav">Vorheriges Thema anzeigen</a> :: <a href="viewtopic.php?t=914&amp;view=next&amp;sid=561b13bfa7034459a7929ed0e1e53ee6" class="nav">Nächstes Thema anzeigen</a> &nbsp;</span></td>
+	</tr>
+	
+<tr>
+  <td class="row2" colspan="2"><br clear="all" />
+	<table cellspacing="0" cellpadding="4" border="0" align="center">
+	  <tr>
+		<td colspan="4" align="center"><span class="gen"><b>was haltet ihr vom neuen board?</b></span></td>
+	  </tr>
+	  <tr>
+		<td align="center">
+		  <table cellspacing="0" cellpadding="2" border="0">
+			<tr>
+			  <td><span class="gen">pfui! alles scheiße, dumm, außerdem stinkt ihr</span></td>
+			  <td>
+				<table cellspacing="0" cellpadding="0" border="0">
+				  <tr>
+					<td><img src="templates/smartDark/images/vote_lcap.gif" width="4" alt="" height="12" /></td>
+					<td><img src="templates/smartDark/images/voting_bar.gif" width="0" height="12" alt="0%" /></td>
+					<td><img src="templates/smartDark/images/vote_rcap.gif" width="4" alt="" height="12" /></td>
+				  </tr>
+				</table>
+			  </td>
+			  <td align="center"><b><span class="gen">&nbsp;0%&nbsp;</span></b></td>
+			  <td align="center"><span class="gen">[ 0 ]</span></td>
+			</tr>
+			<tr>
+			  <td><span class="gen">hammergeil</span></td>
+			  <td>
+				<table cellspacing="0" cellpadding="0" border="0">
+				  <tr>
+					<td><img src="templates/smartDark/images/vote_lcap.gif" width="4" alt="" height="12" /></td>
+					<td><img src="templates/smartDark/images/voting_bar.gif" width="120" height="12" alt="58%" /></td>
+					<td><img src="templates/smartDark/images/vote_rcap.gif" width="4" alt="" height="12" /></td>
+				  </tr>
+				</table>
+			  </td>
+			  <td align="center"><b><span class="gen">&nbsp;58%&nbsp;</span></b></td>
+			  <td align="center"><span class="gen">[ 7 ]</span></td>
+			</tr>
+			<tr>
+			  <td><span class="gen">das alte hatte mehr persönlichkeit</span></td>
+			  <td>
+				<table cellspacing="0" cellpadding="0" border="0">
+				  <tr>
+					<td><img src="templates/smartDark/images/vote_lcap.gif" width="4" alt="" height="12" /></td>
+					<td><img src="templates/smartDark/images/voting_bar.gif" width="17" height="12" alt="8%" /></td>
+					<td><img src="templates/smartDark/images/vote_rcap.gif" width="4" alt="" height="12" /></td>
+				  </tr>
+				</table>
+			  </td>
+			  <td align="center"><b><span class="gen">&nbsp;8%&nbsp;</span></b></td>
+			  <td align="center"><span class="gen">[ 1 ]</span></td>
+			</tr>
+			<tr>
+			  <td><span class="gen">ich bin zum ersten mal hier</span></td>
+			  <td>
+				<table cellspacing="0" cellpadding="0" border="0">
+				  <tr>
+					<td><img src="templates/smartDark/images/vote_lcap.gif" width="4" alt="" height="12" /></td>
+					<td><img src="templates/smartDark/images/voting_bar.gif" width="0" height="12" alt="0%" /></td>
+					<td><img src="templates/smartDark/images/vote_rcap.gif" width="4" alt="" height="12" /></td>
+				  </tr>
+				</table>
+			  </td>
+			  <td align="center"><b><span class="gen">&nbsp;0%&nbsp;</span></b></td>
+			  <td align="center"><span class="gen">[ 0 ]</span></td>
+			</tr>
+			<tr>
+			  <td><span class="gen">alo ich will ein kind von dir</span></td>
+			  <td>
+				<table cellspacing="0" cellpadding="0" border="0">
+				  <tr>
+					<td><img src="templates/smartDark/images/vote_lcap.gif" width="4" alt="" height="12" /></td>
+					<td><img src="templates/smartDark/images/voting_bar.gif" width="51" height="12" alt="25%" /></td>
+					<td><img src="templates/smartDark/images/vote_rcap.gif" width="4" alt="" height="12" /></td>
+				  </tr>
+				</table>
+			  </td>
+			  <td align="center"><b><span class="gen">&nbsp;25%&nbsp;</span></b></td>
+			  <td align="center"><span class="gen">[ 3 ]</span></td>
+			</tr>
+			<tr>
+			  <td><span class="gen">was ist ein board?</span></td>
+			  <td>
+				<table cellspacing="0" cellpadding="0" border="0">
+				  <tr>
+					<td><img src="templates/smartDark/images/vote_lcap.gif" width="4" alt="" height="12" /></td>
+					<td><img src="templates/smartDark/images/voting_bar.gif" width="0" height="12" alt="0%" /></td>
+					<td><img src="templates/smartDark/images/vote_rcap.gif" width="4" alt="" height="12" /></td>
+				  </tr>
+				</table>
+			  </td>
+			  <td align="center"><b><span class="gen">&nbsp;0%&nbsp;</span></b></td>
+			  <td align="center"><span class="gen">[ 0 ]</span></td>
+			</tr>
+			<tr>
+			  <td><span class="gen">keine ahnung, mal schauen</span></td>
+			  <td>
+				<table cellspacing="0" cellpadding="0" border="0">
+				  <tr>
+					<td><img src="templates/smartDark/images/vote_lcap.gif" width="4" alt="" height="12" /></td>
+					<td><img src="templates/smartDark/images/voting_bar.gif" width="17" height="12" alt="8%" /></td>
+					<td><img src="templates/smartDark/images/vote_rcap.gif" width="4" alt="" height="12" /></td>
+				  </tr>
+				</table>
+			  </td>
+			  <td align="center"><b><span class="gen">&nbsp;8%&nbsp;</span></b></td>
+			  <td align="center"><span class="gen">[ 1 ]</span></td>
+			</tr>
+		  </table>
+		</td>
+	  </tr>
+	  <tr>
+		<td colspan="4" align="center"><span class="gen"><b>Stimmen insgesamt : 12</b></span></td>
+	  </tr>
+	</table>
+	<br clear="all" />
+  </td>
+</tr>
+
+
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap="nowrap">Autor</th>
+		<th class="thRight" nowrap="nowrap">Nachricht</th>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="10818"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2651<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10818&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10818"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Jan 07, 2003 5:51 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: board.bist-du-bloe.de relaunch</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10818&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">nach einigen ankündigungen ist es da! 
+<br />
+das board mit neuer unterlage udn einem schnelleren und stabileren, und ganz nebenbei noch mächtigerem forensystem!
+<br />
+
+<br />
+alle komentare hierzu sind erwünscht...<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="10823"></a><b>Refu</b></span><br /><span class="postdetails">ursurpator<br /><img src="images/avatars/20587054514266a83a9dcef.jpg" alt="" border="0" /><br /><br />Anmeldungsdatum: 11.03.2002<br />Beiträge: 3971<br />Wohnort: Hannover</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10823&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10823"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Jan 07, 2003 8:13 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10823&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Ist besser, schneller und sexier als das "alte" Forum. Thx hierfür *sabber*</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=9&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:webmaster@rottenarmy.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.rottenarmy.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=60423243"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=60423243"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/60423243#pager"><img src="http://web.icq.com/whitepages/online?icq=60423243&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=60423243"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="10824"></a><b>GoreMetal</b></span><br /><span class="postdetails">fleischwurstfachverkäufer<br /><img src="images/avatars/d9e531bb3e6c70c1b42ef.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 05.11.2002<br />Beiträge: 148<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10824&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10824"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Jan 07, 2003 8:17 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10824&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Jau phpboard ruled wie sau <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" />)</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=216&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=216&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:pathologist666@web.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.thepathologist.net" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=169358350"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=169358350"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/169358350#pager"><img src="http://web.icq.com/whitepages/online?icq=169358350&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=169358350"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="10826"></a><b>splatteralex</b></span><br /><span class="postdetails">ursurpator<br /><img src="images/avatars/12881087614243e2efdee2a.jpg" alt="" border="0" /><br /><br />Anmeldungsdatum: 11.03.2002<br />Beiträge: 7875<br />Wohnort: Paderborn</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10826&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10826"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Jan 07, 2003 8:28 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10826&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Jo, ALÖÖÖ hast DU gut gemacht.  <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=8&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>  <a href="http://www.splatter-movies.com" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=101354460"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=101354460"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/101354460#pager"><img src="http://web.icq.com/whitepages/online?icq=101354460&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=101354460"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="10830"></a><b>some_kinda_hate</b></span><br /><span class="postdetails">Lieblingstroll<br /><img src="images/avatars/troll.gif" alt="Lieblingstroll" title="Lieblingstroll" border="0" /><br /><br /><br />Anmeldungsdatum: 02.05.2002<br />Beiträge: 577<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10830&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10830"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Jan 07, 2003 9:36 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10830&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Moin Moin <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />
+<br />
+
+<br />
+nach einer message von Alex hatte ich mir vorgenommen das board doch mal wieder zu besuchen lol... ich muss sagen das design ist vom Feinsten  <img src="images/smiles/icon_cool.gif" alt="Cool" border="0" />  .. eigentlich wollte ich ja nicht mehr posten, da ein paar dümmliche Spacken meinten sie müssten mich nötigen.. obwohl ich nur behilflich sein wollte <img src="images/smiles/icon_razz.gif" alt="Razz" border="0" />
+<br />
+
+<br />
+nunja scheiss drauf, da das neue board echt gelungen zu sein scheint und ich auch wieder mehr Zeit habe, werde ich mal wieder ein bischn posten <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />
+<br />
+
+<br />
+some kinda hate is back !  <img src="images/smiles/icon_cool.gif" alt="Cool" border="0" /> 
+<br />
+ we're all on the road to hell and that's route 666 !!!!</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=77&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=77&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="10832"></a><b>some_kinda_hate</b></span><br /><span class="postdetails">Lieblingstroll<br /><img src="images/avatars/troll.gif" alt="Lieblingstroll" title="Lieblingstroll" border="0" /><br /><br /><br />Anmeldungsdatum: 02.05.2002<br />Beiträge: 577<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10832&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10832"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Jan 07, 2003 9:41 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10832&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"><img src="images/smiles/icon_cool.gif" alt="Cool" border="0" /></span><span class="gensmall"><br /><br />Zuletzt bearbeitet von some_kinda_hate am Di Jan 07, 2003 9:42 pm, insgesamt ein Mal bearbeitet</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=77&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=77&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="10848"></a><b>BurnedEyez</b></span><br /><span class="postdetails">perverser opa<br /><img src="images/avatars/6374490034281c43f14d0e.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 24.07.2002<br />Beiträge: 1432<br />Wohnort: Goslar/ Liebenburg</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10848&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10848"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Jan 07, 2003 10:11 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10848&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Jepp, passt schon</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=126&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=126&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>  <a href="http://www.platzverweis.de.tc" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=106957963"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=106957963"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/106957963#pager"><img src="http://web.icq.com/whitepages/online?icq=106957963&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=106957963"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="10862"></a><b>Gast</b></span><br /><span class="postdetails"><br /><br /><br /><br /><br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10862&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10862"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Jan 07, 2003 11:55 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10862&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Jo,das Board ist echt super,geht ganz gut ab <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" /> 
+<br />
+
+<br />
+@Some_Kinda_Hate
+<br />
+
+<br />
+Hi,Some,total cool das du wieder da bist <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> 
+<br />
+Bitte,Bitte bleib auch und poste wieder viel wie früher <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> 
+<br />
+Dann bin ich endlich net mehr so alleine hier als VHS Freak
+<br />
+(die stehen ja alle nur noch auf den Silberling <img src="images/smiles/icon_cry.gif" alt="Crying or Very sad" border="0" /> 
+<br />
+Dann ist es natürlich cool wenn es noch welche wie mich gibt 
+<br />
+die alte geile VHS Filmchen verehren <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /> 
+<br />
+
+<br />
+Mit Gorigen Grüßen an Some und alle anderen aber auch <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" /> 
+<br />
+                                   SASCHA</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap">      <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="10863"></a><b>Gast</b></span><br /><span class="postdetails"><br /><br /><br /><br /><br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10863&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10863"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Jan 07, 2003 11:56 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10863&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Jo,das Board ist echt super,geht ganz gut ab <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" /> 
+<br />
+
+<br />
+@Some_Kinda_Hate
+<br />
+
+<br />
+Hi,Some,total cool das du wieder da bist <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> 
+<br />
+Bitte,Bitte bleib auch und poste wieder viel wie früher <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> 
+<br />
+Dann bin ich endlich net mehr so alleine hier als VHS Freak
+<br />
+(die stehen ja alle nur noch auf den Silberling <img src="images/smiles/icon_cry.gif" alt="Crying or Very sad" border="0" /> 
+<br />
+Dann ist es natürlich cool wenn es noch welche wie mich gibt 
+<br />
+die alte geile VHS Filmchen verehren <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /> 
+<br />
+
+<br />
+Mit Gorigen Grüßen an Some und alle anderen aber auch <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" /> 
+<br />
+                                   SASCHA
+<br />
+(Satan-Sascha)</span><span class="gensmall"><br /><br />Zuletzt bearbeitet von Gast am Mi Jan 08, 2003 12:09 am, insgesamt ein Mal bearbeitet</span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap">      <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="10868"></a><b>Biermaecht</b></span><br /><span class="postdetails">schweinehirte<br /><br /><br />Anmeldungsdatum: 12.10.2002<br />Beiträge: 456<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10868&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10868"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mi Jan 08, 2003 11:11 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10868&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Boah alles ganz neu, da ist man mal ein Tag nicht da, schon ist alles ganz anders.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=196&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=196&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:Biermaecht@aol.com"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>    <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="10878"></a><b>Lionel</b></span><br /><span class="postdetails">angehender mitbewohner<br /><img src="images/avatars/up_0000000174.jpg" alt="" border="0" /><br /><br />Anmeldungsdatum: 18.09.2002<br />Beiträge: 38<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10878&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10878"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mi Jan 08, 2003 3:30 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10878&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">phpBB is ja schön und gut.
+<br />
+
+<br />
+ist auch schön dass es schnell ist, aber ehrlich gesagt ist für meinen geschmack sämtliche übersicht verloren gegangen.
+<br />
+
+<br />
+ich hoffe mal, dass alo das nicht so lassen will, sondern dass es erstmal nur übergangsweise so ist.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=174&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=174&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="10880"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2651<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10880&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10880"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mi Jan 08, 2003 4:37 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10880&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">in der pipeline hängen zz ein neues design und einige mods zur  besseren übersicht. aber alles noch net wirklich grün  <img src="images/smiles/icon_mrgreen.gif" alt="Mr. Green" border="0" /><br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="10889"></a><b>Gast</b></span><br /><span class="postdetails"><br /><br /><br /><br /><br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10889&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10889"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mi Jan 08, 2003 6:38 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10889&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Ich habe gestern echt nen Schreck bekommen,wollte hier ins Forum und was is nicht mehr da!  <img src="images/smiles/icon_eek.gif" alt="Shocked" border="0" />  aber jetzt bin ich wieder beruhigt.
+<br />
+Is echt super geworden,gefällt mir sehr.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap">      <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="10891"></a><b>some_kinda_hate</b></span><br /><span class="postdetails">Lieblingstroll<br /><img src="images/avatars/troll.gif" alt="Lieblingstroll" title="Lieblingstroll" border="0" /><br /><br /><br />Anmeldungsdatum: 02.05.2002<br />Beiträge: 577<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10891&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10891"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mi Jan 08, 2003 6:47 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10891&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">joa thx @ Sascha <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" />
+<br />
+
+<br />
+hmm n paar bugs sind noch drinne z.B Sascha ist nur noch quest (sofern das nicht an ihm liegt) und manche sigs werden hier doppelt angezeigt.
+<br />
+Und wenn ich ne message hinzufüge leuchtet error auf aber die message ist trotzdem gepostet worden. Desweiteren wäre es schön wenn diese Sterne unter dem user name wieder auftauschen. Die hatten mich nämlich immer so angeheitz <img src="images/smiles/icon_mrgreen.gif" alt="Mr. Green" border="0" />  .... hmm lustig wäre es auch wenn wir unsere alten smileys wieder hätten die rulten alles *rofl* nunja sonst hätte ich bisher nix zu meckern <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=77&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=77&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="10893"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2651<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10893&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10893"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mi Jan 08, 2003 6:53 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10893&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">wenn ihr smilies haben wollt, kann ich jetzt alle die ihr mir an <a href="mailto:alo@disturbed-reality.de">alo@disturbed-reality.de</a> schickt hier einbauen<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="10895"></a><b>some_kinda_hate</b></span><br /><span class="postdetails">Lieblingstroll<br /><img src="images/avatars/troll.gif" alt="Lieblingstroll" title="Lieblingstroll" border="0" /><br /><br /><br />Anmeldungsdatum: 02.05.2002<br />Beiträge: 577<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10895&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10895"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mi Jan 08, 2003 7:15 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10895&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">ä nunja woher hattest du denn die smileys vom Anfang ? BESONDERS DIE Kiffersmileys rulten alles <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=77&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=77&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="10896"></a><b>pumpkinhead</b></span><br /><span class="postdetails">bauerntölpel<br /><img src="images/avatars/1633362757412253fdc9f07.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 22.10.2002<br />Beiträge: 576<br />Wohnort: Goslar</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10896&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10896"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mi Jan 08, 2003 7:27 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10896&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Anonymous hat folgendes geschrieben::</b></span></td>	</tr>	<tr>	  <td class="quote">Ich habe gestern echt nen Schreck bekommen,wollte hier ins Forum und was is nicht mehr da!  <img src="images/smiles/icon_eek.gif" alt="Shocked" border="0" />  aber jetzt bin ich wieder beruhigt.
+<br />
+Is echt super geworden,gefällt mir sehr.</td>	</tr></table><span class="postbody">
+<br />
+(pumpkinhead)</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=204&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=204&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:pumpkin8@freenet.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>    <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="10966"></a><b>Satan-Sascha</b></span><br /><span class="postdetails">perverser opa<br /><img src="http://images.google.de/images?q=tbn:eYU3i5AHwH4C:www.dvdfile.com/software/status_report/images/begi" alt="" border="0" /><br /><br />Anmeldungsdatum: 12.03.2002<br />Beiträge: 1462<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=10966&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#10966"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Fr Jan 10, 2003 9:17 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=10966&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>some_kinda_hate hat folgendes geschrieben::</b></span></td>	</tr>	<tr>	  <td class="quote">joa thx @ Sascha <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" />
+<br />
+
+<br />
+hmm n paar bugs sind noch drinne z.B Sascha ist nur noch quest (sofern das nicht an ihm liegt) und manche sigs werden hier doppelt angezeigt.
+<br />
+Und wenn ich ne message hinzufüge leuchtet error auf aber die message ist trotzdem gepostet worden</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+
+<br />
+Ich war als Gast am anfang da ich irgendwie als net einlogen konnte
+<br />
+aber auf ein mal geht es jetzt doch,gottseidank es geht endlich.
+<br />
+Jo,das mit den Doppelten Sigs ist echt blöd oder erst recht das error
+<br />
+manchmal aufleuchtet obwohl der Post geklappt hat,
+<br />
+ich habe dadurch schon 2 oder 3 mal doppelt gepostet.
+<br />
+Die alten Smilies fand ich auch ne ecke cooler,
+<br />
+hab mich richtig an die alten gewöhnt,mann kann ja die alten und die neuen ins Forum reinmachen so kann sich jeder selbst endscheiden
+<br />
+welche ihnen am besten gefallen.
+<br />
+Und das alte war meiner Meinung nach irgendwie übersichtiger
+<br />
+(vielleicht liegts an den Englischen oder so,weis auch net genau)
+<br />
+
+<br />
+Wenn die paar probleme (und allzu große Probleme sind es ja nu nicht)
+<br />
+geändert/verbessert worden sind da ist das ein prima Forum.
+<br />
+Ich denke mal das das alo schon hinbekommen wird  <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />_________________<br /><img src="http://www.rocknord.de/shop/images/Aufkleber-IanStuart.gif" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=16&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=16&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=171582585"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=171582585"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/171582585#pager"><img src="http://web.icq.com/whitepages/online?icq=171582585&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=171582585"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="11869"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2651<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=11869&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#11869"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Feb 01, 2003 12:25 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11869&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">die neuen smilies... und es gibt neue rankings..schaut einafch mal unetr euren namen   
+<br />
+
+<br />
+<img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" />  <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" />  <img src="images/smiles/icon_sad.gif" alt="Sad" border="0" />  <img src="images/smiles/icon_surprised.gif" alt="Surprised" border="0" />  <img src="images/smiles/icon_eek.gif" alt="Shocked" border="0" />  <img src="images/smiles/icon_confused.gif" alt="Confused" border="0" />  <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" />  <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />  <img src="images/smiles/icon_rolleyes.gif" alt="Rolling Eyes" border="0" />  <img src="images/smiles/icon_twisted.gif" alt="Twisted Evil" border="0" />  <img src="images/smiles/icon_evil.gif" alt="Evil or Very Mad" border="0" />  <img src="images/smiles/icon_cry.gif" alt="Crying or Very sad" border="0" />  <img src="images/smiles/icon_redface.gif" alt="Embarassed" border="0" />  <img src="images/smiles/icon_razz.gif" alt="Razz" border="0" />  <img src="images/smiles/icon_mad.gif" alt="Mad" border="0" />  <img src="images/smiles/icon_exclaim.gif" alt="Exclamation" border="0" />  <img src="images/smiles/icon_question.gif" alt="Question" border="0" />  <img src="images/smiles/icon_idea.gif" alt="Idea" border="0" />  <img src="images/smiles/icon_arrow.gif" alt="Arrow" border="0" />  <img src="images/smiles/icon_neutral.gif" alt="Neutral" border="0" />  <img src="images/smiles/icon_mrgreen.gif" alt="Mr. Green" border="0" />  <img src="images/smiles/alo_greenhole.gif" alt="" border="0" />  <img src="images/smiles/alo_ban.gif" alt="ban" border="0" />  :google:  <img src="images/smiles/alo_flatsch.gif" alt="flatsch" border="0" />  <img src="images/smiles/alo_flamer.gif" alt="flamer" border="0" />  <img src="images/smiles/alo_drink.gif" alt="drink" border="0" />  <img src="images/smiles/alo_daumenhoch.gif" alt="daumenhoch" border="0" />  <img src="images/smiles/alo_bounce.gif" alt="bounce" border="0" />  <img src="images/smiles/alo_blumenkind.gif" alt="blumenkind" border="0" />  <img src="images/smiles/alo_birthday.gif" alt="birthday" border="0" />  <img src="images/smiles/alo_grim.gif" alt="grim" border="0" />  <img src="images/smiles/1_hasi.gif" alt="" border="0" />  <img src="images/smiles/alo_hm.gif" alt="hm" border="0" />  <img src="images/smiles/alo_iamwithstupid.gif" alt="iamwithstupid" border="0" />  <img src="images/smiles/alo_imo.gif" alt="imo" border="0" />  :itchy:  <img src="images/smiles/alo_kiffer.gif" alt="kiffer" border="0" />  <img src="images/smiles/alo_millhouse.gif" alt="millhouse" border="0" />  <img src="images/smiles/alo_vampv.gif" alt="vampv" border="0" />  <img src="images/smiles/alo_urrg.gif" alt="urrg" border="0" />  <img src="images/smiles/alo_ttidead.gif" alt="ttidead" border="0" />  <img src="images/smiles/alo_teletunte.gif" alt="teletunte" border="0" />  <img src="images/smiles/alo_taz.gif" alt="taz" border="0" />  <img src="images/smiles/alo_strohpuppe.gif" alt="strohpuppe" border="0" />  <img src="images/smiles/alo_stfu.gif" alt="stfu" border="0" />  <img src="images/smiles/alo_soon.gif" alt="soon" border="0" />  <img src="images/smiles/alo_wall.gif" alt="wall" border="0" />  <img src="images/smiles/alo_wazzup_sg.gif" alt="wazzup_sg" border="0" />  <img src="images/smiles/alo_wtf.gif" alt="wtf" border="0" />  :xxx:<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="11874"></a><b>black-widow</b></span><br /><span class="postdetails">gameboyspieler<br /><img src="images/avatars/509152713e804d2da70ad.jpg" alt="" border="0" /><br /><br />Anmeldungsdatum: 26.12.2002<br />Beiträge: 238<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=11874&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#11874"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Feb 01, 2003 1:58 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11874&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">fand das Board am Anfang verwirrend! Aber inzwischen nach ner Weile, ist es mächtig gut! Dickes Lob an ALO!<br />_________________<br />leben und sterben lassen
+<br />
+<img src="http://www.thepathologist.net/images/linkbanner/anipatho.gif" border="0" />
+<br />
+                    <a href="http://www.thepathologist.net" target="_blank">www.thepathologist.net</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=278&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=278&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>  <a href="http://www.thepathologist.net" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=227149468"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=227149468"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/227149468#pager"><img src="http://web.icq.com/whitepages/online?icq=227149468&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=227149468"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="11875"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2651<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=11875&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#11875"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Feb 01, 2003 2:31 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11875&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">danke... arbeite zz an einem global announcement, hab aber etwas zeitmangel wegen uni  <img src="images/smiles/icon_sad.gif" alt="Sad" border="0" /><br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="11882"></a><b>Piedings</b></span><br /><span class="postdetails">fleischwurstfachverkäufer<br /><img src="images/avatars/d9e001a83f098b8e47424.jpg" alt="" border="0" /><br /><br />Anmeldungsdatum: 24.09.2002<br />Beiträge: 199<br />Wohnort: Franken!!!</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=11882&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#11882"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Feb 01, 2003 3:54 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11882&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">also ich musste mich erst daran gewöhnen aber ich finds etz auch besser<br />_________________<br />"I cut you fucking head off!" Revenge of The Zombi (Six feet under)
+<br />
+"Fuck Me Jesus" Marduk</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=180&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=180&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:fichtenelch00@gmx.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>    <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="11887"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2651<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=11887&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#11887"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Feb 01, 2003 6:13 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11887&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">uni am arsch! heir ist das global announcement<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="11958"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2651<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=11958&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#11958"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: So Feb 02, 2003 6:46 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=11958&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">auf vielfachen wunsch einer einzelnen dame ist jetzt auch das who is online feature ausgebaut worden: ganz unten wenn ihr sehrt wert online ist könnt ihr auf die überschrift klicken und kommt zu eienmr seite wo ihr sehr wer gerade was liesst....<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="12508"></a><b>Satan-Sascha</b></span><br /><span class="postdetails">perverser opa<br /><img src="http://images.google.de/images?q=tbn:eYU3i5AHwH4C:www.dvdfile.com/software/status_report/images/begi" alt="" border="0" /><br /><br />Anmeldungsdatum: 12.03.2002<br />Beiträge: 1462<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=12508&amp;sid=561b13bfa7034459a7929ed0e1e53ee6#12508"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mo Feb 17, 2003 2:59 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=12508&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Alo,Ein Dickes Lob <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />
+<br />
+Mittlerweile ist das Board richtig cool <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /> 
+<br />
+Bei bist-du-bloe.de die erneuerung ist auch super cool <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />_________________<br /><img src="http://www.rocknord.de/shop/images/Aufkleber-IanStuart.gif" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=16&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=16&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=171582585"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=171582585"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/171582585#pager"><img src="http://web.icq.com/whitepages/online?icq=171582585&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=171582585"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tr><form method="post" action="viewtopic.php?t=914&amp;start=0&amp;sid=561b13bfa7034459a7929ed0e1e53ee6">
+				<td align="center"><span class="gensmall">Beiträge vom vorherigen Thema anzeigen: <select name="postdays"><option value="0" selected="selected">Alle Beiträge</option><option value="1">1 Tag</option><option value="7">7 Tage</option><option value="14">2 Wochen</option><option value="30">1 Monat</option><option value="90">3 Monate</option><option value="180">6 Monate</option><option value="364">1 Jahr</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Die ältesten zuerst</option><option value="desc">Die neusten zuerst</option></select>&nbsp;<input type="submit" value="Go" class="liteoption" name="submit" /></span></td>
+			</form></tr>
+		</table></td>
+	</tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=42&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/post.gif" border="0" alt="Neues Thema eröffnen" align="middle" /></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=914&amp;sid=561b13bfa7034459a7929ed0e1e53ee6"><img src="templates/smartDark/images/lang_english/reply.gif" border="0" alt="Neue Antwort erstellen" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=561b13bfa7034459a7929ed0e1e53ee6" class="nav">::board.bist-du-bloe.de:: Foren-Übersicht</a>
+	  -> <a href="viewforum.php?f=42&amp;sid=561b13bfa7034459a7929ed0e1e53ee6" class="nav">updates</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">Alle Zeiten sind GMT + 2 Stunden</span><br /><span class="nav"></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Seite <b>1</b> von <b>1</b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"><span class="gensmall"></span><br />
+	  &nbsp;<br />
+	  </td>
+	<td align="right" valign="top" nowrap="nowrap">
+<form method="get" name="jumpbox" action="viewforum.php?sid=561b13bfa7034459a7929ed0e1e53ee6" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Gehe zu:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42"selected="selected">updates</option><option value="21">der brotkorb</option><option value="17">support-board</option><option value="18">verbesserungen&wünsche</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">*brainfuck</option><option value="41">bolzplatz</option><option value="25">lustiges aus dem netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">allgemein</option><option value="28">splatter&horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">hollywood</option><option value="19">schnittberichte&zensur</option><option value="34">amateur filme & börsen</option><option value="31">...im TV</option><option value="33">...und die passende musik</option><option value="32">gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">shop</option><option value="-1">----------------</option><option value="23">zu verkaufen</option><option value="24">suche</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">hard/software/technik</option><option value="-1">----------------</option><option value="27">allgemein</option><option value="36">windows/linux/OS/2/... betriebssysteme</option><option value="37">internet und alles was dranhängt</option><option value="38">games</option><option value="39">ps/2 & konsolen</option><option value="-1">&nbsp;</option><option value="-1">off topic</option><option value="-1">----------------</option><option value="26">sunshine-bar</option><option value="45">politik</option><option value="-1">&nbsp;</option><option value="-1">zelltruemmer</option><option value="-1">----------------</option><option value="49">Enjoy</option><option value="50">Sinn</option><option value="51">Brechen</option><option value="52">Online RPG</option></select><input type="hidden" name="sid" value="561b13bfa7034459a7929ed0e1e53ee6" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+<span class="gensmall">Du <b>kannst keine</b> Beiträge in dieses Forum schreiben.<br />Du <b>kannst</b> auf Beiträge in diesem Forum <b>nicht</b> antworten.<br />Du <b>kannst</b> deine Beiträge in diesem Forum <b>nicht</b> bearbeiten.<br />Du <b>kannst</b> deine Beiträge in diesem Forum <b>nicht</b> löschen.<br />Du <b>kannst</b> an Umfragen in diesem Forum <b>nicht</b> mitmachen.<br /></span></td>
+  </tr>
+</table>
+
+<br /><div align="center"><span class="copyright"><br /><br />smartBlue Style &copy; 2002 <a href="http://smartor.is-root.com" target="_blank" class="copyright">Smartor</a><br />Powered by <a href="http://www.phpbb.com/" target="_blank" class="copyright">phpBB</a>  &copy; 2001, 2002 phpBB Group<br />&nbsp;&nbsp;patched by a.dahl<br><!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><!-- End of Netstat Code -->
+<!-- alo counter block --></span></div></td></tr></table></body></html>

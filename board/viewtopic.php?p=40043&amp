@@ -1,0 +1,908 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<title>::board.bist-du-bloe.de:: :: Thema anzeigen - der lange und schmerzhafte weg zu debian</title>
+<link rel="stylesheet" href="templates/smartDark/smartDark.css" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0">
+
+<a name="top"></a>
+
+<table width="97%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/logo_phpBB.gif" alt="::board.bist-du-bloe.de::" border="0"></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">::board.bist-du-bloe.de::</span><br /><span class="gen">'leap your head up high and pull your brains out'<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="faq.php?sid=8030ddb7531ff2db60b55c1a09b26462" class="mainmenu">FAQ</a></span><span class="mainmenu"> :: <a href="search.php?sid=8030ddb7531ff2db60b55c1a09b26462" class="mainmenu">Suchen</a> :: <a href="memberlist.php?sid=8030ddb7531ff2db60b55c1a09b26462" class="mainmenu">Mitgliederliste</a> :: <a href="groupcp.php?sid=8030ddb7531ff2db60b55c1a09b26462" class="mainmenu">Benutzergruppen</a>
+						:: <a href="profile.php?mode=register&amp;sid=8030ddb7531ff2db60b55c1a09b26462" class="mainmenu">Registrieren</a></span>
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="profile.php?mode=editprofile&amp;sid=8030ddb7531ff2db60b55c1a09b26462" class="mainmenu">Profil</a> :: <a href="privmsg.php?folder=inbox&amp;sid=8030ddb7531ff2db60b55c1a09b26462" class="mainmenu">Einloggen, um private Nachrichten zu lesen</a> :: <a href="login.php?sid=8030ddb7531ff2db60b55c1a09b26462" class="mainmenu">Login</a></span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+		<br />
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=3408&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=8030ddb7531ff2db60b55c1a09b26462">der lange und schmerzhafte weg zu debian</a><br />
+	  <span class="gensmall"><b></b><br />
+	  &nbsp; </span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=36&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/post.gif" border="0" alt="Neues Thema eröffnen" align="middle" /></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=3408&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/reply.gif" border="0" alt="Neue Antwort erstellen" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=8030ddb7531ff2db60b55c1a09b26462" class="nav">::board.bist-du-bloe.de:: Foren-Übersicht</a>
+	  -> <a href="viewforum.php?f=36&amp;sid=8030ddb7531ff2db60b55c1a09b26462" class="nav">windows/linux/OS/2/... betriebssysteme</a></span></td>
+  </tr>
+</table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tr align="right">
+		<td class="catHead" colspan="2" height="28"><span class="nav"><a href="viewtopic.php?t=3408&amp;view=previous&amp;sid=8030ddb7531ff2db60b55c1a09b26462" class="nav">Vorheriges Thema anzeigen</a> :: <a href="viewtopic.php?t=3408&amp;view=next&amp;sid=8030ddb7531ff2db60b55c1a09b26462" class="nav">Nächstes Thema anzeigen</a> &nbsp;</span></td>
+	</tr>
+	
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap="nowrap">Autor</th>
+		<th class="thRight" nowrap="nowrap">Nachricht</th>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="32159"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2650<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=32159&amp;sid=8030ddb7531ff2db60b55c1a09b26462#32159"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Mai 04, 2004 1:42 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: der lange und schmerzhafte weg zu debian</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=32159&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">soooo nach einigen tagen und 7 (!!!) verschiedenen distributionen habe ich nun ein debian hier am laufen. und es rockt! 
+<br />
+
+<br />
+ich hatte dann doch größere probleme als erwartet: ich hab einen shuttle (diese mini-design-pcs) wo eine sata-festplatte am einem sata-raid (sil_3512) hängt. und genau dafür gibt der hersteller nur treiber (keine open source!) für suse, united linux und redhat raus. super. seit einiger zeit steht auf der herstellerseite, dass man einen neuen kernel nehmen soll.
+<br />
+
+<br />
+nach recht langem rumsuchen hab ich herausgefunden, dass die raid-controller von sillicon image ab kernel 2.4.18 unterstütz werden sollen-nur ohne dma und damit grottenlangsam-und, der clou: alle bis auf meinen! 
+<br />
+argh. 
+<br />
+weitergesucht. mit kernel 2.4.23 kam dann die unterstützung für meinen sil_3512, aber immer ncoh kein dma.
+<br />
+hmpf. 
+<br />
+so und mit kernel 2.4.25 kam dann endlich dma für meinen controller. 
+<br />
+
+<br />
+jetzt einen passenden installer finden. 
+<br />
+
+<br />
+meine zielsetzung war einfach: ich wollte debian. (warum dazu später)
+<br />
+
+<br />
+versuch 1:
+<br />
+nur debian ist mit der freigabe neuer(stable) installer immer recht konservativ. keine unterstützung. mist
+<br />
+
+<br />
+versuch 2: 
+<br />
+der debian-installer beta3(unstable) dagegen lief aus unerfindlichen gründen bei mir nicht.(verweigerte verbindung zum router zur netzinstallation)
+<br />
+
+<br />
+also wieder nix. dann hab ich angefangen und ein debian-based system zu installieren.
+<br />
+ 
+<br />
+versuch 3: xandros 2
+<br />
+cd eingelegt, neu gebootet und rechner stürzt ab. hmpf. auch duch verschiedene boot-parameter lässt es sich nicht lösen.
+<br />
+
+<br />
+versuch 4: libranet
+<br />
+gibts in 2 versionen-2.7 kostenlos und 2.8.1 für 90$. 
+<br />
+um einen 2.4.25 kernel zu haben hab ich von der support-seite mit eine 'sustom-iso' gezogen. eingelegt-gebootet-festplatte erkannt (JUCHU!!!!) und dann verlangt er die cd1 von 2.8.1. scheisse. mit der 2.7 jegliche mitarbeit verweigert, also auch nix
+<br />
+
+<br />
+versuch 5: knoppix 3.4
+<br />
+zwar eine ich starte von cd version, aber man kann sie auf festplatte installieren. wenn sie denn erkannt worden wäre. wieder nix. scheisse alles doof.
+<br />
+
+<br />
+versuch 6:
+<br />
+da hab ich dann nochmal versucht die installations cds von debian sid(unstable) zu installieren und es ward dann doch nix-hat nix erkannt und wollte net.
+<br />
+
+<br />
+versuch 7:
+<br />
+hmmm irgendwann bin ich durch zufall auf kanotix gestossen. kann man ja mal probieren. kanotix ist eine auf knoppix(das auf debian basiert 
+<br />
+ <img src="images/smiles/icon_cool.gif" alt="Cool" border="0" /> ) basierende "live-von-CD" distribution, die auf debian sid (=unstable) basiert und "bleeding edge" ist mit allerneusten features. die neuste version "bug hunter 5" gesaugt, gebrannt und eingelegt. grub (ein boot manager) startet und ich nehme mal die boot-methode mit dma. dann wird der bildschirm schwarz und nix tut sich. toll-wieder nix
+<br />
+
+<br />
+irgendwann starte ich dann mal neu, und rein durch zufall lag die cd noch im laufwerk. ok, warum net, also probieren wir es nochmal. diesmal hab ich den eintrag "quiet" nicht angewählt um zu sehen wo er hängt. udn voila:
+<br />
+
+<br />
+
+<br />
+
+<br />
+<span style="font-weight: bold">er startet, erkennt alle festplatten und lässt sich installieren!</span> <img src="images/smiles/alo_bounce.gif" alt="bounce" border="0" />  <img src="images/smiles/alo_bounce.gif" alt="bounce" border="0" />  <img src="images/smiles/alo_bounce.gif" alt="bounce" border="0" /> 
+<br />
+
+<br />
+
+<br />
+
+<br />
+und jetzt warum ich debian so unbedingt wollte:
+<br />
+angemeldet als root, einen editor geöffnet udn in die /etc/apt/sources.list als einzige quelle debian unstable eingetragen.
+<br />
+
+<br />
+dann eine konsole auf und 
+<br />
+</span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Code:</b></span></td>	</tr>	<tr>	  <td class="code">apt-get update
+<br />
+apt-get dist-upgrade</td>	</tr></table><span class="postbody">eingegeben und er aktualisiert das system auf die allerneusten erhältlichen versionen.
+<br />
+
+<br />
+übrigens kann man mit</span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Code:</b></span></td>	</tr>	<tr>	  <td class="code">apt-get install &#91;programmname&#93; </td>	</tr></table><span class="postbody">jetzt jedes programm installieren. einfach die zeile eintippen und er läd es und alles dazu benötigte aus dem netz und installiert es.
+<br />
+
+<br />
+(und wärend ich das hier geschrieben habe, updatet er von der live-cd zu debian unstable  <img src="images/smiles/icon_cool.gif" alt="Cool" border="0" />  bin bei 75%)<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="32160"></a><b>Mr_Maniac</b></span><br /><span class="postdetails">fleischwurstfachverkäufer<br /><img src="http://home.arcor.de/mr_maniac/ANDERES/avatar.jpg" alt="" border="0" /><br /><br />Anmeldungsdatum: 09.01.2004<br />Beiträge: 175<br />Wohnort: Rabenau Londorf</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=32160&amp;sid=8030ddb7531ff2db60b55c1a09b26462#32160"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Mai 04, 2004 2:58 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=32160&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Auch eine schöne (meta)distribution, die ICH mal probieren will:
+<br />
+
+<br />
+Gentoo-Linux...
+<br />
+Man zieht sich die Live-CD, startet von ihr, aber installiert dann vollständig aus dem Internet... Die neuesten Pakete etc.
+<br />
+Man kompiliert den Kernel selber (höhere Performance)
+<br />
+Und...
+<br />
+Gentoo-Linux hat anscheinend auch einen Befehl, mit dem man "schnell" upgraden kann...
+<br />
+emerge...
+<br />
+Also emerge KDE
+<br />
+oder emerge Kernel...
+<br />
+
+<br />
+Aber wie gesagt: Ich WILL es erst noch ausprobieren...<br />_________________<br />---------------------------------------------
+<br />
+
+<br />
+ Who's afraid of the big, mad Wolf?
+<br />
+
+<br />
+---------------------------------------------</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=453&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=453&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:MrManiacTheMadMan@uni.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://mr-maniac.de.vu" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a> <a href="aim:goim?screenname=GernotKo&amp;message=Hello+Are+you+there?"><img src="templates/smartDark/images/lang_english/icon_aim.gif" alt="AIM-Name" title="AIM-Name" border="0" /></a> <a href="http://edit.yahoo.com/config/send_webmesg?.target=mr_maniac_the_mad_man&amp;.src=pg"><img src="templates/smartDark/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=139156714"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=139156714"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/139156714#pager"><img src="http://web.icq.com/whitepages/online?icq=139156714&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=139156714"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="32161"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2650<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=32161&amp;sid=8030ddb7531ff2db60b55c1a09b26462#32161"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Mai 04, 2004 3:39 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=32161&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">hab ich auch schon gehört, aber <span style="font-style: italic">alles</span> selber zui kompelieren ist echt eine schweinearbeit. dann eben lieber debian/unstable.
+<br />
+
+<br />
+ausserdem soll emerge zwar gut, aber bei weitem net so gut wie apt sein....<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="32162"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2650<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=32162&amp;sid=8030ddb7531ff2db60b55c1a09b26462#32162"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Mai 04, 2004 3:44 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=32162&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">sooo und als nächstes flattert dann das neue gnome 2.6 hier rein....(da bin ich echt mal gespannt!)<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="36710"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2650<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=36710&amp;sid=8030ddb7531ff2db60b55c1a09b26462#36710"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Jul 17, 2004 10:25 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=36710&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">hab nen fiesen-reproduzierbaren- fehler hier:
+<br />
+es läuft libranet 2.8.1 (debian)
+<br />
+n ach einer neuinstallation fahre ich ein update (apt-get update & upgrade) und ab dann geht nix mehr! zum einen ist nautilus, der gnome-dateimanager im eimer, zum anderen ist die kde_libs_4 in einer inkonsistenten form auf der platte, die tolelrweise ein update/löschen verhindert. scheisse!<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="36733"></a><b>HappyRotter</b></span><br /><span class="postdetails">bauerntölpel<br /><img src="images/avatars/157819215741b80becd05e2.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 11.11.2003<br />Beiträge: 671<br />Wohnort: Hannover</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=36733&amp;sid=8030ddb7531ff2db60b55c1a09b26462#36733"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Jul 17, 2004 5:08 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=36733&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">ich hatte mal gentoo drauf. war auch mit dem betriebssystem an sich echt zu frieden.  das man alles selber machen muss (partitionieren / formatieren / swappen ...) schockt zwar am anfang, aber wenn man die 2 drei befehle dann eingegeben hat war es so richtig super einfach. total billig eigentlich. ich habs dann aufgegeben, weil ich nicht drauf klargekommen bin win und linux nicht gleichzeitig benutzen zu können und hab mich dann wieder für windows entschieden.
+<br />
+
+<br />
+gentoo ist echt einfach und hat die aktuellere hardwareunterstützung als debian (stable). stell ich mal so in raum.
+<br />
+
+<br />
+wer interesse an der installation hat, aber sich nicht traut kann mich ruhig mal anquatschen... ich hab den scheiß ja schon hinter mir.</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=422&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=422&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=177151993"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=177151993"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/177151993#pager"><img src="http://web.icq.com/whitepages/online?icq=177151993&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=177151993"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="36737"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2650<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=36737&amp;sid=8030ddb7531ff2db60b55c1a09b26462#36737"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Jul 17, 2004 5:32 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=36737&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">so libranet läuft-naja inzwischen ist es ein debian/unstable mit gnome 2.6
+<br />
+
+<br />
+der haken lag an der kdelibs4-hab sie dann zwangsüberschrieben mit dpkg --force-overwrite und ruh war im kasten... jetzt schnurrt die kiste wie eine eins  <img src="images/smiles/icon_cool.gif" alt="Cool" border="0" /><br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="36741"></a><b>Mr_Maniac</b></span><br /><span class="postdetails">fleischwurstfachverkäufer<br /><img src="http://home.arcor.de/mr_maniac/ANDERES/avatar.jpg" alt="" border="0" /><br /><br />Anmeldungsdatum: 09.01.2004<br />Beiträge: 175<br />Wohnort: Rabenau Londorf</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=36741&amp;sid=8030ddb7531ff2db60b55c1a09b26462#36741"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Jul 17, 2004 5:48 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=36741&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Ich habe auch Gentoo Linux drauf...
+<br />
+
+<br />
+@HappyRotter:
+<br />
+Wieso meinst du, dass man Win und Linux nicht parallel laufen lassen kann???
+<br />
+Natürlich geht das!
+<br />
+Nichts ist unmöglich <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />
+<br />
+
+<br />
+Oder hast du die Gentoo-Anleitung Schritt für Schritt durchgeführt, und wirklich alles haargenau so gemacht wie drinnen steht (In der Anleitung werden nunmal ALLE Partitionen gelöscht... Aber es steht ja dabei, dass es NUR eine Anleitung ist)?
+<br />
+
+<br />
+Auf jeden Fall läuft Gentoo 1A Spitzenklasse!
+<br />
+Es dauert zwar etwas, bis man es so weit installiert hat, wie man es haben möchte (Habe eine Stage 1 Installation gemacht... Es wird also ALLES von anfang an selbst kompiliert), aber dafür hat man dann ein ziemlich gut optimiertes System (Eben durch das selber kompilieren und das Setzen der Compiler-Flags).
+<br />
+
+<br />
+Und mit 
+<br />
+</span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Code:</b></span></td>	</tr>	<tr>	  <td class="code">
+<br />
+emerge sync
+<br />
+emerge -u world
+<br />
+</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+Ist das System dann immer auf dem neuestem (stable) Stand...
+<br />
+Man kann natürlich auch die ALLERNEUESTEN Sachen installieren, die NICHT vom Gentoo-Team als Stable anerkannt werden...
+<br />
+
+<br />
+Manchmal verstehe ich sogar nicht, WARUM einige Pakete nicht als Stable eingetragen sind...
+<br />
+
+<br />
+z.B. xorg-x11, kde-3.2.3 oder auch die neueren GAIM-Versionen...
+<br />
+
+<br />
+P.S.: Die Gentoo-Install hat mich zusammengerechnet etwa 48h gekostet (natürlich über einige Tage hinweg)...
+<br />
+Und ich bin nur noch selten in Windows <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />_________________<br />---------------------------------------------
+<br />
+
+<br />
+ Who's afraid of the big, mad Wolf?
+<br />
+
+<br />
+---------------------------------------------</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=453&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=453&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:MrManiacTheMadMan@uni.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://mr-maniac.de.vu" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a> <a href="aim:goim?screenname=GernotKo&amp;message=Hello+Are+you+there?"><img src="templates/smartDark/images/lang_english/icon_aim.gif" alt="AIM-Name" title="AIM-Name" border="0" /></a> <a href="http://edit.yahoo.com/config/send_webmesg?.target=mr_maniac_the_mad_man&amp;.src=pg"><img src="templates/smartDark/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=139156714"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=139156714"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/139156714#pager"><img src="http://web.icq.com/whitepages/online?icq=139156714&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=139156714"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="36748"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2650<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=36748&amp;sid=8030ddb7531ff2db60b55c1a09b26462#36748"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Jul 17, 2004 6:59 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=36748&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">nunja-wir könnten mal flamen was stabiler ist- gentoo stable oder debian stable <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> ich tippe mal auf debian....
+<br />
+
+<br />
+und das einige pakete noch net reingenommen sind hängt meistens net an ihnen sondern an den libs  bzw den sich darauf beziehenden programmen. hatte heute wiegesagt so nen scheiss openoffice-kandidat der meinte er müsste auf irgendwelchen kdelibs basieren-ohne das kde auf meienr kiste läuft... pff!<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="36750"></a><b>Mr_Maniac</b></span><br /><span class="postdetails">fleischwurstfachverkäufer<br /><img src="http://home.arcor.de/mr_maniac/ANDERES/avatar.jpg" alt="" border="0" /><br /><br />Anmeldungsdatum: 09.01.2004<br />Beiträge: 175<br />Wohnort: Rabenau Londorf</span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=36750&amp;sid=8030ddb7531ff2db60b55c1a09b26462#36750"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Jul 17, 2004 7:14 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=36750&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Manchmal versteht man Linux-Programme halt nicht...
+<br />
+Auch wenn man Linux mag...
+<br />
+
+<br />
+z.B. tauchen auf einmal meine MIDI-Kanäle/Ports nicht mehr in KDE auf (Ja, ich benutze KDE.. Und Fluxbox... Und Enlightenment...)...
+<br />
+Was eigentlich schade ist, denn ich höre ab und zu gerne mal MIDIs...
+<br />
+
+<br />
+Zum Thema, was stabiler ist...
+<br />
+Debian Stable.. Glaube ich auch....
+<br />
+Aber selbst Gentoo ist schon saustabil...
+<br />
+Mir reicht es alle mal...
+<br />
+Und von der Geschwindigkeit her ist es halt auch sehr gut...
+<br />
+
+<br />
+Ein schöner Nebeneffekt an Gentoo:
+<br />
+Man lernt die Konsole zu schätzen und lernt auch wenigstens etwas mit Linux umzugehen...
+<br />
+Und da ich sowieso ein Konsolen-Fan bin (Und DOS-Fan noch dazu), ist das für mich genau das richtige...<br />_________________<br />---------------------------------------------
+<br />
+
+<br />
+ Who's afraid of the big, mad Wolf?
+<br />
+
+<br />
+---------------------------------------------</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=453&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=453&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:MrManiacTheMadMan@uni.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://mr-maniac.de.vu" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a> <a href="aim:goim?screenname=GernotKo&amp;message=Hello+Are+you+there?"><img src="templates/smartDark/images/lang_english/icon_aim.gif" alt="AIM-Name" title="AIM-Name" border="0" /></a> <a href="http://edit.yahoo.com/config/send_webmesg?.target=mr_maniac_the_mad_man&amp;.src=pg"><img src="templates/smartDark/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=139156714"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=139156714"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/139156714#pager"><img src="http://web.icq.com/whitepages/online?icq=139156714&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=139156714"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="36754"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2650<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=36754&amp;sid=8030ddb7531ff2db60b55c1a09b26462#36754"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Jul 17, 2004 8:17 pm<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=36754&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">ich arbeite auch sehr viel auf konsolen ebene-einfach weils schneller ist!
+<br />
+
+<br />
+nunja-aber ich hab jetzt den tollen effekt, das mein gnoem (ja ich nutze gnome) zwar von sich aus töne produziert, aber kein programm das ich starte-sei es mp3 player oder jedwedes videoprogramm. hmpf<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="40034"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2650<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=40034&amp;sid=8030ddb7531ff2db60b55c1a09b26462#40034"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Aug 31, 2004 2:19 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=40034&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">wenn es etwas gibt das ich mehr hasse als den debian installer dann ist es apt wenn es nciht macht was es soll! 4 mal reproduzierbar den gcc zerschosen! scheisse!
+<br />
+
+<br />
+jetzt läuft alles wieder-ok alsa noch net aber sonst. und zwar mit libranet basis-UND NICHT DEM SCHEISS KACK INSTALLER MIT NEM BUGGY KERNEL!!! argh hass!!!<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="40037"></a><b>HappyRotter</b></span><br /><span class="postdetails">bauerntölpel<br /><img src="images/avatars/157819215741b80becd05e2.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 11.11.2003<br />Beiträge: 671<br />Wohnort: Hannover</span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=40037&amp;sid=8030ddb7531ff2db60b55c1a09b26462#40037"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Aug 31, 2004 9:34 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=40037&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" border="0" align="center"><tr> 	  <td><span class="genmed"><b>Mr_Maniac hat folgendes geschrieben::</b></span></td>	</tr>	<tr>	  <td class="quote">
+<br />
+@HappyRotter:
+<br />
+Wieso meinst du, dass man Win und Linux nicht parallel laufen lassen kann???
+<br />
+Natürlich geht das!
+<br />
+Nichts ist unmöglich <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />
+<br />
+</td>	</tr></table><span class="postbody">
+<br />
+
+<br />
+Ich hab das schon richtig gemacht <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> aber ich kann es trotzdem nicht "gleichzeitig" benutzen. ich müsste jedesmal in ein anderes Betriebssystem booten, nur um mich mal fünf minuten beim zocken (und nicht ktetris oder tuxracer) abzureagieren.
+<br />
+
+<br />
+Momentan hab ich debian und xp zusammen drauf, wobei debian vielleicht einmal alle 2 wochen startet damit ich ein bißchen frickeln kann.
+<br />
+
+<br />
+
+<br />
+@alo: in der Konsole Musik hören kommt eh viel geiler als mit xmms und konsorten. <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=422&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=422&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=177151993"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=177151993"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/177151993#pager"><img src="http://web.icq.com/whitepages/online?icq=177151993&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=177151993"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row2"><span class="name"><a name="40043"></a><b>alo</b></span><br /><span class="postdetails">freiherr von und zu neuzamonien<br /><img src="images/avatars/20959929394241f9b2eed76.gif" alt="" border="0" /><br /><br />Anmeldungsdatum: 28.02.2002<br />Beiträge: 2650<br /></span><br /></td>
+		<td class="row2" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=40043&amp;sid=8030ddb7531ff2db60b55c1a09b26462#40043"><img src="templates/smartDark/images/icon_minipost.gif" width="12" height="9" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Di Aug 31, 2004 11:54 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Titel: </span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=40043&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">rythmbox!<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+<a href="http://www.bist-du-bloe.de" target="_blank">http://www.bist-du-bloe.de</a>
+<br />
+<a href="http://www.disturbed-reality.de" target="_blank">http://www.disturbed-reality.de</a></span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row2" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Nach oben</a></span></td>
+		<td class="row2" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/smartDark/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tr><form method="post" action="viewtopic.php?t=3408&amp;start=0&amp;sid=8030ddb7531ff2db60b55c1a09b26462">
+				<td align="center"><span class="gensmall">Beiträge vom vorherigen Thema anzeigen: <select name="postdays"><option value="0" selected="selected">Alle Beiträge</option><option value="1">1 Tag</option><option value="7">7 Tage</option><option value="14">2 Wochen</option><option value="30">1 Monat</option><option value="90">3 Monate</option><option value="180">6 Monate</option><option value="364">1 Jahr</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Die ältesten zuerst</option><option value="desc">Die neusten zuerst</option></select>&nbsp;<input type="submit" value="Go" class="liteoption" name="submit" /></span></td>
+			</form></tr>
+		</table></td>
+	</tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=36&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/post.gif" border="0" alt="Neues Thema eröffnen" align="middle" /></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=3408&amp;sid=8030ddb7531ff2db60b55c1a09b26462"><img src="templates/smartDark/images/lang_english/reply.gif" border="0" alt="Neue Antwort erstellen" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=8030ddb7531ff2db60b55c1a09b26462" class="nav">::board.bist-du-bloe.de:: Foren-Übersicht</a>
+	  -> <a href="viewforum.php?f=36&amp;sid=8030ddb7531ff2db60b55c1a09b26462" class="nav">windows/linux/OS/2/... betriebssysteme</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">Alle Zeiten sind GMT + 2 Stunden</span><br /><span class="nav"></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Seite <b>1</b> von <b>1</b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"><span class="gensmall"></span><br />
+	  &nbsp;<br />
+	  </td>
+	<td align="right" valign="top" nowrap="nowrap">
+<form method="get" name="jumpbox" action="viewforum.php?sid=8030ddb7531ff2db60b55c1a09b26462" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Gehe zu:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42">updates</option><option value="21">der brotkorb</option><option value="17">support-board</option><option value="18">verbesserungen&wünsche</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">*brainfuck</option><option value="41">bolzplatz</option><option value="25">lustiges aus dem netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">allgemein</option><option value="28">splatter&horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">hollywood</option><option value="19">schnittberichte&zensur</option><option value="34">amateur filme & börsen</option><option value="31">...im TV</option><option value="33">...und die passende musik</option><option value="32">gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">shop</option><option value="-1">----------------</option><option value="23">zu verkaufen</option><option value="24">suche</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">hard/software/technik</option><option value="-1">----------------</option><option value="27">allgemein</option><option value="36"selected="selected">windows/linux/OS/2/... betriebssysteme</option><option value="37">internet und alles was dranhängt</option><option value="38">games</option><option value="39">ps/2 & konsolen</option><option value="-1">&nbsp;</option><option value="-1">off topic</option><option value="-1">----------------</option><option value="26">sunshine-bar</option><option value="45">politik</option><option value="-1">&nbsp;</option><option value="-1">zelltruemmer</option><option value="-1">----------------</option><option value="49">Enjoy</option><option value="50">Sinn</option><option value="51">Brechen</option><option value="52">Online RPG</option></select><input type="hidden" name="sid" value="8030ddb7531ff2db60b55c1a09b26462" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+<span class="gensmall">Du <b>kannst keine</b> Beiträge in dieses Forum schreiben.<br />Du <b>kannst</b> auf Beiträge in diesem Forum <b>nicht</b> antworten.<br />Du <b>kannst</b> deine Beiträge in diesem Forum <b>nicht</b> bearbeiten.<br />Du <b>kannst</b> deine Beiträge in diesem Forum <b>nicht</b> löschen.<br />Du <b>kannst</b> an Umfragen in diesem Forum <b>nicht</b> mitmachen.<br /></span></td>
+  </tr>
+</table>
+
+<br /><div align="center"><span class="copyright"><br /><br />smartBlue Style &copy; 2002 <a href="http://smartor.is-root.com" target="_blank" class="copyright">Smartor</a><br />Powered by <a href="http://www.phpbb.com/" target="_blank" class="copyright">phpBB</a>  &copy; 2001, 2002 phpBB Group<br />&nbsp;&nbsp;patched by a.dahl<br><!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><!-- End of Netstat Code -->
+<!-- alo counter block --></span></div></td></tr></table></body></html>

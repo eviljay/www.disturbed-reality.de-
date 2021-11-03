@@ -1,0 +1,353 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/1">
+	<title>reviews.disturbed-reality.de | PmWikiDe / Beispiele zu Wikistilen </title>
+    <meta http-equiv='Content-Style-Type' content='text/css' />
+	<meta http-equiv="Content-Type" content="text/html;" />
+
+	<link rel="stylesheet" href='http://disturbed-reality.de/wiki/pub/skins/disturbed/wp-layout.css' type="text/css" media="screen" />
+
+	<style type="text/css" media="screen">
+
+/* BEGIN IMAGE CSS */
+/*	To accomodate differing install paths of WordPress, images are referred only here,
+    and not in the wp-layout.css file. If you prefer to use only CSS for colors and what
+    not, then go right ahead and delete the following lines, and the image files. */
+
+body { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickbgcolor.jpg"); }	
+#page { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickbg.jpg") repeat-y top; border: none; } 
+#header { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickheader.jpg") no-repeat bottom center; }
+#footer { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+			
+/*  Because the template is slightly different, size-wise, with images, this needs to be set here
+    If you don't want to use the template's images, you can also delete the following two lines. */
+			
+#header { margin: 0 !important; margin: 0 0 0 1px; padding: 1px; height: 198px; width: 758px; }
+#headerimg { margin: 7px 9px 0; height: 192px; width: 740px; } 
+/* END IMAGE CSS */
+		
+
+/* 	To ease the insertion of a personal header image, I have done it in such a way,
+    that you simply drop in an image called 'personalheader.jpg' into your /images/
+    directory. Dimensions should be at least 760px x 200px. Anything above that will
+    get cropped off of the image. */
+		
+#headerimg { background: url('http://disturbed-reality.de/wiki/pub/skins/disturbed/images/personalheader.jpg') no-repeat top;}
+</style>
+<script language="javascript" src="/pub/guiedit/guiedit.js"></script>
+</head>
+
+<body>
+<div id="page">
+
+<? // Begin Header ?>
+<div id="header">
+	<div id="headerimg">
+		<!--<h1><a href="http://disturbed-reality.de/wiki/pmwiki.php" title="reviews.disturbed-reality.de">reviews.disturbed-reality.de</a></h1>-->
+		<!--<div class="description">
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyleExamples'>Beispiele zu Wikistilen</a></h2>
+        </div>-->
+	</div>
+</div>
+<hr />
+<? // End Header ?>
+<p align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1321&refurl='+escape(document.location.href)+'" width="728" height="90" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM -->
+
+
+<!--Begin Frontpage-->
+<br />	<div id="content" class="narrowcolumn">
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyleExamples'>Beispiele zu Wikistilen</a>
+        
+
+        <!--PageText-->
+<div id='wikitext'>
+<p>
+</p>
+<p class='vspace'></p><p><span style='font-size:83%'><span  style='color: green;'>(deutsche Übersetzung der Seite <a style='color: green' class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWiki/WikiStyleExamples'>PmWiki.WikiStyleExamples</a>, Stand 22.09.2005)</span></span>
+</p>
+<p class='vspace'></p><p><span class='wikiword'><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWiki'>PmWiki</a></span> benutzt <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyles'>Wikistile</a> als einen Mechanismus, um Text mit Farbe und anderen Eigenschaften zu gestalten. <span class='wikiword'>PmWiki</span> 2.0 ermöglicht weitere Stile und diese auch auf Blöcke anzuwenden
+</p>
+<p class='vspace'></p><p>Die Grundlagen der <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyles'>Wikistile</a> haben sich nicht verändert - grundsätzlich wird ein Stil innerhalb von zwei %-Zeichen festgelegt und auf den darauf folgenden Text angewendet.
+</p>
+<p class='vspace'></p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+Dieser Text ist %color=red% rot, %color=blue% blau, %% und standard
+(schwarz).
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><p>Dieser Text ist <span  style='color: red;'> rot, </span><span  style='color: blue;'> blau, </span> und standard (schwarz).
+</p>
+</td></tr></table>
+<p class='vspace'></p><p>Es gibt eine große Anzahl von verfügbaren Stilparametern, welche vornehmlich an HTML und CSS angelehnt sind. Darüber hinaus kann der Autor eine Kürzel (Shortcuts) festlegen, indem er die <code class='escaped'>define=</code> Eigenschaft zu Hilfe nimmt. Um beispilesweise einen Stil für <code class='escaped'>%rot%</code> festzulegen:
+</p>
+<p class='vspace'></p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+%color=red define=Meinstil%
+Hier gibts ein bisschen %Meinstil% rote Schrift, die durch Verwendung
+einer Stilvorlage erzeugt wurde.
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><p>
+Hier gibts ein bisschen <span  style='color: red;'> rote Schrift, die durch Verwendung einer Stilvorlage erzeugt wurde.</span>
+</p>
+</td></tr></table>
+<p class='vspace'></p><p>Kürzel können mit anderen Stilen als auch mit anderen Kürzeln  kombiniert werden:
+</p>
+<p class='vspace'></p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+%color=red define=inRot%
+%bgcolor=yellow define=gelberGrund%
+
+%inRot% Diese Schrift ist rot, %red bgcolor=#ccc% rot auf grauem Grund und
+%inRot gelberGrund% rot auf einem gelben Hintergrund.  
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><p>
+</p>
+<p class='vspace'></p><p><span  style='color: red;'> Diese Schrift ist rot, </span><span  style='color: red; background-color: #ccc;'> rot auf grauem Grund und </span><span  style='color: red; background-color: yellow;'> rot auf einem gelben Hintergrund.  </span>
+</p>
+</td></tr></table>
+<p class='vspace'></p><p>Soweit ist die Funktionalität fast identisch mit <span class='wikiword'>PmWiki</span> 1.0. <span class='wikiword'>PmWiki</span> 2.0 kann neuerdings Stile auf Blöcke mit der Stileigenschaft <code class='escaped'>apply=</code> anwenden. Wenn man <code class='escaped'>apply=block</code> als <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyles'>Wikistil</a> definiert, wirkt das auf den gesamten Block, anstatt nur auf den folgenden Text:
+</p>
+<p class='vspace'></p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+Der gesamte Block %apply=block bgcolor=yellow% hat einen gelben
+Hintergrund, selbst wenn der WikiStyle in der Zeilenmitte auftaucht. 
+%bgcolor=pink% Andere Inline (Nicht-Block) WikiStyles können in der Mitte
+der Textzeile sichtbar werden,%% und nach diesem (Nicht-Block) WikiStyle
+gehts weiter wie vor seinem Einschub in den Block.
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><p  style='background-color: yellow;'>Der gesamte Block  hat einen gelben Hintergrund, selbst wenn der <span class='wikiword'><a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyle?action=edit'>WikiStyle</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyle?action=edit'>?</a></span> in der Zeilenmitte auftaucht.  <span  style='background-color: pink;'> Andere Inline (Nicht-Block) <span class='wikiword'><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyles'>WikiStyles</a></span> können in der Mitte der Textzeile sichtbar werden,</span> und nach diesem (Nicht-Block) <span class='wikiword'><a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyle?action=edit'>WikiStyle</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyle?action=edit'>?</a></span> gehts weiter wie vor seinem Einschub in den Block.
+</p>
+</td></tr></table>
+<p class='vspace'></p><p>Text kann rechtsbündig oder zentriert ausgerichtet werden:
+</p>
+<p class='vspace'></p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+%block text-align=right% Der Text dieses Absatzes ist rechtsbündig. 
+
+%block text-align=center% Der Text dieses Absatzes ist zentriert.  
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><p  style='text-align: right;'> Der Text dieses Absatzes ist rechtsbündig. 
+</p>
+<p class='vspace'></p><p  style='text-align: center;'> Der Text dieses Absatzes ist zentriert.  
+</p>
+</td></tr></table>
+<p class='vspace'></p><p>In <span class='wikiword'>PmWiki</span> sind die <code class='escaped'>%right%</code> und <code class='escaped'>%center%</code> Stilkürzel vordefiniert, so dass es noch einfacher geht:
+</p>
+<p class='vspace'></p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+%right% Das ist rechtsbündig.
+
+%center% Dieses ist zentriert.
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><p  style='text-align: right;'> Das ist rechtsbündig.
+</p>
+<p class='vspace'></p><p  style='text-align: center;'> Dieses ist zentriert.
+</p>
+</td></tr></table>
+<p class='vspace'></p><p>Autoren können ihre eigenen angepassten Stile festlegen:
+</p>
+<p class='vspace'></p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+%block bgcolor=#fdf define=Pm%
+%center bgcolor=#dfd border='3px dotted green' define=der designer%
+%right bgcolor=#ffffcc border='1px dotted red' define=Nichtraucher%
+
+
+%Pm% Alle Schrift auf einem hellrosa Hintergrund zeigt einen Kommentar von
+[[~Pm]] an.
+
+%der Designer% Hier hat der Designer etwas geschrieben.
+
+%Nichtraucher% Nicht nachts am Rechner Rauchen!
+
+%der designer% Hallo, ich bin %strike%überhaupt nicht%% glücklich Sie zu
+treffen.
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><p>
+</p>
+<p class='vspace'></p><p  style='background-color: #fdf;'> Alle Schrift auf einem hellrosa Hintergrund zeigt einen Kommentar von <a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/Profiles/Pm?action=edit'>Pm</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/Profiles/Pm?action=edit'>?</a> an.
+</p>
+<p class='vspace'></p><p class='designer Designer' style='text-align: center; background-color: #dfd; border: 3px dotted green;'> Hier hat der Designer etwas geschrieben.
+</p>
+<p class='vspace'></p><p  style='text-align: right; background-color: #ffffcc; border: 1px dotted red;'> Nicht nachts am Rechner Rauchen!
+</p>
+<p class='vspace'></p><p class='designer designer' style='text-align: center; background-color: #dfd; border: 3px dotted green;'> Hallo, ich bin <span class='strike'>überhaupt nicht</span> glücklich Sie zu treffen.
+</p>
+</td></tr></table>
+<p class='vspace'></p><p>Stile können auf fast alle Arten von Blöcken angewendet werden:
+</p>
+<p class='vspace'></p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+* %block bgcolor=yellow% Hier ist ein Listenpunkt
+* Da gibt's einen anderen Listenpunkt.
+
+* Hier gibts noch mehr von der Liste
+
+# Eine neue Liste
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><ul  style='background-color: yellow;'><li  style='background-color: yellow;'> Hier ist ein Listenpunkt
+</li><li>Da gibt's einen anderen Listenpunkt.
+<p class='vspace'></p></li><li>Hier gibts noch mehr von der Liste
+</li></ul><p class='vspace'></p><ol><li>Eine neue Liste
+</li></ol>
+</td></tr></table>
+<p class='vspace'></p><p>Outlines sind mit vordefinierten <code class='escaped'>%ROMAN%</code>, <code class='escaped'>%roman%</code>, <code class='escaped'>%ALPHA%</code>, und <code class='escaped'>%alpha%</code> Listenblockstilen möglich. Der Stil muss auf das erste Listenmerkmal in der Liste definiert werden (und möglicherweise entwickeln wir eine andere Syntax für diese Art gegliederter Listen):
+</p>
+<p class='vspace'></p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+# %ROMAN% Obere Ebene
+## %ALPHA% Zweite Ebene
+## Zweite Ebene
+## Zweite Ebene
+### Dritte Ebene
+### Dritte Ebene
+## Zweite Ebene
+### Dritte Ebene
+#### %alpha% Vierte Ebene
+##### %roman% Fünfte Ebene
+##### Fünfte Ebene
+#### Vierte Ebene
+# Obere Ebene
+# Obere Ebene
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><ol  style='list-style: upper-roman;'><li> Obere Ebene
+<ol  style='list-style: upper-alpha;'><li> Zweite Ebene
+</li><li>Zweite Ebene
+</li><li>Zweite Ebene
+<ol><li>Dritte Ebene
+</li><li>Dritte Ebene
+</li></ol></li><li>Zweite Ebene
+<ol><li>Dritte Ebene
+<ol  style='list-style: lower-alpha;'><li> Vierte Ebene
+<ol  style='list-style: lower-roman;'><li> Fünfte Ebene
+</li><li>Fünfte Ebene
+</li></ol></li><li>Vierte Ebene
+</li></ol></li></ol></li></ol></li><li>Obere Ebene
+</li><li>Obere Ebene
+</li></ol>
+</td></tr></table>
+<p class='vspace'></p><p><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyles'>Wikistile</a> können mit CSS Stylesheets kombiniert werden, um dies zu automatisieren (Siehe <a class='urllink' href='http://www.pmwiki.org/wiki/Cookbook/OutlineLists' rel='nofollow'>Cookbook:OutlineLists</a>).
+</p>
+<p class='vspace'></p><h2>Q&amp;A</h2>
+<p><strong>Wie erzeugt man einen vorformatierten text mit farbigen Hintergrund und Umrandung?</strong>
+</p>
+<p class='vspace'></p><p>Man verwendet in etwa so etwas:
+</p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>%block bgcolor=#f0f9ff border='1px solid gray' padding=5px%[@
+ip access-list extended example-acl
+remark ** This is an example acl **
+deny ip any host 10.0.0.1
+permit ip any any
+@]
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><pre  style='background-color: #f0f9ff; border: 1px solid gray; padding: 5px;' class='escaped'>
+ip access-list extended example-acl
+remark ** This is an example acl **
+deny ip any host 10.0.0.1
+permit ip any any
+</pre>
+</td></tr></table>
+<p class='vspace'></p><p  style='background-color: #eee;'><span class='wikitrail'>&lt;&lt; <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyles'>Wikistile</a> | <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DocumentationIndex'>Dokumentationsindex</a> | <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PageDirectives'>Direktiven</a> &gt;&gt;</span>
+</p>
+</div>
+
+	
+	   <!-- Das kann man vielleicht mal fŸr Trails noch brauchen, aber wohl eher nicht
+		<div class="navigation">
+			<div class="alignleft"><?php posts_nav_link('','','&laquo; Previous Entries') ?></div>
+			<div class="alignright"><?php posts_nav_link('','Next Entries &raquo;','') ?></div>
+		</div>
+		-->
+		
+	</div>
+	
+<!--End Frontpage-->
+
+<? // Begin Sidebar Menu ?>
+<?php /* If this is not a permalink page, show the menu */ if (!($withcomments) && (!$single)) { ?>
+
+	<div id="sidebar">
+		<ul>
+			<li>
+                You are on <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+                <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyleExamples'>Beispiele zu Wikistilen</a>
+            </li>
+
+			<li>
+                <!-- MIKE: Suchform-->
+                <form action='http://disturbed-reality.de/wiki/pmwiki.php'>
+                    <input type='hidden' name='n' value='PmWikiDe.WikiStyleExamples' />
+                    <input type='hidden' name='action' value='search' />
+                    <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Search'>Suchen</a>:
+                    <input class='searchbox' type='text' name='q' value='' />
+                    <input class='searchbutton' type='submit' value='Los' />
+                </form>
+			</li>
+                        
+            <!-- MIKE: Seitentitel und Gruppe-->
+            <li>
+                <h1><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWikiDe'>Deutsches Wiki</a></h1>
+<ul><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiWikiWeb'>Was ist ein Wiki?</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Installation'>Installation</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DocumentationIndex'>Dokumentationsindex</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiSandbox'>Sandkasten</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/RecentChanges'>Aktuelle Änderungen</a>
+</li></ul><hr />
+<p class='vspace'></p>
+
+            </li>
+
+		</ul>
+	</div>
+
+<? } // End Sidebar Menu  ?>
+
+
+
+<? // Begin Footer ?>
+<hr />
+<div id="footer">
+	<p>
+		<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyleExamples?action=edit'>Seite Bearbeiten</a> -
+		<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyleExamples?action=diff'>Seitenhistorie</a> -
+	 	<!--<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyleExamples?action=upload'>Upload File</a> -->		
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyleExamples?action=print' target='_blank'>Druckansicht</a> -
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/RecentChanges'>Aktuelle &Auml;nderungen</a> -
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Search'>Suchen</a><br /><br />
+        <br />Zuletzt ge&auml;ndert am 26.09.2005 13:29 Uhr		   		
+		<br />reviews.disturbed-reality.de is running  
+		<a href="http://www.pmwiki.org">PmWiki</a>. 
+<!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><!-- End of Netstat Code -->
+<?PHP include("../counter/inc.stats.php");?>
+<!-- alo counter block -->
+<!-- Site Meter -->
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+
+        </div>
+		
+	</p>
+</div>
+</div>
+<? // End Footer ?><br>
+</body>
+</html>

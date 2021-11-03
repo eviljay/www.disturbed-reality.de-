@@ -1,0 +1,554 @@
+<html>
+<head>
+<title>:bist-du-bloe.de</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+
+<body bgcolor="#FEFEFE" text="#000000" link="#999999" vlink="#999999" alink="#999999" leftmargin="0" topmargin="0" rightmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+  <tr> 
+  
+    <td rowspan="3" width="200">&nbsp; </td>
+ 
+    <td rowspan="3" width="13" bgcolor="#DBDBDB">&nbsp;</td>
+
+	<td height="251" >
+	
+	<TABLE WIDTH=501 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+  <TR>
+    <TD COLSPAN=3> <a href="http://disturbed-reality.de/v10/index.php?left=content/news.php&right=content/blog.php"><IMG SRC="Bilder/theme_10.3_01.gif" ALT="" WIDTH=501 HEIGHT=25 border="0"></a></TD>
+  </TR>
+  <TR>
+    <TD> <a href="index-brainfuck.php?artcat=3"><IMG SRC="Bilder/theme_10.3_02.gif" ALT="" WIDTH=152 HEIGHT=17 border="0"></a></TD>
+    <TD> <a href="http://disturbed-reality.de/board"><IMG SRC="Bilder/theme_10.3_03.gif" ALT="" WIDTH=168 HEIGHT=17 border="0"></a></TD>
+    <TD> <a href="index.php?left=content/neu-zamonien.html&right=content/neu-zamonien2.html"><IMG SRC="Bilder/theme_10.3_04.gif" ALT="" WIDTH=181 HEIGHT=17 border="0"></a></TD>
+  </TR>
+  <TR>
+    <TD> <a href="index.php?left=content/freunde.html&right=content/blank.html"><IMG SRC="Bilder/theme_10.3_05.gif" ALT="" WIDTH=152 HEIGHT=14 border="0"></a></TD>
+    <TD> <a href="index.php?left=content/fotos.html&right=content/blank.html"><IMG SRC="Bilder/theme_10.3_06.gif" ALT="" WIDTH=168 HEIGHT=14 border="0"></a></TD>
+    <TD> <a href="index.php?left=content/ich.html&right=content/ich2.html"><IMG SRC="Bilder/theme_10.3_07.gif" ALT="" WIDTH=181 HEIGHT=14 border="0"></a></TD>
+  </TR>
+  <TR>
+    <TD> <a href="index.php?left=content/fuss.html&right=content/blank.html"><IMG SRC="Bilder/theme_10.3_08.gif" ALT="" WIDTH=152 HEIGHT=14 border="0"></a></TD>
+    <TD> <a href="#" onClick="javascript: window.open('../box/viewshoutbox.php','shoutbox','width=180,height=450,scrollbars=yes');"><IMG SRC="Bilder/theme_10.3_09.gif" ALT="" WIDTH=168 HEIGHT=14 border="0"></a></TD>
+    <TD> <a href="index.php?left=content/netzwelten.html&right=content/blank.html"><IMG SRC="Bilder/theme_10.3_10.gif" ALT="" WIDTH=181 HEIGHT=14 border="0"></a></TD>
+  </TR>
+  <TR>
+    <TD COLSPAN=3> <IMG SRC="Bilder/theme_10.3_11.gif" WIDTH=501 HEIGHT=186 ALT=""></TD>
+  </TR>
+</TABLE>
+	
+	
+	
+	
+	</td>
+    <td rowspan="3">&nbsp;</td>
+
+  </tr>
+  <tr> 
+    <td background="img/tabelle_mitte.gif" valign="top" width="501"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="20" rowspan="2">&nbsp;</td>
+          <td height="15"> 
+            <p>&nbsp;</p>
+          </td>
+          <td width="20" rowspan="2">&nbsp;</td>
+        </tr>
+
+        <tr> 
+          <td class="text">
+<table border="0" cellspacing="0" cellpadding="0">
+              <tr valign="top"> 
+                <td class="text"> 
+                  
+<link rel="stylesheet" type="text/css" href="default.css">
+
+<script language="JavaScript">
+<!--
+function gosort() {
+   document.sort.submit();
+}
+//-->
+</script>
+
+<title>bist-du-bloe.de - Übersicht</title><table border="0" cellspacing="1" cellpadding="3" width="100%"><tr><th class="head" align="left" bgcolor="" colspan="2">
+      <a href="index-brainfuck.php?artcat=0">Artikel</a> > <a href="index-brainfuck.php?artcat=3">brainfuck*</a></th></tr><tr><td height="5" class="no"></td></tr></table><center><table cellpadding=2 cellspacing=1 border=0 width="100%"><table border="0" cellspacing="1" cellpadding="3" width="100%"> <tr>
+  <th colspan="5" bgcolor="" class="head"></th>
+ </tr>
+ <tr>
+  <td align="left" class="header" bgcolor=""><font size="1"></td>
+  <td align="left" class="header" bgcolor=""><font size="1">Aufrufe</td>
+  <td align="left" class="header" bgcolor=""><font size="1">Seiten</td>
+  <td align="left" class="header" bgcolor=""><font size="1">Zeit</td>
+  <td align="left" class="header" bgcolor=""><font size="1">Autor</td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=73" target="_blank" >...</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=73','brainfuck','width=520,height=600,scrollbars=yes');" >...</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   35
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   20.09.2003, 14:48
+  </td>
+  <td bgcolor="" class="right">
+   Community of Stupidity
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=75" target="_blank" >...</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=75','brainfuck','width=520,height=600,scrollbars=yes');" >...</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   22
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   20.09.2003, 14:50
+  </td>
+  <td bgcolor="" class="right">
+   Community of Stupidity
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=22" target="_blank" >Babette K.</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=22','brainfuck','width=520,height=600,scrollbars=yes');" >Babette K.</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   55
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   19.09.2003, 15:14
+  </td>
+  <td bgcolor="" class="right">
+   Goethe
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=1" target="_blank" >Berlin!</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=1','brainfuck','width=520,height=600,scrollbars=yes');" >Berlin!</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   115
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   20.09.2003, 15:05
+  </td>
+  <td bgcolor="" class="right">
+   Goethe
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=27" target="_blank" >Blüten klassischer Literatur</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=27','brainfuck','width=520,height=600,scrollbars=yes');" >Blüten klassischer Literatur</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   26
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   19.09.2003, 15:19
+  </td>
+  <td bgcolor="" class="right">
+   Deutschunterricht bei Frau Tsc
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=79" target="_blank" >Das Ge(h)dicht</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=79','brainfuck','width=520,height=600,scrollbars=yes');" >Das Ge(h)dicht</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   19
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   20.09.2003, 14:52
+  </td>
+  <td bgcolor="" class="right">
+   die freakshow
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=43" target="_blank" >das hamsterrezpt</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=43','brainfuck','width=520,height=600,scrollbars=yes');" >das hamsterrezpt</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   17
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   19.09.2003, 15:54
+  </td>
+  <td bgcolor="" class="right">
+   horus
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=63" target="_blank" >das schänden der katzen</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=63','brainfuck','width=520,height=600,scrollbars=yes');" >das schänden der katzen</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   18
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   20.09.2003, 14:42
+  </td>
+  <td bgcolor="" class="right">
+   community of stupidity
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=59" target="_blank" >der 8m joint</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=59','brainfuck','width=520,height=600,scrollbars=yes');" >der 8m joint</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   32
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   20.09.2003, 14:34
+  </td>
+  <td bgcolor="" class="right">
+   soilent
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=24" target="_blank" >Der Dosenpfand!!</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=24','brainfuck','width=520,height=600,scrollbars=yes');" >Der Dosenpfand!!</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   20
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   19.09.2003, 15:15
+  </td>
+  <td bgcolor="" class="right">
+   Goethe
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=80" target="_blank" >Der Elmbaum</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=80','brainfuck','width=520,height=600,scrollbars=yes');" >Der Elmbaum</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   10
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   20.09.2003, 14:53
+  </td>
+  <td bgcolor="" class="right">
+   die freakshow
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=37" target="_blank" >der tägliche wahnsinn dienstag, zweiter april zweitausendzwei & freitag, fuenfter april zweitausendz</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=37','brainfuck','width=520,height=600,scrollbars=yes');" >der tägliche wahnsinn dienstag, zweiter april zweitausendzwei & freitag, fuenfter april zweitausendz</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   19
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   19.09.2003, 15:45
+  </td>
+  <td bgcolor="" class="right">
+   horus
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=34" target="_blank" >der tägliche wahnsinn dienstag, zwoelfter maerz zweitausendzwei</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=34','brainfuck','width=520,height=600,scrollbars=yes');" >der tägliche wahnsinn dienstag, zwoelfter maerz zweitausendzwei</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   6
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   19.09.2003, 15:43
+  </td>
+  <td bgcolor="" class="right">
+   horus
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=31" target="_blank" >der tägliche wahnsinn donnerstag, siebter maerz zweitausendzwei</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=31','brainfuck','width=520,height=600,scrollbars=yes');" >der tägliche wahnsinn donnerstag, siebter maerz zweitausendzwei</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   4
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   19.09.2003, 15:27
+  </td>
+  <td bgcolor="" class="right">
+   horus
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=32" target="_blank" >der tägliche wahnsinn freitag, achter maerz zweitausendzwei</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=32','brainfuck','width=520,height=600,scrollbars=yes');" >der tägliche wahnsinn freitag, achter maerz zweitausendzwei</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   4
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   19.09.2003, 15:41
+  </td>
+  <td bgcolor="" class="right">
+   horus
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=35" target="_blank" >der tägliche wahnsinn montag, achtzehnter maerz zweitausendzwei</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=35','brainfuck','width=520,height=600,scrollbars=yes');" >der tägliche wahnsinn montag, achtzehnter maerz zweitausendzwei</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   3
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   19.09.2003, 15:43
+  </td>
+  <td bgcolor="" class="right">
+   horus
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=33" target="_blank" >der tägliche wahnsinn montag, elfter maerz zweitausendzwei</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=33','brainfuck','width=520,height=600,scrollbars=yes');" >der tägliche wahnsinn montag, elfter maerz zweitausendzwei</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   2
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   19.09.2003, 15:42
+  </td>
+  <td bgcolor="" class="right">
+   horus
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=38" target="_blank" >der tägliche wahnsinn sonntag, sechsundzwanzigster mai zweitausendzwei</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=38','brainfuck','width=520,height=600,scrollbars=yes');" >der tägliche wahnsinn sonntag, sechsundzwanzigster mai zweitausendzwei</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   2
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   19.09.2003, 15:47
+  </td>
+  <td bgcolor="" class="right">
+   horus
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=36" target="_blank" >der tägliche wahnsinn zwischenbericht aus der internetabstinenz. samstag, dreiundzwanzigster maerz z</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=36','brainfuck','width=520,height=600,scrollbars=yes');" >der tägliche wahnsinn zwischenbericht aus der internetabstinenz. samstag, dreiundzwanzigster maerz z</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   3
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   19.09.2003, 15:44
+  </td>
+  <td bgcolor="" class="right">
+   horus
+  </td>
+ </tr> <tr>
+  <td bgcolor="" class="left">
+   <img src="http://disturbed-reality.de/artikel/img/artikel.gif" align="absmiddle">
+<!--   <a href="artikel.php?id=85" target="_blank" >DES GOTTES NIEDERKUNFT</a> -->
+   
+<a href="#" onClick="javascript: window.open('../artikel/artikel.php?id=85','brainfuck','width=520,height=600,scrollbars=yes');" >DES GOTTES NIEDERKUNFT</a> 
+   
+  </td>
+  <td bgcolor="" class="right">
+   17
+  </td>
+  <td bgcolor="" class="right">
+   1
+  </td>
+  <td bgcolor="" class="right">
+   20.09.2003, 14:55
+  </td>
+  <td bgcolor="" class="right">
+   die freakshow
+  </td>
+ </tr><tr><td align="left" valign="top" class="header" bgcolor="" colspan="4">
+      Seite:  <b>1</b>  <a href="index-brainfuck.php?eintrag=20&artcat=">2</a> <a href="index-brainfuck.php?eintrag=40&artcat=">3</a> <a href="index-brainfuck.php?eintrag=60&artcat=">4</a> <a href="index-brainfuck.php?eintrag=80&artcat=">5</a>
+      </td>
+      <td align="right" valign="top" class="header" bgcolor="">
+      <form method="post" name="sort" action="index-brainfuck.php">
+          <select onChange="gosort();" style='font-size:10px' name="setpasort">
+          <option value="titel">Sortierung</option>
+          <option value="titel">nach Titel</option>
+          <option value="time asc">nach Zeit</option>
+          <option value="time desc">nach Zeit rückwärts</option>
+          <option value="autor">nach Autor</option>
+          </select>
+      </td></form>
+      </tr><tr><td align="left" valign="top" class="info" bgcolor="" colspan="5">
+      <img src="http://disturbed-reality.de/artikel/img/cat.gif" align="absmiddle">
+      <a href="../artikel/suchen.php">Suchen</a> /
+      <a href="../artikel/admin.php">Admin</a>
+      </td></tr></table><table width="100%"><tr><td><center><font face=verdana size="1">
+              -- <a href="http://www.pscript.de" target="_blank">PSCRIPT Artikel 0.98 beta</a>  &copy; Thomas Ehrhardt, 2002-2003 --
+              </font></center></td></tr>
+      </table>90 
+</td>
+    </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td height="20" background="layout/tabelle_mitte.gif"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+        <tr> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td class="menue_top" width="20"> 
+            <div align="center"><a href="#top" class="menue_top">^</a></div>
+          </td>
+          <td width="20">&nbsp;</td>
+        </tr>
+
+        <tr> 
+          <td bgcolor="#A0A0A0" width="5">&nbsp;</td>
+          <td bgcolor="#A0A0A0" class="menue_unten">:bist-du-bloe.de v.X.4</td>
+          <td bgcolor="#A0A0A0" class="menue_unten">
+<div align="center">
+<font color="B0B0B0">
+<script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript">
+<!--
+  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);
+// -->
+</script>
+</font></div></td>
+          <td class="menue_top" height="20" bgcolor="#A0A0A0">&nbsp;</td>
+          <td bgcolor="#A0A0A0" width="20" class="menue_unten" align="center"> 
+            <div align="center"><a class="menue_unten" href="impressum.html"><b>i</b></a> 
+            </div>
+
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,500 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php" title="board.disturbed-reality.de Foren-Übersicht" />
+<link rel="search" href="./search.php" title="Suchen" />
+<link rel="help" href="./faq.php" title="FAQ" />
+<link rel="author" href="./memberlist.php" title="Mitgliederliste" />
+
+<title>board.disturbed-reality.de :: Suchen</title>
+<link rel="stylesheet" href="templates/DAJ_Glass/DAJ_Glass.css" type="text/css" />
+</head>
+<body>
+
+<a name="top"></a>
+
+<br class="gensmall">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+  	<td height="14" width="25" nowrap="nowrap" class="ul"></td>
+	<td width="100%" class="uc"></td>
+	<td width="25" nowrap="nowrap" class="ur"></td>
+  </tr>
+  <tr>
+  	<td class="headl"></td>
+	<td class="row3"><a href="index.php"><img src="templates/DAJ_Glass/images/logo_phpBB.gif" border="0" alt="board.disturbed-reality.de Foren-Übersicht" /></a>
+	</td>
+	<td class="headr"></td>
+  </tr>
+  <tr valign="bottom">
+  	<td rowspan="3" class="tul"></td>
+	<td height="30" class="tuc">
+	  <table width="100%" cellspacing="0" cellpadding="2">
+	  	<tr valign="bottom">
+		  <td><a href="index.php" class="mainmenu1">board.disturbed-reality.de</a></td>
+		  <td align="right" nowrap="nowrap">
+	  		<table cellspacing="0" cellpadding="0" border="0">
+	  		  <tr valign="bottom">
+	  		  <td>: <a href="http://disturbed-reality.de/blog/" class="mainmenu1">Blog</a> ::
+						<a href="http://disturbed-reality.de/review/" class="mainmenu1">Reviews</a> ::
+						<i class="mainmenu1">Board</i> :</td>
+		  		<td><a href="faq.php"><img src="templates/DAJ_Glass/images/icon_mini_faq.gif" border="0" alt="FAQ" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="faq.php" class="mainmenu1">FAQ</a>  </span></td>
+		  		<td><a href="search.php"><img src="templates/DAJ_Glass/images/icon_mini_search.gif" border="0" alt="Suchen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="search.php" class="mainmenu1">Suchen</a>  </span></td>
+		  		<td><a href="memberlist.php"><img src="templates/DAJ_Glass/images/icon_mini_members.gif" border="0" alt="Mitgliederliste" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="memberlist.php" class="mainmenu1">Mitgliederliste</a>  </span></td>
+		  		<td><a href="groupcp.php"><img src="templates/DAJ_Glass/images/icon_mini_groups.gif" border="0" alt="Benutzergruppen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="groupcp.php" class="mainmenu1">Benutzergruppen</a></span></td>
+			  </tr>
+	  		</table>
+		  </td>
+		</tr>
+	  </table>
+	</td>
+	<td rowspan="3" class="tur"></td>
+  </tr>
+  <tr>
+  	<td height="10" class="row5"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" height="1" width="1"></td>
+  </tr>
+  <tr valign="top">
+	<td height="30" nowrap="nowrap" class="tlc">
+	  <table width="100%" cellspacing="0" cellpadding="2" border="0">
+	  	<tr valign="top">
+		  <td><span class="mainmenu1">
+		  <a href="profile.php?mode=register" class="mainmenu1">Registrieren</a>  :: 
+		  <a href="login.php" class="mainmenu1">Login</a>
+		  </span></td>
+		  <td nowrap="nowrap" align="right"><span class="mainmenu1">
+		  <a href="privmsg.php?folder=inbox" class="mainmenu1">Einloggen, um private Nachrichten zu lesen</a>
+		  </span></td>
+		</tr>
+	  </table>
+	</td>
+  </tr>
+  <tr>
+    <td class="left"></td>
+	<td class="row2">
+<i><small>Werbung:</small></i>
+
+<ul style="width:100%;  margin-top:0px; margin-right:0px; overflow:hidden; margin-bottom:0px; padding:0px; list-style:none; border:0px none #FFFFFF; border-spacing:0px;">
+	<li style="display:inline; float:left; width:49%; clear:none;"><a style="line-height:140%;  font-size:12px;" href="http://www.geizclub24.de/gutscheine/DVD" target="_self">DVD Gutscheine</a></li>
+</ul>
+<hr><table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr valign="top">
+	<td nowrap="nowrap"><img src="templates/DAJ_Glass/images/nav.gif" border="0"></td>
+	<td width="100%" class="mainmenu"><a href="index.php" class="mainmenu">board.disturbed-reality.de Foren-Übersicht</a> » <a href="search.php" class="mainmenu">Suchen</a></td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="0" cellpadding="0" class="forumline">
+  <tr>
+	<td height="25" nowrap="nowrap" class="row4"><span class="cattitle"> Die Suche hat 109 Ergebnisse ergeben.</span></td>
+  </tr>
+  <tr>
+  	<td colspan="3">
+	  <table width="100%" cellspacing="1" cellpadding="3" border="0">
+		<tr align="center">
+		  <td width="150" height="20" class="row6" nowrap="nowrap"><span class="mainmenu">Autor</span></td>
+		  <td width="100%" class="row6" nowrap="nowrap"><span class="mainmenu">Nachricht</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=3755&amp;highlight=" class="mainmenu">...in der Schweiz verboten - DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>41</b><br />Aufrufe: <b>13709</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: Sa Feb 25, 2006 11:10 am   Titel: <b><a href="viewtopic.php?p=56693&amp;highlight=#56693">...in der Schweiz verboten - DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Thx für die Infos Freddy.<br /><br />Hier noch ein Interview von MPAA mit Herrn Zahnd von der Polizei Bern (der für die Schweizer Liste zuständig ist):<br />http://free.pages.at/zensuropfer/interview2.htm</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5432&amp;highlight=" class="mainmenu">WOW.... TEXAS CHAINSAW MASSACRE 1 - Saw Edition</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>30</b><br />Aufrufe: <b>5573</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Sa Feb 25, 2006 11:06 am   Titel: <b><a href="viewtopic.php?p=56692&amp;highlight=#56692">WOW.... TEXAS CHAINSAW MASSACRE 1 - Saw Edition</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">War gestern im Media Markt und hab das Ding unter die Lupe genommen, kostet dort ca. 19 Euro.<br />(Himmel ist das Teil hässlich <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" /> , solches Zeug haben wir im Kindergarten gebastelt. Naja, Geschmäcker ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5432&amp;highlight=" class="mainmenu">WOW.... TEXAS CHAINSAW MASSACRE 1 - Saw Edition</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>30</b><br />Aufrufe: <b>5573</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Di Feb 21, 2006 10:42 am   Titel: <b><a href="viewtopic.php?p=56508&amp;highlight=#56508">WOW.... TEXAS CHAINSAW MASSACRE 1 - Saw Edition</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Also ich hab eine andere Sicht zur Saw-Edition. Mir gefällt das Ding überhaupt nicht, unoriginell und billig. <br />&quot;Hm, machen wir mal was Spezielles draus... was passt zum Film? Ach ja, eine Ketten ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5474&amp;highlight=" class="mainmenu">Die Klasse von 1984- Yearbook Edition von XT</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>10</b><br />Aufrufe: <b>1230</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Di Feb 21, 2006 10:29 am   Titel: <b><a href="viewtopic.php?p=56507&amp;highlight=#56507">Die Klasse von 1984- Yearbook Edition von XT</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody"><br />Allerdings werde ich mir wohl kaum ein so hässliches Ding kaufen <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /><br />Diese Klassenbuch Edition war schon Ewigkeiten angekündigt von Mr.ich kann alles besser Oliver Krekel. Und was ist daraus geworde ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5019&amp;highlight=" class="mainmenu">MÜNCHEN</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>42</b><br />Aufrufe: <b>10371</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=20" class="postdetails">Allgemeines</a></b>   Verfasst am: Di Feb 21, 2006 10:22 am   Titel: <b><a href="viewtopic.php?p=56506&amp;highlight=#56506">MÜNCHEN</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hab München nun gesehen<br />Hab mir was anderes darunter vorgestellt, war zu Beginn also etwas enttäuscht.<br />Der Streifen ist vergleichbar mit JFK (obwohl ich den Film noch nie ganz gesehen habe)<br /><br />Die G ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=3755&amp;highlight=" class="mainmenu">...in der Schweiz verboten - DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>41</b><br />Aufrufe: <b>13709</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: Mi Feb 08, 2006 10:58 pm   Titel: <b><a href="viewtopic.php?p=55858&amp;highlight=#55858">...in der Schweiz verboten - DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ein Bekannter wurde für Woodoo angezeigt. Folge: DVD eingezogen, kein Strafregister-Eintrag, Gebühr 80 Euro.<br /><br />Beim DVD-Erwerb war er noch nicht volljährig, d.h. 17 (In der Schweiz gibt es jedoch bei ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=3755&amp;highlight=" class="mainmenu">...in der Schweiz verboten - DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>41</b><br />Aufrufe: <b>13709</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: Fr Dez 30, 2005 12:28 pm   Titel: <b><a href="viewtopic.php?p=54356&amp;highlight=#54356">...in der Schweiz verboten - DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">In der Schweiz sollen also die Nachrichten abgeschafft werden?!? Veeeersteeeeheeeee. <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />Nur der Teil der menschenverachtenden Nachrichten, der keinen wissenschaftlichen und/oder kulturellen Wert hat ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=3755&amp;highlight=" class="mainmenu">...in der Schweiz verboten - DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>41</b><br />Aufrufe: <b>13709</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: Fr Dez 30, 2005 12:56 am   Titel: <b><a href="viewtopic.php?p=54345&amp;highlight=#54345">...in der Schweiz verboten - DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hmm, wenn schon solche Gesetze ins Leben gerufen werden ist es meiner Meinung nach auch Sache der Behörden, hierfür eine verbindliche Richtlinie zu schaffen und nicht einfach die Tore für ein Handeln  ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5349&amp;highlight=" class="mainmenu">Anschlag bei Nacht jetzt FSK 16 und uncut! Was zum...?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>6</b><br />Aufrufe: <b>1383</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: Fr Dez 30, 2005 12:39 am   Titel: <b><a href="viewtopic.php?p=54344&amp;highlight=#54344">Re: Anschlag bei Nacht jetzt FSK 16 und uncut! Was zum...?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody"><br />Der FSK hätte es wohl kaum einer übel genommen, wenn der Streifen weiterhin ab 18 gewesen wär. Die Szene mit dem kleinen Mädchen finde ich nach wie vor nicht ohne. Zwar nicht sonderlich blutig darge ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=3755&amp;highlight=" class="mainmenu">...in der Schweiz verboten - DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>41</b><br />Aufrufe: <b>13709</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: Mi Dez 14, 2005 8:06 pm   Titel: <b><a href="viewtopic.php?p=54110&amp;highlight=#54110">...in der Schweiz verboten - DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">"Alle Filme mit blutigem Cover" ist so weitreichend, daß ist in meinen Augen nicht nur Willkür, sondern schon reine Schikane.<br />Aber wie sollen sie auch sonst vorgehen?  <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /> Schliesslich sind die Bullen ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=3755&amp;highlight=" class="mainmenu">...in der Schweiz verboten - DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>41</b><br />Aufrufe: <b>13709</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: So Dez 11, 2005 12:36 pm   Titel: <b><a href="viewtopic.php?p=54043&amp;highlight=#54043">...in der Schweiz verboten - DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody"><br />Was ich jetzt allerdings nicht verstehe ist folgendes. Es gibt also bei euch in der Schweiz Filme, die im Laden stehen zum freien Verkauf,<br />und für die gleichzeitig Privat Personen schon für den Bes ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5307&amp;highlight=" class="mainmenu">Frage: Beiträge nummerieren?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>6</b><br />Aufrufe: <b>2062</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=17" class="postdetails">Support</a></b>   Verfasst am: So Dez 04, 2005 4:30 pm   Titel: <b><a href="viewtopic.php?p=53910&amp;highlight=#53910">Frage: Beiträge nummerieren?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Kann ich mir vostellen<br />okey, danke  <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5307&amp;highlight=" class="mainmenu">Frage: Beiträge nummerieren?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>6</b><br />Aufrufe: <b>2062</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=17" class="postdetails">Support</a></b>   Verfasst am: Sa Dez 03, 2005 9:47 pm   Titel: <b><a href="viewtopic.php?p=53895&amp;highlight=#53895">Frage: Beiträge nummerieren?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">http://forum.underground-city.ch/images/smiles/icon_angry.gif ich wollte doch nur wissen ob sowas möglich ist oder nicht, nix weiter:  <br /><br />http://img382.imageshack.us/img382/9243/bild46yh.jpg<br /><br />Klick ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5307&amp;highlight=" class="mainmenu">Frage: Beiträge nummerieren?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>6</b><br />Aufrufe: <b>2062</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=17" class="postdetails">Support</a></b>   Verfasst am: Sa Dez 03, 2005 7:08 pm   Titel: <b><a href="viewtopic.php?p=53886&amp;highlight=#53886">Frage: Beiträge nummerieren?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Nene, du hast mich falsch verstanden. Mit durchnummerierten Beiträgen meinte ich Posts in einem Thread und nicht die Threads selbst (scheiss Verenglischisierung), alles andere wäre nicht so praktisch. ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=3755&amp;highlight=" class="mainmenu">...in der Schweiz verboten - DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>41</b><br />Aufrufe: <b>13709</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: Sa Dez 03, 2005 5:31 pm   Titel: <b><a href="viewtopic.php?p=53885&amp;highlight=#53885">...in der Schweiz verboten - DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody"><br /><br /><br />**Denn 1. Stellt sich ein Film erst als verboten heraus, wenn der Film vor Gericht dem Art. 135 zugeordnet wurde, also weiss der Konsument zu Beginn nicht ob er was Verbotenes besitzt oder nicht ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=3755&amp;highlight=" class="mainmenu">...in der Schweiz verboten - DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>41</b><br />Aufrufe: <b>13709</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: Sa Dez 03, 2005 12:52 pm   Titel: <b><a href="viewtopic.php?p=53882&amp;highlight=#53882">...in der Schweiz verboten - DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Da das hier ja jetzt nicht Ausarten soll, werde ich mal zum Ende kommen.<br />zu spät, jetzt will ich dich mal mit Fragen bombardieren  <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /> (Übrigens, in welchem Semester bist du?)<br /><br />Kommen wir mal zur Um ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5307&amp;highlight=" class="mainmenu">Frage: Beiträge nummerieren?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>6</b><br />Aufrufe: <b>2062</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=17" class="postdetails">Support</a></b>   Verfasst am: Fr Dez 02, 2005 12:00 pm   Titel: <b><a href="viewtopic.php?p=53867&amp;highlight=#53867">Frage: Beiträge nummerieren?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Kurze Frage:<br />Wäre es möglich beim aktuellen Forumsystem eine Funktion einzubauen, wobei alle Beiträge pro Topic durchnummeriert wären, so dass man direkt auf einen Beitrag mit einem Link auf die Numm ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=3755&amp;highlight=" class="mainmenu">...in der Schweiz verboten - DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>41</b><br />Aufrufe: <b>13709</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: Fr Dez 02, 2005 11:40 am   Titel: <b><a href="viewtopic.php?p=53866&amp;highlight=#53866">...in der Schweiz verboten - DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Na ja, bei dem Verbot von Blutgeil bin ich mir nich sicher, ob´s wirklcih was offizielles ist... Im Netz gab´s dazu ja mal ´ne Seite (Addy habe ich leider nich mehr zu Hand), das sah alles in allem sc ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=3755&amp;highlight=" class="mainmenu">...in der Schweiz verboten - DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>41</b><br />Aufrufe: <b>13709</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: Di Nov 29, 2005 11:37 pm   Titel: <b><a href="viewtopic.php?p=53807&amp;highlight=#53807">...in der Schweiz verboten - DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ich hab noch was <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /> <br />du kannst in der Schweiz sogenannte beschlagnahmte Filme verkaufen, solange niemand reklamiertund Anzeige erstattet.<br /><br />LACH, du kannst in Deutschland auch problemlos Koks und He ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5244&amp;highlight=" class="mainmenu">Murder Set Pieces  Trailer</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>34</b><br />Aufrufe: <b>10518</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mi Nov 09, 2005 8:47 pm   Titel: <b><a href="viewtopic.php?p=53539&amp;highlight=#53539">Murder Set Pieces  Trailer</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Also ich weiß ja nicht, vielleicht sind die Bilder auch einfach zu klein, aber ich kann irgendwie keinen Unterschied erkennen...  <img src="images/smiles/icon_confused.gif" alt="Confused" border="0" /><br /><br />Ne, die Bilder sind identisch ... Beide liegen hier: <br />Hab aus v ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5244&amp;highlight=" class="mainmenu">Murder Set Pieces  Trailer</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>34</b><br />Aufrufe: <b>10518</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mi Okt 26, 2005 10:24 pm   Titel: <b><a href="viewtopic.php?p=53368&amp;highlight=#53368">Murder Set Pieces  Trailer</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Die DVD (2 Cover-Varianten) sollte am 1.11.2005 von Fright Flix Productions erscheinen<br /><br />Cover A:<br />http://www.sazuma.com/images/FRFLX002.jpg<br /><br />Cover B:<br />http://www.sazuma.com/images/FRFLX003.jpg<br />Bi ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1663&amp;highlight=" class="mainmenu">MANIAC - Anchor Bay (Limited Edition Tin Box)</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>40</b><br />Aufrufe: <b>10656</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mi Sep 28, 2005 9:32 pm   Titel: <b><a href="viewtopic.php?p=52512&amp;highlight=#52512">MANIAC - Anchor Bay (Limited Edition Tin Box)</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Bin bis heute immernoch auf der Suche nach der Maniac-Tin <img src="images/smiles/icon_cry.gif" alt="Crying or Very sad" border="0" /> Auch die Evil Dead 2 Tin habe ich knapp verpasst.<br /><br />Die Halloween 4+5 Boxen habe ich (auch bei 20 bzw. 30 Euro) links liegen gelassen.  ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5094&amp;highlight=" class="mainmenu">Die seltenste DVD-Box aller Zeiten (TAKEN - Limited Edition)</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>36</b><br />Aufrufe: <b>7421</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mo Aug 22, 2005 5:14 pm   Titel: <b><a href="viewtopic.php?p=51308&amp;highlight=#51308">Die seltenste DVD-Box aller Zeiten (TAKEN - Limited Edition)</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Außerdem kann ich Dakota Fanning auf den Tod nicht ab...<img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />Da kann ich mich nur anschliessen  <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /> <br /><br />Ich kenne -Taken- leider nicht, ist das die Serie -Steven Spielberg präsentiert Taken- ? <img src="images/smiles/icon_razz.gif" alt="Razz" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=4884&amp;highlight=" class="mainmenu">CDU: Deutschkurse für alle Ausländer</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>33</b><br />Aufrufe: <b>9210</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=2" class="postdetails">Brainfuck</a></b>   Verfasst am: Mo Aug 01, 2005 3:53 pm   Titel: <b><a href="viewtopic.php?p=50528&amp;highlight=#50528">CDU: Deutschkurse für alle Ausländer</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ich für meinen Teil versuche mich lieber mit den Menschen selbst zu befassen, und nicht mit ihrer ethnischen Herkunft (das als auch der Rest gilt für mich, heisst aber nicht, dass du das Gegenteil mac ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=4884&amp;highlight=" class="mainmenu">CDU: Deutschkurse für alle Ausländer</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=59">Burny</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>33</b><br />Aufrufe: <b>9210</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=2" class="postdetails">Brainfuck</a></b>   Verfasst am: Mo Aug 01, 2005 3:00 am   Titel: <b><a href="viewtopic.php?p=50518&amp;highlight=#50518">CDU: Deutschkurse für alle Ausländer</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">@deutschprofessor burny<br />Ich hab sogar einen Doktor-Titel! <img src="images/smiles/icon_twisted.gif" alt="Twisted Evil" border="0" /> <br />süß bist du *zwinker* <br />hassu schomma daine rächtschraibfäla übaprüft? 18 fälas <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />aber wir alle machen fehler  <img src="images/smiles/icon_rolleyes.gif" alt="Rolling Eyes" border="0" /><br />Tja, hab ...</span></td>
+  		</tr>
+	  </table>
+	</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+  <tr valign="top">
+	<td><span class="genmed">Gehe zu Seite <b>1</b>, <a href="search.php?search_id=1707894851&amp;start=25">2</a>, <a href="search.php?search_id=1707894851&amp;start=50">3</a>, <a href="search.php?search_id=1707894851&amp;start=75">4</a>, <a href="search.php?search_id=1707894851&amp;start=100">5</a>&nbsp;&nbsp;<a href="search.php?search_id=1707894851&amp;start=25">Weiter</a></span></td>
+	<td align="right" nowrap="nowrap"><span class="nav">Seite <b>1</b> von <b>5</b></span></td>
+  </tr>
+</table>
+
+<br /><form method="get" name="jumpbox" action="viewforum.php" onSubmit="if(document.jumpbox.f.value == -1){return false;}">
+<table width="100%" cellspacing="1" border="0" cellpadding="1">
+  <tr>
+	<td align="right" nowrap="nowrap"><span class="gensmall">Gehe zu: <select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42">Updates</option><option value="17">Support</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">Brainfuck</option><option value="25">Lustiges aus dem Netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">Allgemeines</option><option value="28">Splatter & Horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">Hollywood und mehr…</option><option value="19">Schnittberichte und Zensur</option><option value="34">Amateurfilme, Börsen & Veranstaltungen</option><option value="31">...im TV</option><option value="33">...und die passende Musik</option><option value="32">Gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">Marktplatz</option><option value="-1">----------------</option><option value="23">Gesucht und Gefunden</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">Hard-& Software</option><option value="-1">----------------</option><option value="36">Computer, Betriebssysteme & Programme</option><option value="37">Internet</option><option value="38">Spiele</option><option value="-1">&nbsp;</option><option value="-1">Offtopic</option><option value="-1">----------------</option><option value="26">Sunshine-bar</option><option value="45">Politik</option></select><input type="hidden" name="sid" value="83c9bbbf1f21a8844b0a204348cedd54" /> <input type="submit" class="newsbutton" value="Go" /></span></td>
+  </tr>
+</table>
+</form>
+
+
+<p align="center">
+<table align="center" border="0">
+<tr>
+<td align="left">
+<!-- eBay RelevanceAd -->
+<script language='JavaScript' type='text/javascript'>
+//<-- DO NOT CHANGE -->
+// <!--<[CDATA[
+    era_width = '120';
+    era_height = '120';
+    era_layout = 'img';
+    era_color_border = 'FFFFFF';
+    era_color_bg = 'FFFFFF';
+    era_color_text = '000000';
+    era_color_title = '000000';
+    era_color_link = '003399';
+    era_itemtype = '0';
+    era_maxprice = '50';
+    era_desiredcategory = '83733';
+    era_hint= 'sammler,collector,edition,special,SE';
+    era_publisher='282182';
+// ]]> -->
+</script>
+<script language='JavaScript' type='text/javascript' src='http://ebayrelevancead.webmasterplan.com/js/show_ads.js'></script>
+<!-- /eBay RelevanceAd -->
+
+</td>
+
+<td align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+  //<!--<[CDATA[
+    am_referrer = '282182';
+    am_template = '4';
+
+    am_color_text = '000000';
+    am_color_title = '000000';
+    am_color_border = 'FFFFFF';
+    am_color_background = 'FFFFFF';
+    am_color_price = '990000';
+    am_color_link = '333333';
+
+    am_stmo = '1';
+  // ]]> -->
+</script>
+<script language="JavaScript" type="text/javascript" src="http://banners.affilimatch.de/show_ads.js"></script>
+<!-- END PARTNER PROGRAM -->
+</td>
+<td align="right">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<a href="http://partners.webmasterplan.com/click.asp?ref=282182&site=3729&type=b86&bnb=86"  target="_top">
+<img src="http://banners.webmasterplan.com/view.asp?ref=282182&site=3729&b=86" border="0" alt="Tauschen statt kaufen! Bei Anmeldung ein Artikel geschenkt. Hier klicken!" width="125" height="125"/></a><br>
+<!-- END PARTNER PROGRAM -->
+</td>
+</tr></table>
+
+
+
+
+
+
+
+
+
+<!-- Site Meter --><p align="right">
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1247354-1";
+urchinTracker();
+</script>
+
+  	</td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td class="left"></td>
+	<td class="row2" align="center"><span class="copyright"><br /><br />
+	Based on DAJ Glass, a template by <a href="http://www.dumbassjones.com/" target="_blank" class="copyright">Dustin Baccetti</a>. EQ graphic based off of a design from <a href="http://www.freeclipart.nu" class="copyright" target="blank">www.freeclipart.nu</a>. Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> © 2001, 2006 phpBB Group<br><a href="http://disturbed-reality.de/blog/?page_id=645">Impressum</a> | <a href="http://disturbed-reality.de/blog/?page_id=1624">Datenschutzhinweise</a><br /></span></td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td height="27" class="ll"></td>
+	<td class="lc"></td>
+	<td class="lr"></td>
+  </tr>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/1">
+	<title>reviews.disturbed-reality.de | PmWikiDe / Lokale Einstellungen </title>
+    <meta http-equiv='Content-Style-Type' content='text/css' />
+	<meta http-equiv="Content-Type" content="text/html;" />
+
+	<link rel="stylesheet" href='http://disturbed-reality.de/wiki/pub/skins/disturbed/wp-layout.css' type="text/css" media="screen" />
+
+	<style type="text/css" media="screen">
+
+/* BEGIN IMAGE CSS */
+/*	To accomodate differing install paths of WordPress, images are referred only here,
+    and not in the wp-layout.css file. If you prefer to use only CSS for colors and what
+    not, then go right ahead and delete the following lines, and the image files. */
+
+body { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickbgcolor.jpg"); }	
+#page { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickbg.jpg") repeat-y top; border: none; } 
+#header { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickheader.jpg") no-repeat bottom center; }
+#footer { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+			
+/*  Because the template is slightly different, size-wise, with images, this needs to be set here
+    If you don't want to use the template's images, you can also delete the following two lines. */
+			
+#header { margin: 0 !important; margin: 0 0 0 1px; padding: 1px; height: 198px; width: 758px; }
+#headerimg { margin: 7px 9px 0; height: 192px; width: 740px; } 
+/* END IMAGE CSS */
+		
+
+/* 	To ease the insertion of a personal header image, I have done it in such a way,
+    that you simply drop in an image called 'personalheader.jpg' into your /images/
+    directory. Dimensions should be at least 760px x 200px. Anything above that will
+    get cropped off of the image. */
+		
+#headerimg { background: url('http://disturbed-reality.de/wiki/pub/skins/disturbed/images/personalheader.jpg') no-repeat top;}
+</style>
+<script language="javascript" src="/pub/guiedit/guiedit.js"></script>
+</head>
+
+<body>
+<div id="page">
+
+<? // Begin Header ?>
+<div id="header">
+	<div id="headerimg">
+		<!--<h1><a href="http://disturbed-reality.de/wiki/pmwiki.php" title="reviews.disturbed-reality.de">reviews.disturbed-reality.de</a></h1>-->
+		<!--<div class="description">
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/ConfigFileLocalization'>Lokale Einstellungen</a></h2>
+        </div>-->
+	</div>
+</div>
+<hr />
+<? // End Header ?>
+<p align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1321&refurl='+escape(document.location.href)+'" width="728" height="90" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM -->
+
+
+<!--Begin Frontpage-->
+<br />	<div id="content" class="narrowcolumn">
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/ConfigFileLocalization'>Lokale Einstellungen</a>
+        
+
+        <!--PageText-->
+<div id='wikitext'>
+<p>
+<span style='font-size:83%'><span  style='color: green;'>(deutsche Übersetzung der Seite <a style='color: green' class='urllink' href='http://www.pmwiki.org/wiki/PmWiki/Localization.SampleConfigFileLocalization' rel='nofollow'>PmWiki:Localization.SampleConfigFileLocalization</a>, Stand 06.09.2005)</span></span>
+</p>
+<p class='vspace'></p><p>Weiter unten findet man Einstellungen um PmWiki für die eigene Sprache anzupassen.<br />Diese sollten am Ende der Datei local/config.php eingefügt werden.
+</p>
+<p class='vspace'></p><p>Um die gewünschten Einstellungen zu aktivieren einfach das führende # löschen.
+</p>
+<p class='vspace'></p><p>Hier sind Variablen und Daten anthalten, die nicht direkt in der <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/XLPage'>XLPage</a> gesetzt werden können
+</p>
+<p class='vspace'></p><p>Hier ein französisches Beispiel dieser Seite:
+</p><ul><li><a class='urllink' href='http://www.pmwiki.org/wiki/PmWiki/PmWikiFr.FichierDeConfiguration#Francisation' rel='nofollow'>PmWiki:PmWikiFr.FichierDeConfiguration#Francisation</a>
+</li></ul><p class='vspace'></p><p>Siehe auch 
+</p><ul><li><a class='urllink' href='http://www.pmwiki.org/wiki/PmWiki/Cookbook.SideBarNameChange' rel='nofollow'>PmWiki:Cookbook.SideBarNameChange</a>
+</li><li><a class='urllink' href='http://www.pmwiki.org/wiki/PmWiki/Cookbook.MainGroupChange' rel='nofollow'>PmWiki:Cookbook.MainGroupChange</a>
+</li></ul><p class='vspace'></p><hr />
+<p class='vspace'></p><pre> 
+##--------------- Lokale Einstellungen -----------------------------------
+
+# XLPage('de','PmWikiDe.XLPage'); #aktiviert die deutsche Übersetzung
+# XLPage('de','PmWikiDe.XLPageCookbook');
+
+##-- Zeichenketten und Seiten----------
+
+# $DefaultGroup = 'DeinWiki'; # Standardgruppe, Voreinstellung: 'Main'
+# $DefaultName = 'StartSeite'; # Startseite jeder Gruppe, Voreinstellung: 'HomePage'
+# $TimeFmt = "%d.%m.%Y %H:%M Uhr"; # Datums-/Uhrzeitformat
+# $AuthorGroup='Profile'; # Name der Autorengruppe, Voreinstellung 'Profiles'
+# $AuthorRequiredFmt = 'Gib Deinen Namen/Kürzel an'; #Wenn ein Autorenname verlangt wird
+
+##-- Seitenmanagement ------------------
+
+# $DefaultPageTextFmt = 'Die Seite $Name gibt es nicht'; # Abgelehnt ? 
+# $PageNotFound = 'PmWikiDe.PageNotFound'; #Umleiten, wenn Seite nicht gefunden wurde
+## Ausdruck, der anzeigt, dassdie Seite gelöscht werden soll
+# $DeleteKeyPattern = "^\\s*löschen\\s*$"; # Voreinstellung 'delete'
+# $PageRedirectFmt = '&lt;p&gt;&lt;i&gt;umgeleitet von $FullName&lt;/p&gt;';
+
+## Definition für die Anzeige der kürzlichen Änderungen (RecentChanges) mit Titelanzeige
+## Voreinstellung:
+## $RecentChangesFmt = array(
+##  '$DefaultGroup.AllRecentChanges' =&gt; 
+##   '* [[$Group.$Name]]  . . . $CurrentTime $[by] $AuthorLink',
+##  '$Group.RecentChanges' =&gt;
+##    '* [[$Group/$Name]]  . . . $CurrentTime $[by] $AuthorLink'); 
+# $RecentChangesFmt = array(
+#  '$DefaultGroup.AlleKürzlichenÄnderungen' =&gt; 
+#   '* [[$Group.$Name]] - $Title  . . . $CurrentTime $[by] $AuthorLink',
+#  '$Group.KürzlicheÄnderungen' =&gt;
+#    '* [[$Group/$Name]] - $Title  . . . $CurrentTime $[by] $AuthorLink'); 
+
+## Definition von kürzlich hochgeladenen Dateien ... 
+# $RecentUploads = array(  # ... später
+
+## Vordefinierte lokale Stile
+# $WikiStyle['LcBlack']['color'] = 'schwarz';
+# $WikiStyle['LcWhite']['color'] = 'weiß';
+# $WikiStyle['LcRed']['color'] = 'rot';
+# $WikiStyle['LcGreen']['color'] = 'grün';
+# $WikiStyle['LcBlue']['color'] = 'blau';
+# $WikiStyle['LcYellow']['color'] = 'gelb';
+# $WikiStyle['LcGray']['color'] = 'grau';
+# $WikiStyle['LcSilver']['color'] = 'silber';
+# $WikiStyle['LcMaroon']['color'] = 'braun';
+# $WikiStyle['LcPurple']['color'] = 'lila';
+# $WikiStyle['LcNavy']['color'] = 'navy';
+
+##-- Gruppen und Seiten, die von der Suche ausgeschlossen werden sollen ----------------
+
+# $SearchPatterns['default'][] = '!\\.Search$!'; #Suchseite selbst ausschliessen
+# $SearchPatterns['default'][] = '!\\.(Alle)?Kürzlichen(Änderungen|HochgeladeneDateien)$!';
+# $SearchPatterns['default'][] = '!\\.StartSeite$!';
+# $SearchPatterns['default'][] = '!\\.SideBar$!'; # Seitenleiste
+# $SearchPatterns['allgroups'] = $SearchPatterns['default'];
+# $SearchPatterns['default'][] = '!^PmWiki\\.!'; # Gruppe PmWiki ausschliessen
+# $SearchPatterns['default'][] = '!^EineWikiGruppe\\.!';
+## usw..
+
+## Die Gruppe PmWiki kann ausgeschlossen werden, wenn die Übersetzung
+## ziemlich komplett ist. Das bedeutet, dass man auf die Seiten zugreifen
+## kann. Sie erscheinen aber nicht als Ergebnis bei der Suche oder in
+## den Seitenlisten. Um die Suche in dieser Gruppe zu erlauben ist im obigen
+## Beispiel das Array 'allgroups' erzeugt worden um weitere Suche/Listen zu
+## ermöglichen. Zum Beispiel :
+## (:pagelist group=PmWiki list=allgroups:)
+## oder man trägt 'list=allgroups' in der Suche ein, um alle zu durchsuchen.
+
+##-- Module ------------------------------------------------------
+
+##- Wenn das Modul PageRefCount geladen ist --
+# $PageRefCountFmt = "&lt;h1&gt;Cross references&lt;/h1&gt;&lt;p&gt;"; # Seitentitel
+# $RefCountTimeFmt = "&lt;small&gt;%d.%m.%Y %H:%M Uhr&lt;/small&gt;"; # Datumsformat
+## Andere Zeichenketten können nur im Quelltext des refcount Moduls geändert
+## werden. In diesem Fall verwendet man eine Kopie von refcount im lokalen
+## Verzeichnis.
+
+## Zeichenketten bei Mailposts (Benachrichtung bei Seitenveränderung).
+## Nur für Administartoren, nicht kritisch...
+# $MailPostsMessage = "Kürzliche Änderungen in Deinem Wiki:\n 
+# ($ScriptUrl/$DefaultGroup/AlleKürzlichenÄnderungen)\n\n\$MailPostsList\n";
+# $MailPostsSubject = "$WikiTitle : Kürzliche Änderungen in Deinem Wiki";
+# $MailPostsTimeFmt = $TimeFmt;
+# $MailPostsItemFmt = ' * $FullName - $Title . . . $PostTime von $Author';
+
+## Falls das urlapprove Module geladen wird --
+$ApprovedUrlPagesFmt = array('$DefaultGroup.ZugelasseneWebseiten');
+
+##-- Aus der Dokumentation -------------------------------------------
+
+## Hier werden Seiten definiert, in denen Variablen beschriben sind.
+## Diese Seiten sollten in Deiner Sprache existieren
+#$VarPagesFmt = array('PmWikiLc.Variables','PmWikiLc.BasicVariables',
+#  'PmWikiDe.LayoutVariables','PmWikiDe.LinksVariables',
+#  'PmWikiDe.EditVariables','PmWikiDe.UploadVariables',
+#  'PmWikiDe.OtherVariables','PmWikiDe.MailPosts');
+
+
+</pre>
+</div>
+
+	
+	   <!-- Das kann man vielleicht mal fŸr Trails noch brauchen, aber wohl eher nicht
+		<div class="navigation">
+			<div class="alignleft"><?php posts_nav_link('','','&laquo; Previous Entries') ?></div>
+			<div class="alignright"><?php posts_nav_link('','Next Entries &raquo;','') ?></div>
+		</div>
+		-->
+		
+	</div>
+	
+<!--End Frontpage-->
+
+<? // Begin Sidebar Menu ?>
+<?php /* If this is not a permalink page, show the menu */ if (!($withcomments) && (!$single)) { ?>
+
+	<div id="sidebar">
+		<ul>
+			<li>
+                You are on <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+                <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/ConfigFileLocalization'>Lokale Einstellungen</a>
+            </li>
+
+			<li>
+                <!-- MIKE: Suchform-->
+                <form action='http://disturbed-reality.de/wiki/pmwiki.php'>
+                    <input type='hidden' name='n' value='PmWikiDe.ConfigFileLocalization' />
+                    <input type='hidden' name='action' value='search' />
+                    <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Search'>Suchen</a>:
+                    <input class='searchbox' type='text' name='q' value='' />
+                    <input class='searchbutton' type='submit' value='Los' />
+                </form>
+			</li>
+                        
+            <!-- MIKE: Seitentitel und Gruppe-->
+            <li>
+                <h1><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWikiDe'>Deutsches Wiki</a></h1>
+<ul><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiWikiWeb'>Was ist ein Wiki?</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Installation'>Installation</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DocumentationIndex'>Dokumentationsindex</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiSandbox'>Sandkasten</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/RecentChanges'>Aktuelle Änderungen</a>
+</li></ul><hr />
+<p class='vspace'></p>
+
+            </li>
+
+		</ul>
+	</div>
+
+<? } // End Sidebar Menu  ?>
+
+
+
+<? // Begin Footer ?>
+<hr />
+<div id="footer">
+	<p>
+		<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/ConfigFileLocalization?action=edit'>Seite Bearbeiten</a> -
+		<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/ConfigFileLocalization?action=diff'>Seitenhistorie</a> -
+	 	<!--<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/ConfigFileLocalization?action=upload'>Upload File</a> -->		
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/ConfigFileLocalization?action=print' target='_blank'>Druckansicht</a> -
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/RecentChanges'>Aktuelle &Auml;nderungen</a> -
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Search'>Suchen</a><br /><br />
+        <br />Zuletzt ge&auml;ndert am 06.09.2005 22:37 Uhr		   		
+		<br />reviews.disturbed-reality.de is running  
+		<a href="http://www.pmwiki.org">PmWiki</a>. 
+<!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><!-- End of Netstat Code -->
+<?PHP include("../counter/inc.stats.php");?>
+<!-- alo counter block -->
+<!-- Site Meter -->
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+
+        </div>
+		
+	</p>
+</div>
+</div>
+<? // End Footer ?><br>
+</body>
+</html>

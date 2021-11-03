@@ -1,0 +1,500 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php" title="board.disturbed-reality.de Foren-Übersicht" />
+<link rel="search" href="./search.php" title="Suchen" />
+<link rel="help" href="./faq.php" title="FAQ" />
+<link rel="author" href="./memberlist.php" title="Mitgliederliste" />
+
+<title>board.disturbed-reality.de :: Suchen</title>
+<link rel="stylesheet" href="templates/DAJ_Glass/DAJ_Glass.css" type="text/css" />
+</head>
+<body>
+
+<a name="top"></a>
+
+<br class="gensmall">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+  	<td height="14" width="25" nowrap="nowrap" class="ul"></td>
+	<td width="100%" class="uc"></td>
+	<td width="25" nowrap="nowrap" class="ur"></td>
+  </tr>
+  <tr>
+  	<td class="headl"></td>
+	<td class="row3"><a href="index.php"><img src="templates/DAJ_Glass/images/logo_phpBB.gif" border="0" alt="board.disturbed-reality.de Foren-Übersicht" /></a>
+	</td>
+	<td class="headr"></td>
+  </tr>
+  <tr valign="bottom">
+  	<td rowspan="3" class="tul"></td>
+	<td height="30" class="tuc">
+	  <table width="100%" cellspacing="0" cellpadding="2">
+	  	<tr valign="bottom">
+		  <td><a href="index.php" class="mainmenu1">board.disturbed-reality.de</a></td>
+		  <td align="right" nowrap="nowrap">
+	  		<table cellspacing="0" cellpadding="0" border="0">
+	  		  <tr valign="bottom">
+	  		  <td>: <a href="http://disturbed-reality.de/blog/" class="mainmenu1">Blog</a> ::
+						<a href="http://disturbed-reality.de/review/" class="mainmenu1">Reviews</a> ::
+						<i class="mainmenu1">Board</i> :</td>
+		  		<td><a href="faq.php"><img src="templates/DAJ_Glass/images/icon_mini_faq.gif" border="0" alt="FAQ" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="faq.php" class="mainmenu1">FAQ</a>  </span></td>
+		  		<td><a href="search.php"><img src="templates/DAJ_Glass/images/icon_mini_search.gif" border="0" alt="Suchen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="search.php" class="mainmenu1">Suchen</a>  </span></td>
+		  		<td><a href="memberlist.php"><img src="templates/DAJ_Glass/images/icon_mini_members.gif" border="0" alt="Mitgliederliste" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="memberlist.php" class="mainmenu1">Mitgliederliste</a>  </span></td>
+		  		<td><a href="groupcp.php"><img src="templates/DAJ_Glass/images/icon_mini_groups.gif" border="0" alt="Benutzergruppen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="groupcp.php" class="mainmenu1">Benutzergruppen</a></span></td>
+			  </tr>
+	  		</table>
+		  </td>
+		</tr>
+	  </table>
+	</td>
+	<td rowspan="3" class="tur"></td>
+  </tr>
+  <tr>
+  	<td height="10" class="row5"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" height="1" width="1"></td>
+  </tr>
+  <tr valign="top">
+	<td height="30" nowrap="nowrap" class="tlc">
+	  <table width="100%" cellspacing="0" cellpadding="2" border="0">
+	  	<tr valign="top">
+		  <td><span class="mainmenu1">
+		  <a href="profile.php?mode=register" class="mainmenu1">Registrieren</a>  :: 
+		  <a href="login.php" class="mainmenu1">Login</a>
+		  </span></td>
+		  <td nowrap="nowrap" align="right"><span class="mainmenu1">
+		  <a href="privmsg.php?folder=inbox" class="mainmenu1">Einloggen, um private Nachrichten zu lesen</a>
+		  </span></td>
+		</tr>
+	  </table>
+	</td>
+  </tr>
+  <tr>
+    <td class="left"></td>
+	<td class="row2">
+<i><small>Werbung:</small></i>
+
+<ul style=" border:0px none #FFFFFF; margin-top:0px; margin-bottom:0px; padding:0px; width:100%; overflow:hidden; margin-right:0px; list-style:none; border-spacing:0px;">
+	<li style="float:left; display:inline; clear:none; width:49%;"><a style=" line-height:140%; font-size:12px;" href="http://www.geizclub24.de/gutscheine/DVD" target="_self">DVD Gutscheine</a></li>
+</ul>
+<hr><table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr valign="top">
+	<td nowrap="nowrap"><img src="templates/DAJ_Glass/images/nav.gif" border="0"></td>
+	<td width="100%" class="mainmenu"><a href="index.php" class="mainmenu">board.disturbed-reality.de Foren-Übersicht</a> » <a href="search.php" class="mainmenu">Suchen</a></td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="0" cellpadding="0" class="forumline">
+  <tr>
+	<td height="25" nowrap="nowrap" class="row4"><span class="cattitle"> Die Suche hat 5499 Ergebnisse ergeben.</span></td>
+  </tr>
+  <tr>
+  	<td colspan="3">
+	  <table width="100%" cellspacing="1" cellpadding="3" border="0">
+		<tr align="center">
+		  <td width="150" height="20" class="row6" nowrap="nowrap"><span class="mainmenu">Autor</span></td>
+		  <td width="100%" class="row6" nowrap="nowrap"><span class="mainmenu">Nachricht</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7769&amp;highlight=" class="mainmenu">Schnappi 3k</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1</b><br />Aufrufe: <b>52</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Di Okt 16, 2007 8:08 am   Titel: <b><a href="viewtopic.php?p=72587&amp;highlight=#72587">Schnappi 3k</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hehe, da habe sich die Werbestrategen von Premiere ja mal was Nettes ausgedacht...  <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7767&amp;highlight=" class="mainmenu">Crank 2</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>4</b><br />Aufrufe: <b>82</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Di Okt 16, 2007 8:06 am   Titel: <b><a href="viewtopic.php?p=72586&amp;highlight=#72586">Crank 2</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Bedenken auch hier! Vor allem, wenns heißt: &quot;Mehr von allem!&quot;<br />Könnte ein schlechter Vorsatz sein.<br />Aber ich will ja nicht schwarzmalen... <br />Jupp, genau das ging mir eben auch durch den Kopf ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7759&amp;highlight=" class="mainmenu">Endlich der John McLane Song</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>5</b><br />Aufrufe: <b>174</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Mo Okt 08, 2007 12:52 pm   Titel: <b><a href="viewtopic.php?p=72558&amp;highlight=#72558">Endlich der John McLane Song</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Knaller  <img src="images/smiles/0lol.gif" alt="LOL" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7752&amp;highlight=" class="mainmenu">Tödliche Versprechen aka Eastern Promises</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1</b><br />Aufrufe: <b>96</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Mi Sep 26, 2007 6:37 pm   Titel: <b><a href="viewtopic.php?p=72465&amp;highlight=#72465">Tödliche Versprechen aka Eastern Promises</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Juhuu, ein neuer Cronenberg! Die Story klingt  sehr interessant und das Casting spricht für sich. Mal sehen was David draus gemacht hat. Auf einen Trailer bin ich ebenfalls gespannt.... <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7751&amp;highlight=" class="mainmenu">Wo ist Alex?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>6</b><br />Aufrufe: <b>247</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=2" class="postdetails">Brainfuck</a></b>   Verfasst am: Mi Sep 26, 2007 5:47 pm   Titel: <b><a href="viewtopic.php?p=72459&amp;highlight=#72459">Wo ist Alex?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hier bin ich...  <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> ! Hab nur momentan wenig Zeit, aber die kommt wieder....  <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=637&amp;highlight=" class="mainmenu">Musik beim Posten</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3739</b><br />Aufrufe: <b>786404</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=33" class="postdetails">...und die passende Musik</a></b>   Verfasst am: Fr Sep 14, 2007 3:27 pm   Titel: <b><a href="viewtopic.php?p=72386&amp;highlight=#72386">Musik beim Posten</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Guns N' Roses - Use Your Illusion II - 11 - Estranged</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7737&amp;highlight=" class="mainmenu">Russland testet neue Superbombe..</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>4</b><br />Aufrufe: <b>276</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=45" class="postdetails">Politik</a></b>   Verfasst am: Mi Sep 12, 2007 4:59 pm   Titel: <b><a href="viewtopic.php?p=72359&amp;highlight=#72359">Russland testet neue Superbombe..</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Wo soll das noch hinführen: <br /><br />http://www.spiegel.de/politik/ausland/0,1518,505195,00.html<br /><br /> <img src="images/smiles/icon_eek.gif" alt="Shocked" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7736&amp;highlight=" class="mainmenu">Der Tödliche Freund</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1</b><br />Aufrufe: <b>165</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mi Sep 12, 2007 2:06 pm   Titel: <b><a href="viewtopic.php?p=72355&amp;highlight=#72355">Der Tödliche Freund</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ohhh, cool! Der tödliche Freund ist echt nen klasse Streifen. Ich hoffe das der Film ungeschnitten erscheint, denn das FSK 16 Tape ist gekürzt! Denke da an die extreme Kopfplatzszene die es im Free-TV ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7731&amp;highlight=" class="mainmenu">Wieviele DVDs besitzt ihr?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>6</b><br />Aufrufe: <b>318</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=26" class="postdetails">Sunshine-bar</a></b>   Verfasst am: Mi Sep 12, 2007 7:37 am   Titel: <b><a href="viewtopic.php?p=72347&amp;highlight=#72347">Wieviele DVDs besitzt ihr?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">So um die 420 Stück....</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7724&amp;highlight=" class="mainmenu">Deutsche oder Ausländische DVDs ?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>7</b><br />Aufrufe: <b>291</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: So Sep 09, 2007 11:35 am   Titel: <b><a href="viewtopic.php?p=72293&amp;highlight=#72293">Deutsche oder Ausländische DVDs ?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ich kaufe zu 95 % deutsche Veröffentlichungen. Habe zwar auch einige ausländische DVDs, welche dann aber Sammlerstücke oder Titel sind, die es bislang nicht auf deutsch gibt. Der Originalton ist ja me ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7568&amp;highlight=" class="mainmenu">South Park - Night of the Homeless</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>2</b><br />Aufrufe: <b>559</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Fr Aug 31, 2007 2:04 pm   Titel: <b><a href="viewtopic.php?p=72197&amp;highlight=#72197">South Park - Night of the Homeless</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Lol, sehr coole Adaption zu Night &amp; Dawn und Day of the Dead....  <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7719&amp;highlight=" class="mainmenu">Toten Hosen VS. Singstar</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>2</b><br />Aufrufe: <b>257</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Fr Aug 31, 2007 1:50 pm   Titel: <b><a href="viewtopic.php?p=72196&amp;highlight=#72196">Toten Hosen VS. Singstar</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Zieht euch das rein: http://www.dietotenhosen.de/stms/index.php<br /><br /> <img src="images/smiles/0lol.gif" alt="LOL" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7714&amp;highlight=" class="mainmenu">300 DVD SE bei Amazon wirklich uncut???</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>18</b><br />Aufrufe: <b>922</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Fr Aug 31, 2007 11:53 am   Titel: <b><a href="viewtopic.php?p=72194&amp;highlight=#72194">300 DVD SE bei Amazon wirklich uncut???</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Zumal das Blut, auch wenn es in Strömen animiert wurde ( <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /> ) nie auf dem Boden zu sehen ist... <br /><br />Aber nich bei amazon kaufen! Gibt es bei Müller für 19.99€!<br /><br />erst ma so nen schuppen in der nähe  ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7713&amp;highlight=" class="mainmenu">Beowulf, USA 2007</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>8</b><br />Aufrufe: <b>476</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Do Aug 30, 2007 9:42 am   Titel: <b><a href="viewtopic.php?p=72186&amp;highlight=#72186">Beowulf, USA 2007</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Aber schneidet man sich als Schauspieler nicht ins eigene Fleisch, wenn man sein Gesicht lebensecht nachstellen lässt?!?!?! Eigentlich schon, aber ich denke die Jungs werden ordentlich entschädigt...  ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7717&amp;highlight=" class="mainmenu">Earthlings</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>2</b><br />Aufrufe: <b>371</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=20" class="postdetails">Allgemeines</a></b>   Verfasst am: Mi Aug 29, 2007 4:05 pm   Titel: <b><a href="viewtopic.php?p=72183&amp;highlight=#72183">Earthlings</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hoppla....  <img src="images/smiles/icon_redface.gif" alt="Embarassed" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6690&amp;highlight=" class="mainmenu">HD DVD VS Blue Ray</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>22</b><br />Aufrufe: <b>3908</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mi Aug 29, 2007 1:35 pm   Titel: <b><a href="viewtopic.php?p=72179&amp;highlight=#72179">HD DVD VS Blue Ray</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hier mal ein interessanter Artikel aus der FAZ zum Thema: http://www.faz.net/s/Rub02E269C01E0747B385A9D7D663CEDE65/Doc~E9CE12FE7571B4F60AD831F30DD1027CE~ATpl~Ecommon~Scontent.html</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7717&amp;highlight=" class="mainmenu">Earthlings</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>2</b><br />Aufrufe: <b>371</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=20" class="postdetails">Allgemeines</a></b>   Verfasst am: Mi Aug 29, 2007 10:57 am   Titel: <b><a href="viewtopic.php?p=72176&amp;highlight=#72176">Earthlings</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ich habe gerade Earthlings gesehen und bin echt schockiert!!! <img src="images/smiles/icon_eek.gif" alt="Shocked" border="0" /> Wie grausam und bestialisch mit Tieren umgegangen wird, lässt einem echt die Galle hochkommen! <br /><br />&quot;Earthlings&quot; ist eine ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7716&amp;highlight=" class="mainmenu">Geheimprojekt von JJ. Abrahams: 01-19-08 - Cloverfield</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>2</b><br />Aufrufe: <b>221</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Mi Aug 29, 2007 8:49 am   Titel: <b><a href="viewtopic.php?p=72171&amp;highlight=#72171">Geheimprojekt von JJ. Abrahams: 01-19-08 - Cloverfield</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Sehr interessant der Trailer:<br /><br />http://www.apple.com/trailers/paramount/11808/<br /><br />offizielle Webseite:<br /><br />http://www.1-18-08.com/<br /><br /><br />Bin gespannt auf weiter News...<br /><br />Hier noch einige spekulative  ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7715&amp;highlight=" class="mainmenu">Right At Your Door</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>0</b><br />Aufrufe: <b>160</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Mi Aug 29, 2007 8:35 am   Titel: <b><a href="viewtopic.php?p=72170&amp;highlight=#72170">Right At Your Door</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Right At Your Door<br /><br />After multiple dirty bombs are detonated, spreading deadly toxic ash across Los Angeles, Brad (Rory Cochrane) inadvertently quarantines his wife, Lexi (Mary McCormack) outside th ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7713&amp;highlight=" class="mainmenu">Beowulf, USA 2007</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>8</b><br />Aufrufe: <b>476</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Mi Aug 29, 2007 8:30 am   Titel: <b><a href="viewtopic.php?p=72169&amp;highlight=#72169">Beowulf, USA 2007</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody"><br />Nachtrag: Man, als ich damals drüber las wusste ich echt nicht das dies ein Animtaionsfilm wird... Einen mit echten Schauspielern wäre mir dann doch lieber gewsen. Hoppla ist mir garnicht so recht a ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7714&amp;highlight=" class="mainmenu">300 DVD SE bei Amazon wirklich uncut???</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>18</b><br />Aufrufe: <b>922</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mi Aug 29, 2007 8:25 am   Titel: <b><a href="viewtopic.php?p=72168&amp;highlight=#72168">300 DVD SE bei Amazon wirklich uncut???</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Also laut OFDB: http://www.ofdb.de/view.php?page=film&amp;fid=105790 sind alle deutschen Fassungen ungekürzt...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6607&amp;highlight=" class="mainmenu">Saw geht in die nächsten Runden! Teil 4 + 5 geplant!</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>35</b><br />Aufrufe: <b>4826</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mi Aug 29, 2007 8:20 am   Titel: <b><a href="viewtopic.php?p=72167&amp;highlight=#72167">Saw geht in die nächsten Runden! Teil 4 + 5 geplant!</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">uff Saw5 und Saw6 ?!?<br /><br />dazu fällt mir nix ein , ich mag eigentlich fortsetzungen aber das is dann übertrieben... <br /><br />Naja, bei Freddy, Jason und Michael Myers hat sich auch niemand beschwert über di ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5506&amp;highlight=" class="mainmenu">Rohtenburg</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>19</b><br />Aufrufe: <b>3549</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Di Aug 28, 2007 2:48 pm   Titel: <b><a href="viewtopic.php?p=72161&amp;highlight=#72161">Rohtenburg</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Zwar nen bissle OT aber trotzdem interessant:<br /><br />http://www.n-tv.de/844615.html<br /><br />Soviel zum Thema &quot;deutsche&quot; Kannibalen....  <img src="images/smiles/icon_eek.gif" alt="Shocked" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6023&amp;highlight=" class="mainmenu">Alien vs. Predator 2</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>48</b><br />Aufrufe: <b>10573</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=44" class="postdetails">SCFI / Fantasy</a></b>   Verfasst am: So Aug 26, 2007 12:40 pm   Titel: <b><a href="viewtopic.php?p=72143&amp;highlight=#72143">Alien vs. Predator 2</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Danke für den Trailer! Wahnsinn, der Film wird sowas von abgehen! Ich freue mich drauf...  <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7713&amp;highlight=" class="mainmenu">Beowulf, USA 2007</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>8</b><br />Aufrufe: <b>476</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Sa Aug 25, 2007 7:00 pm   Titel: <b><a href="viewtopic.php?p=72141&amp;highlight=#72141">Beowulf, USA 2007</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Da gibts doch nen &quot;Beowulf&quot; Film aus den Neunzigern mit Christopher Lambert...demnach nen Remake, aber die Topbesetzung und der Trailer machen einen super Eindruck  <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /></span></td>
+  		</tr>
+	  </table>
+	</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+  <tr valign="top">
+	<td><span class="genmed">Gehe zu Seite <b>1</b>, <a href="search.php?search_id=621237153&amp;start=25">2</a>, <a href="search.php?search_id=621237153&amp;start=50">3</a> ... <a href="search.php?search_id=621237153&amp;start=5425">218</a>, <a href="search.php?search_id=621237153&amp;start=5450">219</a>, <a href="search.php?search_id=621237153&amp;start=5475">220</a>&nbsp;&nbsp;<a href="search.php?search_id=621237153&amp;start=25">Weiter</a></span></td>
+	<td align="right" nowrap="nowrap"><span class="nav">Seite <b>1</b> von <b>220</b></span></td>
+  </tr>
+</table>
+
+<br /><form method="get" name="jumpbox" action="viewforum.php" onSubmit="if(document.jumpbox.f.value == -1){return false;}">
+<table width="100%" cellspacing="1" border="0" cellpadding="1">
+  <tr>
+	<td align="right" nowrap="nowrap"><span class="gensmall">Gehe zu: <select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42">Updates</option><option value="17">Support</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">Brainfuck</option><option value="25">Lustiges aus dem Netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">Allgemeines</option><option value="28">Splatter & Horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">Hollywood und mehr…</option><option value="19">Schnittberichte und Zensur</option><option value="34">Amateurfilme, Börsen & Veranstaltungen</option><option value="31">...im TV</option><option value="33">...und die passende Musik</option><option value="32">Gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">Marktplatz</option><option value="-1">----------------</option><option value="23">Gesucht und Gefunden</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">Hard-& Software</option><option value="-1">----------------</option><option value="36">Computer, Betriebssysteme & Programme</option><option value="37">Internet</option><option value="38">Spiele</option><option value="-1">&nbsp;</option><option value="-1">Offtopic</option><option value="-1">----------------</option><option value="26">Sunshine-bar</option><option value="45">Politik</option></select><input type="hidden" name="sid" value="d6554aa5dfa0051d3201b8fd1feffb78" /> <input type="submit" class="newsbutton" value="Go" /></span></td>
+  </tr>
+</table>
+</form>
+
+
+<p align="center">
+<table align="center" border="0">
+<tr>
+<td align="left">
+<!-- eBay RelevanceAd -->
+<script language='JavaScript' type='text/javascript'>
+//<-- DO NOT CHANGE -->
+// <!--<[CDATA[
+    era_width = '120';
+    era_height = '120';
+    era_layout = 'img';
+    era_color_border = 'FFFFFF';
+    era_color_bg = 'FFFFFF';
+    era_color_text = '000000';
+    era_color_title = '000000';
+    era_color_link = '003399';
+    era_itemtype = '0';
+    era_maxprice = '50';
+    era_desiredcategory = '83733';
+    era_hint= 'sammler,collector,edition,special,SE';
+    era_publisher='282182';
+// ]]> -->
+</script>
+<script language='JavaScript' type='text/javascript' src='http://ebayrelevancead.webmasterplan.com/js/show_ads.js'></script>
+<!-- /eBay RelevanceAd -->
+
+</td>
+
+<td align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+  //<!--<[CDATA[
+    am_referrer = '282182';
+    am_template = '4';
+
+    am_color_text = '000000';
+    am_color_title = '000000';
+    am_color_border = 'FFFFFF';
+    am_color_background = 'FFFFFF';
+    am_color_price = '990000';
+    am_color_link = '333333';
+
+    am_stmo = '1';
+  // ]]> -->
+</script>
+<script language="JavaScript" type="text/javascript" src="http://banners.affilimatch.de/show_ads.js"></script>
+<!-- END PARTNER PROGRAM -->
+</td>
+<td align="right">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<a href="http://partners.webmasterplan.com/click.asp?ref=282182&site=3729&type=b86&bnb=86"  target="_top">
+<img src="http://banners.webmasterplan.com/view.asp?ref=282182&site=3729&b=86" border="0" alt="Tauschen statt kaufen! Bei Anmeldung ein Artikel geschenkt. Hier klicken!" width="125" height="125"/></a><br>
+<!-- END PARTNER PROGRAM -->
+</td>
+</tr></table>
+
+
+
+
+
+
+
+
+
+<!-- Site Meter --><p align="right">
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1247354-1";
+urchinTracker();
+</script>
+
+  	</td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td class="left"></td>
+	<td class="row2" align="center"><span class="copyright"><br /><br />
+	Based on DAJ Glass, a template by <a href="http://www.dumbassjones.com/" target="_blank" class="copyright">Dustin Baccetti</a>. EQ graphic based off of a design from <a href="http://www.freeclipart.nu" class="copyright" target="blank">www.freeclipart.nu</a>. Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> © 2001, 2006 phpBB Group<br><a href="http://disturbed-reality.de/blog/?page_id=645">Impressum</a> | <a href="http://disturbed-reality.de/blog/?page_id=1624">Datenschutzhinweise</a><br /></span></td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td height="27" class="ll"></td>
+	<td class="lc"></td>
+	<td class="lr"></td>
+  </tr>
+</table>
+
+</body>
+</html>

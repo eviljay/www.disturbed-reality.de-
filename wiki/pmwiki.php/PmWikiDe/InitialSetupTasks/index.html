@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/1">
+	<title>reviews.disturbed-reality.de | PmWikiDe / Erste Einstellungen </title>
+    <meta http-equiv='Content-Style-Type' content='text/css' />
+	<meta http-equiv="Content-Type" content="text/html;" />
+
+	<link rel="stylesheet" href='http://disturbed-reality.de/wiki/pub/skins/disturbed/wp-layout.css' type="text/css" media="screen" />
+
+	<style type="text/css" media="screen">
+
+/* BEGIN IMAGE CSS */
+/*	To accomodate differing install paths of WordPress, images are referred only here,
+    and not in the wp-layout.css file. If you prefer to use only CSS for colors and what
+    not, then go right ahead and delete the following lines, and the image files. */
+
+body { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickbgcolor.jpg"); }	
+#page { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickbg.jpg") repeat-y top; border: none; } 
+#header { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickheader.jpg") no-repeat bottom center; }
+#footer { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+			
+/*  Because the template is slightly different, size-wise, with images, this needs to be set here
+    If you don't want to use the template's images, you can also delete the following two lines. */
+			
+#header { margin: 0 !important; margin: 0 0 0 1px; padding: 1px; height: 198px; width: 758px; }
+#headerimg { margin: 7px 9px 0; height: 192px; width: 740px; } 
+/* END IMAGE CSS */
+		
+
+/* 	To ease the insertion of a personal header image, I have done it in such a way,
+    that you simply drop in an image called 'personalheader.jpg' into your /images/
+    directory. Dimensions should be at least 760px x 200px. Anything above that will
+    get cropped off of the image. */
+		
+#headerimg { background: url('http://disturbed-reality.de/wiki/pub/skins/disturbed/images/personalheader.jpg') no-repeat top;}
+</style>
+<script language="javascript" src="/pub/guiedit/guiedit.js"></script>
+</head>
+
+<body>
+<div id="page">
+
+<? // Begin Header ?>
+<div id="header">
+	<div id="headerimg">
+		<!--<h1><a href="http://disturbed-reality.de/wiki/pmwiki.php" title="reviews.disturbed-reality.de">reviews.disturbed-reality.de</a></h1>-->
+		<!--<div class="description">
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/InitialSetupTasks'>Erste Einstellungen</a></h2>
+        </div>-->
+	</div>
+</div>
+<hr />
+<? // End Header ?>
+<p align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1321&refurl='+escape(document.location.href)+'" width="728" height="90" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM -->
+
+
+<!--Begin Frontpage-->
+<br />	<div id="content" class="narrowcolumn">
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/InitialSetupTasks'>Erste Einstellungen</a>
+        
+
+        <!--PageText-->
+<div id='wikitext'>
+<p>
+<span style='font-size:83%'><span  style='color: green;'>(deutsche Übersetzung der Seite <span class='wikiword'><a style='color: green' class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWiki/InitialSetupTasks'>PmWiki.InitialSetupTasks</a></span>, Stand 07.09.2005)</span></span>
+<span class='frame rfloat' style='font-size: smaller; background-color: #ffc;'> Administratoren (Grundlagen)</span>
+</p>
+<p class='vspace'></p><p>Wenn <span class='wikiword'><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWiki'>PmWiki</a></span> auf Ihrer Webseite erst einmal läuft (siehe <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Installation'>Installation</a>), kann man es den eigenen Bedürfnissen anpassen.
+</p>
+<p class='vspace'></p><p>Die meisten Anpassungen erfolgen in einer Datei namens <em>local/config.php</em>. Einige Einstellungen werden auf speziellen Seiten in der <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/Site/Site'>Site</a> Gruppe getätigt. Ein Beispiel ist das Menü in der Seitenleiste (<a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/Site/SideBar'>Site.SideBar</a>).
+</p>
+<p class='vspace'></p><h2>config.php anpassen</h2>
+<p>Wenn man <span class='wikiword'>PmWiki</span> das erste Mal installiert gibt es noch keine Datei <em>local/config.php</em>. Kopieren Sie in diesem Fall die Datei <em>sample-config.php</em> (im gleichen Verzeichnis wie <em>pmwiki.php</em>) nach <em>local/config.php</em> und verwenden diese als Startpunkt. Man kann natürlich die Datei <em>local/config.php</em> von Null auf erzeugen, allerdings enthält die Datei <em>sample-config.php</em> bereits die meisten Optionen, die man wahrscheinlich verwenden möchte.
+</p>
+<p class='vspace'></p><p>Hier ein Beispiel zur Datei <em>config.php</em>:
+</p>
+<p class='vspace'></p><div class='indent'><pre class='escaped'>
+&lt;?php if (!defined('PmWiki')) exit();
+$WikiTitle = "Mein neues Wiki";
+$PageLogoUrl = "http://www.beispiel.de/MeinLogo.gif";
+
+$DefaultPasswords['admin'] = crypt('geheim');
+
+$EnableUpload = 1;
+$DefaultPasswords['upload'] = crypt('geheim2');
+
+putenv("TZ=EST5EDT");
+$TimeFmt = '%B %d, %Y, um %I:%M %p EST';
+</pre>
+</div><p class='vspace'></p><p>Man beachte, dass die Datei <em>config.php</em> mit <code>&lt;?php</code> beginnt. Die PHP-Endkennzeichnung <code>?&gt;</code> ist optional und kann weggelassen werden, um die Kompatibilität mit manchen Betriebssystemen zu verbessern. Vor <code>&lt;?php</code> oder nach <code>?&gt;</code> dürfen keine Leerzeichen oder Leerzeilen erscheinen, andernfalls kann es passieren, dass man seltsame Meldungen am Anfang der Wikiseiten sieht.
+</p>
+<p class='vspace'></p><p>Die obige Datei <em>config.php</em> setzt die Werte von vier PHP Variablen, die von <span class='wikiword'>PmWiki</span> verwendet werden:
+</p><ul><li>Die Variable <a class='varlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWiki/LayoutVariables#WikiTitle'><code class='varlink'>&#36;WikiTitle</code></a> enthält den Namen der Webseite, der in der Titelzeile des Webbrowsers erscheint.
+</li><li>Die Variable <a class='varlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWiki/LayoutVariables#PageLogoUrl'><code class='varlink'>&#36;PageLogoUrl</code></a> enthält die Internetadresse der Grafik, die in der oberen linken Ecke auf jeder Seite des Wikis erscheint.
+</li><li>&#36;DefaultPasswords['admin'] setzt das Administartorpasswort.
+</li><li>Das Setzen von <a class='varlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWiki/UploadVariables#EnableUpload'><code class='varlink'>&#36;EnableUpload</code></a> auf "1" ermöglicht Hochladen (das Hochladen von Dateien). &#36;DefaultPasswords['upload'] setzt das Passwort für das Hochladen.
+</li><li>Die TZ Umgebungsvariable definiert eine bestimmte Zeitzone.
+</li><li>Die Variable <a class='varlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWiki/BasicVariables#TimeFmt'><code class='varlink'>&#36;TimeFmt</code></a> bestimmt das Erscheinungsbild von Datums-/Zeitanzeigen und lokalisiert sie (zusammen mit TZ) für eine bestimmte Zeitzone.
+</li></ul><p class='vspace'></p><p>Durch das Setzen dieser (und anderer) Variablen in <em>local/config.php</em>, kann man das Aussehen und Verhalten von <span class='wikiword'>PmWiki</span> von dessen Standardeinstellungen abweichend einstellen. Manchmal sogar beträchtlich anders. Siehe <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Variables'>Variablen</a> für eine Liste der von <span class='wikiword'>PmWiki</span> verwendeten Variablen. Siehe auch <a class='urllink' href='http://www.pmwiki.org/wiki/PmWiki/PmWikiUsers' rel='nofollow'>PmWiki:PmWikiUsers</a> für Beispiele von Webseiten, die <span class='wikiword'>PmWiki</span> mit eigenen Anpassungen einsetzen.
+</p>
+<p class='vspace'></p><h2>Setzen des Administratorpassworts</h2>
+<p>Die Seiten in der <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/Site/Site'>Site</a> Gruppe (außer <span class='wikiword'><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/Site/SideBar'>Site.SideBar</a></span>) sind standardmäßig vor der Bearbeitung geschützt. Um die Seiten in dieser Gruppe bearbeiten zu können, muss man ein globales Administartorpasswort in <em>local/config.php</em> setzen. Um das globale Administratorpasswort auf "<code>geheimnis</code>" zu setzen, ändern Sie die entsprechende zeile folgendermaßen:
+</p>
+<p class='vspace'></p><div class='indent'><code class='escaped'>$DefaultPasswords['admin'] = crypt('geheimnis');</code>
+</div><p class='vspace'></p><p>Man muss die <code class='escaped'>crypt()</code> Funktion verweden, um ein Passwort mit einem für Sie verständlichen Wert zu setzen. Siehe <a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PasswordsAdmin?action=edit'>Administration der Passwörter</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PasswordsAdmin?action=edit'>?</a> um näheres darüber herauszufinden, wie man Passwörter sicherer macht.
+</p>
+<p class='vspace'></p><h2>Verändern Sie <em>pmwiki.php</em> nicht</h2>
+<p>Wenn man die Konfiguration der eigenen Webseite verändert sollte man die Änderungen nur in der Datei <em>local/config.php</em> durchführen bzw. Dateien in das <em>cookbook/</em> Verzeichnis kopieren. Verändern Sie weder <em>pmwiki.php</em> noch die Dateien im <em>scripts/</em> Verzeichnis. <span class='wikiword'>PmWiki</span> wurde so entwickelt, dass alle Anpassungen ohne Änderung der Orginaldateien erfolgen kann -- einer der Entwicklungsziele war die Fähigkeit einfacher Upgrades. <span class='wikiword'>PmWiki</span> schreibt niemals in Dateien in den Verzeichnissen <em>local/</em> oder <em>cookbook/</em>. Darum ist es einfacher Änderungen und <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Upgrades'>Upgrades</a> zurückzuverfolgen, ohne dass Anpassungen verloren gehen.
+</p>
+<p class='vspace'></p><p>Man sollte <em>pmwiki.php</em> auch nicht umbenennen. Viele Administratoren erzeugen eine Datei index.php im pmwiki Verzeichnis, die nur die nachfolgende einzelen Zeile enthält:
+</p>
+<p class='vspace'></p><div class='indent'><code class='escaped'>&lt;?php include('pmwiki.php');</code>
+</div><p class='vspace'></p><h2>Andere Anpassungen</h2>
+<p>Nach dem Anpassen der Datei <em>local/config.php</em>möchte man vielleicht weitere <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/LocalCustomizations'>Lokale Anpassungen</a> durchführen. Siehe auch <a class='urllink' href='http://www.pmwiki.org/wiki/Cookbook/CookbookBasics' rel='nofollow'>PmWiki Kochbuch</a> (Cookbook) für eine Vielzahl von Anpassungen, die zur Verfügung gestellt wurden. Und keine Angst vor Kochbuch-Rezepten - Sie sind gut vorbereitet, so dass die meisten nur das Herunterladen einer Datei und das Einfügen einer include Zeile in der <code>config.php</code> erfordern - und schon läufts!
+</p>
+<p class='vspace'></p><p>Wenn man mehr als ein Wiki auf dem Server laufen lassen will, sollte man sich <a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiFarms?action=edit'>Wikifarm</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiFarms?action=edit'>?</a> ansehen.
+</p>
+<p class='vspace'></p><h2>Und jetzt?</h2>
+<p>Vergessen Sie nicht sich bei der <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/MailingLists'>Mailingliste</a> anzumelden, bei der Sie andere <a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikIDe/WikiAdministrator?action=edit'>Wiki-Administratoren</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikIDe/WikiAdministrator?action=edit'>?</a> um Hilfe bei der Konfiguration bitten und sich bei Diskussionen über Verbesserungen von <span class='wikiword'>PmWiki</span> zu beteiligen. Wenn Ihre Seite läuft, vergessen Sie auch nicht diese unter <a class='urllink' href='http://www.pmwiki.org/wiki/PmWiki/PmWikiUsers' rel='nofollow'>PmWiki:PmWikiUsers</a> einzutragen, damit andere es auch wissen.
+</p>
+<p class='vspace'></p><p  style='background-color: #eee;'><span class='wikitrail'>&lt;&lt; <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Installation'>Installation</a> | <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DocumentationIndex'>DocumentationIndex</a> | <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Skins'>Layout Vorlagen</a> &gt;&gt;</span>
+</p>
+</div>
+
+	
+	   <!-- Das kann man vielleicht mal fŸr Trails noch brauchen, aber wohl eher nicht
+		<div class="navigation">
+			<div class="alignleft"><?php posts_nav_link('','','&laquo; Previous Entries') ?></div>
+			<div class="alignright"><?php posts_nav_link('','Next Entries &raquo;','') ?></div>
+		</div>
+		-->
+		
+	</div>
+	
+<!--End Frontpage-->
+
+<? // Begin Sidebar Menu ?>
+<?php /* If this is not a permalink page, show the menu */ if (!($withcomments) && (!$single)) { ?>
+
+	<div id="sidebar">
+		<ul>
+			<li>
+                You are on <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+                <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/InitialSetupTasks'>Erste Einstellungen</a>
+            </li>
+
+			<li>
+                <!-- MIKE: Suchform-->
+                <form action='http://disturbed-reality.de/wiki/pmwiki.php'>
+                    <input type='hidden' name='n' value='PmWikiDe.InitialSetupTasks' />
+                    <input type='hidden' name='action' value='search' />
+                    <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Search'>Suchen</a>:
+                    <input class='searchbox' type='text' name='q' value='' />
+                    <input class='searchbutton' type='submit' value='Los' />
+                </form>
+			</li>
+                        
+            <!-- MIKE: Seitentitel und Gruppe-->
+            <li>
+                <h1><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWikiDe'>Deutsches Wiki</a></h1>
+<ul><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiWikiWeb'>Was ist ein Wiki?</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Installation'>Installation</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DocumentationIndex'>Dokumentationsindex</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiSandbox'>Sandkasten</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/RecentChanges'>Aktuelle Änderungen</a>
+</li></ul><hr />
+<p class='vspace'></p>
+
+            </li>
+
+		</ul>
+	</div>
+
+<? } // End Sidebar Menu  ?>
+
+
+
+<? // Begin Footer ?>
+<hr />
+<div id="footer">
+	<p>
+		<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/InitialSetupTasks?action=edit'>Seite Bearbeiten</a> -
+		<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/InitialSetupTasks?action=diff'>Seitenhistorie</a> -
+	 	<!--<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/InitialSetupTasks?action=upload'>Upload File</a> -->		
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/InitialSetupTasks?action=print' target='_blank'>Druckansicht</a> -
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/RecentChanges'>Aktuelle &Auml;nderungen</a> -
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Search'>Suchen</a><br /><br />
+        <br />Zuletzt ge&auml;ndert am 07.09.2005 16:28 Uhr		   		
+		<br />reviews.disturbed-reality.de is running  
+		<a href="http://www.pmwiki.org">PmWiki</a>. 
+<!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><!-- End of Netstat Code -->
+<?PHP include("../counter/inc.stats.php");?>
+<!-- alo counter block -->
+<!-- Site Meter -->
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+
+        </div>
+		
+	</p>
+</div>
+</div>
+<? // End Footer ?><br>
+</body>
+</html>

@@ -1,0 +1,582 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/1">
+	<title>disturbed reality</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="WordPress 2.0.3" /> <!-- leave this for stats please -->
+	<style type="text/css" media="screen">
+		@import url( http://disturbed-reality.de/blog/wp-content/themes/disturbed.grey.v2/style.css );
+	</style>
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://disturbed-reality.de/blog/?feed=rss2" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://disturbed-reality.de/blog/?feed=rss" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://disturbed-reality.de/blog/?feed=atom" />
+
+	<link rel="pingback" href="http://disturbed-reality.de/blog/xmlrpc.php" />
+    	<link rel='archives' title='June 2006' href='http://disturbed-reality.de/blog/?m=200606' />
+	<link rel='archives' title='May 2006' href='http://disturbed-reality.de/blog/?m=200605' />
+	<link rel='archives' title='April 2006' href='http://disturbed-reality.de/blog/?m=200604' />
+	<link rel='archives' title='March 2006' href='http://disturbed-reality.de/blog/?m=200603' />
+	<link rel='archives' title='February 2006' href='http://disturbed-reality.de/blog/?m=200602' />
+	<link rel='archives' title='January 2006' href='http://disturbed-reality.de/blog/?m=200601' />
+	<link rel='archives' title='December 2005' href='http://disturbed-reality.de/blog/?m=200512' />
+	<link rel='archives' title='November 2005' href='http://disturbed-reality.de/blog/?m=200511' />
+	<link rel='archives' title='October 2005' href='http://disturbed-reality.de/blog/?m=200510' />
+	<link rel='archives' title='September 2005' href='http://disturbed-reality.de/blog/?m=200509' />
+	<link rel='archives' title='August 2005' href='http://disturbed-reality.de/blog/?m=200508' />
+	<link rel='archives' title='July 2005' href='http://disturbed-reality.de/blog/?m=200507' />
+	<link rel='archives' title='June 2005' href='http://disturbed-reality.de/blog/?m=200506' />
+	<link rel='archives' title='May 2005' href='http://disturbed-reality.de/blog/?m=200505' />
+	<link rel='archives' title='April 2005' href='http://disturbed-reality.de/blog/?m=200504' />
+	<link rel='archives' title='March 2005' href='http://disturbed-reality.de/blog/?m=200503' />
+	<link rel='archives' title='February 2005' href='http://disturbed-reality.de/blog/?m=200502' />
+	<link rel='archives' title='January 2005' href='http://disturbed-reality.de/blog/?m=200501' />
+	<link rel='archives' title='December 2004' href='http://disturbed-reality.de/blog/?m=200412' />
+	<link rel='archives' title='November 2004' href='http://disturbed-reality.de/blog/?m=200411' />
+		<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://disturbed-reality.de/blog/xmlrpc.php?rsd" />
+
+			<!-- Added by "del.icio.us - Bookmark this!", a WordPress Plugin of Arne Brachhold, v1.1 -->
+			<script type="text/javascript" language="JavaScript">
+				//Bookmark on del.icio.us
+				function dbt_bookmark(targetURL) {
+					//URL of this document
+					var loc=location.href;
+					if(targetURL && targetURL.length>0) loc = targetURL;
+					//Strip out any anchors
+					var apos=loc.indexOf('#');
+					loc=(apos>0?loc.substring(0,apos):loc);
+					//Redirect to del.icio.us
+					location.href='http://del.icio.us/post?v=2&amp;url='
+					+ encodeURIComponent(loc)
+					+'&amp;title='
+					+encodeURIComponent(document.title);
+					//Return false so the link won't be activated. 
+					return false;
+				}
+			</script>
+			
+    <!-- Added By Wordspew Plugin. Version 1.16 -->
+    <link rel="stylesheet" href="http://disturbed-reality.de/blog/wp-content/plugins/wordspew_2/css.php" type="text/css" />
+    <script type="text/javascript" src="http://disturbed-reality.de/blog/wp-content/plugins/wordspew_2/fatAjax.php"></script>
+		</head>
+
+<body>
+<div id="rap">
+	<div id="header">
+<table align="right" border="0">
+<td><a href="http://www.google.com/reader/view/feed/http%3A%2F%2Fdisturbed-reality.de%2Fblog%2F%3Ffeed%3Drss2"><img src="wp-content/themes/disturbed.grey.v2/img/100px-Feed-icon.svg.png" width="55" align="left"></a></td>
+<td>
+<a href="http://disturbed-reality.de/blog/?feed=rss2">Blog</a><br>
+<a href="http://disturbed-reality.de/blog/?feed=comments-rss2">Kommentare</a><br>
+<a href="http://disturbed-reality.de/wiki/pmwiki.php/ReviewWiki/RecentChanges?action=rss">Wiki</a>
+<br>
+<a href="http://disturbed-reality.de/blog/?page_id=1235"><small>Was ist das?</small></a>
+</td></table>
+<!-- End of Flickr Badge -->
+	<br><h1><a href="http://disturbed-reality.de/blog" title="disturbed reality">disturbed reality</a>
+
+	
+	
+	
+	</h1>	
+</div>
+	<div id="content">
+						<div class="post">
+				<div class="post-title"><em><a href="http://disturbed-reality.de/blog/?cat=2" title="View all posts in brainfuck" rel="category tag">brainfuck</a></em>am 21 Jun 2006 09:53 am</div><p>
+<p class="post-info"><a href="http://disturbed-reality.de/blog/?p=1378" rel="bookmark" title="Permanent Link: Anna und die schwedischen Charts">Anna und die schwedischen Charts</a></p>
+<div class="post-content">
+	<p> komische Sachen passieren! In den <a href="http://www.sr.se/p3/topplistor/hitlistan/">aktuellen schwedischen Chats</a> tummelt sich auf Platz 3 ein Lied mit dem Namen &#8220;Boten Anna&#8221; von einem Typen mit dem kreativen Namen &#8220;Basshunter&#8221;.</p>
+<p>
+Warum ist das nun so komisch, dass ich darüber schreibe? <br />&#8220;Anna&#8221; ist kein Mensch, <a href="http://annabot.sourceforge.net/">Anna</a> ist ein IRC-Bot, sprich ein Programm das Chaträume aufräumt. <br />Also nochmal, da hat jemand ernsthaft ein Lied über ein Computerprogramm geschrieben! Haben die inzwischen nix besseres mehr zu tun?<br />
+Ach ja, und dann wäre da noch diese komische Video&#8230;.(via yigg)</p>
+<p>
+<embed style="width:400px; height:326px;" id="VideoPlayback" align="middle" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=6880888700625496919" allowScriptAccess="sameDomain" quality="best" bgcolor="#ffffff" scale="noScale" salign="TL"  FlashVars="playerMode=embedded"> </embed>
+</p>
+<p>verrückte Welt!
+</p>
+	<p class="post-info-co">
+													
+	</p>
+	<!--
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	    xmlns:dc="http://purl.org/dc/elements/1.1/"
+	    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://disturbed-reality.de/blog/?p=1378"
+    dc:identifier="http://disturbed-reality.de/blog/?p=1378"
+    dc:title="Anna und die schwedischen Charts"
+    trackback:ping="http://disturbed-reality.de/blog/wp-trackback.php?p=1378" />
+</rdf:RDF>	-->
+</div>
+<div class="post-footer">
+<a href="javascript:location.href='http://yigg.de/neu?exturl=http://disturbed-reality.de/blog/?p=1378&exttitle=Anna und die schwedischen Charts'+encodeURIComponent(location.href)"><img src="http://disturbed-reality.de/Bilder/yigg.png">bei Yigg vorschlagen</a> | <img src="http://disturbed-reality.de/Bilder/delicious.small.gif" border="0"> <a href="#" onclick="return dbt_bookmark('http://disturbed-reality.de/blog/?p=1378');" >bei del.icio.us speichern</a> | 
+<a href="http://disturbed-reality.de/blog/?p=1378#respond" title="Comment on Anna und die schwedischen Charts"> kommentieren</a><p>
+<img src="wp-content/themes/disturbed.grey.v2/img/unten.png"></div>
+<p align="center">
+
+
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1323&refurl='+escape(document.location.href)+'" width="468" height="60" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM --><p>
+<p><br>							</div>
+						<div class="post">
+				<div class="post-title"><em><a href="http://disturbed-reality.de/blog/?cat=14" title="View all posts in pädadrogik" rel="category tag">pädadrogik</a></em>am 20 Jun 2006 09:45 pm</div><p>
+<p class="post-info"><a href="http://disturbed-reality.de/blog/?p=1377" rel="bookmark" title="Permanent Link: Theoretische Physik der Uni Giessen bloggt">Theoretische Physik der Uni Giessen bloggt</a></p>
+<div class="post-content">
+	<blockquote>Welcome to the brand new blog of the Institute for Theoretical Physics in Giessen. The blog is intended for virtual meetings and discussions on physics topicsas well as for advertising our institute. <img src='http://disturbed-reality.de/blog/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> The institute members can use this virtual meetings and discussions on physics topics as well as for advertising our institute. <img src='http://disturbed-reality.de/blog/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<p>The institute members can use this virtual room to share ideas, initiate discussions, point out interesting physics facts/news/links.
+</p></blockquote>
+<p>Das <a href="http://hadron-giessen.livejournal.com/">Institut für Theoretische Physik der Uni Giessen</a> hat sich ein Blog zugelegt. Damit sind sie nach dem <a href="http://www.zmi.uni-giessen.de/home/index.html">ZMI</a>, die ja schon ein <a href="http://blog.zmi-giessen.de/">Blog</a> und einen <a href="http://www.uni-giessen.de/fb03/didaktik/Web-Site/Podcast/Podcast.html">Podcast</a> unterhalten, auf den Zug der modernen Medien aufgesprungen. Und nein-die anderen &#8220;Projekte&#8221;, sprich der StudIP/Flex-now Wirrwarr ist nicht modern, das ist ein vollkommen falscher Weg der dazu auch noch fehlerhaft und halbfertig ist. Sowas auf die Masse loszulassen kann einfach nicht angehen!
+</p>
+	<p class="post-info-co">
+													
+	</p>
+	<!--
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	    xmlns:dc="http://purl.org/dc/elements/1.1/"
+	    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://disturbed-reality.de/blog/?p=1377"
+    dc:identifier="http://disturbed-reality.de/blog/?p=1377"
+    dc:title="Theoretische Physik der Uni Giessen bloggt"
+    trackback:ping="http://disturbed-reality.de/blog/wp-trackback.php?p=1377" />
+</rdf:RDF>	-->
+</div>
+<div class="post-footer">
+<a href="javascript:location.href='http://yigg.de/neu?exturl=http://disturbed-reality.de/blog/?p=1377&exttitle=Theoretische Physik der Uni Giessen bloggt'+encodeURIComponent(location.href)"><img src="http://disturbed-reality.de/Bilder/yigg.png">bei Yigg vorschlagen</a> | <img src="http://disturbed-reality.de/Bilder/delicious.small.gif" border="0"> <a href="#" onclick="return dbt_bookmark('http://disturbed-reality.de/blog/?p=1377');" >bei del.icio.us speichern</a> | 
+<a href="http://disturbed-reality.de/blog/?p=1377#respond" title="Comment on Theoretische Physik der Uni Giessen bloggt"> kommentieren</a><p>
+<img src="wp-content/themes/disturbed.grey.v2/img/unten.png"></div>
+<p align="center">
+
+
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1323&refurl='+escape(document.location.href)+'" width="468" height="60" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM --><p>
+<p><br>							</div>
+						<div class="post">
+				<div class="post-title"><em><a href="http://disturbed-reality.de/blog/?cat=11" title="View all posts in technik" rel="category tag">technik</a></em>am 20 Jun 2006 09:24 pm</div><p>
+<p class="post-info"><a href="http://disturbed-reality.de/blog/?p=1376" rel="bookmark" title="Permanent Link: Fiat - Blue &#038; (Windows) Me">Fiat - Blue &#038; (Windows) Me</a></p>
+<div class="post-content">
+	<p> Nein, das ist kein Scherz<br /> - die neuen Fiats haben am Lenkrad eine <b>Windowstaste</b>.
+<p>
+Bedient wird damit das neue <a href="http://www.heise.de/mobil/newsticker/meldung/70214">Windows für Autos</a>&#8230;</p>
+<p>Wenn euch also demnächst jemand in so nem Gefährt an der Ampel auffällt, der den Motor abwürgt und anschliessend alle Türen auf und wieder zu macht - wundert euch nicht <img src='http://disturbed-reality.de/blog/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /><br />
+So und nun schaut selbst: Hier klicken (<a href="http://213.215.170.74/blue_and_me/index.htm">Fiat - Blue &#038; Me</a>) und dann links aufs Lenkrad zur Vergrößerung nochmals klicken. <img src='http://disturbed-reality.de/blog/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' />
+</p>
+	<p class="post-info-co">
+													
+	</p>
+	<!--
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	    xmlns:dc="http://purl.org/dc/elements/1.1/"
+	    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://disturbed-reality.de/blog/?p=1376"
+    dc:identifier="http://disturbed-reality.de/blog/?p=1376"
+    dc:title="Fiat - Blue &#038; (Windows) Me"
+    trackback:ping="http://disturbed-reality.de/blog/wp-trackback.php?p=1376" />
+</rdf:RDF>	-->
+</div>
+<div class="post-footer">
+<a href="javascript:location.href='http://yigg.de/neu?exturl=http://disturbed-reality.de/blog/?p=1376&exttitle=Fiat - Blue &#038; (Windows) Me'+encodeURIComponent(location.href)"><img src="http://disturbed-reality.de/Bilder/yigg.png">bei Yigg vorschlagen</a> | <img src="http://disturbed-reality.de/Bilder/delicious.small.gif" border="0"> <a href="#" onclick="return dbt_bookmark('http://disturbed-reality.de/blog/?p=1376');" >bei del.icio.us speichern</a> | 
+<a href="http://disturbed-reality.de/blog/?p=1376#respond" title="Comment on Fiat - Blue & (Windows) Me"> kommentieren</a><p>
+<img src="wp-content/themes/disturbed.grey.v2/img/unten.png"></div>
+<p align="center">
+
+
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1323&refurl='+escape(document.location.href)+'" width="468" height="60" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM --><p>
+<p><br>							</div>
+						<div class="post">
+				<div class="post-title"><em><a href="http://disturbed-reality.de/blog/?cat=17" title="View all posts in aus der WG" rel="category tag">aus der WG</a></em>am 20 Jun 2006 08:43 pm</div><p>
+<p class="post-info"><a href="http://disturbed-reality.de/blog/?p=1375" rel="bookmark" title="Permanent Link: Fußball und verbundener Wahnsinn">Fußball und verbundener Wahnsinn</a></p>
+<div class="post-content">
+	<p> ja die Spiele sind schön, es macht Spaß sie zu sehn und dabei zu feiern.
+<p>
+<b>ABER</b>! Manches nimmt irgendwo etwas heftig irrsinnige Züge an. <br />Zum Beispiel, wenn sich direkt neben meiner kleinen bescheidenen Wohnung im Herzen von Gießen Fans unterschiedlicher <i>Bundesliga</i>clubs gegenseitig die Türen eintreten und sich dann auf der Straße wuchten. Und zwar so, dass die Polizei mit 7-9 Wagen anrücken muss.</p>
+<p>Oder, wenn nur 1-2 Stunden später, die Herren in grün erneut -aber in doppelter Stärke- anrücken, weil sich andere(!) Bundesligafans wieder direkt vor meiner Tür mit Stücken wuchten, sich gegenseitige ohnmächtig schlagen, der Kopf von am Boden Liegenden (nicht Ohnmächtigen) von umstehenden mit (Stahlkappen-)Springerstiefeln getreten wird. Oder erst recht, wenn Leute wegen <i>Fußball</i>(!) auf der Straße wiederbelebt werden müssen. </p>
+<p>An so einem Punkt hat all das <b>nichts</b> mehr mit WM, Fußball oder Volksfest zu tun. Das ist schlicht und ergreifend dumm!</p>
+	<p class="post-info-co">
+													
+	</p>
+	<!--
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	    xmlns:dc="http://purl.org/dc/elements/1.1/"
+	    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://disturbed-reality.de/blog/?p=1375"
+    dc:identifier="http://disturbed-reality.de/blog/?p=1375"
+    dc:title="Fußball und verbundener Wahnsinn"
+    trackback:ping="http://disturbed-reality.de/blog/wp-trackback.php?p=1375" />
+</rdf:RDF>	-->
+</div>
+<div class="post-footer">
+<a href="javascript:location.href='http://yigg.de/neu?exturl=http://disturbed-reality.de/blog/?p=1375&exttitle=Fußball und verbundener Wahnsinn'+encodeURIComponent(location.href)"><img src="http://disturbed-reality.de/Bilder/yigg.png">bei Yigg vorschlagen</a> | <img src="http://disturbed-reality.de/Bilder/delicious.small.gif" border="0"> <a href="#" onclick="return dbt_bookmark('http://disturbed-reality.de/blog/?p=1375');" >bei del.icio.us speichern</a> | 
+<a href="http://disturbed-reality.de/blog/?p=1375#comments" title="Comment on Fußball und verbundener Wahnsinn"> 2 Kommentare </a><p>
+<img src="wp-content/themes/disturbed.grey.v2/img/unten.png"></div>
+<p align="center">
+
+
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1323&refurl='+escape(document.location.href)+'" width="468" height="60" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM --><p>
+<p><br>							</div>
+						<div class="post">
+				<div class="post-title"><em><a href="http://disturbed-reality.de/blog/?cat=9" title="View all posts in linux" rel="category tag">linux</a></em>am 20 Jun 2006 09:37 am</div><p>
+<p class="post-info"><a href="http://disturbed-reality.de/blog/?p=1374" rel="bookmark" title="Permanent Link: Review von Ubuntu 6.06">Review von Ubuntu 6.06</a></p>
+<div class="post-content">
+	<p> <img src="http://www.pro-linux.de/berichte/jpgs/ubuntu0606/loginscreen_small.jpg" align="right"/><br />
+<blockquote>
+Alle Welt wartete mit Spannung auf das nach dem üblichen halbjährlichen Release-Zyklus für April geplante Ubuntu 6.04, Codename »Dapper Drake«.<br />
+Nachdem Ubuntu-Gründer Mark Shuttleworth verkündet hatte, dass mit dieser Version ein Meta-Zyklus zu Ende geht, der in einer besonders stabilen Version mündet, erwirkte er eine Verschiebung des Veröffentlichungstermins um zwei Monate. Aufgrund der geplanten jahrelangen Unterstützung erhielt diese Version den neuen Namen Ubuntu 6.06 LTS, wobei LTS für »Long Term Support« steht. Der Test soll zeigen, ob das Produkt wirklich so gelungen ist.
+</p></blockquote>
+<p>Ja, ich weiß&#8230; ich bin aktuell ein wenig schreibfaul, das Wetter und nette Leute aus der Umgebung halten mich erfolgreich davon ab <img src='http://disturbed-reality.de/blog/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
+<p>Trotzdem ein kleiner Lesehinweis: Pro-Linux hat eine relativ anständige Begutachtung des neuen <a href="http://www.pro-linux.de/berichte/ubuntu0606.html">Ubuntu 6.06 LTS</a> gemacht. Schauts euch mal an, es loht sich!</p>
+	<p class="post-info-co">
+													
+	</p>
+	<!--
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	    xmlns:dc="http://purl.org/dc/elements/1.1/"
+	    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://disturbed-reality.de/blog/?p=1374"
+    dc:identifier="http://disturbed-reality.de/blog/?p=1374"
+    dc:title="Review von Ubuntu 6.06"
+    trackback:ping="http://disturbed-reality.de/blog/wp-trackback.php?p=1374" />
+</rdf:RDF>	-->
+</div>
+<div class="post-footer">
+<a href="javascript:location.href='http://yigg.de/neu?exturl=http://disturbed-reality.de/blog/?p=1374&exttitle=Review von Ubuntu 6.06'+encodeURIComponent(location.href)"><img src="http://disturbed-reality.de/Bilder/yigg.png">bei Yigg vorschlagen</a> | <img src="http://disturbed-reality.de/Bilder/delicious.small.gif" border="0"> <a href="#" onclick="return dbt_bookmark('http://disturbed-reality.de/blog/?p=1374');" >bei del.icio.us speichern</a> | 
+<a href="http://disturbed-reality.de/blog/?p=1374#comments" title="Comment on Review von Ubuntu 6.06"> 1 Kommentar</a><p>
+<img src="wp-content/themes/disturbed.grey.v2/img/unten.png"></div>
+<p align="center">
+
+
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1323&refurl='+escape(document.location.href)+'" width="468" height="60" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM --><p>
+<p><br>							</div>
+						<div class="post">
+				<div class="post-title"><em><a href="http://disturbed-reality.de/blog/?cat=8" title="View all posts in apple" rel="category tag">apple</a></em>am 16 Jun 2006 01:25 pm</div><p>
+<p class="post-info"><a href="http://disturbed-reality.de/blog/?p=1373" rel="bookmark" title="Permanent Link: HoudahSpot">HoudahSpot</a></p>
+<div class="post-content">
+	<p> <img src="http://www.maczot.com/prodpics/houdahSpot.png" align="right"/>Wie <a href="http://disturbed-reality.de/blog/?p=1250">damals</a> schon, gibt es bei <a href='http://MacZOT.com'>MacZOT.com</a> wieder eine Produktvorstellungsprämie für Blogger. So denne, diesmal ist  <a href='http://www.houdah.com/houdahSpot'>HoudahSpot</a> dran.<br />
+	Mit dem Ding kann man über verschiedene Suchparameter alte verwaiste Dateien im Dschungel der eigenen Festplatte wiederfinden. Bei nem kleinen Testlauf eben bin ich auch prompt über 1,5 gig. alte Videos gestolpert. Die Tage werd ich mal schauen und (hoiffentlich) vielen Unsinn ausmisten. In kombination mit <a href="http://appzapper.com/">AppZapper</a> könnte das ev. sogar was werden <img src='http://disturbed-reality.de/blog/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />
+</p>
+	<p class="post-info-co">
+													
+	</p>
+	<!--
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	    xmlns:dc="http://purl.org/dc/elements/1.1/"
+	    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://disturbed-reality.de/blog/?p=1373"
+    dc:identifier="http://disturbed-reality.de/blog/?p=1373"
+    dc:title="HoudahSpot"
+    trackback:ping="http://disturbed-reality.de/blog/wp-trackback.php?p=1373" />
+</rdf:RDF>	-->
+</div>
+<div class="post-footer">
+<a href="javascript:location.href='http://yigg.de/neu?exturl=http://disturbed-reality.de/blog/?p=1373&exttitle=HoudahSpot'+encodeURIComponent(location.href)"><img src="http://disturbed-reality.de/Bilder/yigg.png">bei Yigg vorschlagen</a> | <img src="http://disturbed-reality.de/Bilder/delicious.small.gif" border="0"> <a href="#" onclick="return dbt_bookmark('http://disturbed-reality.de/blog/?p=1373');" >bei del.icio.us speichern</a> | 
+<a href="http://disturbed-reality.de/blog/?p=1373#respond" title="Comment on HoudahSpot"> kommentieren</a><p>
+<img src="wp-content/themes/disturbed.grey.v2/img/unten.png"></div>
+<p align="center">
+
+
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1323&refurl='+escape(document.location.href)+'" width="468" height="60" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM --><p>
+<p><br>							</div>
+						<div class="post">
+				<div class="post-title"><em><a href="http://disturbed-reality.de/blog/?cat=7" title="View all posts in netzwelten" rel="category tag">netzwelten</a></em>am 14 Jun 2006 02:20 pm</div><p>
+<p class="post-info"><a href="http://disturbed-reality.de/blog/?p=1372" rel="bookmark" title="Permanent Link: one for the &#8216;noon">one for the &#8216;noon</a></p>
+<div class="post-content">
+	<p> ein Lied in der drückenden Hitze
+<p>Joe Satriani, ein Gott an der sechseitigen Axt, mit seinem &#8220;Summer Song&#8221;:<br />
+<object width="425" height="350"><br />
+<param name="movie" value="http://www.youtube.com/v/icdnKydffZQ"></param><embed src="http://www.youtube.com/v/icdnKydffZQ" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+	<p class="post-info-co">
+													
+	</p>
+	<!--
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	    xmlns:dc="http://purl.org/dc/elements/1.1/"
+	    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://disturbed-reality.de/blog/?p=1372"
+    dc:identifier="http://disturbed-reality.de/blog/?p=1372"
+    dc:title="one for the &#8216;noon"
+    trackback:ping="http://disturbed-reality.de/blog/wp-trackback.php?p=1372" />
+</rdf:RDF>	-->
+</div>
+<div class="post-footer">
+<a href="javascript:location.href='http://yigg.de/neu?exturl=http://disturbed-reality.de/blog/?p=1372&exttitle=one for the &#8216;noon'+encodeURIComponent(location.href)"><img src="http://disturbed-reality.de/Bilder/yigg.png">bei Yigg vorschlagen</a> | <img src="http://disturbed-reality.de/Bilder/delicious.small.gif" border="0"> <a href="#" onclick="return dbt_bookmark('http://disturbed-reality.de/blog/?p=1372');" >bei del.icio.us speichern</a> | 
+<a href="http://disturbed-reality.de/blog/?p=1372#respond" title="Comment on one for the 'noon"> kommentieren</a><p>
+<img src="wp-content/themes/disturbed.grey.v2/img/unten.png"></div>
+<p align="center">
+
+
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1323&refurl='+escape(document.location.href)+'" width="468" height="60" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM --><p>
+<p><br>							</div>
+						<div class="post">
+				<div class="post-title"><em><a href="http://disturbed-reality.de/blog/?cat=11" title="View all posts in technik" rel="category tag">technik</a></em>am 14 Jun 2006 11:04 am</div><p>
+<p class="post-info"><a href="http://disturbed-reality.de/blog/?p=1371" rel="bookmark" title="Permanent Link: Flock goes beta">Flock goes beta</a></p>
+<div class="post-content">
+	<p> <img src="http://static.flickr.com/46/166764603_cc5115d25d.jpg?v=0"/><br />
+Erstmal haben sie die Webseite aufgemöbelt, dann haben sie ne neue Beta in die Welt geblasen. Inzwischen sind die Herren bei Version 0.7 angelangt, und es hat sich (oh Wunder) viel getan. Werd die Tage mal mit rumspielen und vielleicht was drüber schreiben&#8230; sieht aber bisher ganz nett aus.<br />
+<a href="http://flock.com/">Flock — The web browser for you and your friends</a></p>
+	<p class="post-info-co">
+													
+	</p>
+	<!--
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	    xmlns:dc="http://purl.org/dc/elements/1.1/"
+	    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://disturbed-reality.de/blog/?p=1371"
+    dc:identifier="http://disturbed-reality.de/blog/?p=1371"
+    dc:title="Flock goes beta"
+    trackback:ping="http://disturbed-reality.de/blog/wp-trackback.php?p=1371" />
+</rdf:RDF>	-->
+</div>
+<div class="post-footer">
+<a href="javascript:location.href='http://yigg.de/neu?exturl=http://disturbed-reality.de/blog/?p=1371&exttitle=Flock goes beta'+encodeURIComponent(location.href)"><img src="http://disturbed-reality.de/Bilder/yigg.png">bei Yigg vorschlagen</a> | <img src="http://disturbed-reality.de/Bilder/delicious.small.gif" border="0"> <a href="#" onclick="return dbt_bookmark('http://disturbed-reality.de/blog/?p=1371');" >bei del.icio.us speichern</a> | 
+<a href="http://disturbed-reality.de/blog/?p=1371#respond" title="Comment on Flock goes beta"> kommentieren</a><p>
+<img src="wp-content/themes/disturbed.grey.v2/img/unten.png"></div>
+<p align="center">
+
+
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1323&refurl='+escape(document.location.href)+'" width="468" height="60" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM --><p>
+<p><br>							</div>
+						<div class="post">
+				<div class="post-title"><em><a href="http://disturbed-reality.de/blog/?cat=14" title="View all posts in pädadrogik" rel="category tag">pädadrogik</a></em>am 14 Jun 2006 10:09 am</div><p>
+<p class="post-info"><a href="http://disturbed-reality.de/blog/?p=1370" rel="bookmark" title="Permanent Link: Demo in Darmstadt">Demo in Darmstadt</a></p>
+<div class="post-content">
+	<p> Soll ja ein <a href="http://de.indymedia.org/2006/06/149904.shtml">relativer Griff</a> ins Klöle gewesen sein, nähere Infos (Martin!) aber gerne erwünscht.
+<p>Aber ein Detail &#8216;made my day&#8217;<br /><img src="http://erwischtorg.h759617.serverkompetenz.net/cpg132/albums/2006/juni/darmstadt/13_demo_xtrem/demo24.JPG"/></p>
+	<p class="post-info-co">
+													
+	</p>
+	<!--
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	    xmlns:dc="http://purl.org/dc/elements/1.1/"
+	    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://disturbed-reality.de/blog/?p=1370"
+    dc:identifier="http://disturbed-reality.de/blog/?p=1370"
+    dc:title="Demo in Darmstadt"
+    trackback:ping="http://disturbed-reality.de/blog/wp-trackback.php?p=1370" />
+</rdf:RDF>	-->
+</div>
+<div class="post-footer">
+<a href="javascript:location.href='http://yigg.de/neu?exturl=http://disturbed-reality.de/blog/?p=1370&exttitle=Demo in Darmstadt'+encodeURIComponent(location.href)"><img src="http://disturbed-reality.de/Bilder/yigg.png">bei Yigg vorschlagen</a> | <img src="http://disturbed-reality.de/Bilder/delicious.small.gif" border="0"> <a href="#" onclick="return dbt_bookmark('http://disturbed-reality.de/blog/?p=1370');" >bei del.icio.us speichern</a> | 
+<a href="http://disturbed-reality.de/blog/?p=1370#comments" title="Comment on Demo in Darmstadt"> 1 Kommentar</a><p>
+<img src="wp-content/themes/disturbed.grey.v2/img/unten.png"></div>
+<p align="center">
+
+
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1323&refurl='+escape(document.location.href)+'" width="468" height="60" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM --><p>
+<p><br>							</div>
+						<div class="post">
+				<div class="post-title"><em><a href="http://disturbed-reality.de/blog/?cat=15" title="View all posts in one for the night" rel="category tag">one for the night</a></em>am 13 Jun 2006 06:25 pm</div><p>
+<p class="post-info"><a href="http://disturbed-reality.de/blog/?p=1369" rel="bookmark" title="Permanent Link: one from the Man in Black, Johnny Cash">one from the Man in Black, Johnny Cash</a></p>
+<div class="post-content">
+	<p> Ein Mann, in dessen Stimme man versinken möchte.
+<p>Johnny R. Cash mit einem seiner Spätwerke: Redemption.</p>
+<p><object width="425" height="350"><br />
+<param name="movie" value="http://www.youtube.com/v/4MVjfPLR8L0"></param><embed src="http://www.youtube.com/v/4MVjfPLR8L0" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
+	<p class="post-info-co">
+													
+	</p>
+	<!--
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	    xmlns:dc="http://purl.org/dc/elements/1.1/"
+	    xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="http://disturbed-reality.de/blog/?p=1369"
+    dc:identifier="http://disturbed-reality.de/blog/?p=1369"
+    dc:title="one from the Man in Black, Johnny Cash "
+    trackback:ping="http://disturbed-reality.de/blog/wp-trackback.php?p=1369" />
+</rdf:RDF>	-->
+</div>
+<div class="post-footer">
+<a href="javascript:location.href='http://yigg.de/neu?exturl=http://disturbed-reality.de/blog/?p=1369&exttitle=one from the Man in Black, Johnny Cash'+encodeURIComponent(location.href)"><img src="http://disturbed-reality.de/Bilder/yigg.png">bei Yigg vorschlagen</a> | <img src="http://disturbed-reality.de/Bilder/delicious.small.gif" border="0"> <a href="#" onclick="return dbt_bookmark('http://disturbed-reality.de/blog/?p=1369');" >bei del.icio.us speichern</a> | 
+<a href="http://disturbed-reality.de/blog/?p=1369#respond" title="Comment on one from the Man in Black, Johnny Cash "> kommentieren</a><p>
+<img src="wp-content/themes/disturbed.grey.v2/img/unten.png"></div>
+<p align="center">
+
+
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1323&refurl='+escape(document.location.href)+'" width="468" height="60" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM --><p>
+<p><br>							</div>
+					<p align="center"> &#8212; <a href="http://disturbed-reality.de/blog/index.php?option=com_content&amp;task=view&amp;id=313&amp;Itemid=39&amp;paged=2">Next Page &raquo;</a></p>		
+	</div>
+	<div id="sidebar">
+	       <h2>
+<form id="searchform" method="get" action="/blog/index.php">
+					<input type="text" name="s" id="s" size="9" />
+					<input type="submit" name="submit" value="suchen" />
+				</form></h2>
+				
+<h2><table align="center" border="0">
+<table align="center" cellpadding="0" cellspacing="0" border="0" id="flickr_badge_wrapper">
+<tr>
+<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=2&display=random&size=s&layout=h&source=user&user=35748479%40N00"></script>
+</tr>
+</table></table></h2>
+
+<h2><a href="http://disturbed-reality.de/board/">Board</a></h2>
+<ul></ul>
+<h2><a href="http://disturbed-reality.de/wiki/">Wiki</a></h2>
+<ul></ul>
+<h2>Shoutbox</h2>
+<ul><li id="about"></li> 
+            <div id="wordspew">
+				<div id="chatoutput">
+					<div id="lastMessage"><span>Latest Message</span> <em id="responseTime">16 hours, 14 minutes ago</em></div>
+ 						<ul id="outputList">
+ 						<li><span title="16 hours, 14 minutes">Noir : </span> oh übrigens!! &quot;The 5th Avocado&quot; ist wieder da in einem remake <img src='http://disturbed-reality.de/blog/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />  YAY <img src='http://disturbed-reality.de/blog/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />  <a href="http://www.newgrounds.com/portal/view/319141">&laquo;link&raquo;</a></li>
+						        <li><span title="17 hours, 44 minutes">Noir : </span> Would you like spam with spam and spamspam spam sauce?</li>
+						        <li><span title="21 hours, 10 minutes">Paul : </span> Juhu Spaaaammmmmm</li>
+						        <li><span title="2 days, 3 hours">Paul : </span> Soviel zum Thema Freitag(siehe Link)</li>
+						        <li><span title="2 days, 3 hours">Paul : </span> <a href="http://www.bullenschluck.de/home.HTM">&laquo;link&raquo;</a></li>
+						        <li><span title="2 days, 10 hours">Anna : </span> Jo, aber ich kann singen! Ätsch</li>
+						        <li><span title="2 days, 14 hours">Noir : </span> na komm du hast ja wohl mitgegröhlt! also beschwer dich malo nicht *g*</li>
+						        <li><span title="3 days, 12 hours">Anna : </span> Stimmt!</li>
+						        <li><span title="3 days, 16 hours">alo : </span> ihr könnt alle nicht singen!</li>
+						        <li><span title="6 days, 11 hours">Noir : </span> hm.... nö! aber dafür bin ich am we mal kurz da;)</li>
+						        <li><span title="6 days, 17 hours">alo : </span> judith hat eben angefangen, für morgen(do) um 14.00 die leute an den launsbacher see zu mobilisieren. dann trage ich mal diese kunde hiermit in die welt hinaus</li>
+						        <li><span title="1 week">Paul : </span> gröööööllll und schwingen *singz* jetzt weiß icha uch wie du dich von der maxexpo erholt hast *lol*</li>
+						        <li><span title="1 week">alo : </span> <a href="http://www.youtube.com/watch?v=Hg2n6SrqFOE">&laquo;link&raquo;</a></li>
+						        <li><span title="1 week">Paul : </span> Jaja heut schicke ich mal Zeugs in die Welt</li>
+						        <li><span title="1 week">Paul : </span> <a href="http://eepybird.com/dcm1.html">&laquo;link&raquo;</a></li>
+						        <li><span title="1 week">Paul : </span> <a href="http://focus.msn.de/gesundheit/ernaehrung/news/alkohol_nid_30322.html">&laquo;link&raquo;</a></li>
+						        <li><span title="1 week, 1 day">Paul : </span> mit der mega rießen beleuchtung *grinz*</li>
+						        <li><span title="1 week, 1 day">alo : </span> ich hör den grill rufen, da hinten, ganz leise....</li>
+						        <li><span title="1 week, 1 day">jojo* : </span> na ich hab ne idee: meiner einer kommt morgen nachmittag nach hause und will beschäftigt werden, wenn er nicht gerade lernen muss! <img src='http://disturbed-reality.de/blog/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </li>
+						        <li><span title="1 week, 1 day">alo : </span> aber was machen wir denn eigentlich sonst noch an diesem langen we?</li>
+						        <li><span title="1 week, 1 day">alo : </span> hmm nö :p mi bin ich schon anderweitig verplant (hochzeit(!) einer klassenkameradin). und ja Füße sind wieder ganz</li>
+						        <li><span title="1 week, 1 day">Paul : </span> So Alo ich hoff die Absätze sind wieder an den Stöckelschuhen und kannst wieder laufen <img src='http://disturbed-reality.de/blog/wp-includes/images/smilies/icon_razz.gif' alt=':P' class='wp-smiley' />  Mittwoch WM schauen -&gt; Haarlem danach 20Kisten Freibier?</li>
+						        <li><span title="1 week, 3 days">Noir : </span> oh wieder offen!</li>
+						        <li><span title="1 week, 4 days">Noir : </span> Sorry alo das ich nicht den comment link benutze... aber das leißt ja sowie so keiner ausser martin und mir... aber das mit gorbatschow ist mal richtig geil;) ich hoffe das hat wenigstens ein bischen gebracht <img src='http://disturbed-reality.de/blog/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </li>
+						        <li><span title="1 week, 5 days">Paul : </span> Heute ist mal son richtiger scheiss Tag....erst verschlag ich 30 min bekomm den zug grade noch so und dann werde wir über haunau umgeleitet und komm trotzdem 1h zu spät an die Arbeit....was macht ihr heute Abend?</li>
+						        <li><span title="1 week, 5 days">Noir : </span> ouuuuuuuuhhhh!! Is net wahr....</li>
+						        <li><span title="1 week, 5 days">alo : </span> es gibt ihn wirklich, den &quot;Ützel Brützel&quot; <a href="http://www.hartl.info/images/384.jpg">&laquo;link&raquo;</a></li>
+						        <li><span title="1 week, 5 days">alo : </span> sowas gehört erstmal in die Kommentare zum Beitrag, und dann-was erwartest du bei der Seite &quot;geekculture&quot;</li>
+						        <li><span title="1 week, 6 days">Noir : </span> @alo ... sorry aber &quot;'n spässle&quot; war das echt nicht... war verdammt strange und NICHT witzig.....</li>
+						        <li><span title="1 week, 6 days">Noir : </span> silent hill kenn ich schon ein ganz netter film <img src='http://disturbed-reality.de/blog/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </li>
+						        <li><span title="1 week, 6 days">Jacques : </span> Gib dir lieber mal &quot;the PUNisher&quot;, kommt gratis wenn am Morgen nach ner Party die leute nen dicken Kopp haben!</li>
+						        <li><span title="1 week, 6 days">Ish'a : </span> schau dir lieber &quot;silent hill&quot; an! der lohnt sich wirjklich</li>
+						        </ul>
+
+				</div>
+						<form id="chatForm" method="post" action="http://disturbed-reality.de/blog/wp-content/plugins/wordspew_2/wordspew.php">
+				    <p>
+					<label for="shoutboxname">Name:</label>
+					<input type="text" name="shoutboxname" id="shoutboxname" value="" />
+					<span style="display: none">					<label for="shoutboxurl">URL:</label>
+					<input type="text" name="shoutboxurl" id="shoutboxurl" value="http://" />
+					</span>					
+					<label for="chatbarText">Message:</label>
+										<input type="text" name="chatbarText" id="chatbarText" />
+										<input type="hidden" id="jal_lastID" value="123" name="jal_lastID" />
+					<input type="hidden" name="shout_no_js" value="true" />
+					<input type="submit" id="submitchat" name="submit" value="Send" />
+					</p>
+				</form>
+		            </div>
+<!-- ###### <small>aktuell geschlossen wegen Spam. Unsinn schreiben kann man aber weiterhin mit der Kommentarfunktion oder in diesem Bereich des <a href="http://disturbed-reality.de/board/index.php?c=7">Forums</a></small><p> -->
+<p align="center">
+<!-- Werbung Apple Edu-->
+<script language="javascript">
+var uri = 'http://impde.tradedoubler.com/imp/img/583105/1231753?' + new String (Math.random()).substring (2, 11);
+document.write('<a href="http://clkde.tradedoubler.com/click?p=3469&a=1231753&g=583105" target="_blank"><img src="'+uri+'" border=0></a>');
+</script>
+
+<!-- Werbung Hitflip-->
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<a href="http://partners.webmasterplan.com/click.asp?ref=282182&site=3729&type=b13&bnb=13"  target="_blank">
+<img src="http://banners.webmasterplan.com/view.asp?ref=282182&site=3729&b=13" border="0" alt="Hitflip - DVDs tauschen" width="125" height="125"/></a><br>
+<!-- END PARTNER PROGRAM -->
+
+<!-- Werbung Amazon Suche-->
+<p align="center">
+<iframe src="http://rcm-de.amazon.de/e/cm?t=bistdubloede-21&o=3&p=20&l=qs1&f=ifr" width="120" height="90" frameborder="0" scrolling="no"></iframe><p>
+<!-- ###### -->
+
+<!-- Werbung Amazon Dynamisch -->
+<p align="center">
+<script type="text/javascript"><!--
+  amazon_ad_tag = "bistdubloede-21";
+  amazon_ad_width = "120";
+  amazon_ad_height = "600";
+  amazon_ad_logo = "hide";
+  amazon_ad_border = "hide";
+//--></script>
+<script type="text/javascript" src="http://www.assoc-amazon.de/s/ads.js"></script><p>
+<!-- ###### -->
+
+<!-- Werbung Apple Edu2 -->
+<p align="center">
+<script language="javascript">
+var uri = 'http://impde.tradedoubler.com/imp/img/583111/1231753?' + new String (Math.random()).substring (2, 11);
+document.write('<a href="http://clkde.tradedoubler.com/click?p=3469&a=1231753&g=583111" target="_blank"><img src="'+uri+'" border=0></a>');
+</script>
+
+
+	
+<p align="center">
+<h2><a href="http://disturbed-reality.de/blog/?page_id=1031">Archiv:</a></h2>
+<ul></ul>
+<h2><a href="http://disturbed-reality.de/blog/?page_id=645">Impressum:</a></h2>
+<ul></ul>
+<h2>Meta:</h2>
+		<ul>
+		<li></li>
+		<li><a href="http://disturbed-reality.de/blog/wp-login.php">Login</a></li>
+		<li></li>
+				</ul>
+<!-- ###### -->
+<p align="center">
+<!-- Werbung 1&1 -->
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<a href="http://partners.webmasterplan.com/click.asp?ref=282182&site=2941&type=b23&bnb=23"  target="_top">
+<img src="http://banners.webmasterplan.com/view.asp?ref=282182&site=2941&b=23" border="0" alt="1&1 City-Flat f�r 6,99 �/Monat" width="100" height="100"/></a><br>
+<!-- END PARTNER PROGRAM -->
+<p align="center">
+<!-- Werbung Arcor -->
+<script language="javascript">
+var uri = 'http://impde.tradedoubler.com/imp/img/95992/1231753?' + new String (Math.random()).substring (2, 11);
+document.write('<a href="http://clkde.tradedoubler.com/click?p=15992&a=1231753&g=95992" target="_blank"><img src="'+uri+'" border=0></a>');
+</script>
+	</div>
+	
+	
+	
+	
+
+<hr /><p id="footer">| disturbed-reality.de/blog #13.7 | <!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" type="text/javascript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript" type="text/javascript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><!-- End of Netstat Code --><!-- Site Meter --><script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr"></script><noscript><a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top"><img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a></noscript><!-- Copyright (c)2006 Site Meter --><!-- alo counter block --></p><!-- counter.blogscout.de / Start --><script type="text/javascript"><!--blogcounter_client_id = "bist-du-bloe.de";//--></script><script type="text/javascript" src="http://count.blogscout.de/track.js"></script><noscript><img src="http://count.blogscout.de/log/bist-du-bloe.de" height="1" width="1" alt="counter" /></noscript><!-- counter.blogscout.de / Ende --></div>
+
+</body>
+</html>

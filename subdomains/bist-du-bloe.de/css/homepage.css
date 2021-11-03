@@ -1,0 +1,1048 @@
+body	{
+	font-family: helvetica, arial, sans-serif;
+	font-size: 12pt;
+	background-color: #FFFFFF;
+	margin: 0px;
+	}
+	
+th, td, p, li {
+	font-family: helvetica, arial, sans-serif;
+	font-size: 12pt;
+	}
+	
+h1	{
+	font-size: 18pt;
+	font-weight: bold;
+	color: #990000;
+	}
+	
+h2	{
+	font-size: 12pt;
+	font-weight: bold;
+	}
+
+h3
+        {
+        font-size:       14px;
+        font-weight:       bold;
+        line-height:       1.4em;
+        }
+
+h4	
+	{
+	font-size: 12pt;
+	font-weight: bold;
+	}
+	
+h5	
+	{
+	font-size: 10pt;
+	font-weight: bold;
+	color: #990000;
+	}
+
+a:link	{
+		color:	#000066;
+		}
+		
+a:visited
+		{
+		color:	#333399;
+		}
+	
+.sidenavbig	{
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 10pt;
+	text-decoration: none;
+	}
+	
+a.sidenavbg:link	{
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 10pt;
+	text-decoration: none;
+	}
+	
+a.sidenavbg:visited	{
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 10pt;
+	text-decoration: none;
+	}
+	
+.sidenavsm	{
+	font-size: 10pt;
+	color: #000000;
+	text-decoration: none;
+	}
+	
+a.sidenavsm:link	{
+	color: #000000;
+	font-size: 10pt;
+	text-decoration: none;
+	}
+	
+a.sidenavsm:visited	{
+	font-size: 10pt;
+	color: #000000;
+	text-decoration: none;
+	}
+	
+.greytext	{
+	color: #cccccc;
+	}
+	
+.darkgreytext	{
+	color: #666666;
+	}
+	
+.itsytitletext	{
+	font-family: helvetica, arial, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	}
+	
+.graytitletext	{
+	font-size: 10pt;
+	font-weight: bold;
+	color: #333333;
+	}
+
+.graytitletextbig	{
+	font-size: 12pt;
+	font-weight: bold;
+        color: #333333;
+        }
+        
+.titletext	{
+	font-size: 10pt;
+	font-weight: bold;
+	}
+
+.titletextsmall {	
+	font-weight: bold;
+	color: #666666;
+	}
+
+.titletextbig	{
+	font-weight: bold;
+	font-size: 12pt;
+	}
+	
+a.rednav:link	{
+	color: #cc0000;
+	text-decoration: none;
+	}
+	
+a.rednav:visited	{
+	color: #cc0000;
+	text-decoration: none;
+	}
+	
+a.rednavbsm:link	{
+	font-size: 10pt;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+	line-height: 3px;
+	}
+	
+a.rednavbsm:visited	{
+	font-size: 10pt;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+	line-height: 3px;
+	}
+	
+.nav	{
+	background-color: #cccccc;
+	}
+	
+.navmain	{
+	background-color: #666666;
+	cursor: hand;
+	}
+	
+.navhilite	{
+	background-color: #eeeeee;
+	cursor: hand;
+	}
+	
+.psrednav	{
+	color: #990000;
+	font-weight: bold;
+	}
+
+a.psrednav:link	{
+	color: #990000;
+	font-weight: bold;
+	}
+	
+a.psrednav:visited	{
+	color: #990000;
+	font-weight: bold;
+	}
+	
+.stripes	{
+	background-image: url(https://www.redhat.com/img/homepg_tab_div.gif);
+	}
+	
+.stripes2	{
+	background-image: url(https://www.redhat.com/img/homepg_tab_div2.gif);
+	}
+	
+.sidebar	{
+	font-size: 10pt;
+	}
+	
+	
+.subhead1
+		{
+		font-size		:	12pt;
+		font-weight		:	bold;
+		}
+
+.subhead2
+		{
+		font-size		:	12pt;
+		color			:	#666666;
+		font-weight		:	bold;
+		}
+
+.subhead3
+		{
+		font-size		:	10pt;
+		color			:	#666666;
+		font-weight		:	bold;
+		}
+
+.subhead4
+		{
+		font-size		:	9pt;
+		color			:	#666666;
+		font-weight		:	bold;
+		}
+
+.subheadsmall
+		{
+		font-size		:	9pt;
+		font-weight		:	bold;
+		padding-bottom	:	4px;
+		}
+
+.subtitle
+		{
+		font-size		:	10pt;
+		color			:	#666666;
+		font-weight		:	bold;
+		line-height		:	1.2em;
+		}
+
+.titletext2
+		{
+		font-size		:	18pt;
+		font-weight		:	normal;
+		line-height		:	1.4em;
+		}
+
+.storetitle						/* for store titles */
+		{
+		font-size		:	24pt;
+		font-weight		:	normal;
+		line-height		:	1.4em;
+		color			:	#666666;
+		}
+
+.storetitle2						/* for store titles */
+		{
+		font-size		:	18pt;
+		font-weight		:	normal;
+		line-height		:	1.4em;
+		color			:	#666666;
+		}
+		
+.palenote
+		{
+		font-size		:	10pt;
+		color			:	#666666;
+		}	
+		
+.smalltext
+		{
+		font-size		:	10pt;
+		}
+
+.tinytext
+		{										/* bottom links */
+		font-size: 8pt;
+		font-family: helvetica, sans serif;		/* explicit for the footer */
+		}
+
+.asterisk  { 
+	font-size: 10pt;
+	color: #cc0000;            
+	vertical-align: top;
+	}
+	
+	
+/* ----------- styles for community section------------ */
+
+LI.communitylistitem {			/* used in community center */
+	color: #FFCC00;
+	}  								
+UL.communitylist {
+	margin-bottom: 12px;
+ 	}
+.calendar {						/* used in community center, event_results.html */
+	font-family: helvetica;
+	font-size: 10pt;
+	color: #000000;
+	}
+.datelink {						/* used in community center, event_results.html */
+	text-decoration: none;
+	}
+	
+
+/* ---------------- NEW SUPPORT AND DOCS AREA ----------------- */
+
+.formfields {
+	font-family: times-roman;
+	font-size: 10pt;
+	}
+
+ a.bluelinkbold { 
+	font-size: 12pt;
+	color: #000066;
+	font-weight: bold;	                 
+	}
+	
+a.bluelinksmallbold { 
+	font-size: 10pt;
+	color: #000066;
+	font-weight: bold;	                 
+	}
+	
+a.bluelinksmall { 
+	font-size: 10pt;
+	color: #000066;
+	}
+	
+a.redlinksmallbold { 
+	font-size: 10pt;	                       
+	color: #990000;                     
+	font-weight: bold;                     
+	}
+	
+a.graylinksmallbold { 
+	font-size: 10pt;	                       
+	color: #666666;                     
+	font-weight: bold;                     
+	}
+	
+a.graylinksmall { 
+	font-size: 10pt;	                       
+	color: #666666;                     
+	}
+	
+a.graylinksmallnu { 
+	font-size: 10pt;	                       
+	color: #666666;                     
+	text-decoration: none;
+	}
+	
+a.maroonlink { 
+	font-size: 12pt;	                       
+	color: #660000;                     
+	}
+	
+a.redlinksmallboldnu { 
+	font-size: 10pt;	                       
+	color: #990000;                     
+	font-weight: bold;                     
+	text-decoration: none;
+	}
+	
+.smalldarkgreytext	{
+	font-size: 10pt;
+	color: #666666;
+	}
+	
+.darkgreytextbold	{
+	color: #666666;
+	font-weight: bold;
+	}
+	
+.darkestgreytext	{
+	color: #333333;
+	}
+	
+.whitetitletext	{
+	font-size: 12pt;
+	font-weight: bold;
+	color: #ffffff;
+	}
+	
+.blacktitletext	{
+	font-size: 12pt;
+	font-weight: bold;
+	color: #000000;
+	}
+	
+.smallwhitetitletext	{
+	font-size: 10pt;
+	font-weight: bold;
+	color: #ffffff;
+	}
+	
+.smallblacktitletext	{
+	font-size: 10pt;
+	font-weight: bold;
+	color: #000000;
+	}
+	
+.smallblacktext	{
+	font-size: 10pt;
+	color: #000000;
+	}
+	
+.datacellcolor	{
+	background-color: #F8F8F8;
+	}
+	
+.sidebar	{
+	font-size: 10pt;
+	}
+	
+.boldred	
+	{
+	font-size: 12pt;
+	font-weight: bold;
+	color: #990000;
+	}
+	
+.boldbluesmall
+	{
+	font-size: 10pt;
+	font-weight: bold;
+	color: #000066;
+	}
+	
+li.gray { 
+	list-style-image: url(/img/bullet_gray.gif);
+	list-style-type: circle;          
+	}
+
+ul.gray { 
+	list-style-image: url(/img/bullet_gray.gif);
+	list-style-type: circle;          
+	}
+
+ul.graysidebar { 
+	list-style-image: url(/img/bullet_gray.gif);
+	list-style-type: disc;          
+	}
+
+
+
+/* SPENCER */
+
+.pricetext { 
+	font-size: 10pt;
+	color: black;
+	font-weight: bold;             
+}
+.smalltext { 
+	font-size: 10pt;
+	color: #000000;
+}
+
+.regtext {
+	font-family: helvetica, arial, sans-serif;	 
+	font-size: 12pt;
+	color: #000000;
+}
+
+.regtextbold { 
+	font-size: 12pt;
+	color: #000000;
+	font-weight: bold;           
+}
+
+.trademark { 
+	font-size: 8pt;
+	vertical-align: top;
+}
+
+hr.gray {
+	background-color: #999999;
+	height: 1px;         
+	border-style: none;          
+}
+
+.graytextsmall {	
+	font-size: 10pt;                 
+	color: #666666;
+	}
+
+.graytextsmallbold {	
+	font-size: 10pt;                 
+	font-weight: bold;
+	color: #666666;
+	}
+	
+.lgtitlebold {		/* training */
+	font-size: 14pt;
+	font-weight: bold;
+	}
+
+/* SPENCER */
+
+/* DOCS */
+
+.techtext	{
+	font-family: courier, serif;
+	font-size: 12pt;
+}
+
+hr.ltgray {
+        background-color: #cccccc;
+        height: 1px;
+        border-style: none;
+}
+
+.whitesmallbold {
+        font-size: 10pt;
+        color: #FFFFFF;
+        font-weight: bold;
+}
+.graysmall {
+	font-size: 10pt;
+	color: #666666;
+}
+
+
+/* zach created the below for the tiemann presentation pages */
+
+	/* sets bg color for 'sea of hats' table cell */
+.picbg				{
+					background-color: #000;
+					}
+
+	/* sets font size and color for photo credits */
+.pcred				{
+					font: 10pt helvetica, arial, sans-serif;
+					color: gray;
+					}
+	/* sets font size, color, and margins for photo credits */
+.pcredmargins		{
+					font: 10pt helvetica, arial, sans-serif;
+					color: gray;
+					margin-left: 10px;
+					margin-right: 10px;
+					}
+				
+.credmargins		{
+					margin-left: 10px;
+					margin-right: 10px;
+					}
+				
+.leadin				{
+					font: 18pt helvetica, arial, sans-serif;
+					color: #C00;
+					}
+
+.redtext			{
+					font-weight: bold;
+					color: #C00;
+					}
+				
+a.opinion:link		{
+					font-weight: bold;
+					color: #C00;
+					}
+				
+a.opinion:visited	{
+					font-weight: bold;
+					color: #C00;
+					}
+					
+a.opinion:active	{
+					font-weight: bold;
+					color: #C00;
+					}
+					
+					
+/* zach added these for the direct-mail training pages */
+
+a.smred:link		{
+					font-size: 10pt;
+					font-weight: bold;
+					color: #900;
+					}
+				
+a.smred:visited		{
+					font-size: 10pt;
+					font-weight: bold;
+					color: #900;
+					}
+					
+a.smred:active		{
+					font-size: 10pt;
+					font-weight: bold;
+					color: #900;
+					}
+					
+.medgraytitletextbig	{
+						font-size: 12pt;
+						font-weight: bold;
+        				color: #666;
+        				}
+        				
+.redtitletextbig	{
+					font-size: 12pt;
+					font-weight: bold;
+        			color: #C00;
+        			}
+        			
+.redtextbig			{
+					font-size: 18pt;
+        			color: #C00;
+        			}
+        			
+/* Migration Center Styles */
+
+
+h1.black				{
+						font-size: 18pt;
+						font-weight: bold;
+						color: #000;
+						}
+						
+.redspecial				{
+						font-size: 18pt;
+						font-weight: bold;
+						line-height: 18pt;
+						color: #990000;
+						}
+						
+.redspecial2			{
+						font-size: 16pt;
+						font-weight: bold;
+						line-height: 18pt;
+						color: #CC0000;
+						}
+						
+.redspecial3			{
+						font-size: 18pt;
+						font-weight: bold;
+						line-height: 18pt;
+						color: #990000;
+						}
+
+				
+.dkgreybold				{
+						font: bold 12pt helvetica, arial, sans-serif;
+						color: #666;
+						}
+						
+.dkgreyboldsm			{
+						font: bold 10pt helvetica, arial, sans-serif;
+						color: #666;
+						}
+						
+.medredboldsm			{
+						font: bold 10pt helvetica, arial, sans-serif;
+						color: #C00;
+						}
+						
+.dkredboldsm			{
+						font: bold 10pt helvetica, arial, sans-serif;
+						color: #600;
+						}
+						
+.submit					{
+						color: #fff;
+						background-color: #c00;
+						border-style: solid;
+						border-color: #c00;
+						}
+						
+.submitwht				{
+						color: #000;
+						background-color: #fff;
+						}
+						
+.submitgry				{
+						color: #000;
+						background-color: #eee;
+						border-style: solid;
+						border-color: #eee;
+						}
+
+.ltbackground			{
+						background-color: #fff;
+						}
+
+.medbackground			{
+						background-color: #999;
+						font: bold 10pt helvetica, arial, sans-serif;
+						color: #fff;
+						}
+						
+.dkbackground			{
+						background-color: #666;
+						}
+						
+/* info center styles */
+
+
+.greysubhed				{
+						background-color: #CCC;
+						font: bold 12pt helvetica, arial, sans-serif;
+						color: #333;
+						}
+						
+						
+a.regred:link			{
+						font-weight: bold;
+						color: #900;
+						}
+				
+a.regred:visited		{
+						font-weight: bold;
+						color: #900;
+						}
+					
+a.regred:active			{
+						font-weight: bold;
+						color: #900;
+						}
+						
+a.blulink 				{ 
+						font-size: 12pt;
+						color: #000066;
+						}
+
+        
+/* umbrella styles */
+
+.heavyblk				{
+						font: bold 18pt helvetica, arial, sans-serif;
+						color: #000;
+						}
+
+a.redlinksmallnu 		{ 
+						font-size: 10pt;	                       
+						color: #990000;                     
+  						text-decoration: none;
+						}
+						
+ul.forceit				{
+						font: 12pt helvetica, arial, sans-serif;
+						}
+						
+						
+	
+
+/* --------------- STRETCHY_V6 GLOBAL WRAPPER STYLES ---------------- */
+
+.globalnav {					/* style for pipes between global nav links */
+	font-family: helvetica, sans serif;
+	font-size:9pt;
+	color: #cc0000;
+	font-weight:bold;
+	}
+
+.globallinks {					/* style for global nav links */
+	font-family: helvetica, sans serif;
+	font-size:10pt;
+	color: #336699;
+	font-weight: bold;
+	text-decoration: none;
+	}
+	
+a.globallinks:link {					/* style for global nav links */
+	font-family: helvetica, sans serif;
+	font-size:10pt;
+	color: #336699;
+	font-weight: bold;
+	text-decoration: none;
+	}
+
+a.globallinks:visited {					/* style for global nav links */
+	font-family: helvetica, sans serif;
+	font-size:10pt;
+	color: #336699;
+	font-weight: bold;
+	text-decoration: none;
+	}
+	
+.breadcrumb {					/* breadcrumb links */
+	font-family: helvetica, sans serif;
+	font-size: .8em;
+	}
+	
+.siblinglink {					/* color sibling nav links */
+	font-family: helvetica, sans serif;
+	color:#cc0000;
+	font-size:10pt;
+	}
+	
+a.siblinglink:link {					/* color sibling nav links */
+	font-family: helvetica, sans serif;
+	color:#cc0000;
+	font-size:10pt;
+	}
+	
+a.siblinglink:visited {					/* color sibling nav links */
+	font-family: helvetica, sans serif;
+	color:#cc0000;
+	font-size:10pt;
+	}
+	
+.siblingnav {					/* nav below breadcrumbs */
+	font-family: helvetica, sans serif;
+	line-height: 15px;
+	font-size: .8em;
+	font-weight: bold;
+	}
+	
+.tertiarynav {					/* left-hand nav */
+	font-family: helvetica, sans serif;
+	font-size: 10pt;
+	}
+	
+.tertiarylink {				/* left-hand nav link color */
+	font-family: helvetica, sans serif;
+	color: #336666;
+	font-size: 10pt;
+    font-weight: bold;
+	}
+	
+a.tertiarylink:link {				/* left-hand nav link color */
+	font-family: helvetica, sans serif;
+	color: #336666;
+	font-size: 10pt;
+    font-weight: bold;
+	}
+	
+a.tertiarylink:visited {				/* left-hand nav link color */
+	font-family: helvetica, sans serif;
+	color: #336666;
+	font-size: 10pt;
+    font-weight: bold;
+	}
+	
+.tertiarysublink {          /* sublink in tertiary nav - inline */
+	color: #666666;
+	}
+	
+a.tertiarysublink:link {          /* sublink in tertiary nav - inline */
+	color: #666666;
+	}
+	
+a.tertiarysublink:visited {          /* sublink in tertiary nav - inline */
+	color: #666666;
+	}
+	
+.tertiarypage {				/* current page in left-hand nav */
+	color: #666666;
+	font-size: 10pt;
+	font-weight: bold;
+    background-color: #cccccc;
+	}
+	
+a.tertiarypage:link {				/* current page in left-hand nav */
+	color: #666666;
+	font-size: 10pt;
+	font-weight: bold;
+    background-color: #cccccc;
+	}
+	
+a.tertiarypage:visited {				/* current page in left-hand nav */
+	color: #666666;
+	font-size: 10pt;
+	font-weight: bold;
+    background-color: #cccccc;
+	}
+	
+.tertiaryspace {			/* spacing for tertiary sublinks - block */
+	margin-left: 1em;
+	}
+
+.sectionlink {				/* left-hand nav link color */
+	font-family: helvetica, sans serif;
+	color: #000066;
+	font-size: 10pt;
+        font-weight: normal;
+	}
+	
+a.sectionlink:link {				/* left-hand nav link color */
+	font-family: helvetica, sans serif;
+	color: #000066;
+	font-size: 10pt;
+        font-weight: normal;
+	}
+	
+a.sectionlink:visited {				/* left-hand nav link color */
+	font-family: helvetica, sans serif;
+	color: #000066;
+	font-size: 10pt;
+        font-weight: normal;
+	}
+	
+.areatitle1 {
+	font-family: helvetica, sans serif;
+	font-size: 12pt;
+	font-weight: bold;
+	text-decoration: none;
+	color: #cc0000;
+	}
+	
+a.areatitle1:link {
+	font-family: helvetica, sans serif;
+	font-size: 12pt;
+	font-weight: bold;
+	text-decoration: none;
+	color: #cc0000;
+	}
+	
+a.areatitle1:visited {
+	font-family: helvetica, sans serif;
+	font-size: 12pt;
+	font-weight: bold;
+	text-decoration: none;
+	color: #cc0000;
+	}
+
+.areatitle2 {				/* for community section */
+	font-family: helvetica, sans serif;
+	font-size: 14pt;
+	font-weight: bold;
+	text-decoration: none;
+	color: #FFFFFF;
+	}
+	
+.pagetitle1 {					/* title directly above content */
+	font-family: helvetica, sans serif;
+	font-size: 18pt;
+	font-weight: bold;
+	}
+	
+.footertext {
+	font-family: helvetica, sans serif;
+	font-size: 8pt;
+	line-height: 1.2em;
+	}
+
+.copyright {
+	font-family: helvetica, sans serif;
+	color: #666666;
+	font-size: 10pt;
+	line-height: 18px;
+	}
+
+
+/* ------------------margins--------------- */
+.rightmargin {
+	padding-left: 10px;
+	}
+	
+	
+	
+/* SOLUTION CENTER styles, crafted by the steady hand of Zach */
+
+
+.hedbg					{
+						background-color: #300;
+						}
+						
+.barbg					{
+						background-color: #CCC;
+						}
+						
+.barbgdk				{
+						background-color: #999;
+						}
+
+.barbgdkest				{
+						background-color: #666;
+						}
+						
+.barbglt				{
+						background-color: #EEE;
+						}
+						
+.mktnavbgdk				{
+						background-color: #600;
+						}
+						
+.mktnavbg				{
+						background-color: #900;
+						}
+
+.whtbg					{
+						background-color: #FFF;
+						}
+						
+a.mktnav:link			{
+						font: 10pt helvetica, arial, sans-serif;
+						text-decoration: none;
+						color: #600;
+						}
+						
+a.mktnav:visited		{
+						font: 10pt helvetica, arial, sans-serif;
+						text-decoration: none;
+						color: #600;
+						}
+						
+.smredtxt				{
+						font: 10pt helvetica, arial, sans-serif;
+						color: #C00;
+						}
+						
+.smredboldtxt			{
+						font: bold 10pt helvetica, arial, sans-serif;
+						color: #900;
+						}
+						
+.leadintxt				{
+						font: 14pt helvetica, arial, sans-serif;
+						}
+						
+a.smwhite:link			{
+						font: 10pt helvetica, arial, sans-serif;
+						text-decoration: none;
+						color: #FFF;
+						}
+						
+a.smwhite:visited		{
+						font: 10pt helvetica, arial, sans-serif;
+						text-decoration: none;
+						color: #FFF;
+						}
+
+.darkgreytext			{
+						color: #666;
+						}
+						
+.dkestgreyboldsm		{
+						font: bold 10pt helvetica, arial, sans-serif;
+						color: #333;
+						}
+						
+ul.greydisc				{
+						font: 12pt helvetica, arial, sans-serif;
+						line-height: 16pt;
+						list-style-type: disc;
+						color: #666;
+						}
+						
+.smgreysubhed				{
+						background-color: #CCC;
+						font: bold 10pt helvetica, arial, sans-serif;
+						color: #333;
+						}

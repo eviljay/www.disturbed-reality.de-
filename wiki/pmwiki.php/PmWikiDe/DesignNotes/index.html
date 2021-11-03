@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/1">
+	<title>reviews.disturbed-reality.de | PmWikiDe / Anmerkungen zum Aufbau </title>
+    <meta http-equiv='Content-Style-Type' content='text/css' />
+	<meta http-equiv="Content-Type" content="text/html;" />
+
+	<link rel="stylesheet" href='http://disturbed-reality.de/wiki/pub/skins/disturbed/wp-layout.css' type="text/css" media="screen" />
+
+	<style type="text/css" media="screen">
+
+/* BEGIN IMAGE CSS */
+/*	To accomodate differing install paths of WordPress, images are referred only here,
+    and not in the wp-layout.css file. If you prefer to use only CSS for colors and what
+    not, then go right ahead and delete the following lines, and the image files. */
+
+body { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickbgcolor.jpg"); }	
+#page { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickbg.jpg") repeat-y top; border: none; } 
+#header { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickheader.jpg") no-repeat bottom center; }
+#footer { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+			
+/*  Because the template is slightly different, size-wise, with images, this needs to be set here
+    If you don't want to use the template's images, you can also delete the following two lines. */
+			
+#header { margin: 0 !important; margin: 0 0 0 1px; padding: 1px; height: 198px; width: 758px; }
+#headerimg { margin: 7px 9px 0; height: 192px; width: 740px; } 
+/* END IMAGE CSS */
+		
+
+/* 	To ease the insertion of a personal header image, I have done it in such a way,
+    that you simply drop in an image called 'personalheader.jpg' into your /images/
+    directory. Dimensions should be at least 760px x 200px. Anything above that will
+    get cropped off of the image. */
+		
+#headerimg { background: url('http://disturbed-reality.de/wiki/pub/skins/disturbed/images/personalheader.jpg') no-repeat top;}
+</style>
+<script language="javascript" src="/pub/guiedit/guiedit.js"></script>
+</head>
+
+<body>
+<div id="page">
+
+<? // Begin Header ?>
+<div id="header">
+	<div id="headerimg">
+		<!--<h1><a href="http://disturbed-reality.de/wiki/pmwiki.php" title="reviews.disturbed-reality.de">reviews.disturbed-reality.de</a></h1>-->
+		<!--<div class="description">
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DesignNotes'>Anmerkungen zum Aufbau</a></h2>
+        </div>-->
+	</div>
+</div>
+<hr />
+<? // End Header ?>
+<p align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1321&refurl='+escape(document.location.href)+'" width="728" height="90" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM -->
+
+
+<!--Begin Frontpage-->
+<br />	<div id="content" class="narrowcolumn">
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DesignNotes'>Anmerkungen zum Aufbau</a>
+        
+
+        <!--PageText-->
+<div id='wikitext'>
+<p>
+<span style='font-size:83%'><span  style='color: green;'>(deutsche Übersetzung der Seite <a style='color: green' class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWiki/DesignNotes'>PmWiki.DesignNotes</a>, Stand 20.09.2005)</span></span>
+</p>
+<p class='vspace'></p><p>Nachfolgend sind einige Funktionen und Hinweise zum Aufbau von <span class='wikiword'><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWiki'>PmWiki</a></span> aufgelistet. Viele davon ergeben sich direkt aus der <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWikiPhilosophy'>PmWiki Philosophie</a> und aus vielen Diskussionen in den <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/MailingLists'>Mailinglisten</a>.
+</p>
+<p class='vspace'></p><ul><li><a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/FlatFileAdvantages?action=edit'>Vorteile einzelner Dateien</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/FlatFileAdvantages?action=edit'>?</a> - warum <span class='wikiword'>PmWiki</span> einzelne Dateien anstatt einer SQL Datenbank zur Speicherung verwendet
+</li><li><a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/HierarchicalGroups?action=edit'>Hierarchische Gruppen</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/HierarchicalGroups?action=edit'>?</a> - warum <span class='wikiword'>PmWiki</span> keine verschachtelten Gruppen unterstützt
+</li><li><a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PageLocking?action=edit'>Sperrung von Seiten</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PageLocking?action=edit'>?</a> - wie <span class='wikiword'>PmWiki</span> ohne Sperrung der Seiten auskommt (siehe auch <a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimultaneousEdits?action=edit'>Gleichzeitige Bearbeitungen</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimultaneousEdits?action=edit'>?</a>)
+</li><li><a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SearchImprovements?action=edit'>Verbesserung der Suche</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SearchImprovements?action=edit'>?</a> - warum <span class='wikiword'>PmWiki</span> eine eigene Suchmaschne besitzt
+</li><li><a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/FilePermissions?action=edit'>Dateirechte</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/FilePermissions?action=edit'>?</a> - einige Informationen über die Dateirechteeinstellungen bei <span class='wikiword'>PmWiki</span>
+</li></ul><p class='vspace'></p><p  style='background-color: #eee;'> <span class='wikitrail'>&lt;&lt; <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWikiPhilosophy'>PmWiki Philosophie</a> | <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DocumentationIndex'>Dokumentationsindex</a> | <a class='createlinktext' rel='nofollow' 
+    href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/References?action=edit'>Referenzen</a><a rel='nofollow' 
+    class='createlink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/References?action=edit'>?</a> &gt;&gt;</span>
+</p>
+</div>
+
+	
+	   <!-- Das kann man vielleicht mal fŸr Trails noch brauchen, aber wohl eher nicht
+		<div class="navigation">
+			<div class="alignleft"><?php posts_nav_link('','','&laquo; Previous Entries') ?></div>
+			<div class="alignright"><?php posts_nav_link('','Next Entries &raquo;','') ?></div>
+		</div>
+		-->
+		
+	</div>
+	
+<!--End Frontpage-->
+
+<? // Begin Sidebar Menu ?>
+<?php /* If this is not a permalink page, show the menu */ if (!($withcomments) && (!$single)) { ?>
+
+	<div id="sidebar">
+		<ul>
+			<li>
+                You are on <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+                <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DesignNotes'>Anmerkungen zum Aufbau</a>
+            </li>
+
+			<li>
+                <!-- MIKE: Suchform-->
+                <form action='http://disturbed-reality.de/wiki/pmwiki.php'>
+                    <input type='hidden' name='n' value='PmWikiDe.DesignNotes' />
+                    <input type='hidden' name='action' value='search' />
+                    <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Search'>Suchen</a>:
+                    <input class='searchbox' type='text' name='q' value='' />
+                    <input class='searchbutton' type='submit' value='Los' />
+                </form>
+			</li>
+                        
+            <!-- MIKE: Seitentitel und Gruppe-->
+            <li>
+                <h1><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWikiDe'>Deutsches Wiki</a></h1>
+<ul><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiWikiWeb'>Was ist ein Wiki?</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Installation'>Installation</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DocumentationIndex'>Dokumentationsindex</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiSandbox'>Sandkasten</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/RecentChanges'>Aktuelle Änderungen</a>
+</li></ul><hr />
+<p class='vspace'></p>
+
+            </li>
+
+		</ul>
+	</div>
+
+<? } // End Sidebar Menu  ?>
+
+
+
+<? // Begin Footer ?>
+<hr />
+<div id="footer">
+	<p>
+		<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DesignNotes?action=edit'>Seite Bearbeiten</a> -
+		<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DesignNotes?action=diff'>Seitenhistorie</a> -
+	 	<!--<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DesignNotes?action=upload'>Upload File</a> -->		
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DesignNotes?action=print' target='_blank'>Druckansicht</a> -
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/RecentChanges'>Aktuelle &Auml;nderungen</a> -
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Search'>Suchen</a><br /><br />
+        <br />Zuletzt ge&auml;ndert am 21.09.2005 22:08 Uhr		   		
+		<br />reviews.disturbed-reality.de is running  
+		<a href="http://www.pmwiki.org">PmWiki</a>. 
+<!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><!-- End of Netstat Code -->
+<?PHP include("../counter/inc.stats.php");?>
+<!-- alo counter block -->
+<!-- Site Meter -->
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+
+        </div>
+		
+	</p>
+</div>
+</div>
+<? // End Footer ?><br>
+</body>
+</html>

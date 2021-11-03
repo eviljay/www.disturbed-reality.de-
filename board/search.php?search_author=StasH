@@ -1,0 +1,500 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php" title="board.disturbed-reality.de Foren-Übersicht" />
+<link rel="search" href="./search.php" title="Suchen" />
+<link rel="help" href="./faq.php" title="FAQ" />
+<link rel="author" href="./memberlist.php" title="Mitgliederliste" />
+
+<title>board.disturbed-reality.de :: Suchen</title>
+<link rel="stylesheet" href="templates/DAJ_Glass/DAJ_Glass.css" type="text/css" />
+</head>
+<body>
+
+<a name="top"></a>
+
+<br class="gensmall">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+  	<td height="14" width="25" nowrap="nowrap" class="ul"></td>
+	<td width="100%" class="uc"></td>
+	<td width="25" nowrap="nowrap" class="ur"></td>
+  </tr>
+  <tr>
+  	<td class="headl"></td>
+	<td class="row3"><a href="index.php"><img src="templates/DAJ_Glass/images/logo_phpBB.gif" border="0" alt="board.disturbed-reality.de Foren-Übersicht" /></a>
+	</td>
+	<td class="headr"></td>
+  </tr>
+  <tr valign="bottom">
+  	<td rowspan="3" class="tul"></td>
+	<td height="30" class="tuc">
+	  <table width="100%" cellspacing="0" cellpadding="2">
+	  	<tr valign="bottom">
+		  <td><a href="index.php" class="mainmenu1">board.disturbed-reality.de</a></td>
+		  <td align="right" nowrap="nowrap">
+	  		<table cellspacing="0" cellpadding="0" border="0">
+	  		  <tr valign="bottom">
+	  		  <td>: <a href="http://disturbed-reality.de/blog/" class="mainmenu1">Blog</a> ::
+						<a href="http://disturbed-reality.de/review/" class="mainmenu1">Reviews</a> ::
+						<i class="mainmenu1">Board</i> :</td>
+		  		<td><a href="faq.php"><img src="templates/DAJ_Glass/images/icon_mini_faq.gif" border="0" alt="FAQ" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="faq.php" class="mainmenu1">FAQ</a>  </span></td>
+		  		<td><a href="search.php"><img src="templates/DAJ_Glass/images/icon_mini_search.gif" border="0" alt="Suchen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="search.php" class="mainmenu1">Suchen</a>  </span></td>
+		  		<td><a href="memberlist.php"><img src="templates/DAJ_Glass/images/icon_mini_members.gif" border="0" alt="Mitgliederliste" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="memberlist.php" class="mainmenu1">Mitgliederliste</a>  </span></td>
+		  		<td><a href="groupcp.php"><img src="templates/DAJ_Glass/images/icon_mini_groups.gif" border="0" alt="Benutzergruppen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="groupcp.php" class="mainmenu1">Benutzergruppen</a></span></td>
+			  </tr>
+	  		</table>
+		  </td>
+		</tr>
+	  </table>
+	</td>
+	<td rowspan="3" class="tur"></td>
+  </tr>
+  <tr>
+  	<td height="10" class="row5"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" height="1" width="1"></td>
+  </tr>
+  <tr valign="top">
+	<td height="30" nowrap="nowrap" class="tlc">
+	  <table width="100%" cellspacing="0" cellpadding="2" border="0">
+	  	<tr valign="top">
+		  <td><span class="mainmenu1">
+		  <a href="profile.php?mode=register" class="mainmenu1">Registrieren</a>  :: 
+		  <a href="login.php" class="mainmenu1">Login</a>
+		  </span></td>
+		  <td nowrap="nowrap" align="right"><span class="mainmenu1">
+		  <a href="privmsg.php?folder=inbox" class="mainmenu1">Einloggen, um private Nachrichten zu lesen</a>
+		  </span></td>
+		</tr>
+	  </table>
+	</td>
+  </tr>
+  <tr>
+    <td class="left"></td>
+	<td class="row2">
+<i><small>Werbung:</small></i>
+
+<ul style="margin-bottom:0px; padding:0px; margin-top:0px; border:0px none #FFFFFF;  overflow:hidden; width:100%; border-spacing:0px; list-style:none; margin-right:0px;">
+	<li style="float:left; clear:none; width:49%; display:inline;"><a style="line-height:140%;  font-size:12px;" href="http://www.geizclub24.de/gutscheine/DVD" target="_self">DVD Gutscheine</a></li>
+</ul>
+<hr><table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr valign="top">
+	<td nowrap="nowrap"><img src="templates/DAJ_Glass/images/nav.gif" border="0"></td>
+	<td width="100%" class="mainmenu"><a href="index.php" class="mainmenu">board.disturbed-reality.de Foren-Übersicht</a> » <a href="search.php" class="mainmenu">Suchen</a></td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="0" cellpadding="0" class="forumline">
+  <tr>
+	<td height="25" nowrap="nowrap" class="row4"><span class="cattitle"> Die Suche hat 717 Ergebnisse ergeben.</span></td>
+  </tr>
+  <tr>
+  	<td colspan="3">
+	  <table width="100%" cellspacing="1" cellpadding="3" border="0">
+		<tr align="center">
+		  <td width="150" height="20" class="row6" nowrap="nowrap"><span class="mainmenu">Autor</span></td>
+		  <td width="100%" class="row6" nowrap="nowrap"><span class="mainmenu">Nachricht</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5941&amp;highlight=" class="mainmenu">Neuauflage von &quot;Blade Runner&quot; im Herbst</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>10</b><br />Aufrufe: <b>925</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mi Okt 24, 2007 11:45 am   Titel: <b><a href="viewtopic.php?p=72630&amp;highlight=#72630">Neuauflage von &quot;Blade Runner&quot; im Herbst</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hab ihn mir schon vorbestellt und freu mich auf den 01. Dezember *gg* Die Limitierung steht noch nicht fest oder? Wieviele Exemplare es gibt?</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5970&amp;highlight=" class="mainmenu">Rob Zombie´s &quot;Halloween&quot;</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>68</b><br />Aufrufe: <b>13895</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mi Okt 24, 2007 11:41 am   Titel: <b><a href="viewtopic.php?p=72629&amp;highlight=#72629">Rob Zombie´s &quot;Halloween&quot;</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Sehen wir denn jetzt eigentlich die Original R-Rated Fassung im Kino oder erleben wir wieder eine noch größere Verstümmelung im Kino?</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6026&amp;highlight=" class="mainmenu">Hatchet</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>19</b><br />Aufrufe: <b>2202</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mi Okt 24, 2007 11:38 am   Titel: <b><a href="viewtopic.php?p=72628&amp;highlight=#72628">Hatchet</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Will unbedingt Hatchet sehen, scheiße das ich den Film für 13 Ocken bei der Börse einfach liegen gelassen habe! Könnte mich Ärgern! <br /><br />Sehr geil geschrieben Leatherface, hast ganz schön den Film hoch ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6235&amp;highlight=" class="mainmenu">Grind House von Tarantino und Rodriguez</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>112</b><br />Aufrufe: <b>24636</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mo Okt 22, 2007 7:06 am   Titel: <b><a href="viewtopic.php?p=72604&amp;highlight=#72604">Grind House von Tarantino und Rodriguez</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Scheiße hab den total verpasst wie Death Proof!! Muss mir auf jeden Fall die DVD im Double-Feature kaufen!! Höre von beiden Filmen nur gutes!!</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1869</b><br />Aufrufe: <b>399932</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mo Okt 22, 2007 7:04 am   Titel: <b><a href="viewtopic.php?p=72603&amp;highlight=#72603">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Gestern auf der Filmbörse gekauft<br />Agitator - Pappschuber - 3,33€<br />Rainy Dog - Pappschuber - 3,33€<br />Zebraman - Pappschuber - 3,33€<br />Drive - Pappschuber - 3,33€<br />Six Ways To Sunday - Pappschuber - 3,33 ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6468&amp;highlight=" class="mainmenu">The Amazon Force</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>19</b><br />Aufrufe: <b>3202</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=34" class="postdetails">Amateurfilme, Börsen & Veranstaltungen</a></b>   Verfasst am: Fr Sep 28, 2007 8:03 am   Titel: <b><a href="viewtopic.php?p=72485&amp;highlight=#72485">The Amazon Force</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Eigentlich könnt ihr doch ma zum diesjährigen WOH erscheinen nach Bottrop und den Film vorstellen oder?  <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7749&amp;highlight=" class="mainmenu">Hostel 2- nur zensiert auf DVD</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>265</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Fr Sep 28, 2007 7:59 am   Titel: <b><a href="viewtopic.php?p=72484&amp;highlight=#72484">Hostel 2- nur zensiert auf DVD</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hostel 2 - Infos zu den Zensuren<br /><br />Vor kurzem haben wir berichtet, dass die deutsche Extended Version von Hostel 2 mit SPIO/JK Gutachten um 7 Sekunden zensiert werden musste um damit die &quot;strafr ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6395&amp;highlight=" class="mainmenu">Black Sheep</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>23</b><br />Aufrufe: <b>4562</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Fr Sep 28, 2007 7:56 am   Titel: <b><a href="viewtopic.php?p=72483&amp;highlight=#72483">Black Sheep</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Habe gerade gelesen, dass auch eine gekürzte Fassung auf den Markt geworfen wird und das Steelbook mit der Kennzeichnung &quot;Keine Jugendfreigabe&quot; ist ungeschnitten!! Werd mir auf jeden Fall da ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7578&amp;highlight=" class="mainmenu">Filmlisten: von GenreLabels - Diskussionsthread</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>25</b><br />Aufrufe: <b>2801</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Fr Sep 28, 2007 7:53 am   Titel: <b><a href="viewtopic.php?p=72482&amp;highlight=#72482">Filmlisten: von GenreLabels - Diskussionsthread</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hier Fluke, wann kommt das Label Capelight? <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> <br /><br />Die haben auch so eine Nummerierung wie das Label X-Rated und mir fehlen die Namen von Nr. 3 und 5!! Vielleicht bekommst du das irgendwie heraus!!  ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7709&amp;highlight=" class="mainmenu">[Verkaufe] Einige DVD´s ab18 Liste Inside</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>2</b><br />Aufrufe: <b>290</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=23" class="postdetails">Gesucht und Gefunden</a></b>   Verfasst am: Do Sep 27, 2007 12:56 pm   Titel: <b><a href="viewtopic.php?p=72479&amp;highlight=#72479">[Verkaufe] Einige DVD´s ab18 Liste Inside</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hast du &quot;Funny Games&quot; im schwarzen Schuber?</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1869</b><br />Aufrufe: <b>399932</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Do Sep 27, 2007 12:54 pm   Titel: <b><a href="viewtopic.php?p=72478&amp;highlight=#72478">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Alle Achtung!! Dann verdienst du ja schon nicht wenig  <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" /> <br /><br />Gestern gekauft bei expert:<br /><br />- King Kong - Deluxe Extended Steelbook - 14,99€<br />- Miami Vice - Steelbook - 12,99€</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5508&amp;highlight=" class="mainmenu">RESIDENT EVIL: EXTINCTION</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>25</b><br />Aufrufe: <b>4489</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Do Sep 27, 2007 12:49 pm   Titel: <b><a href="viewtopic.php?p=72477&amp;highlight=#72477">RESIDENT EVIL: EXTINCTION</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ohweja!! Deine Kritik ist ja ziemlich vernichtend und gut geschrieben!! <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> <br /><br />Mir hat Teil 1+2 richtig gut gefallen und werde auch am kommenden Wochenende in Teil 3 gehen!!</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7751&amp;highlight=" class="mainmenu">Wo ist Alex?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>6</b><br />Aufrufe: <b>264</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=2" class="postdetails">Brainfuck</a></b>   Verfasst am: Do Sep 27, 2007 9:06 am   Titel: <b><a href="viewtopic.php?p=72475&amp;highlight=#72475">Wo ist Alex?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Mir fehlen irgendwie die DVD Infos vom Alex und bin einfach nicht mehr auf dem neusten Stand  <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7751&amp;highlight=" class="mainmenu">Wo ist Alex?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>6</b><br />Aufrufe: <b>264</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=2" class="postdetails">Brainfuck</a></b>   Verfasst am: Mi Sep 26, 2007 1:46 pm   Titel: <b><a href="viewtopic.php?p=72457&amp;highlight=#72457">Wo ist Alex?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hat jemand eine Ahnung warum er sich nicht mehr im Forum meldet?   <img src="images/smiles/icon_sad.gif" alt="Sad" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1869</b><br />Aufrufe: <b>399932</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mi Sep 26, 2007 1:43 pm   Titel: <b><a href="viewtopic.php?p=72456&amp;highlight=#72456">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">1000 Euro diesen Monat? Sach ma was machst du eigentlich von Beruf her?  <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> <br /><br />Also heute ist dazu gekommen:<br />- Die Insel - Steelbook mit Original Soundtrack 9,97€<br />- Black Box -  limiterten Meta ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7452&amp;highlight=" class="mainmenu">Midnight Movies in der UCI KINOWELT - Horror, Mystery, etc</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>23</b><br />Aufrufe: <b>3102</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Mi Sep 26, 2007 1:39 pm   Titel: <b><a href="viewtopic.php?p=72455&amp;highlight=#72455">Midnight Movies in der UCI KINOWELT - Horror, Mystery, etc</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Wie siehts denn mit dem Raum Gießen aus?  <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7749&amp;highlight=" class="mainmenu">Hostel 2- nur zensiert auf DVD</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>265</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mi Sep 26, 2007 1:38 pm   Titel: <b><a href="viewtopic.php?p=72454&amp;highlight=#72454">Hostel 2- nur zensiert auf DVD</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Basiert die Kürzung auf der Kinofassung oder der Unrated aus USA? <br />Wenn diese 7 Sekunden von der Unrated USA ausgehen, dann werd ich mir das Steelbook trotzdem kaufen, dann ist sie ja trotzdem noch l ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7746&amp;highlight=" class="mainmenu">Adressen der Labels</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>272</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: So Sep 23, 2007 10:51 pm   Titel: <b><a href="viewtopic.php?p=72434&amp;highlight=#72434">Adressen der Labels</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">MIB und Troma gehen nicht!! Haben wahrscheinlich eine andere Homepage</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7159&amp;highlight=" class="mainmenu">Weekend of Horrors 2007</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>28</b><br />Aufrufe: <b>2957</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=34" class="postdetails">Amateurfilme, Börsen & Veranstaltungen</a></b>   Verfasst am: Mi Sep 19, 2007 8:03 am   Titel: <b><a href="viewtopic.php?p=72416&amp;highlight=#72416">Weekend of Horrors 2007</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Die Autogrammstunden sind rund um die Uhr und die Photoshoottermine sind zeitlich begrenzt.</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7371&amp;highlight=" class="mainmenu">Shooter</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>6</b><br />Aufrufe: <b>817</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Mi Sep 19, 2007 7:59 am   Titel: <b><a href="viewtopic.php?p=72415&amp;highlight=#72415">Shooter</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Mir hat der Film auch gefallen im Kino!! Hat einfach sehr geile Actionszenen. <br /><br />Das Steelbook was nur exklusiv für WoV gibt, sieht auch extrem super aus und ist eine klare Kaufempfehlung.</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1869</b><br />Aufrufe: <b>399932</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mi Sep 19, 2007 7:56 am   Titel: <b><a href="viewtopic.php?p=72414&amp;highlight=#72414">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Was du denn bezahlt für jeden Film? <br /><br />z.B. <br />Phantomkiller 3, The Punisher 3D-Metalpak, Angel of Death limited 666 Stück, <br /><br />House of Dead? Der ist doch Cut oder?</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7742&amp;highlight=" class="mainmenu">Devil's Den - Killing from Dusk till Dawn</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1</b><br />Aufrufe: <b>296</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mi Sep 19, 2007 7:51 am   Titel: <b><a href="viewtopic.php?p=72413&amp;highlight=#72413">Devil's Den - Killing from Dusk till Dawn</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ey cool den Film muss ich ma im Auge behalten!! Ken Foree ist auch echt ne harte Nummer, konnte ihn ja im letzten Jahr aufm WOH kennen lernen und war echt einer besten die dort gewesen sind. Was der f ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7731&amp;highlight=" class="mainmenu">Wieviele DVDs besitzt ihr?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>6</b><br />Aufrufe: <b>334</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=26" class="postdetails">Sunshine-bar</a></b>   Verfasst am: Mo Sep 10, 2007 11:29 pm   Titel: <b><a href="viewtopic.php?p=72334&amp;highlight=#72334">Wieviele DVDs besitzt ihr?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Aktuelle Zahl 575 DVD's  <img src="images/smiles/icon_cool.gif" alt="Cool" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7724&amp;highlight=" class="mainmenu">Deutsche oder Ausländische DVDs ?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>7</b><br />Aufrufe: <b>313</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mo Sep 10, 2007 11:25 pm   Titel: <b><a href="viewtopic.php?p=72333&amp;highlight=#72333">Deutsche oder Ausländische DVDs ?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Greife auch mehr nach deutsche VÖ's!! Ausländische DVD's besitze ich auch, aber die kann man an einer Hand abzählen   <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7634&amp;highlight=" class="mainmenu">Phantom Kommando- UNRATED !!!!</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>18</b><br />Aufrufe: <b>1524</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mo Sep 10, 2007 11:21 pm   Titel: <b><a href="viewtopic.php?p=72332&amp;highlight=#72332">Phantom Kommando- UNRATED !!!!</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ist das jetzt doch auf einmal nicht der Director's Cut von der RC1 ??? Hoffentlich wird das nicht so enden wie bei TCM:TB länger als Kinofassung und trotzdem Cut!! Immer dieser ganzer Fassunsgwirrwar  ...</span></td>
+  		</tr>
+	  </table>
+	</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+  <tr valign="top">
+	<td><span class="genmed">Gehe zu Seite <b>1</b>, <a href="search.php?search_id=896178751&amp;start=25">2</a>, <a href="search.php?search_id=896178751&amp;start=50">3</a> ... <a href="search.php?search_id=896178751&amp;start=650">27</a>, <a href="search.php?search_id=896178751&amp;start=675">28</a>, <a href="search.php?search_id=896178751&amp;start=700">29</a>&nbsp;&nbsp;<a href="search.php?search_id=896178751&amp;start=25">Weiter</a></span></td>
+	<td align="right" nowrap="nowrap"><span class="nav">Seite <b>1</b> von <b>29</b></span></td>
+  </tr>
+</table>
+
+<br /><form method="get" name="jumpbox" action="viewforum.php" onSubmit="if(document.jumpbox.f.value == -1){return false;}">
+<table width="100%" cellspacing="1" border="0" cellpadding="1">
+  <tr>
+	<td align="right" nowrap="nowrap"><span class="gensmall">Gehe zu: <select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42">Updates</option><option value="17">Support</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">Brainfuck</option><option value="25">Lustiges aus dem Netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">Allgemeines</option><option value="28">Splatter & Horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">Hollywood und mehr…</option><option value="19">Schnittberichte und Zensur</option><option value="34">Amateurfilme, Börsen & Veranstaltungen</option><option value="31">...im TV</option><option value="33">...und die passende Musik</option><option value="32">Gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">Marktplatz</option><option value="-1">----------------</option><option value="23">Gesucht und Gefunden</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">Hard-& Software</option><option value="-1">----------------</option><option value="36">Computer, Betriebssysteme & Programme</option><option value="37">Internet</option><option value="38">Spiele</option><option value="-1">&nbsp;</option><option value="-1">Offtopic</option><option value="-1">----------------</option><option value="26">Sunshine-bar</option><option value="45">Politik</option></select><input type="hidden" name="sid" value="e28a189a3e31724703573eb9f5d6581b" /> <input type="submit" class="newsbutton" value="Go" /></span></td>
+  </tr>
+</table>
+</form>
+
+
+<p align="center">
+<table align="center" border="0">
+<tr>
+<td align="left">
+<!-- eBay RelevanceAd -->
+<script language='JavaScript' type='text/javascript'>
+//<-- DO NOT CHANGE -->
+// <!--<[CDATA[
+    era_width = '120';
+    era_height = '120';
+    era_layout = 'img';
+    era_color_border = 'FFFFFF';
+    era_color_bg = 'FFFFFF';
+    era_color_text = '000000';
+    era_color_title = '000000';
+    era_color_link = '003399';
+    era_itemtype = '0';
+    era_maxprice = '50';
+    era_desiredcategory = '83733';
+    era_hint= 'sammler,collector,edition,special,SE';
+    era_publisher='282182';
+// ]]> -->
+</script>
+<script language='JavaScript' type='text/javascript' src='http://ebayrelevancead.webmasterplan.com/js/show_ads.js'></script>
+<!-- /eBay RelevanceAd -->
+
+</td>
+
+<td align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+  //<!--<[CDATA[
+    am_referrer = '282182';
+    am_template = '4';
+
+    am_color_text = '000000';
+    am_color_title = '000000';
+    am_color_border = 'FFFFFF';
+    am_color_background = 'FFFFFF';
+    am_color_price = '990000';
+    am_color_link = '333333';
+
+    am_stmo = '1';
+  // ]]> -->
+</script>
+<script language="JavaScript" type="text/javascript" src="http://banners.affilimatch.de/show_ads.js"></script>
+<!-- END PARTNER PROGRAM -->
+</td>
+<td align="right">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<a href="http://partners.webmasterplan.com/click.asp?ref=282182&site=3729&type=b86&bnb=86"  target="_top">
+<img src="http://banners.webmasterplan.com/view.asp?ref=282182&site=3729&b=86" border="0" alt="Tauschen statt kaufen! Bei Anmeldung ein Artikel geschenkt. Hier klicken!" width="125" height="125"/></a><br>
+<!-- END PARTNER PROGRAM -->
+</td>
+</tr></table>
+
+
+
+
+
+
+
+
+
+<!-- Site Meter --><p align="right">
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1247354-1";
+urchinTracker();
+</script>
+
+  	</td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td class="left"></td>
+	<td class="row2" align="center"><span class="copyright"><br /><br />
+	Based on DAJ Glass, a template by <a href="http://www.dumbassjones.com/" target="_blank" class="copyright">Dustin Baccetti</a>. EQ graphic based off of a design from <a href="http://www.freeclipart.nu" class="copyright" target="blank">www.freeclipart.nu</a>. Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> © 2001, 2006 phpBB Group<br><a href="http://disturbed-reality.de/blog/?page_id=645">Impressum</a> | <a href="http://disturbed-reality.de/blog/?page_id=1624">Datenschutzhinweise</a><br /></span></td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td height="27" class="ll"></td>
+	<td class="lc"></td>
+	<td class="lr"></td>
+  </tr>
+</table>
+
+</body>
+</html>

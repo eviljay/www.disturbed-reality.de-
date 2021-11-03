@@ -1,0 +1,95 @@
+
+<link rel="stylesheet" type="text/css" href="default.css">
+
+<title>bist-du-bloe.de - der tägliche wahnsinn freitag, achter maerz zweitausendzwei - Seite 1 - </title><table border="0" cellspacing="1" cellpadding="3" width="100%"><tr><th class="head" align="left" bgcolor="" colspan="2">
+      <a href="index.php?artcat=0">Artikel</a> > <a href="index.php?artcat=3">brainfuck*</a></th></tr>
+      <th class="head" align="left" bgcolor="" colspan="2">
+      der tägliche wahnsinn freitag, achter maerz zweitausendzwei - Seite 1</th></tr></table>
+      <p align="left">wieder ist ein tag vergangen. heute ist freitag. schulmäßig gesehen ein schrecklicher tag. zwei stunden mathe, zwei stunden französisch und zwei stunden reli. in mathe war das thema &quot;hoch/tiefpunkt&quot; dran. da gab es einen text, der für den hoch- und auch für den tiefpunkt galt. nur der tiefpunkt stand immer in eckigen klammern. man stelle sich vor, es ginge um männer und frauen. was das für einen stress gegeben hätte, wenn die frau in eckigen klammern stehen würde. diskriminierung! ist der hochpunkt mehr wert als ein tiefpunkt? diese und andere fragen stellte ich mir, während mein mathelehrer mathematik unterrichtete. französisch war einfach nur langweilig, bis ein mädel die kakaoflasche eines anderen mädels aus versehen berührte und diese herunterfiel. die situation eskalierte. alle verhielten sich auf einmal wie kindergartenkinder. &quot;caaaaarmmmeeeeen! die tabea hat deine flasche umgeworfen!&quot; &quot;du petze!&quot;. es wurde sich gegenseitig ins heft gemalt, tulpen wurden vergewaltigt und an orte gesteckt, wo sie sicher nicht wachsen; wasserflaschen flogen durch die luft, tee wurde verschüttet. im großen und ganzen eine schön chaotische stunde. ich schlussfolgerte, der frühling sei daran schuld. nach fünfzehn minuten kollektivem rumstehen begann religion. ich erfuhr, dass ein klassenkamerad nicht mehr mit einem anderen klassenkameraden spricht, weil dieser rumerzählt hat, er wäre zwei mal die treppe runtergefallen, was aber wiederum stimmte. kindisch, aber egal. außerdem lernte ich die bedeutung von schmerzen kennen. sie wurden in einer form verkörpert, die ich hier nicht wiedergeben kann. ich gebe nur allen frauen einen rat: wenn ihr lehrerin werden wollt, tragt bitte niemals hosen, die insofern zu groß sind, dass man sie unmenschlich hoch ziehen muss! und: man kann hosen auch mit gürteln daran hindern, nicht herunterzufallen; man muss sie nicht irgendwo &quot;feststecken&quot; - bäh. dann kam käptn iglo und machte einen unterrichtsbesuch. schule zuende. heim, essen. hurra, es gab die vegetarier - speise nummer eins: fleisch mit soße und anderes fleisch mit soße. zum glück war reis dabei. dann musste ich schnell weiter, nachhilfe geben. ich erkläre nämlich einer frau ihren computer für fünf euro die stunde. das ist ganz locker, da ich ihr sachen wie doppelklicken, verschieben oder kopieren beibringen muss. das war der tag bis jetzt. vielleicht schreibe ich noch was, aber wenn ihr das lest, werde ich nichts mehr geschrieben haben.<br />
+<br />
+mein wort/satz/gedankengang/sonstwas des tages:<br />
+<br />
+&quot;ich spiel mal loser, mal gewinner. mal spiel ich den normalen und dann den spinner, doch ich selbst bleib ich immer.&quot;<br />
+<br />
+ <br />
+<table border="0" cellspacing="1" cellpadding="2" width="100%">
+      <tr>
+        <td class="left" bgcolor="">
+          Autor: <a href="mailto:alo@disturbed-reality.de">horus</a>
+        </td>
+        <td class="right" bgcolor="">
+          <a href="kommentar.php?id=32">0 Kommentare</a> <br>
+		  </td>
+        <td class="right" bgcolor="">
+          <a href="artikeldruck.php?id=32">Druckansicht</a>
+        </td>
+      </tr>
+      <tr>
+        <td class="left" bgcolor="">
+          Letzte Änderung: 19.09.2003, 15:41  </td>
+        <td class="right" bgcolor="">
+          Angesehen: 5
+        </td>
+        <td class="right" bgcolor="">
+          -
+        </td>
+      </tr>
+     </table>
+<link rel="stylesheet" type="text/css" href="default.css">
+
+<title>bist-du-bloe.de - Kommentare</title><table border=0 cellspacing=1 cellpadding=3 width="100%">
+      <tr><th class=head colspan=2 bgcolor=>
+      Kommentare zum Artikel #32</th></tr></table>
+<table border="0" width="100%" cellspacing="1" cellpadding="3">
+<FORM name="newskom" METHOD="POST" ACTION="kommentar.php?id=32">
+<INPUT TYPE="hidden" NAME="filled" VALUE="1">
+                            <tr>
+                              <th class=head colspan="2" bgcolor="">Kommentar
+                                abgeben</th>
+                            </tr>
+                            <tr>
+                              <td class="left" align="right" bgcolor="">Autor:</td>
+                              <td class="right" bgcolor=""><input type="text" name="autor" size="40" maxlength=40></td>
+                            </tr>
+
+                            <tr>
+                              <td class="left" align="right" bgcolor="" valign="top">Kommentar:</td>
+                              <td class="right" bgcolor=""><textarea heigth="5" width="60" name="text" rows="5" cols="60"></textarea></td>
+                            </tr>
+
+                           <tr>
+                              <td class="left" align="right" bgcolor="" valign="top">Smilies:</td>
+                              <script language="JavaScript">
+                              <!--
+                              function setsmile(Zeichen) {
+                                 document.newskom.text.value =
+                                 document.newskom.text.value + Zeichen;
+                              }
+                              //-->
+                              </script>
+  <td class="right" bgcolor="">Zum Einfügen anklicken:
+   <a href="javascript:setsmile(':-)')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile01.gif" border=0></a>
+   <a href="javascript:setsmile(';-)')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile02.gif" border=0></a>
+   <a href="javascript:setsmile(':O')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile03.gif" border=0></a>
+   <a href="javascript:setsmile(';-(')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile04.gif" border=0></a>
+   <a href="javascript:setsmile(':D')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile05.gif" border=0></a>
+   <a href="javascript:setsmile('8-)')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile06.gif" border=0></a>
+   <a href="javascript:setsmile(':-O')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile07.gif" border=0></a>
+   <a href="javascript:setsmile(':-(')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile08.gif" border=0></a>
+   <a href="javascript:setsmile('(?)')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile09.gif" border=0></a>
+   <a href="javascript:setsmile('(!)')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile10.gif" border=0></a>
+  </td>
+ </tr>
+<tr><td class="header" bgcolor="" colspan="2" align="right">
+<p align="center">
+  <INPUT TYPE="submit" name="action" VALUE="Absenden"></p>
+  </td></tr>
+ 
+  <tr>
+    <td align="center" class="right" colspan=2><a href="artikel.php?id=32">Zurück zum Artikel</a></td></tr>
+</form>
+</table>
+
+<center><font face=verdana size="1">
+              -- <a href="http://www.pscript.de" target="_blank">PSCRIPT Artikel 0.98 beta</a>  &copy; Thomas Ehrhardt, 2002-2003 --
+              </font></center>

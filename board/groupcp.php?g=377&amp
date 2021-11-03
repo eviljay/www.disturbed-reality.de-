@@ -1,0 +1,218 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<title>::board.bist-du-bloe.de:: :: Gruppen-Kontrolle</title>
+<link rel="stylesheet" href="templates/smartDark/smartDark.css" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0">
+
+<a name="top"></a>
+
+<table width="97%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=e8d7579487f0f9d465b8c85ee3d344de"><img src="templates/smartDark/images/logo_phpBB.gif" alt="::board.bist-du-bloe.de::" border="0"></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">::board.bist-du-bloe.de::</span><br /><span class="gen">'leap your head up high and pull your brains out'<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="faq.php?sid=e8d7579487f0f9d465b8c85ee3d344de" class="mainmenu">FAQ</a></span><span class="mainmenu"> :: <a href="search.php?sid=e8d7579487f0f9d465b8c85ee3d344de" class="mainmenu">Suchen</a> :: <a href="memberlist.php?sid=e8d7579487f0f9d465b8c85ee3d344de" class="mainmenu">Mitgliederliste</a> :: <a href="groupcp.php?sid=e8d7579487f0f9d465b8c85ee3d344de" class="mainmenu">Benutzergruppen</a>
+						:: <a href="profile.php?mode=register&amp;sid=e8d7579487f0f9d465b8c85ee3d344de" class="mainmenu">Registrieren</a></span>
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="profile.php?mode=editprofile&amp;sid=e8d7579487f0f9d465b8c85ee3d344de" class="mainmenu">Profil</a> :: <a href="privmsg.php?folder=inbox&amp;sid=e8d7579487f0f9d465b8c85ee3d344de" class="mainmenu">Einloggen, um private Nachrichten zu lesen</a> :: <a href="login.php?sid=e8d7579487f0f9d465b8c85ee3d344de" class="mainmenu">Login</a></span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+		<br />
+
+<form action="groupcp.php?g=377&amp;sid=e8d7579487f0f9d465b8c85ee3d344de" method="post">
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+	<tr>
+		<td align="left" class="nav"><a href="index.php?sid=e8d7579487f0f9d465b8c85ee3d344de" class="nav">::board.bist-du-bloe.de:: Foren-Übersicht</a></td>
+	</tr>
+</table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="4" border="0">
+	<tr>
+		<th class="thHead" colspan="7" height="25">Information</th>
+	</tr>
+	<tr>
+		<td class="row1" width="20%"><span class="gen">Name:</span></td>
+		<td class="row2"><span class="gen"><b>fickschweine</b></span></td>
+	</tr>
+	<tr>
+		<td class="row1" width="20%"><span class="gen">Beschreibung:</span></td>
+		<td class="row2"><span class="gen">die netten mitarbeiter der firma</span></td>
+	</tr>
+	<tr>
+		<td class="row1" width="20%"><span class="gen">Gruppen-Mitgliedschaft:</span></td>
+		<td class="row2"><span class="gen">Einloggen, um Gruppe zu managen &nbsp;&nbsp;
+		</span></td>
+	</tr>
+</table>
+
+
+
+</form>
+
+<form action="groupcp.php?g=377&amp;sid=e8d7579487f0f9d465b8c85ee3d344de" method="post" name="post">
+<table width="100%" cellpadding="4" cellspacing="1" border="0" class="forumline">
+	<tr>
+	  <th class="thCornerL" height="25">Private Nachricht</th>
+	  <th class="thTop">Benutzername</th>
+	  <th class="thTop">Beiträge</th>
+	  <th class="thTop">Wohnort</th>
+	  <th class="thTop">E-Mail</th>
+	  <th class="thTop">Website</th>
+	  <th class="thCornerR">Auswählen</th>
+	</tr>
+	<tr>
+	  <td class="catSides" colspan="8" height="28"><span class="cattitle">Gruppen-Moderatoren</span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=e8d7579487f0f9d465b8c85ee3d344de"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> </td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=e8d7579487f0f9d465b8c85ee3d344de" class="gen">alo</a></span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">2788</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen"><a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a></span></td>
+	  <td class="row1" align="center"><a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a></td>
+	  <td class="row1" align="center"> &nbsp; </td>
+	</tr>
+	<tr>
+	  <td class="catSides" colspan="8" height="28"><span class="cattitle">Gruppen-Mitglieder</span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"> <a href="privmsg.php?mode=post&amp;u=38&amp;sid=e8d7579487f0f9d465b8c85ee3d344de"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> </td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=38&amp;sid=e8d7579487f0f9d465b8c85ee3d344de" class="gen">Leatherface</a></span></td>
+	  <td class="row1" align="center"><span class="gen">2863</span></td>
+	  <td class="row1" align="center"><span class="gen"> &nbsp;
+		</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen"><a href="mailto:Leatherface1@aol.com"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a></span></td>
+	  <td class="row1" align="center"> </td>
+	  <td class="row1" align="center">
+	  </td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"> <a href="privmsg.php?mode=post&amp;u=44&amp;sid=e8d7579487f0f9d465b8c85ee3d344de"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> </td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=44&amp;sid=e8d7579487f0f9d465b8c85ee3d344de" class="gen">polux</a></span></td>
+	  <td class="row2" align="center"><span class="gen">436</span></td>
+	  <td class="row2" align="center"><span class="gen"> Wettenberg / Hessen
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen"><a href="mailto:polux@gmx.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a></span></td>
+	  <td class="row2" align="center"> </td>
+	  <td class="row2" align="center">
+	  </td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"> <a href="privmsg.php?mode=post&amp;u=9&amp;sid=e8d7579487f0f9d465b8c85ee3d344de"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> </td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=e8d7579487f0f9d465b8c85ee3d344de" class="gen">Refu</a></span></td>
+	  <td class="row1" align="center"><span class="gen">4149</span></td>
+	  <td class="row1" align="center"><span class="gen"> Hannover
+		</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen"><a href="mailto:webmaster@rottenarmy.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a></span></td>
+	  <td class="row1" align="center"> <a href="http://www.rottenarmy.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a></td>
+	  <td class="row1" align="center">
+	  </td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"> <a href="privmsg.php?mode=post&amp;u=457&amp;sid=e8d7579487f0f9d465b8c85ee3d344de"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> </td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=e8d7579487f0f9d465b8c85ee3d344de" class="gen">Sinarius</a></span></td>
+	  <td class="row2" align="center"><span class="gen">2783</span></td>
+	  <td class="row2" align="center"><span class="gen"> Bayern
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center"> </td>
+	  <td class="row2" align="center">
+	  </td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"> <a href="privmsg.php?mode=post&amp;u=8&amp;sid=e8d7579487f0f9d465b8c85ee3d344de"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> </td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=e8d7579487f0f9d465b8c85ee3d344de" class="gen">splatteralex</a></span></td>
+	  <td class="row1" align="center"><span class="gen">8360</span></td>
+	  <td class="row1" align="center"><span class="gen"> Paderborn
+		</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center"> <a href="http://www.splatter-movies.com" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a></td>
+	  <td class="row1" align="center">
+	  </td>
+	</tr>
+
+
+
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+	<tr>
+		<td align="left" valign="top">
+		<span class="nav">Seite <b>1</b> von <b>1</b></span></td>
+		<td align="right" valign="top"><span class="gensmall">Alle Zeiten sind GMT + 2 Stunden</span><br /><span class="nav"></span></td>
+	</tr>
+</table>
+
+
+
+</form>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td valign="top" align="right">
+<form method="get" name="jumpbox" action="viewforum.php?sid=e8d7579487f0f9d465b8c85ee3d344de" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Gehe zu:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42">updates</option><option value="21">der brotkorb</option><option value="17">support-board</option><option value="18">verbesserungen&wünsche</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">*brainfuck</option><option value="41">bolzplatz</option><option value="25">lustiges aus dem netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">allgemein</option><option value="28">splatter&horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">hollywood</option><option value="19">schnittberichte&zensur</option><option value="34">amateur filme & börsen</option><option value="31">...im TV</option><option value="33">...und die passende musik</option><option value="32">gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">shop</option><option value="-1">----------------</option><option value="23">zu verkaufen</option><option value="24">suche</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">hard/software/technik</option><option value="-1">----------------</option><option value="27">allgemein</option><option value="36">windows/linux/OS/2/... betriebssysteme</option><option value="37">internet und alles was dranhängt</option><option value="38">games</option><option value="39">ps/2 & konsolen</option><option value="-1">&nbsp;</option><option value="-1">off topic</option><option value="-1">----------------</option><option value="26">sunshine-bar</option><option value="45">politik</option></select><input type="hidden" name="sid" value="e8d7579487f0f9d465b8c85ee3d344de" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+</td>
+  </tr>
+</table>
+
+<br />
+<div align="center">
+<span class="copyright"><br /><br />
+    <script type="text/javascript"><!--
+google_ad_client = "pub-3794771864894198";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "336699";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br>
+smartDark Style &copy; 2002 <a href="http://smartor.is-root.com" target="_blank" class="copyright">Smartor</a><br />Powered by <a href="http://www.phpbb.com/" target="_blank" class="copyright">phpBB</a>  &copy; 2001, 2002 phpBB Group<br />&nbsp;&nbsp;patched by a.dahl<br>
+
+    <!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><p><!-- End of Netstat Code --><p>
+
+<! Start Google AdSense>
+
+    <script type="text/javascript"><!--
+google_ad_client = "pub-3794771864894198";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "336699";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<! End Google AdSense></span></div></td></tr></table></body></html>

@@ -1,0 +1,300 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/1">
+	<title>reviews.disturbed-reality.de | PmWikiDe / Erweiterte Tabellen </title>
+    <meta http-equiv='Content-Style-Type' content='text/css' />
+	<meta http-equiv="Content-Type" content="text/html;" />
+
+	<link rel="stylesheet" href='http://disturbed-reality.de/wiki/pub/skins/disturbed/wp-layout.css' type="text/css" media="screen" />
+
+	<style type="text/css" media="screen">
+
+/* BEGIN IMAGE CSS */
+/*	To accomodate differing install paths of WordPress, images are referred only here,
+    and not in the wp-layout.css file. If you prefer to use only CSS for colors and what
+    not, then go right ahead and delete the following lines, and the image files. */
+
+body { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickbgcolor.jpg"); }	
+#page { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickbg.jpg") repeat-y top; border: none; } 
+#header { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickheader.jpg") no-repeat bottom center; }
+#footer { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+			
+/*  Because the template is slightly different, size-wise, with images, this needs to be set here
+    If you don't want to use the template's images, you can also delete the following two lines. */
+			
+#header { margin: 0 !important; margin: 0 0 0 1px; padding: 1px; height: 198px; width: 758px; }
+#headerimg { margin: 7px 9px 0; height: 192px; width: 740px; } 
+/* END IMAGE CSS */
+		
+
+/* 	To ease the insertion of a personal header image, I have done it in such a way,
+    that you simply drop in an image called 'personalheader.jpg' into your /images/
+    directory. Dimensions should be at least 760px x 200px. Anything above that will
+    get cropped off of the image. */
+		
+#headerimg { background: url('http://disturbed-reality.de/wiki/pub/skins/disturbed/images/personalheader.jpg') no-repeat top;}
+</style>
+<script language="javascript" src="/pub/guiedit/guiedit.js"></script>
+</head>
+
+<body>
+<div id="page">
+
+<? // Begin Header ?>
+<div id="header">
+	<div id="headerimg">
+		<!--<h1><a href="http://disturbed-reality.de/wiki/pmwiki.php" title="reviews.disturbed-reality.de">reviews.disturbed-reality.de</a></h1>-->
+		<!--<div class="description">
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/AdvancedTables'>Erweiterte Tabellen</a></h2>
+        </div>-->
+	</div>
+</div>
+<hr />
+<? // End Header ?>
+<p align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1321&refurl='+escape(document.location.href)+'" width="728" height="90" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM -->
+
+
+<!--Begin Frontpage-->
+<br />	<div id="content" class="narrowcolumn">
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/AdvancedTables'>Erweiterte Tabellen</a>
+        
+
+        <!--PageText-->
+<div id='wikitext'>
+<p>
+<span style='font-size:83%'><span  style='color: green;'>(deutsche Übersetzung der Seite <span class='wikiword'><a style='color: green' class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWiki/AdvancedTables'>PmWiki.AdvancedTables</a></span>, Stand 12.09.2005)</span></span>
+<span class='frame rfloat' style='font-size: smaller; background-color: #ffc;'> Autoren (Fortgeschritten)</span>
+</p>
+<p class='vspace'></p><p>Es gibt vier Direktiven für erweiterte Tabellen. Alle davon müssen am Anfang der Zeile stehen um einen Effekt zu haben.
+</p>
+<p class='vspace'></p><h3><code class='escaped'>(:table (attr...):)</code></h3>
+<p>Erzeugt eine neue HTML &lt;table&gt; mit den in <em>attr...</em> angegebenen Attributen. Beendet vorherige Tabellen, falls vorhanden. Gültige Attribute und Werte sind:
+</p><ul><li>border <em>(Tabellenrand -- eine positive ganze Zahl)</em>
+</li><li>bordercolor <em>(Farbe des Randes -- eine (englische) Farbbezeichnung oder eine Hexadezimalzahl, die einer Farbe entspricht; wird nicht in allen Browsern angezeigt)</em>
+</li><li>cellspacing <em>(eine positive ganze Zahl, die den Abstand zwischen den Zellen bestimmt)</em>
+</li><li>cellpadding <em>(eine positive ganze Zahl, die den Abstand zwischen Zelleninhalten und Zellenrand bestimmt)</em>
+</li><li>width <em>(Tabellenbreite -- eine positive ganze Zahl oder eine Prozentangabe)</em>
+</li><li>bgcolor <em>(Hintergrundfarbe -- eine (englische) Farbbezeichnung oder eine Hexadezimalzahl, die einer Farbe entspricht)</em>
+</li><li>align <em>(Ausrichtung -- linksbündig, zentriert oder rechtsbündig)</em>
+</li><li>summary <em>(Zusammenfassung -- wird nicht dargestellt; vor allem genutzt, um Menschen mit Sehschwächen oder Blinden das Navigieren zu erleichtern)</em>
+</li></ul><p class='vspace'></p><h3><code class='escaped'>(:cell (attr...):)</code></h3>
+<p>Erzeugt eine neue Zelle mit den in <em>attr...</em> angegebenen Attributen. Beendet eine eventuell vorher vorhandene Zelle. Im HTML-Quelltext wird eine neue "&lt;td attr&gt;" Anweisung erzeugt (und vielleicht auch &lt;table&gt;, &lt;tr&gt; und &lt;/td&gt; Anweisungen, falls notwendig um eine gültige HTML Tabelle zu erzeugen). Gültige Attribute und Werte sind:
+</p><ul><li>align <em>(horizontale Ausrichtung -- linksbündig, zentriert oder rechtsbündig)</em>
+</li><li>valign <em>(top, middle or bottom)</em>
+</li><li>colspan <em>(eine positive ganze Zahl; gibt an, über wieviele Spalten sich die Zelle erstrecken soll)</em>
+</li><li>rowspan <em>(eine positive ganze Zahl; gibt an, über wieviele Zeilen sich die Zelle erstrecken soll)</em>
+</li><li>bgcolor <em>(Hintergrundfarbe -- eine (englische) Farbbezeichnung oder eine Hexadezimalzahl, die einer Farbe entspricht)</em>
+</li><li>width <em>(Zellenbreite -- eine positive ganze Zahl oder eine Prozentangabe)</em>
+</li></ul><p class='vspace'></p><h3><code class='escaped'>(:cellnr (attr..):)</code></h3>
+<p>Erzeugt eine Neue Zelle am Anfang der nächsten Zeile. Beendet eine vorherige Tabellenzelle, falls vorhanden. Im HTML-Quelltext wird eine "&lt;tr&gt;&lt;td attr&gt;" Anweisung erzeugt. Zusätzlich auch &lt;table&gt;, &lt;/td&gt; und &lt;/tr&gt; falls notwendig um gültiges HTML zu erzeugen.
+Gültige Attribute und Werte sind:
+</p><ul><li>align <em>(horizontale Ausrichtung -- linksbündig, zentriert oder rechtsbündig)</em>
+</li><li>valign <em>(top, middle or bottom)</em>
+</li><li>colspan <em>(eine positive ganze Zahl; gibt an, über wieviele Spalten sich die Zelle erstrecken soll)</em>
+</li><li>rowspan <em>(eine positive ganze Zahl; gibt an, über wieviele Zeilen sich die Zelle erstrecken soll)</em>
+</li><li>bgcolor <em>(Hintergrundfarbe -- eine (englische) Farbbezeichnung oder eine Hexadezimalzahl, die einer Farbe entspricht)</em>
+</li><li>width <em>(Zellenbreite -- eine positive ganze Zahl oder eine Prozentangabe)</em>
+</li></ul><p class='vspace'></p><h3><code class='escaped'>(:tableend:)</code></h3>
+<p>Schließt die letzte Tabellenzelle und schließt auch jegliche Tabelle. Erzeugt &lt;/td&gt;, &lt;/tr&gt; und &lt;/table&gt; wie benötigt.
+</p>
+<p class='vspace'></p><h2>Anmerkungen</h2>
+<p>Für die Formatierungsanweisungen 'table', 'cell' und 'cellnr' lassen sich alle Attribute spezifizieren, die in korrekten HTML-&lt;table&gt; und &lt;td&gt;-Anweisungen nutzbar sind. So kann man rowspan, colspan, usw. als Argumente angeben, um weitgehend formatierte Tabellen zu erzeugen. Allerdings ist es nicht möglich, eine Tabelle <code class='escaped'>(:table:)</code> innerhalb einer Zelle <code class='escaped'>(:cell:)</code> oder <code class='escaped'>(:cellnr:)</code> zu erzeugen. Der nächste Absatz erläutert die Gründe für diese Einschränkung.
+</p>
+<p class='vspace'></p><p>Viele werden vermutlich fragen, warum wir nicht einfach die normalen HTML-Tabellen-Formatierungsanweisungen (&lt;table&gt;, &lt;tr&gt;, &lt;td&gt;, &lt;th&gt;) nutzen und damit verschachtelte Tabellen ermöglichen, anstatt gänzlich neue Auszeichnungen zu erfinden, die diese Möglichkeit nicht bieten. Darauf gibt es zwei Antworten: Zum einen sind die HTML-Formatierungsanweisungen für Tabellen für unerfahrene Autoren (siehe <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Audiences'>Zielgruppen</a> und <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWikiPhilosophy'>PmWiki Philosophie #2</a>) sehr hässlich. Zum anderen könnte es sehr schnell passieren, dass Autoren Tabellen mit fehlerhaftem HTML-Code erzeugen, die (zumindest in einigen Browsern) falsch oder überhaupt nicht mehr dargestellt werden. Sogar erfahrenen Netzseitenprogrammierern passieren ab und an Fehler bei der HTML-Kodierung von Tabellen. Es ist insofern unrealistisch zu erwarten, dass durchschnittliche Autoren dies immer richtig hinbekommen, oder dass sie in der Lage sind, komplizierten HTML-Code zu verstehen, den andere Wikibenutzer verwendet haben.
+</p>
+<p class='vspace'></p><div class='indent'><span  style='color: green;'> <em>Typischer Einwand:</em> Sicherlich würden unerfahrene oder durchschnittliche Autoren HTML-Code nicht direkt schreiben, sondern dazu ein Werkzeug wie FrontPage oder sogar MSWord benutzen. Dies wäre für die Autoren noch viel einfacher als selbst die einfachsten <span class='wikiword'><a style='color: green' class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWiki'>PmWiki</a></span>-Formatierungsanweisungen neu zu lernen.</span>
+<p class='vspace'></p></div><div class='indent'><span  style='color: green;'> <em>Pm's Antwort:</em> Aber nachdem HTML mit externen Programmen erzeugt und ins Wiki eingespeist wurde: wie kann ein anderer Autor den Code bearbeiten und verändern, wenn er die ursprüngliche FrontPage or MSWord Datei, aus der der Code erzeugt wurde, nicht zur Verfügung hat. Man mus daran denken, dass wir über <em>gemeinschafliches</em> Bearbeiten reden. Der HTML-Quelltext, den solche Programme erzeugen, gehört zu den am schwersten les- und bearbeitbaren HTML-Quelltexten!</span>
+</div><p class='vspace'></p><p>Es ist schwierig, <span class='wikiword'>PmWiki</span> so zu programmieren, dass es willkürliche Tabellenformatierungen erkennt und notfalls reparieren kann. Deshalb benutzt <span class='wikiword'>PmWiki</span> die oben erklärte einfachere Version. Diese Version ist dennoch in der Lage, den meisten Anforderungen an Tabellen zu  genügen (mit der Ausnahme von verschachtelten Tabellen).
+</p>
+<p class='vspace'></p><p>Dies bedeutet allerdings noch nicht, dass verschachtelte Tabellen mit <span class='wikiword'>PmWiki</span> überhaupt nicht erzeugt werden können -- sie lassen sich nur nicht mit den Standard-Formatierungsanweisungen herstellen. Ein Administrator eines Wikis kann natürlich durch <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/LocalCustomizations'>Lokale Anpassungen</a> oder die Verwendung von Header/Footer-HTML-Code die Verwendung von verschachtelten Tabellen ermöglichen.
+</p>
+<p class='vspace'></p><h3>Beispiel 1. Eine Tabelle mit erweiterten Formatierungsanweisungen.</h3>
+<table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+(:table border=1 cellpadding=5 cellspacing=0:)
+(:cell:) a1
+(:cell:) b1
+(:cell:) c1
+(:cell:) d1
+(:cellnr:) a2
+(:cell:) b2
+(:cell:) c2
+(:cell:) d2
+(:tableend:)
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='1' cellpadding='5' cellspacing='0'><tr><td  valign='top'> a1
+</td><td  valign='top'> b1
+</td><td  valign='top'> c1
+</td><td  valign='top'> d1
+</td></tr><tr><td  valign='top'> a2
+</td><td  valign='top'> b2
+</td><td  valign='top'> c2
+</td><td  valign='top'> d2
+</td></tr></table>
+</td></tr></table>
+<p class='vspace'></p><p>In HTML ist das das Gleich wie
+</p>
+<p class='vspace'></p><div class='indent'><pre class='escaped'>
+&lt;table border='1' cellpadding='5' cellspacing='0'&gt;
+  &lt;tr&gt;
+    &lt;td&gt;a1&lt;/td&gt;
+    &lt;td&gt;b1&lt;/td&gt;
+    &lt;td&gt;c1&lt;/td&gt;
+    &lt;td&gt;d1&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;a2&lt;/td&gt;
+    &lt;td&gt;b2&lt;/td&gt;
+    &lt;td&gt;c2&lt;/td&gt;
+    &lt;td&gt;d2&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</pre>
+</div><p class='vspace'></p><hr />
+<h3>Fließende Tabelle mit Navigationsliste</h3>
+<table  border='1' width='30%' align='right' bgcolor='#cccccc' cellspacing='0' ><tr><td  valign='top'>
+<p><strong>Verweise zur Navigation</strong>
+</p></td></tr><tr><td  valign='top'>
+<ul><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/TextFormattingRules'>Textformatierungsregeln</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimpleTables'>Einfache Tabellen</a>
+</li><li><a class='selflink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/AdvancedTables'>Erweiterte Tabellen</a>
+</li></ul></td></tr></table>
+<p class='vspace'></p><p>Was wenn man eine nette kleine Tabelle erzeugen wollte, die wie ein Inhaltsverzeichnis auf einer Sete wie dieser funktioniert? In diesem Beispiel fließt die Tabelle rechts (Der Text fließt links herum) und enthält einige Verweise in einer Liste. Das ist eine nette Demonstration, wie es möglich ist ein kleines Inhaltsverzeichnis zu erstellen, das vielleicht auch zu anderen Seiten der gleichen Gruppe verweist. Man beachte, dass eine Aufzählungsliste <em>nicht in einer einfachen Tabelle</em> funktionieren würde - Sie funktioniert nur innerhalb einer erweiterten Tabelle, wie im hier verwendeten Beispiel-Code.
+</p>
+<p class='vspace'></p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>(:table border=1 width=30% align=right bgcolor=#cccc99 cellspacing=0 :)
+(:cellnr:)
+'''Verweise zur Navigation'''
+(:cellnr:)
+*[[Simple tables|Einfache Tabellen]]
+*[[Advanced tables|Erweiterte Tabellen]]
+(:tableend:)
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='1' width='30%' align='right' bgcolor='#cccc99' cellspacing='0' ><tr><td  valign='top'>
+<p><strong>Verweise zur Navigation</strong>
+</p></td></tr><tr><td  valign='top'>
+<ul><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimpleTables'>Einfache Tabellen</a>
+</li><li><a class='selflink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/AdvancedTables'>Erweiterte Tabellen</a>
+</li></ul></td></tr></table>
+</td></tr></table>
+<p class='vspace'></p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>(:table border=1 width=30% align=right bgcolor=#cccc99 cellspacing=0 :)
+(:cellnr colspan=2 align=center:)
+'''Verweise zur Navigation'''
+(:cellnr align=center:)
+[[Simple tables|Einfache Tabellen]]
+(:cell align=center:)
+[[Advanced tables|Erweiterte Tabellen]]
+(:tableend:)
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='1' width='30%' align='right' bgcolor='#cccc99' cellspacing='0' ><tr><td  colspan='2' align='center' valign='top'>
+<p><strong>Verweise zur Navigation</strong>
+</p></td></tr><tr><td  align='center' valign='top'>
+<p><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimpleTables'>Einfache Tabellen</a>
+</p></td><td  align='center' valign='top'>
+<p><a class='selflink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/AdvancedTables'>Erweiterte Tabellen</a>
+</p></td></tr></table>
+</td></tr></table>
+<p class='vspace'></p><p>Wenn man sich die hier verwendeten Auszeichnungen ansieht, erkennt man, dass die hexadezimale Farbe #cccc99 für den Tabellenhintergund verwendet wurde. Außerdem erzeugt die Auszeichnung <code class='escaped'>(:cellnr:)</code> eine neue Zeile, eine neue Zelle und schlißt die vorherige Zeile am Ende ab.
+</p>
+<p class='vspace'></p><p>Man kann dieses Konzept noch etwas weiter treiben: Wenn man vielleicht in jeder Seite der Gruppe das gleiche Inhaltverzeichnis sehen möchte, kann man nur EINE wie oben beschrieben Tabelle erzeugen und sie auf einer eigenen Seite ablegen. Dann kann man sie auf jeder der eigenen Seiten <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/IncludeOtherPages'>einbinden</a>. Der Textfluß (Ausrichtung) wird dann auf jeder Seite in die das Inhaltsverzeichnis eingebunden wird gleich gelten. Sieht echt gut aus!
+</p>
+<p class='vspace'></p><p  style='background-color: #eee;'> <span class='wikitrail'>&lt;&lt; <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimpleTables'>Einfache Tabellen</a> | <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DocumentationIndex'>Dokumentationsindex</a> | <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiStyles'>Wikistile</a> &gt;&gt;</span>
+</p>
+</div>
+
+	
+	   <!-- Das kann man vielleicht mal fŸr Trails noch brauchen, aber wohl eher nicht
+		<div class="navigation">
+			<div class="alignleft"><?php posts_nav_link('','','&laquo; Previous Entries') ?></div>
+			<div class="alignright"><?php posts_nav_link('','Next Entries &raquo;','') ?></div>
+		</div>
+		-->
+		
+	</div>
+	
+<!--End Frontpage-->
+
+<? // Begin Sidebar Menu ?>
+<?php /* If this is not a permalink page, show the menu */ if (!($withcomments) && (!$single)) { ?>
+
+	<div id="sidebar">
+		<ul>
+			<li>
+                You are on <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+                <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/AdvancedTables'>Erweiterte Tabellen</a>
+            </li>
+
+			<li>
+                <!-- MIKE: Suchform-->
+                <form action='http://disturbed-reality.de/wiki/pmwiki.php'>
+                    <input type='hidden' name='n' value='PmWikiDe.AdvancedTables' />
+                    <input type='hidden' name='action' value='search' />
+                    <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Search'>Suchen</a>:
+                    <input class='searchbox' type='text' name='q' value='' />
+                    <input class='searchbutton' type='submit' value='Los' />
+                </form>
+			</li>
+                        
+            <!-- MIKE: Seitentitel und Gruppe-->
+            <li>
+                <h1><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWikiDe'>Deutsches Wiki</a></h1>
+<ul><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiWikiWeb'>Was ist ein Wiki?</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Installation'>Installation</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DocumentationIndex'>Dokumentationsindex</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiSandbox'>Sandkasten</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/RecentChanges'>Aktuelle Änderungen</a>
+</li></ul><hr />
+<p class='vspace'></p>
+
+            </li>
+
+		</ul>
+	</div>
+
+<? } // End Sidebar Menu  ?>
+
+
+
+<? // Begin Footer ?>
+<hr />
+<div id="footer">
+	<p>
+		<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/AdvancedTables?action=edit'>Seite Bearbeiten</a> -
+		<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/AdvancedTables?action=diff'>Seitenhistorie</a> -
+	 	<!--<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/AdvancedTables?action=upload'>Upload File</a> -->		
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/AdvancedTables?action=print' target='_blank'>Druckansicht</a> -
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/RecentChanges'>Aktuelle &Auml;nderungen</a> -
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Search'>Suchen</a><br /><br />
+        <br />Zuletzt ge&auml;ndert am 12.09.2005 23:16 Uhr		   		
+		<br />reviews.disturbed-reality.de is running  
+		<a href="http://www.pmwiki.org">PmWiki</a>. 
+<!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><!-- End of Netstat Code -->
+<?PHP include("../counter/inc.stats.php");?>
+<!-- alo counter block -->
+<!-- Site Meter -->
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+
+        </div>
+		
+	</p>
+</div>
+</div>
+<? // End Footer ?><br>
+</body>
+</html>

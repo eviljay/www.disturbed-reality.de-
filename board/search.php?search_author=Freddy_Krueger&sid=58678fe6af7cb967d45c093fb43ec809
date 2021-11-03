@@ -1,0 +1,500 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php" title="board.disturbed-reality.de Foren-Übersicht" />
+<link rel="search" href="./search.php" title="Suchen" />
+<link rel="help" href="./faq.php" title="FAQ" />
+<link rel="author" href="./memberlist.php" title="Mitgliederliste" />
+
+<title>board.disturbed-reality.de :: Suchen</title>
+<link rel="stylesheet" href="templates/DAJ_Glass/DAJ_Glass.css" type="text/css" />
+</head>
+<body>
+
+<a name="top"></a>
+
+<br class="gensmall">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+  	<td height="14" width="25" nowrap="nowrap" class="ul"></td>
+	<td width="100%" class="uc"></td>
+	<td width="25" nowrap="nowrap" class="ur"></td>
+  </tr>
+  <tr>
+  	<td class="headl"></td>
+	<td class="row3"><a href="index.php"><img src="templates/DAJ_Glass/images/logo_phpBB.gif" border="0" alt="board.disturbed-reality.de Foren-Übersicht" /></a>
+	</td>
+	<td class="headr"></td>
+  </tr>
+  <tr valign="bottom">
+  	<td rowspan="3" class="tul"></td>
+	<td height="30" class="tuc">
+	  <table width="100%" cellspacing="0" cellpadding="2">
+	  	<tr valign="bottom">
+		  <td><a href="index.php" class="mainmenu1">board.disturbed-reality.de</a></td>
+		  <td align="right" nowrap="nowrap">
+	  		<table cellspacing="0" cellpadding="0" border="0">
+	  		  <tr valign="bottom">
+	  		  <td>: <a href="http://disturbed-reality.de/blog/" class="mainmenu1">Blog</a> ::
+						<a href="http://disturbed-reality.de/review/" class="mainmenu1">Reviews</a> ::
+						<i class="mainmenu1">Board</i> :</td>
+		  		<td><a href="faq.php"><img src="templates/DAJ_Glass/images/icon_mini_faq.gif" border="0" alt="FAQ" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="faq.php" class="mainmenu1">FAQ</a>  </span></td>
+		  		<td><a href="search.php"><img src="templates/DAJ_Glass/images/icon_mini_search.gif" border="0" alt="Suchen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="search.php" class="mainmenu1">Suchen</a>  </span></td>
+		  		<td><a href="memberlist.php"><img src="templates/DAJ_Glass/images/icon_mini_members.gif" border="0" alt="Mitgliederliste" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="memberlist.php" class="mainmenu1">Mitgliederliste</a>  </span></td>
+		  		<td><a href="groupcp.php"><img src="templates/DAJ_Glass/images/icon_mini_groups.gif" border="0" alt="Benutzergruppen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="groupcp.php" class="mainmenu1">Benutzergruppen</a></span></td>
+			  </tr>
+	  		</table>
+		  </td>
+		</tr>
+	  </table>
+	</td>
+	<td rowspan="3" class="tur"></td>
+  </tr>
+  <tr>
+  	<td height="10" class="row5"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" height="1" width="1"></td>
+  </tr>
+  <tr valign="top">
+	<td height="30" nowrap="nowrap" class="tlc">
+	  <table width="100%" cellspacing="0" cellpadding="2" border="0">
+	  	<tr valign="top">
+		  <td><span class="mainmenu1">
+		  <a href="profile.php?mode=register" class="mainmenu1">Registrieren</a>  :: 
+		  <a href="login.php" class="mainmenu1">Login</a>
+		  </span></td>
+		  <td nowrap="nowrap" align="right"><span class="mainmenu1">
+		  <a href="privmsg.php?folder=inbox" class="mainmenu1">Einloggen, um private Nachrichten zu lesen</a>
+		  </span></td>
+		</tr>
+	  </table>
+	</td>
+  </tr>
+  <tr>
+    <td class="left"></td>
+	<td class="row2">
+<i><small>Werbung:</small></i>
+
+<ul style="margin-right:0px; border-spacing:0px; overflow:hidden; border:0px none #FFFFFF; margin-top:0px; width:100%;  list-style:none; margin-bottom:0px; padding:0px;">
+	<li style="display:inline; float:left; clear:none; width:49%;"><a style=" font-size:12px; line-height:140%;" href="http://www.geizclub24.de/gutscheine/DVD" target="_self">DVD Gutscheine</a></li>
+</ul>
+<hr><table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr valign="top">
+	<td nowrap="nowrap"><img src="templates/DAJ_Glass/images/nav.gif" border="0"></td>
+	<td width="100%" class="mainmenu"><a href="index.php" class="mainmenu">board.disturbed-reality.de Foren-Übersicht</a> » <a href="search.php" class="mainmenu">Suchen</a></td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="0" cellpadding="0" class="forumline">
+  <tr>
+	<td height="25" nowrap="nowrap" class="row4"><span class="cattitle"> Die Suche hat 899 Ergebnisse ergeben.</span></td>
+  </tr>
+  <tr>
+  	<td colspan="3">
+	  <table width="100%" cellspacing="1" cellpadding="3" border="0">
+		<tr align="center">
+		  <td width="150" height="20" class="row6" nowrap="nowrap"><span class="mainmenu">Autor</span></td>
+		  <td width="100%" class="row6" nowrap="nowrap"><span class="mainmenu">Nachricht</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5434&amp;highlight=" class="mainmenu">LAS VEGAS auf por7- jetzt aber kabel eins :)</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>45</b><br />Aufrufe: <b>9421</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=31" class="postdetails">...im TV</a></b>   Verfasst am: Di Okt 09, 2007 3:24 pm   Titel: <b><a href="viewtopic.php?p=72566&amp;highlight=#72566">LAS VEGAS auf por7- jetzt aber kabel eins :)</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody"><br />PS: @ Freddy: Verdammt, nach SAW III die zweite Veranstaltung, auf der wir gemeinsam waren, und wieder kein Bier zusammen getrunken, was soll das denn? <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br /><br />Stimmt da haben wir uns schon wieder ver ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5434&amp;highlight=" class="mainmenu">LAS VEGAS auf por7- jetzt aber kabel eins :)</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>45</b><br />Aufrufe: <b>9421</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=31" class="postdetails">...im TV</a></b>   Verfasst am: Mo Okt 08, 2007 7:10 pm   Titel: <b><a href="viewtopic.php?p=72561&amp;highlight=#72561">LAS VEGAS auf por7- jetzt aber kabel eins :)</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Heute war ich zu nichts mehr fähig - vor allem nicht, mir Vegas anzusehen. Wir waren auf der Million-Dollar-FullTILT-Poker-Veranstaltung und ich hab es n der Quali bis zum Heads-Up geschafft - Platz 2 ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5508&amp;highlight=" class="mainmenu">RESIDENT EVIL: EXTINCTION</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>25</b><br />Aufrufe: <b>4403</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Do Sep 27, 2007 3:58 pm   Titel: <b><a href="viewtopic.php?p=72481&amp;highlight=#72481">RESIDENT EVIL: EXTINCTION</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ohweja!! Deine Kritik ist ja ziemlich vernichtend und gut geschrieben!! <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> <br /><br />Mir hat Teil 1+2 richtig gut gefallen und werde auch am kommenden Wochenende in Teil 3 gehen!!<br /><br />Danke. <br />Ja ich war au ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5508&amp;highlight=" class="mainmenu">RESIDENT EVIL: EXTINCTION</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>25</b><br />Aufrufe: <b>4403</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Do Sep 27, 2007 12:33 pm   Titel: <b><a href="viewtopic.php?p=72476&amp;highlight=#72476">RESIDENT EVIL: EXTINCTION</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ok Leute, hiermit kann ich euch die offizielle Bestätigung geben. <br /><br />Da ich ja zu den ersten gehört habe die den Film gesehen haben, gibts jetzt sozusagen Kritik aus erster Hand. Ich kanns euch sagen ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7751&amp;highlight=" class="mainmenu">Wo ist Alex?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>6</b><br />Aufrufe: <b>254</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=2" class="postdetails">Brainfuck</a></b>   Verfasst am: Mi Sep 26, 2007 5:14 pm   Titel: <b><a href="viewtopic.php?p=72458&amp;highlight=#72458">Wo ist Alex?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Stimmt, das frag ich mich auch. Hast ihm schon ne PM oder so geschrieben? Vielleicht antwortet er ja dort.<br /><br />cya Lord_Krueger</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7746&amp;highlight=" class="mainmenu">Adressen der Labels</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>252</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: So Sep 23, 2007 11:46 pm   Titel: <b><a href="viewtopic.php?p=72435&amp;highlight=#72435">Adressen der Labels</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Danke aufjedenfall mal fürs zusammenstellen.</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5274&amp;highlight=" class="mainmenu">Saw 3</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>137</b><br />Aufrufe: <b>30725</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mo Sep 10, 2007 5:50 pm   Titel: <b><a href="viewtopic.php?p=72328&amp;highlight=#72328">Saw 3</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hmm wieso kann man die letzte Seite nicht sehen von dem Topic?<br /><br />Ich hab mir die DVD jetzt heute jedenfalls für 35€ gekauft, da ich den Film unbedingt uncut wollte.<br /><br />stolzer preis...<br /><br />Ja ich weis ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7734&amp;highlight=" class="mainmenu">beeindruckend</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1</b><br />Aufrufe: <b>167</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=26" class="postdetails">Sunshine-bar</a></b>   Verfasst am: So Sep 09, 2007 4:57 pm   Titel: <b><a href="viewtopic.php?p=72306&amp;highlight=#72306">beeindruckend</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Wow finde ich ne klasse Idee, dauert halt warscheinlich ein bischen <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />, aber ist schon beeindruckend.</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5274&amp;highlight=" class="mainmenu">Saw 3</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>137</b><br />Aufrufe: <b>30725</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: So Sep 09, 2007 12:22 pm   Titel: <b><a href="viewtopic.php?p=72299&amp;highlight=#72299">Saw 3</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hmm wieso kann man die letzte Seite nicht sehen von dem Topic?<br /><br />Ich hab mir die DVD jetzt heute jedenfalls für 35€ gekauft, da ich den Film unbedingt uncut wollte.</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6175&amp;highlight=" class="mainmenu">SCARFACE - Limited Deluxe Edition</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>7</b><br />Aufrufe: <b>1011</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: So Sep 09, 2007 12:20 pm   Titel: <b><a href="viewtopic.php?p=72298&amp;highlight=#72298">SCARFACE - Limited Deluxe Edition</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hab es heute auf der Börse in München für 35€ gekauft.</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1868</b><br />Aufrufe: <b>396053</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Sa Sep 08, 2007 7:59 pm   Titel: <b><a href="viewtopic.php?p=72286&amp;highlight=#72286">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Verdammt ich hab das mit Saw 3 wieder total verplant... und jetzt hat jeder Shop sie als ausverkauft drin stehen... Naja in München ist am Sonntag Börse, ich hoffe mal ich bekomme die da noch. Woran e ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7685&amp;highlight=" class="mainmenu">Fantasy FilmFest 21</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>26</b><br />Aufrufe: <b>2444</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Do Sep 06, 2007 10:58 pm   Titel: <b><a href="viewtopic.php?p=72263&amp;highlight=#72263">Fantasy FilmFest 21</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Schließe mich Chrisnin an  *Top Arbeit*  <img src="images/smiles/2_king.gif" alt="" border="0" /><br /><br />Danke auch an dich. <br />Ich hätte auch zu &quot;Get Shorty&quot; also den Kurzfilmen was geschrieben, allerdings fand ich die erstens nicht so klasse u ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7685&amp;highlight=" class="mainmenu">Fantasy FilmFest 21</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>26</b><br />Aufrufe: <b>2444</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Do Sep 06, 2007 6:59 pm   Titel: <b><a href="viewtopic.php?p=72259&amp;highlight=#72259">Fantasy FilmFest 21</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Auch wenn ich hier nicht mehr regelmäßig reinschreibe, lese ich doch täglich alle neuen Beiträge.<br /><br />Finde es einfach nicht notwendig zu jedem Thema meinen Senf dazu zu geben.<br /><br />Dennoch gibt es geleg ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1868</b><br />Aufrufe: <b>396053</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Do Sep 06, 2007 12:37 am   Titel: <b><a href="viewtopic.php?p=72254&amp;highlight=#72254">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Verdammt ich hab das mit Saw 3 wieder total verplant... und jetzt hat jeder Shop sie als ausverkauft drin stehen... Naja in München ist am Sonntag Börse, ich hoffe mal ich bekomme die da noch. Woran e ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7685&amp;highlight=" class="mainmenu">Fantasy FilmFest 21</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>26</b><br />Aufrufe: <b>2444</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mo Aug 27, 2007 10:00 pm   Titel: <b><a href="viewtopic.php?p=72157&amp;highlight=#72157">Fantasy FilmFest 21</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Danke für die Reviews...<br /><br />Bitteschön...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7685&amp;highlight=" class="mainmenu">Fantasy FilmFest 21</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>26</b><br />Aufrufe: <b>2444</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mo Aug 27, 2007 5:19 pm   Titel: <b><a href="viewtopic.php?p=72153&amp;highlight=#72153">Fantasy FilmFest 21</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ok here we go. Hab heute Urlaub und nehm mir jetzt mal die Zeit um die Reviews zu verfassen. <br /><br />Zu Get Shorty werd ich nix schreiben, da es ja viele kleine Kurzfilme waren. Ich kann nur soviel sagen, ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7710&amp;highlight=" class="mainmenu">Monster Basement</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>2</b><br />Aufrufe: <b>305</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Fr Aug 17, 2007 1:35 am   Titel: <b><a href="viewtopic.php?p=72109&amp;highlight=#72109">Monster Basement</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Really cool, also ich musste mal in der Lösung schauen, aber größtenteils hab ichs allein geschaft <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />.</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7685&amp;highlight=" class="mainmenu">Fantasy FilmFest 21</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>26</b><br />Aufrufe: <b>2444</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Fr Aug 17, 2007 12:44 am   Titel: <b><a href="viewtopic.php?p=72108&amp;highlight=#72108">Fantasy FilmFest 21</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody"><br />- Stuck (&lt;---wie geil!, meiner Meinung bis jetzt der beste Stuart Gordon Film!)<br /><br />- Botched (wahrscheinlich der einzige richtige Splatterfilm im diesjährigen FFF, sehr gut, witzig, verrückte Cha ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7702&amp;highlight=" class="mainmenu">Bush hat eine neue Bedrohung ausgemacht</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>2</b><br />Aufrufe: <b>285</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Do Aug 09, 2007 4:34 pm   Titel: <b><a href="viewtopic.php?p=72065&amp;highlight=#72065">Bush hat eine neue Bedrohung ausgemacht</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">LOOOOOOOOL really great.</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1868</b><br />Aufrufe: <b>396053</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Di Aug 07, 2007 4:21 pm   Titel: <b><a href="viewtopic.php?p=72060&amp;highlight=#72060">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Syriana<br />Casino<br />Butterfly Effect<br />The Card Player<br /><br />jeweils 6€ ( war aber so ne 3 für 18 Promo )</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7699&amp;highlight=" class="mainmenu">Super Rares Zombie Dawn of the Dead Poster</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>281</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=48" class="postdetails">Preistipps und Webshops</a></b>   Verfasst am: Di Jul 31, 2007 3:25 pm   Titel: <b><a href="viewtopic.php?p=72009&amp;highlight=#72009">Super Rares Zombie Dawn of the Dead Poster</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Stimmt das ist wirklich nicht sehr häufig aber mir gefällts nicht, sonst würd ichs mir vielleicht zu legen <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />. Thx trotzdem.</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7685&amp;highlight=" class="mainmenu">Fantasy FilmFest 21</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>26</b><br />Aufrufe: <b>2444</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mo Jul 30, 2007 9:40 pm   Titel: <b><a href="viewtopic.php?p=72000&amp;highlight=#72000">Fantasy FilmFest 21</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hast du &quot;Bug&quot; auch gesehen? Hab einige Kritiken gelesen, wo der Film als absolut langweilig dargestellt wird. Von Stuck hingegen hab ich bisher relativ gutes gelesen.<br /><br />So ich komme grad au ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7685&amp;highlight=" class="mainmenu">Fantasy FilmFest 21</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>26</b><br />Aufrufe: <b>2444</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: So Jul 29, 2007 10:21 pm   Titel: <b><a href="viewtopic.php?p=71992&amp;highlight=#71992">Fantasy FilmFest 21</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Also heute war alles relativ unblutig, ausser das Ende von ExDrummer wobei der Film sowie so ein Fall für sich ist. Ich muss den erstmal bisl wirken lassen bevor ich da was schreiben kann...<br /><br />Hab ak ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7685&amp;highlight=" class="mainmenu">Fantasy FilmFest 21</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>26</b><br />Aufrufe: <b>2444</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: So Jul 29, 2007 11:09 am   Titel: <b><a href="viewtopic.php?p=71980&amp;highlight=#71980">Fantasy FilmFest 21</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Doch ich lese jedes dieser Reviews ganz genau durch!! Sind einfach Klasse geschrieben und kann es ehrlich gesagt kaum erwarten bis diese Dinger alle auf DVD erscheinen. <br /><br />Bitte schreib weiter  <img src="images/smiles/alo_daumenhoch.gif" alt="daumenhoch" border="0" />   ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=7685&amp;highlight=" class="mainmenu">Fantasy FilmFest 21</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=240">Freddy_Krueger</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>26</b><br />Aufrufe: <b>2444</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Sa Jul 28, 2007 10:28 pm   Titel: <b><a href="viewtopic.php?p=71977&amp;highlight=#71977">Cold Prey</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">First Question... Liest das hier eigentlich noch jemand? Ich hoffe doch. <br /><br />Also heute war ich natürlich auch wieder, und wenn ich Lust habe gehe ich auch gleich noch in die 23:45 Uhr Vorstellung von ...</span></td>
+  		</tr>
+	  </table>
+	</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+  <tr valign="top">
+	<td><span class="genmed">Gehe zu Seite <b>1</b>, <a href="search.php?search_id=602164330&amp;start=25">2</a>, <a href="search.php?search_id=602164330&amp;start=50">3</a> ... <a href="search.php?search_id=602164330&amp;start=825">34</a>, <a href="search.php?search_id=602164330&amp;start=850">35</a>, <a href="search.php?search_id=602164330&amp;start=875">36</a>&nbsp;&nbsp;<a href="search.php?search_id=602164330&amp;start=25">Weiter</a></span></td>
+	<td align="right" nowrap="nowrap"><span class="nav">Seite <b>1</b> von <b>36</b></span></td>
+  </tr>
+</table>
+
+<br /><form method="get" name="jumpbox" action="viewforum.php" onSubmit="if(document.jumpbox.f.value == -1){return false;}">
+<table width="100%" cellspacing="1" border="0" cellpadding="1">
+  <tr>
+	<td align="right" nowrap="nowrap"><span class="gensmall">Gehe zu: <select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42">Updates</option><option value="17">Support</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">Brainfuck</option><option value="25">Lustiges aus dem Netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">Allgemeines</option><option value="28">Splatter & Horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">Hollywood und mehr…</option><option value="19">Schnittberichte und Zensur</option><option value="34">Amateurfilme, Börsen & Veranstaltungen</option><option value="31">...im TV</option><option value="33">...und die passende Musik</option><option value="32">Gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">Marktplatz</option><option value="-1">----------------</option><option value="23">Gesucht und Gefunden</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">Hard-& Software</option><option value="-1">----------------</option><option value="36">Computer, Betriebssysteme & Programme</option><option value="37">Internet</option><option value="38">Spiele</option><option value="-1">&nbsp;</option><option value="-1">Offtopic</option><option value="-1">----------------</option><option value="26">Sunshine-bar</option><option value="45">Politik</option></select><input type="hidden" name="sid" value="996bfc4435ce52b4d91ececdae5356de" /> <input type="submit" class="newsbutton" value="Go" /></span></td>
+  </tr>
+</table>
+</form>
+
+
+<p align="center">
+<table align="center" border="0">
+<tr>
+<td align="left">
+<!-- eBay RelevanceAd -->
+<script language='JavaScript' type='text/javascript'>
+//<-- DO NOT CHANGE -->
+// <!--<[CDATA[
+    era_width = '120';
+    era_height = '120';
+    era_layout = 'img';
+    era_color_border = 'FFFFFF';
+    era_color_bg = 'FFFFFF';
+    era_color_text = '000000';
+    era_color_title = '000000';
+    era_color_link = '003399';
+    era_itemtype = '0';
+    era_maxprice = '50';
+    era_desiredcategory = '83733';
+    era_hint= 'sammler,collector,edition,special,SE';
+    era_publisher='282182';
+// ]]> -->
+</script>
+<script language='JavaScript' type='text/javascript' src='http://ebayrelevancead.webmasterplan.com/js/show_ads.js'></script>
+<!-- /eBay RelevanceAd -->
+
+</td>
+
+<td align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+  //<!--<[CDATA[
+    am_referrer = '282182';
+    am_template = '4';
+
+    am_color_text = '000000';
+    am_color_title = '000000';
+    am_color_border = 'FFFFFF';
+    am_color_background = 'FFFFFF';
+    am_color_price = '990000';
+    am_color_link = '333333';
+
+    am_stmo = '1';
+  // ]]> -->
+</script>
+<script language="JavaScript" type="text/javascript" src="http://banners.affilimatch.de/show_ads.js"></script>
+<!-- END PARTNER PROGRAM -->
+</td>
+<td align="right">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<a href="http://partners.webmasterplan.com/click.asp?ref=282182&site=3729&type=b86&bnb=86"  target="_top">
+<img src="http://banners.webmasterplan.com/view.asp?ref=282182&site=3729&b=86" border="0" alt="Tauschen statt kaufen! Bei Anmeldung ein Artikel geschenkt. Hier klicken!" width="125" height="125"/></a><br>
+<!-- END PARTNER PROGRAM -->
+</td>
+</tr></table>
+
+
+
+
+
+
+
+
+
+<!-- Site Meter --><p align="right">
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1247354-1";
+urchinTracker();
+</script>
+
+  	</td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td class="left"></td>
+	<td class="row2" align="center"><span class="copyright"><br /><br />
+	Based on DAJ Glass, a template by <a href="http://www.dumbassjones.com/" target="_blank" class="copyright">Dustin Baccetti</a>. EQ graphic based off of a design from <a href="http://www.freeclipart.nu" class="copyright" target="blank">www.freeclipart.nu</a>. Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> © 2001, 2006 phpBB Group<br><a href="http://disturbed-reality.de/blog/?page_id=645">Impressum</a> | <a href="http://disturbed-reality.de/blog/?page_id=1624">Datenschutzhinweise</a><br /></span></td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td height="27" class="ll"></td>
+	<td class="lc"></td>
+	<td class="lr"></td>
+  </tr>
+</table>
+
+</body>
+</html>

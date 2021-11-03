@@ -1,0 +1,516 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php" title="board.disturbed-reality.de Foren-Übersicht" />
+<link rel="search" href="./search.php" title="Suchen" />
+<link rel="help" href="./faq.php" title="FAQ" />
+<link rel="author" href="./memberlist.php" title="Mitgliederliste" />
+<link rel="up" href="index.php" title="board.disturbed-reality.de Foren-Übersicht" />
+
+<title>board.disturbed-reality.de :: Forum anzeigen - SCFI / Fantasy</title>
+<link rel="stylesheet" href="templates/DAJ_Glass/DAJ_Glass.css" type="text/css" />
+</head>
+<body>
+
+<a name="top"></a>
+
+<br class="gensmall">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+  	<td height="14" width="25" nowrap="nowrap" class="ul"></td>
+	<td width="100%" class="uc"></td>
+	<td width="25" nowrap="nowrap" class="ur"></td>
+  </tr>
+  <tr>
+  	<td class="headl"></td>
+	<td class="row3"><a href="index.php"><img src="templates/DAJ_Glass/images/logo_phpBB.gif" border="0" alt="board.disturbed-reality.de Foren-Übersicht" /></a>
+	</td>
+	<td class="headr"></td>
+  </tr>
+  <tr valign="bottom">
+  	<td rowspan="3" class="tul"></td>
+	<td height="30" class="tuc">
+	  <table width="100%" cellspacing="0" cellpadding="2">
+	  	<tr valign="bottom">
+		  <td><a href="index.php" class="mainmenu1">board.disturbed-reality.de</a></td>
+		  <td align="right" nowrap="nowrap">
+	  		<table cellspacing="0" cellpadding="0" border="0">
+	  		  <tr valign="bottom">
+	  		  <td>: <a href="http://disturbed-reality.de/blog/" class="mainmenu1">Blog</a> ::
+						<a href="http://disturbed-reality.de/review/" class="mainmenu1">Reviews</a> ::
+						<i class="mainmenu1">Board</i> :</td>
+		  		<td><a href="faq.php"><img src="templates/DAJ_Glass/images/icon_mini_faq.gif" border="0" alt="FAQ" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="faq.php" class="mainmenu1">FAQ</a>  </span></td>
+		  		<td><a href="search.php"><img src="templates/DAJ_Glass/images/icon_mini_search.gif" border="0" alt="Suchen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="search.php" class="mainmenu1">Suchen</a>  </span></td>
+		  		<td><a href="memberlist.php"><img src="templates/DAJ_Glass/images/icon_mini_members.gif" border="0" alt="Mitgliederliste" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="memberlist.php" class="mainmenu1">Mitgliederliste</a>  </span></td>
+		  		<td><a href="groupcp.php"><img src="templates/DAJ_Glass/images/icon_mini_groups.gif" border="0" alt="Benutzergruppen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="groupcp.php" class="mainmenu1">Benutzergruppen</a></span></td>
+			  </tr>
+	  		</table>
+		  </td>
+		</tr>
+	  </table>
+	</td>
+	<td rowspan="3" class="tur"></td>
+  </tr>
+  <tr>
+  	<td height="10" class="row5"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" height="1" width="1"></td>
+  </tr>
+  <tr valign="top">
+	<td height="30" nowrap="nowrap" class="tlc">
+	  <table width="100%" cellspacing="0" cellpadding="2" border="0">
+	  	<tr valign="top">
+		  <td><span class="mainmenu1">
+		  <a href="profile.php?mode=register" class="mainmenu1">Registrieren</a>  :: 
+		  <a href="login.php" class="mainmenu1">Login</a>
+		  </span></td>
+		  <td nowrap="nowrap" align="right"><span class="mainmenu1">
+		  <a href="privmsg.php?folder=inbox" class="mainmenu1">Einloggen, um private Nachrichten zu lesen</a>
+		  </span></td>
+		</tr>
+	  </table>
+	</td>
+  </tr>
+  <tr>
+    <td class="left"></td>
+	<td class="row2">
+<i><small>Werbung:</small></i>
+
+<ul style="margin-top:0px; overflow:hidden;  border:0px none #FFFFFF; margin-right:0px; border-spacing:0px; padding:0px; width:100%; margin-bottom:0px; list-style:none;">
+	<li style="float:left; display:inline; clear:none; width:49%;"><a style="line-height:140%; font-size:12px; " href="http://www.geizclub24.de/gutscheine/DVD" target="_self">DVD Gutscheine</a></li>
+	<li style="float:left; display:inline; clear:none; width:49%;"><a style="line-height:140%; font-size:12px; " href="http://www.netleih.de" target="_self">Neu auf DVD: Online-Verleih</a></li>
+</ul>
+<hr><form method="post" action="viewforum.php?f=44&amp;start=0">
+<table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr valign="top">
+	<td nowrap="nowrap"><img src="templates/DAJ_Glass/images/nav.gif" border="0"></td>
+	<td width="100%" class="mainmenu"><a href="index.php" class="mainmenu">board.disturbed-reality.de Foren-Übersicht</a> » <a href="viewforum.php?f=44" class="mainmenu">SCFI / Fantasy</a></td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr>
+  	<td valign="bottom" nowrap="nowrap"><a href="posting.php?mode=newtopic&amp;f=44"><img src="templates/DAJ_Glass/images/lang_english/post.gif" border="0" alt="Neues Thema eröffnen" /></a></td>
+	<td width="100%" valign="middle"><span class="gensmall"><b>Gehe zu Seite <b>1</b>, <a href="viewforum.php?f=44&amp;topicdays=0&amp;start=25">2</a>, <a href="viewforum.php?f=44&amp;topicdays=0&amp;start=50">3</a>&nbsp;&nbsp;<a href="viewforum.php?f=44&amp;topicdays=0&amp;start=25">Weiter</a></b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0" class="forumline">
+  <tr valign="middle">
+	<td height="25" nowrap="nowrap" class="row4"><span class="cattitle"> SCFI / Fantasy</span></td>
+	<td align="right" class="row4" nowrap="nowrap"><span class="mainmenu1"><a href="viewforum.php?f=44&amp;mark=topics" class="mainmenu1">Alle Themen als gelesen markieren</a> </span></td>
+  </tr>
+  <tr>
+  	<td colspan="2">
+	  <table width="100%" cellspacing="1" cellpadding="3" border="0">
+		<tr align="center">
+		  <td class="row6" width="20" nowrap="nowrap"></td>
+	  	  <td height="20" align="left" class="row6" nowrap="nowrap" width="100%"><span class="mainmenu">Themen</span></td>
+		  <td width="100" class="row6" nowrap="nowrap"><span class="mainmenu"> Autor </span></td>
+	  	  <td width="50" class="row6" nowrap="nowrap"><span class="mainmenu"> Antworten </span></td>
+	  	  <td width="50" class="row6" nowrap="nowrap"><span class="mainmenu"> Aufrufe </span></td>
+	  	  <td align="right" class="row6" align="right" nowrap="nowrap"><span class="mainmenu">Letzter&nbsp;Beitrag</span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder_hot.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=6023" class="topictitle">Alien vs. Predator 2</a></span><span class="gensmall"><br /> [ <img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Gehe zu Seite" title="Gehe zu Seite" />Gehe zu Seite: <a href="viewtopic.php?t=6023&amp;start=0">1</a>, <a href="viewtopic.php?t=6023&amp;start=25">2</a> ] </span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=65">Premutos</a></span></td>
+		  <td class="row2"><span class="postdetails">48</span></td>
+	  	  <td class="row7"><span class="postdetails">10496</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Di Okt 02, 2007 2:32 pm<br /><a href="profile.php?mode=viewprofile&amp;u=448">rwDesign</a> <a href="viewtopic.php?p=72516#72516"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=6340" class="topictitle">Sunshine</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">3</span></td>
+	  	  <td class="row7"><span class="postdetails">838</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Di Okt 02, 2007 2:03 pm<br /><a href="profile.php?mode=viewprofile&amp;u=448">rwDesign</a> <a href="viewtopic.php?p=72515#72515"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder_hot.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=6077" class="topictitle">Transformers Trailer</a></span><span class="gensmall"><br /> [ <img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Gehe zu Seite" title="Gehe zu Seite" />Gehe zu Seite: <a href="viewtopic.php?t=6077&amp;start=0">1</a>, <a href="viewtopic.php?t=6077&amp;start=25">2</a> ] </span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=612">hope</a></span></td>
+		  <td class="row2"><span class="postdetails">28</span></td>
+	  	  <td class="row7"><span class="postdetails">4139</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">So Sep 02, 2007 11:18 pm<br /><a href="profile.php?mode=viewprofile&amp;u=606">Forexx</a> <a href="viewtopic.php?p=72218#72218"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=5669" class="topictitle">Remake - Invasion of the Bodysnatchers</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">17</span></td>
+	  	  <td class="row7"><span class="postdetails">3760</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Mi Jul 04, 2007 11:20 am<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=71805#71805"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=6759" class="topictitle">Starship Troopers 3</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">12</span></td>
+	  	  <td class="row7"><span class="postdetails">2295</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Do Jun 21, 2007 7:00 am<br /><a href="profile.php?mode=viewprofile&amp;u=443">StasH</a> <a href="viewtopic.php?p=71699#71699"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=7621" class="topictitle">D-War</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">1</span></td>
+	  	  <td class="row7"><span class="postdetails">328</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Mi Mai 30, 2007 10:50 am<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=71387#71387"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=5210" class="topictitle">Unternehmen Feuergürtel</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">13</span></td>
+	  	  <td class="row7"><span class="postdetails">3010</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Mo Mai 14, 2007 6:29 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=71226#71226"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=7228" class="topictitle">Laserkill - Todesstrahlen aus dem All</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">3</span></td>
+	  	  <td class="row7"><span class="postdetails">652</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Do Mai 03, 2007 7:09 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=71049#71049"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=7488" class="topictitle">Target Earth</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">1</span></td>
+	  	  <td class="row7"><span class="postdetails">413</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Mi Apr 18, 2007 5:22 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=70801#70801"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=5719" class="topictitle">XX Unbekannt</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">8</span></td>
+	  	  <td class="row7"><span class="postdetails">1874</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Mo März 26, 2007 8:40 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=70398#70398"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=4276" class="topictitle">&quot;The Blob&quot; Remake geplant</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">8</span></td>
+	  	  <td class="row7"><span class="postdetails">2026</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">So März 25, 2007 5:31 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=70382#70382"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=6935" class="topictitle">Attack of the Puppet People (1958)</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">1</span></td>
+	  	  <td class="row7"><span class="postdetails">633</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Sa Feb 03, 2007 12:18 am<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=69548#69548"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=7180" class="topictitle">Remake - When Worlds Collide</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">0</span></td>
+	  	  <td class="row7"><span class="postdetails">352</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Mo Jan 29, 2007 11:36 am<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=69434#69434"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=2949" class="topictitle">1994 - nur die Starken überleben</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">6</span></td>
+	  	  <td class="row7"><span class="postdetails">1638</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">So Jan 28, 2007 7:27 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=69407#69407"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=5007" class="topictitle">Kampf der Titanen</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=38">Leatherface</a></span></td>
+		  <td class="row2"><span class="postdetails">1</span></td>
+	  	  <td class="row7"><span class="postdetails">680</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">So Jan 28, 2007 7:27 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=69406#69406"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=6720" class="topictitle">America 3000</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">2</span></td>
+	  	  <td class="row7"><span class="postdetails">536</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Di Jan 23, 2007 10:30 pm<br /><a href="profile.php?mode=viewprofile&amp;u=612">hope</a> <a href="viewtopic.php?p=69289#69289"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=4981" class="topictitle">Supernova</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">4</span></td>
+	  	  <td class="row7"><span class="postdetails">1073</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Di Jan 23, 2007 6:06 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=69286#69286"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=6987" class="topictitle">Brücke nach Terabithia</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=612">hope</a></span></td>
+		  <td class="row2"><span class="postdetails">2</span></td>
+	  	  <td class="row7"><span class="postdetails">651</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">So Dez 31, 2006 11:25 am<br /><a href="profile.php?mode=viewprofile&amp;u=38">Leatherface</a> <a href="viewtopic.php?p=68603#68603"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=6988" class="topictitle">Das Arche Noah Prinzip</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">2</span></td>
+	  	  <td class="row7"><span class="postdetails">604</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">So Dez 31, 2006 2:33 am<br /><a href="profile.php?mode=viewprofile&amp;u=612">hope</a> <a href="viewtopic.php?p=68597#68597"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=5362" class="topictitle">ERAGON</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=612">hope</a></span></td>
+		  <td class="row2"><span class="postdetails">16</span></td>
+	  	  <td class="row7"><span class="postdetails">3570</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Di Dez 26, 2006 6:13 pm<br /><a href="profile.php?mode=viewprofile&amp;u=65">Premutos</a> <a href="viewtopic.php?p=68463#68463"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=3852" class="topictitle">Flucht ins 23. Jahrhundert - Remake</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">7</span></td>
+	  	  <td class="row7"><span class="postdetails">1565</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Do Dez 21, 2006 3:14 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a> <a href="viewtopic.php?p=68331#68331"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=6706" class="topictitle">Appleseed</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=38">Leatherface</a></span></td>
+		  <td class="row2"><span class="postdetails">4</span></td>
+	  	  <td class="row7"><span class="postdetails">856</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Do Dez 07, 2006 8:15 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1466">Gen</a> <a href="viewtopic.php?p=67796#67796"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=6810" class="topictitle">Dark Angel - Tag der Abrechnung</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">2</span></td>
+	  	  <td class="row7"><span class="postdetails">694</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Mo Dez 04, 2006 1:24 pm<br /><a href="profile.php?mode=viewprofile&amp;u=38">Leatherface</a> <a href="viewtopic.php?p=67653#67653"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=6666" class="topictitle">Deathstalker - Filmreihe</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8">splatteralex</a></span></td>
+		  <td class="row2"><span class="postdetails">4</span></td>
+	  	  <td class="row7"><span class="postdetails">979</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Fr Nov 17, 2006 11:56 am<br /><a href="profile.php?mode=viewprofile&amp;u=38">Leatherface</a> <a href="viewtopic.php?p=66994#66994"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr align="center" valign="middle">
+	 	  <td class="row6" nowrap="nowrap"><img src="templates/DAJ_Glass/images/folder.gif" border="0" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  	  <td class="row2" align="left"><span class="topictitle"><a href="viewtopic.php?t=6246" class="topictitle">Gozilla Filme welche sind Qualitativ gut ?</a></span><span class="gensmall"><br /></span></td>
+	  	  <td class="row7"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=134">Zombie21</a></span></td>
+		  <td class="row2"><span class="postdetails">24</span></td>
+	  	  <td class="row7"><span class="postdetails">5460</span></td>
+	  	  <td class="row2" nowrap="nowrap" align="right"><span class="postdetails">Fr Nov 17, 2006 11:12 am<br /><a href="profile.php?mode=viewprofile&amp;u=65">Premutos</a> <a href="viewtopic.php?p=66988#66988"><img src="templates/DAJ_Glass/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+		</tr>
+		<tr>
+	  	  <td class="row3" align="center" valign="middle" colspan="6" height="28"><span class="mainmenu1">Siehe Beiträge der letzten: <select name="topicdays"><option value="0" selected="selected">Alle Themen anzeigen</option><option value="1">1 Tag</option><option value="7">7 Tage</option><option value="14">2 Wochen</option><option value="30">1 Monat</option><option value="90">3 Monate</option><option value="180">6 Monate</option><option value="364">1 Jahr</option></select> 
+		  <input type="submit" class="newsbutton" value="Go" name="submit" /></span></td>
+		</tr>
+	  </table>
+	</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr valign="top">
+  	<td nowrap="nowrap"><a href="posting.php?mode=newtopic&amp;f=44"><img src="templates/DAJ_Glass/images/lang_english/post.gif" border="0" alt="Neues Thema eröffnen" /></a></td>
+	<td width="100%" valign="middle"><span class="gensmall"><b>Gehe zu Seite <b>1</b>, <a href="viewforum.php?f=44&amp;topicdays=0&amp;start=25">2</a>, <a href="viewforum.php?f=44&amp;topicdays=0&amp;start=50">3</a>&nbsp;&nbsp;<a href="viewforum.php?f=44&amp;topicdays=0&amp;start=25">Weiter</a></b></span></td>
+	<td align="right" nowrap="nowrap"><span class="nav">Seite <b>1</b> von <b>3</b></span></td>
+  </tr>
+</table>
+</form>
+
+<br />
+
+<table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr valign="top">
+	<td nowrap="nowrap"><img src="templates/DAJ_Glass/images/nav.gif" border="0"></td>
+	<td width="100%" class="mainmenu"><a href="index.php" class="mainmenu">board.disturbed-reality.de Foren-Übersicht</a> » <a href="viewforum.php?f=44" class="mainmenu">SCFI / Fantasy</a></td>
+	<td align="right" nowrap="nowrap"><form method="get" name="jumpbox" action="viewforum.php" onSubmit="if(document.jumpbox.f.value == -1){return false;}">
+<table width="100%" cellspacing="1" border="0" cellpadding="1">
+  <tr>
+	<td align="right" nowrap="nowrap"><span class="gensmall">Gehe zu: <select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42">Updates</option><option value="17">Support</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">Brainfuck</option><option value="25">Lustiges aus dem Netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">Allgemeines</option><option value="28">Splatter & Horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">Hollywood und mehr…</option><option value="19">Schnittberichte und Zensur</option><option value="34">Amateurfilme, Börsen & Veranstaltungen</option><option value="31">...im TV</option><option value="33">...und die passende Musik</option><option value="32">Gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">Marktplatz</option><option value="-1">----------------</option><option value="23">Gesucht und Gefunden</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">Hard-& Software</option><option value="-1">----------------</option><option value="36">Computer, Betriebssysteme & Programme</option><option value="37">Internet</option><option value="38">Spiele</option><option value="-1">&nbsp;</option><option value="-1">Offtopic</option><option value="-1">----------------</option><option value="26">Sunshine-bar</option><option value="45">Politik</option></select><input type="hidden" name="sid" value="58678fe6af7cb967d45c093fb43ec809" /> <input type="submit" class="newsbutton" value="Go" /></span></td>
+  </tr>
+</table>
+</form>
+</td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="0" cellpadding="0" class="forumline">
+  <tr>
+  	<td colspan="3">
+	  <table width="100%" cellspacing="1" cellpadding="3" border="0">
+		<tr>
+		  <td class="row6"><span class="mainmenu"><b>Moderatoren</b>: <a href="profile.php?mode=viewprofile&amp;u=1">alo</a>, <a href="groupcp.php?g=377">fickschweine</a></span></td>
+		</tr>
+		<tr>
+		  <td class="row6"><span class="mainmenu">Benutzer in diesem Forum: Keine</span></td>
+		</tr>
+	  </table>
+	</td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="0" cellpadding="0" class="forumline">
+  <tr>
+  	<td class="row6">
+	  <table width="100%" cellspacing="1" cellpadding="3" border="0">
+		<tr>
+		  <td valign="middle">
+		  	<table cellspacing="3" cellpadding="0" border="0">
+			  <tr>
+				<td width="20"><img src="templates/DAJ_Glass/images/folder_new.gif" alt="Neue Beiträge" border="0" /></td>
+				<td class="gensmall">Neue Beiträge</td>
+				<td>  </td>
+				<td width="20" align="center"><img src="templates/DAJ_Glass/images/folder.gif" alt="Keine neuen Beiträge" border="0" /></td>
+				<td class="gensmall">Keine neuen Beiträge</td>
+				<td>  </td>
+				<td width="20" align="center"><img src="templates/DAJ_Glass/images/folder_announce.gif" alt="Ankündigung" border="0" /></td>
+				<td class="gensmall">Ankündigung</td>
+			  </tr>
+			  <tr>
+				<td width="20" align="center"><img src="templates/DAJ_Glass/images/folder_new_hot.gif" alt="Neue Beiträge [ Top-Thema ]" border="0" /></td>
+				<td class="gensmall">Neue Beiträge [ Top-Thema ]</td>
+				<td>  </td>
+				<td width="20" align="center"><img src="templates/DAJ_Glass/images/folder_hot.gif" alt="Keine neuen Beiträge [ Top-Thema ]" border="0" /></td>
+				<td class="gensmall">Keine neuen Beiträge [ Top-Thema ]</td>
+				<td>  </td>
+				<td width="20" align="center"><img src="templates/DAJ_Glass/images/folder_sticky.gif" alt="Wichtig" border="0" /></td>
+				<td class="gensmall">Wichtig</td>
+			  </tr>
+			  <tr>
+				<td class="gensmall"><img src="templates/DAJ_Glass/images/folder_lock_new.gif" alt="Neue Beiträge [ Gesperrt ]" border="0" /></td>
+				<td class="gensmall">Neue Beiträge [ Gesperrt ]</td>
+				<td>  </td>
+				<td class="gensmall"><img src="templates/DAJ_Glass/images/folder_lock.gif" alt="Keine neuen Beiträge [ Gesperrt ]" border="0" /></td>
+				<td class="gensmall">Keine neuen Beiträge [ Gesperrt ]</td>
+			  </tr>
+			</table>
+		  </td>
+		  <td align="right"><span class="gensmall">Du <b>kannst keine</b> Beiträge in dieses Forum schreiben.<br />Du <b>kannst</b> auf Beiträge in diesem Forum <b>nicht</b> antworten.<br />Du <b>kannst</b> deine Beiträge in diesem Forum <b>nicht</b> bearbeiten.<br />Du <b>kannst</b> deine Beiträge in diesem Forum <b>nicht</b> löschen.<br />Du <b>kannst</b> an Umfragen in diesem Forum <b>nicht</b> mitmachen.<br /></span></td>
+		</tr>
+	  </table>
+	</td>
+  </tr>
+</table>
+
+<p align="center">
+<table align="center" border="0">
+<tr>
+<td align="left">
+<!-- eBay RelevanceAd -->
+<script language='JavaScript' type='text/javascript'>
+//<-- DO NOT CHANGE -->
+// <!--<[CDATA[
+    era_width = '120';
+    era_height = '120';
+    era_layout = 'img';
+    era_color_border = 'FFFFFF';
+    era_color_bg = 'FFFFFF';
+    era_color_text = '000000';
+    era_color_title = '000000';
+    era_color_link = '003399';
+    era_itemtype = '0';
+    era_maxprice = '50';
+    era_desiredcategory = '83733';
+    era_hint= 'sammler,collector,edition,special,SE';
+    era_publisher='282182';
+// ]]> -->
+</script>
+<script language='JavaScript' type='text/javascript' src='http://ebayrelevancead.webmasterplan.com/js/show_ads.js'></script>
+<!-- /eBay RelevanceAd -->
+
+</td>
+
+<td align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+  //<!--<[CDATA[
+    am_referrer = '282182';
+    am_template = '4';
+
+    am_color_text = '000000';
+    am_color_title = '000000';
+    am_color_border = 'FFFFFF';
+    am_color_background = 'FFFFFF';
+    am_color_price = '990000';
+    am_color_link = '333333';
+
+    am_stmo = '1';
+  // ]]> -->
+</script>
+<script language="JavaScript" type="text/javascript" src="http://banners.affilimatch.de/show_ads.js"></script>
+<!-- END PARTNER PROGRAM -->
+</td>
+<td align="right">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<a href="http://partners.webmasterplan.com/click.asp?ref=282182&site=3729&type=b86&bnb=86"  target="_top">
+<img src="http://banners.webmasterplan.com/view.asp?ref=282182&site=3729&b=86" border="0" alt="Tauschen statt kaufen! Bei Anmeldung ein Artikel geschenkt. Hier klicken!" width="125" height="125"/></a><br>
+<!-- END PARTNER PROGRAM -->
+</td>
+</tr></table>
+
+
+
+
+
+
+
+
+
+<!-- Site Meter --><p align="right">
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1247354-1";
+urchinTracker();
+</script>
+
+  	</td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td class="left"></td>
+	<td class="row2" align="center"><span class="copyright"><br /><br />
+	Based on DAJ Glass, a template by <a href="http://www.dumbassjones.com/" target="_blank" class="copyright">Dustin Baccetti</a>. EQ graphic based off of a design from <a href="http://www.freeclipart.nu" class="copyright" target="blank">www.freeclipart.nu</a>. Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> © 2001, 2006 phpBB Group<br><a href="http://disturbed-reality.de/blog/?page_id=645">Impressum</a> | <a href="http://disturbed-reality.de/blog/?page_id=1624">Datenschutzhinweise</a><br /></span></td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td height="27" class="ll"></td>
+	<td class="lc"></td>
+	<td class="lr"></td>
+  </tr>
+</table>
+
+</body>
+</html>

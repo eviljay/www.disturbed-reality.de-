@@ -1,0 +1,916 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=d8a62a2c9adc7d2b1613af759857488c" title="board.disturbed-reality.de Foren-Übersicht" />
+<link rel="search" href="./search.php?sid=d8a62a2c9adc7d2b1613af759857488c" title="Suchen" />
+<link rel="help" href="./faq.php?sid=d8a62a2c9adc7d2b1613af759857488c" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=d8a62a2c9adc7d2b1613af759857488c" title="Mitgliederliste" />
+<link rel="prev" href="viewtopic.php?t=5213&amp;view=previous&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="Vorheriges Thema anzeigen" />
+<link rel="next" href="viewtopic.php?t=5213&amp;view=next&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="Nächstes Thema anzeigen" />
+<link rel="up" href="viewforum.php?f=42&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="updates" />
+<link rel="chapter forum" href="viewforum.php?f=42&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="updates" />
+<link rel="chapter forum" href="viewforum.php?f=21&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="der brotkorb" />
+<link rel="chapter forum" href="viewforum.php?f=17&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="support-board" />
+<link rel="chapter forum" href="viewforum.php?f=18&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="verbesserungen&wünsche" />
+<link rel="chapter forum" href="viewforum.php?f=47&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="mod-board" />
+<link rel="chapter forum" href="viewforum.php?f=2&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="*brainfuck" />
+<link rel="chapter forum" href="viewforum.php?f=41&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="bolzplatz" />
+<link rel="chapter forum" href="viewforum.php?f=25&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="lustiges aus dem netz" />
+<link rel="chapter forum" href="viewforum.php?f=20&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="allgemein" />
+<link rel="chapter forum" href="viewforum.php?f=28&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="splatter&horror" />
+<link rel="chapter forum" href="viewforum.php?f=44&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="SCFI / Fantasy" />
+<link rel="chapter forum" href="viewforum.php?f=30&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="DVD, VHS & laserdisk" />
+<link rel="chapter forum" href="viewforum.php?f=43&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="hollywood" />
+<link rel="chapter forum" href="viewforum.php?f=19&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="schnittberichte&zensur" />
+<link rel="chapter forum" href="viewforum.php?f=34&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="Amateurfilme, Börsen & Veranstaltungen" />
+<link rel="chapter forum" href="viewforum.php?f=31&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="...im TV" />
+<link rel="chapter forum" href="viewforum.php?f=33&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="...und die passende musik" />
+<link rel="chapter forum" href="viewforum.php?f=32&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="gerüchteküche" />
+<link rel="chapter forum" href="viewforum.php?f=23&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="zu verkaufen" />
+<link rel="chapter forum" href="viewforum.php?f=24&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="suche" />
+<link rel="chapter forum" href="viewforum.php?f=48&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="Preistipps und Webshops" />
+<link rel="chapter forum" href="viewforum.php?f=27&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="allgemein" />
+<link rel="chapter forum" href="viewforum.php?f=36&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="windows/OS X/Linux... betriebssysteme & Programme" />
+<link rel="chapter forum" href="viewforum.php?f=37&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="internet und alles was dranhängt" />
+<link rel="chapter forum" href="viewforum.php?f=38&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="games" />
+<link rel="chapter forum" href="viewforum.php?f=39&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="ps/2 & konsolen" />
+<link rel="chapter forum" href="viewforum.php?f=26&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="sunshine-bar" />
+<link rel="chapter forum" href="viewforum.php?f=45&amp;sid=d8a62a2c9adc7d2b1613af759857488c" title="politik" />
+
+<title>board.disturbed-reality.de :: Thema anzeigen - ReviewWiki</title>
+<link rel="stylesheet" href="templates/DAJ_Glass/DAJ_Glass.css" type="text/css" />
+</head>
+<body>
+
+<a name="top"></a>
+
+<br class="gensmall">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+  	<td height="14" width="25" nowrap="nowrap" class="ul"></td>
+	<td width="100%" class="uc"></td>
+	<td width="25" nowrap="nowrap" class="ur"></td>
+  </tr>
+  <tr>
+  	<td class="headl"></td>
+	<td class="row3"><a href="index.php?sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/logo_phpBB.gif" border="0" alt="board.disturbed-reality.de Foren-Übersicht" /></a>
+	</td>
+	<td class="headr"></td>
+  </tr>
+  <tr valign="bottom">
+  	<td rowspan="3" class="tul"></td>
+	<td height="30" class="tuc">
+	  <table width="100%" cellspacing="0" cellpadding="2">
+	  	<tr valign="bottom">
+		  <td><a href="index.php?sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu1">board.disturbed-reality.de</a></td>
+		  <td align="right" nowrap="nowrap">
+	  		<table cellspacing="0" cellpadding="0" border="0">
+	  		  <tr valign="bottom">
+		  		<td><a href="faq.php?sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/icon_mini_faq.gif" border="0" alt="FAQ" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="faq.php?sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu1">FAQ</a>  </span></td>
+		  		<td><a href="search.php?sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/icon_mini_search.gif" border="0" alt="Suchen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="search.php?sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu1">Suchen</a>  </span></td>
+		  		<td><a href="memberlist.php?sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/icon_mini_members.gif" border="0" alt="Mitgliederliste" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="memberlist.php?sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu1">Mitgliederliste</a>  </span></td>
+		  		<td><a href="groupcp.php?sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/icon_mini_groups.gif" border="0" alt="Benutzergruppen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="groupcp.php?sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu1">Benutzergruppen</a></span></td>
+			  </tr>
+	  		</table>
+		  </td>
+		</tr>
+	  </table>
+	</td>
+	<td rowspan="3" class="tur"></td>
+  </tr>
+  <tr>
+  	<td height="10" class="row5"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" height="1" width="1"></td>
+  </tr>
+  <tr valign="top">
+	<td height="30" nowrap="nowrap" class="tlc">
+	  <table width="100%" cellspacing="0" cellpadding="2" border="0">
+	  	<tr valign="top">
+		  <td><span class="mainmenu1">
+		  <a href="profile.php?mode=register&amp;sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu1">Registrieren</a>  :: 
+		  <a href="login.php?sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu1">Login</a>
+		  </span></td>
+		  <td nowrap="nowrap" align="right"><span class="mainmenu1">
+		  <a href="privmsg.php?folder=inbox&amp;sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu1">Einloggen, um private Nachrichten zu lesen</a>
+		  </span></td>
+		</tr>
+	  </table>
+	</td>
+  </tr>
+  <tr>
+    <td class="left"></td>
+	<td class="row2">
+<p align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1310&refurl='+escape(document.location.href)+'" width="468" height="60" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM --><table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr valign="top">
+	<td nowrap="nowrap"><img src="templates/DAJ_Glass/images/nav.gif" border="0"></td>
+	<td width="100%" class="mainmenu"><a href="index.php?sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu">board.disturbed-reality.de Foren-Übersicht</a> » <a href="viewforum.php?f=42&amp;sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu">updates</a> » <a class="mainmenu" href="viewtopic.php?t=5213&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=d8a62a2c9adc7d2b1613af759857488c">ReviewWiki</a></td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr>
+	<td valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=42&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/post.gif" border="0" alt="Neues Thema eröffnen" align="middle" /></a>  <a href="posting.php?mode=reply&amp;t=5213&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/reply.gif" border="0" alt="Neue Antwort erstellen" align="middle" /></a></span></td>
+	<td valign="middle" width="100%"><span class="gensmall"><b></b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0" class="forumline">
+  <tr valign="middle">
+	<td height="25" nowrap="nowrap" class="row4"><span class="cattitle"> ReviewWiki</span></td>
+	<td align="right" class="row4"><span class="mainmenu1">« <a href="viewtopic.php?t=5213&amp;view=previous&amp;sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu1">Vorheriges Thema anzeigen</a> :: <a href="viewtopic.php?t=5213&amp;view=next&amp;sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu1">Nächstes Thema anzeigen</a> » </span></td>
+  </tr>
+  <tr>
+  	<td colspan="2">
+	  <table width="100%" cellspacing="1" cellpadding="3" border="0">
+		
+		<tr align="center">
+		  <td class="row6" width="150" height="20" nowrap="nowrap"><span class="mainmenu">Autor</span></td>
+		  <td class="row6" nowrap="nowrap"><span class="mainmenu">Nachricht</span></th>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="52777"></a><b>alo</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=52777&amp;sid=d8a62a2c9adc7d2b1613af759857488c#52777"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Fr Okt 07, 2005 1:10 am<span class="genmed"> </span>   Titel: ReviewWiki</span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=52777&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><img src="images/avatars/523288505441ee4016c649.gif" alt="" border="0" /><br /><span class="postdetails">Admin, Freiherr von&zu Neuzamonien<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 28.02.2002<br />Beiträge: 3618<br /></span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody">Wer Intresse  und Lust auf neue Reviews schreiben und/oder noch welche wo rumfliegen hat, soll sich bitte melden!
+<br />
+
+<br />
+Ich bin dabei eine Review-Datenbank auf Nutzerbasis zu schaffen und suche Autoren und Leute die Lust haben, das System einmal zu testen. Wenns alles klappt, hört ihr hier im Forum bald mehr davon....  <img src="images/smiles/icon_cool.gif" alt="Cool" border="0" /> 
+<br />
+
+<br />
+Besonders benötigt sind viele(!) Reviews, um einen geeigneten Start hinzulegen. Wer welche irgendwann und oder irgendwo mal geschrieben hat, immer her damit.
+<br />
+
+<br />
+Ihr kennt mich, ich will mit sowas kein Geld verdiehnen,ich schicke euch keinen Spam oder verkaufe eure Emailadresse/Seele - es geht um den Spass, also macht mit!  <img src="images/smiles/icon_cool.gif" alt="Cool" border="0" /><br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+gnubierchsskniL eid ebel se ,gnubierchsthceR red tim redeiN</span><span class="gensmall"><br /><br />Zuletzt bearbeitet von alo am Mi Dez 06, 2006 11:21 am, insgesamt 2 Male bearbeitet</span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@disturbed-reality.de"><img src="templates/DAJ_Glass/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.disturbed-reality.de" target="_userwww"><img src="templates/DAJ_Glass/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="52779"></a><b>Refu</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=52779&amp;sid=d8a62a2c9adc7d2b1613af759857488c#52779"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Fr Okt 07, 2005 1:16 am<span class="genmed"> </span>   Titel: </span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=52779&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><img src="images/avatars/104499084942a9f8fe3b98e.gif" alt="" border="0" /><br /><span class="postdetails">hat zuviel zeit<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 11.03.2002<br />Beiträge: 4468<br />Wohnort: Hannover</span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody">Hammergeile Idee <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /> Die alte Reviewseite ist ja irgendwie eingeschlafen, aber da bin ich natürlich wieder mit dabei <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /><br />_________________<br /><img src="http://www.rottenarmy.de/foren/notpostcount.gif" border="0" />
+<br />
+
+<br />
+<a href="http://www.dvdprofiler.com/mc.asp?alias=Refu" target="_blank" class="postlink">YOU ARE YOUR DVD COLLECTION</a></span><span class="gensmall"></span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=9&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:webmaster@rottenarmy.de"><img src="templates/DAJ_Glass/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.rottenarmy.de" target="_userwww"><img src="templates/DAJ_Glass/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=60423243"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=60423243"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/60423243#pager"><img src="http://web.icq.com/whitepages/online?icq=60423243&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=60423243"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="52781"></a><b>Bellringer</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=52781&amp;sid=d8a62a2c9adc7d2b1613af759857488c#52781"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Fr Okt 07, 2005 8:48 am<span class="genmed"> </span>   Titel: </span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=52781&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><br /><span class="postdetails">Träger der offiziellen Ehrenmedaille<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 30.11.2003<br />Beiträge: 1794<br />Wohnort: München</span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody">COOL! Bin auch sofort dabei!
+<br />
+
+<br />
+Hab bloß noch kein review geschrieben.
+<br />
+Ich kanns auch nicht.
+<br />
+wie gehts sowas?`
+<br />
+
+<br />
+ <img src="images/smiles/icon_cry.gif" alt="Crying or Very sad" border="0" />  <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /></span><span class="gensmall"></span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=437&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=437&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:mariuskasper@yahoo.de"><img src="templates/DAJ_Glass/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>    <script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' ');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="52784"></a><b>Leatherface</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=52784&amp;sid=d8a62a2c9adc7d2b1613af759857488c#52784"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Fr Okt 07, 2005 10:24 am<span class="genmed"> </span>   Titel: </span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=52784&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><img src="images/avatars/107229719944c4d4867a2be.jpg" alt="" border="0" /><br /><span class="postdetails">hat zuviel zeit<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 24.03.2002<br />Beiträge: 3796<br />Wohnort: Irgendwo im Nirgendwo</span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody">Wäre wohl auch dabei... habe auch noch jede Menge Reviews hier rum fliegen...  <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />_________________<br />&quot;Fuck this shit, i´m sick of it, you going down, this is a WAR !!&quot;
+<br />
+
+<br />
+&quot;Your suffering will be legendary, even in Hell... !!!&quot;
+<br />
+
+<br />
+&quot;The Saw is Family&quot;</span><span class="gensmall"></span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=38&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=38&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:Leatherface1@aol.com"><img src="templates/DAJ_Glass/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>    <script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' ');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="52788"></a><b>alo</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=52788&amp;sid=d8a62a2c9adc7d2b1613af759857488c#52788"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Fr Okt 07, 2005 11:05 am<span class="genmed"> </span>   Titel: </span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=52788&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><img src="images/avatars/523288505441ee4016c649.gif" alt="" border="0" /><br /><span class="postdetails">Admin, Freiherr von&zu Neuzamonien<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 28.02.2002<br />Beiträge: 3618<br /></span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody">wunderbar! das technische gerüst steht größtenteils. fehlt nur noch ein neues kleid, das auch ansehlich ist-und hier und da ein wenig politur. geht aber bald los!<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+gnubierchsskniL eid ebel se ,gnubierchsthceR red tim redeiN</span><span class="gensmall"></span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@disturbed-reality.de"><img src="templates/DAJ_Glass/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.disturbed-reality.de" target="_userwww"><img src="templates/DAJ_Glass/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="52800"></a><b>burnedeyez</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=52800&amp;sid=d8a62a2c9adc7d2b1613af759857488c#52800"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Fr Okt 07, 2005 2:44 pm<span class="genmed"> </span>   Titel: </span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=52800&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><img src="images/avatars/6374490034281c43f14d0e.gif" alt="" border="0" /><br /><span class="postdetails">geliebter der königin<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 24.07.2002<br />Beiträge: 1799<br />Wohnort: Goslar/ Liebenburg</span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody">Ich bin leider nicht wirklich gut bei solchen Sachen, bin aber sehr gespannt drauf, was ihr da auf die Beine stellt.<br />_________________<br />Internet is doch fein. Früher konnte ich nur paar Nachbarn nicht leiden.
+<br />
+Heute hasse ich Menschen aus aller Welt</span><span class="gensmall"></span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=126&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=126&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>  <a href="http://www.platzverweis.de.tc" target="_userwww"><img src="templates/DAJ_Glass/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=106957963"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=106957963"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/106957963#pager"><img src="http://web.icq.com/whitepages/online?icq=106957963&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=106957963"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="52810"></a><b>alo</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=52810&amp;sid=d8a62a2c9adc7d2b1613af759857488c#52810"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Fr Okt 07, 2005 8:12 pm<span class="genmed"> </span>   Titel: </span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=52810&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><img src="images/avatars/523288505441ee4016c649.gif" alt="" border="0" /><br /><span class="postdetails">Admin, Freiherr von&zu Neuzamonien<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 28.02.2002<br />Beiträge: 3618<br /></span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody">…ich hab euch etwas mitgebracht
+<br />
+Und zwar ein Wiki. 
+<br />
+Für die nicht so bewanderten: ein Wiki ist eine Internetseite, an der jeder frei nach belieben rumschreiben darf/kann/soll. Er muss dazu nur auf den Button "Bearbeiten" klicken und fertig. Alles was geschrieben, gelöscht, … wird, bleibt in der Historie gespeichert-und kann bei Bedarf wieder hergestellt werden. 
+<br />
+Sinn Zweck und Aufgabe des Wiki wird sein, eine Filmerezensionendatenbank (neudeutsch: Review-Datenbank) zu sein.
+<br />
+Ich bin mal gespannt, ob das System, und wenn ja wie, funktioniert.
+<br />
+Also, macht mit, probierts aus-mehr als schiefgehen kann es net 
+<br />
+<a href="http://reviews.disturbed-reality.de" target="_blank">http://reviews.disturbed-reality.de</a>
+<br />
+PS: bitte sdchlachtet mich net wenns irgendwo Fehler hagelt-ich hab den Kram in 2,5 Tagen zusammengeschustert<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+gnubierchsskniL eid ebel se ,gnubierchsthceR red tim redeiN</span><span class="gensmall"></span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@disturbed-reality.de"><img src="templates/DAJ_Glass/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.disturbed-reality.de" target="_userwww"><img src="templates/DAJ_Glass/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="52813"></a><b>Leatherface</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=52813&amp;sid=d8a62a2c9adc7d2b1613af759857488c#52813"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Fr Okt 07, 2005 10:26 pm<span class="genmed"> </span>   Titel: </span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=52813&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><img src="images/avatars/107229719944c4d4867a2be.jpg" alt="" border="0" /><br /><span class="postdetails">hat zuviel zeit<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 24.03.2002<br />Beiträge: 3796<br />Wohnort: Irgendwo im Nirgendwo</span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody">Coole Sache... habe es gerade mal mit meinem "High Tension" Review ausprobiert... geht super einfach und läuft spitze... beide Daumen hoch, alo...  <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" />  <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br />_________________<br />&quot;Fuck this shit, i´m sick of it, you going down, this is a WAR !!&quot;
+<br />
+
+<br />
+&quot;Your suffering will be legendary, even in Hell... !!!&quot;
+<br />
+
+<br />
+&quot;The Saw is Family&quot;</span><span class="gensmall"></span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=38&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=38&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:Leatherface1@aol.com"><img src="templates/DAJ_Glass/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>    <script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' ');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="54196"></a><b>alo</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=54196&amp;sid=d8a62a2c9adc7d2b1613af759857488c#54196"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mi Dez 21, 2005 7:15 pm<span class="genmed"> </span>   Titel: </span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=54196&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><img src="images/avatars/523288505441ee4016c649.gif" alt="" border="0" /><br /><span class="postdetails">Admin, Freiherr von&zu Neuzamonien<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 28.02.2002<br />Beiträge: 3618<br /></span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody">um die ganze Geschichte den anwesenden Damen und Herren nochmal in Erinnerung zu rufen: <span style="font-weight: bold">Das Wiki nimmt langsam aber sicher ganz gewaltig an Fahrt auf!</span> <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" />
+<br />
+
+<br />
+Die bisher bei Alex gehosteten Wikis sind nun vollständig migriert, ein ganzer Schwall neuer ist auch dabei und wir brauchen nur mehr Autoren! 
+<br />
+
+<br />
+Besonders gerne würd ich all die Leute, die sowiso immer mal wieder ne (längere) Meinung zu einem Film hier posten dazu animieren, diese doch da der Allgemeinheit zu Verfügung zu stellen. (*wink@ Sinarius, Comander, ....)
+<br />
+
+<br />
+Hier nochmal der Link: <a href="http://disturbed-reality.de/wiki/" target="_blank">http://disturbed-reality.de/wiki/</a><br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+gnubierchsskniL eid ebel se ,gnubierchsthceR red tim redeiN</span><span class="gensmall"></span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@disturbed-reality.de"><img src="templates/DAJ_Glass/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.disturbed-reality.de" target="_userwww"><img src="templates/DAJ_Glass/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="60120"></a><b>splatteralex</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=60120&amp;sid=d8a62a2c9adc7d2b1613af759857488c#60120"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Sa Mai 27, 2006 5:50 pm<span class="genmed"> </span>   Titel: </span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=60120&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><img src="images/avatars/2797613994412e57f19793.jpg" alt="" border="0" /><br /><span class="postdetails">internetjunky<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 11.03.2002<br />Beiträge: 11095<br />Wohnort: Paderborn</span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody">Wollte auch mal ein neues Review ins Wiki einstellen doch wie mache ich eine neue Seite? Die Hilfe hat mir nicht weiterhelfen können!<br />_________________<br />Tarantino: „Wenn ich diesen ganzen Computerspiel-Bullshit gewollt hätte, dann wäre ich nach Hause gegangen und hätte meinen Schwanz in mein Nintendo gesteckt
+<br />
+
+<br />
+<a href="http://www.dvdprofiler.com/mycollection.asp?alias=splatteralex" target="_blank" class="postlink"> Meine kleine DVD-Sammlung</a>
+<br />
+<a href="http://www.splatter-movies.com/wordpress/wordpress/" target="_blank" class="postlink">Mein Movieblog</a></span><span class="gensmall"></span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=8&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>  <a href="http://www.splatter-movies.com" target="_userwww"><img src="templates/DAJ_Glass/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_msnm.gif" alt="MSN Messenger" title="MSN Messenger" border="0" /></a><script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=101354460"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=101354460"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/101354460#pager"><img src="http://web.icq.com/whitepages/online?icq=101354460&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=101354460"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="60166"></a><b>alo</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=60166&amp;sid=d8a62a2c9adc7d2b1613af759857488c#60166"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mo Mai 29, 2006 1:21 pm<span class="genmed"> </span>   Titel: </span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=60166&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><img src="images/avatars/523288505441ee4016c649.gif" alt="" border="0" /><br /><span class="postdetails">Admin, Freiherr von&zu Neuzamonien<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 28.02.2002<br />Beiträge: 3618<br /></span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody">doch  hat ja inzwischen geklappt.
+<br />
+
+<br />
+1) zur Übersicht a-z gehen und einen neuen Link auf die zu erstellende Reviewseite machen
+<br />
+2) da dann drauf klicken; die neue Seite wird automatisch erstellt und die Review kann eintragen werden<br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+gnubierchsskniL eid ebel se ,gnubierchsthceR red tim redeiN</span><span class="gensmall"></span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@disturbed-reality.de"><img src="templates/DAJ_Glass/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.disturbed-reality.de" target="_userwww"><img src="templates/DAJ_Glass/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="60171"></a><b>Sinarius</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=60171&amp;sid=d8a62a2c9adc7d2b1613af759857488c#60171"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mo Mai 29, 2006 5:24 pm<span class="genmed"> </span>   Titel: </span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=60171&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><img src="http://www.strictly-uncut.de/extern/avatar.gif" alt="" border="0" /><br /><span class="postdetails">hat zuviel zeit<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 14.01.2004<br />Beiträge: 4504<br />Wohnort: Bayern</span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody"></span><table width="90%" cellspacing="1" cellpadding="3" class="quote" align="center">  <tr> 	<td class="row1"><span class="genmed"><b>alo hat folgendes geschrieben::</b></span></td>  </tr>  <tr>	<td class="row2"><span class="postbody">Besonders gerne würd ich all die Leute, die sowiso immer mal wieder ne (längere) Meinung zu einem Film hier posten dazu animieren, diese doch da der Allgemeinheit zu Verfügung zu stellen. (*wink@ Sinarius, Comander, ....)</span></td>  </tr></table><span class="postbody">
+<br />
+
+<br />
+Gerne, aber dann höchstens zusätzlich zum Forumseintrag, ich will schliesslich auch gelesen werden - und da guckt nun mal die grosse (auch schweigende) Masse ausschliesslich ins Forum. <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />
+<br />
+
+<br />
+Liebe Grüsse,
+<br />
+Sinarius <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /><br />_________________<br /><a href="http://hammer-studio-fansite.de" target="_blank" class="postlink"><img src="http://tinyurl.com/fnefw/hb.jpg" border="0" /></a>
+<br />
+SINARIUS' BLOG-WORLD:
+<br />
+<a href="http://sinarius.de/wordpress/" target="_blank" class="postlink">MOVIE-BLOG</a>
+<br />
+<a href="http://sinarius.de/brainblog/" target="_blank" class="postlink">BRAIN-BLOG</a>
+<br />
+<a href="http://sinarius.de/techblog/" target="_blank" class="postlink"> TECH-BLOG</a>
+<br />
+<a href="http://tinyurl.com/qbppa" target="_blank" class="postlink">Meine DVD-Sammlung</a> &lt;--- DVD-Count: 621</span><span class="gensmall"></span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=457&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>  <a href="http://www.sinarius.de" target="_userwww"><img src="templates/DAJ_Glass/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>  <a href="http://edit.yahoo.com/config/send_webmesg?.target=real_jacker&amp;.src=pg"><img src="templates/DAJ_Glass/images/lang_english/icon_yim.gif" alt="Yahoo Messenger" title="Yahoo Messenger" border="0" /></a> <script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=93878770"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=93878770"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/93878770#pager"><img src="http://web.icq.com/whitepages/online?icq=93878770&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=93878770"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr valign="middle">
+		  <td class="row1" width="150" height="20" nowrap="nowrap"><span class="name"><a name="60184"></a><b>alo</b></span></td>
+		  <td class="row1" width="100%">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td width="100%"><a href="viewtopic.php?p=60184&amp;sid=d8a62a2c9adc7d2b1613af759857488c#60184"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /></a><span class="postdetails">Verfasst am: Mo Mai 29, 2006 7:07 pm<span class="genmed"> </span>   Titel: </span></td>
+				<td nowrap="nowrap" valign="middle"><a href="posting.php?mode=quote&amp;p=60184&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_quote.gif" alt="Antworten mit Zitat" title="Antworten mit Zitat" border="0" /></a>   </td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td valign="top" align="center" class="row7"><img src="images/avatars/523288505441ee4016c649.gif" alt="" border="0" /><br /><span class="postdetails">Admin, Freiherr von&zu Neuzamonien<br /><br /></span><div align="left"><span class="postdetails">Anmeldungsdatum: 28.02.2002<br />Beiträge: 3618<br /></span></div><br /></td>
+		  <td class="row2" width="100%" height="28" valign="top">
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td><span class="postbody">rss hilft <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /><br />_________________<br />reden ist schweigen und silber ist gold  
+<br />
+***
+<br />
+gnubierchsskniL eid ebel se ,gnubierchsthceR red tim redeiN</span><span class="gensmall"></span></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row6" valign="middle"><a href="#top" class="mainmenu">Nach oben</a></td>
+		  <td class="row6" width="100%" height="20" valign="bottom" nowrap="nowrap">
+		  	<table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			  <tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_profile.gif" alt="Benutzer-Profile anzeigen" title="Benutzer-Profile anzeigen" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=1&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a> <a href="mailto:alo@disturbed-reality.de"><img src="templates/DAJ_Glass/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a> <a href="http://www.disturbed-reality.de" target="_userwww"><img src="templates/DAJ_Glass/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+
+				if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+					document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a>');
+				else
+					document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/115857402#pager"><img src="http://web.icq.com/whitepages/online?icq=115857402&img=5" width="18" height="18" border="0" /></a></div></div>');
+
+				//--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=115857402"><img src="templates/DAJ_Glass/images/lang_english/icon_icq_add.gif" alt="ICQ-Nummer" title="ICQ-Nummer" border="0" /></a></noscript></td>
+			  </tr>
+			</table>
+		  </td>
+		</tr>
+		<tr>
+		  <td class="row3" colspan="2" height="2"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" width="1" height="1"></td>
+		</tr>
+		<tr align="center">
+		  <td class="row3" colspan="2" height="28">
+		    <table cellspacing="0" cellpadding="0" border="0">
+			  <tr><form method="post" action="viewtopic.php?t=5213&amp;start=0&amp;sid=d8a62a2c9adc7d2b1613af759857488c">
+				<td align="center"><span class="mainmenu1">Beiträge vom vorherigen Thema anzeigen: <select name="postdays"><option value="0" selected="selected">Alle Beiträge</option><option value="1">1 Tag</option><option value="7">7 Tage</option><option value="14">2 Wochen</option><option value="30">1 Monat</option><option value="90">3 Monate</option><option value="180">6 Monate</option><option value="364">1 Jahr</option></select> <select name="postorder"><option value="asc" selected="selected">Die ältesten zuerst</option><option value="desc">Die neusten zuerst</option></select> <input type="submit" class="newsbutton" value="Go" name="submit" /></span></td>
+			  </form></tr>
+			</table>
+		  </td>
+		</tr>
+	  </table>
+	</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr valign="top">
+	<td nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=42&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/post.gif" border="0" alt="Neues Thema eröffnen" align="middle" /></a>  <a href="posting.php?mode=reply&amp;t=5213&amp;sid=d8a62a2c9adc7d2b1613af759857488c"><img src="templates/DAJ_Glass/images/lang_english/reply.gif" border="0" alt="Neue Antwort erstellen" align="middle" /></a></span></td>
+	<td valign="middle" width="100%"><span class="gensmall"></span></td>
+	<td align="right" nowrap="nowrap"><span class="nav">Seite <b>1</b> von <b>1</b></span></td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr valign="top">
+	<td nowrap="nowrap"><img src="templates/DAJ_Glass/images/nav.gif" border="0"></td>
+	<td width="100%" class="mainmenu"><a href="index.php?sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu">board.disturbed-reality.de Foren-Übersicht</a> » <a href="viewforum.php?f=42&amp;sid=d8a62a2c9adc7d2b1613af759857488c" class="mainmenu">updates</a> » <a class="mainmenu" href="viewtopic.php?t=5213&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=&amp;sid=d8a62a2c9adc7d2b1613af759857488c">ReviewWiki</a></td>
+	<td nowrap="nowrap" align="right"><form method="get" name="jumpbox" action="viewforum.php?sid=d8a62a2c9adc7d2b1613af759857488c" onSubmit="if(document.jumpbox.f.value == -1){return false;}">
+<table width="100%" cellspacing="1" border="0" cellpadding="1">
+  <tr>
+	<td align="right" nowrap="nowrap"><span class="gensmall">Gehe zu: <select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42"selected="selected">updates</option><option value="21">der brotkorb</option><option value="17">support-board</option><option value="18">verbesserungen&wünsche</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">*brainfuck</option><option value="41">bolzplatz</option><option value="25">lustiges aus dem netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">allgemein</option><option value="28">splatter&horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">hollywood</option><option value="19">schnittberichte&zensur</option><option value="34">Amateurfilme, Börsen & Veranstaltungen</option><option value="31">...im TV</option><option value="33">...und die passende musik</option><option value="32">gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">shop</option><option value="-1">----------------</option><option value="23">zu verkaufen</option><option value="24">suche</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">hard/software/technik</option><option value="-1">----------------</option><option value="27">allgemein</option><option value="36">windows/OS X/Linux... betriebssysteme & Programme</option><option value="37">internet und alles was dranhängt</option><option value="38">games</option><option value="39">ps/2 & konsolen</option><option value="-1">&nbsp;</option><option value="-1">off topic</option><option value="-1">----------------</option><option value="26">sunshine-bar</option><option value="45">politik</option></select><input type="hidden" name="sid" value="d8a62a2c9adc7d2b1613af759857488c" /> <input type="submit" class="newsbutton" value="Go" /></span></td>
+  </tr>
+</table>
+</form>
+</td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="0" cellpadding="0" class="forumline">
+  <tr>
+  	<td class="row6">
+	  <table width="100%" cellspacing="1" cellpadding="3" border="0">
+		<tr>
+		  <td width="40%" valign="top" nowrap="nowrap"><span class="gensmall"></span><br /><br /></td>
+		  <td align="right" valign="middle" nowrap="nowrap"><span class="gensmall">Du <b>kannst keine</b> Beiträge in dieses Forum schreiben.<br />Du <b>kannst</b> auf Beiträge in diesem Forum <b>nicht</b> antworten.<br />Du <b>kannst</b> deine Beiträge in diesem Forum <b>nicht</b> bearbeiten.<br />Du <b>kannst</b> deine Beiträge in diesem Forum <b>nicht</b> löschen.<br />Du <b>kannst</b> an Umfragen in diesem Forum <b>nicht</b> mitmachen.<br /></span></td>
+  		</tr>
+	  </table>
+	</td>
+  </tr>
+</table>
+<p align="center">
+<table width="100%" border="0">
+<tr>
+<td align="left">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<a href="http://partners.webmasterplan.com/click.asp?ref=282182&site=3729&type=b13&bnb=13"  target="_top">
+<img src="http://banners.webmasterplan.com/view.asp?ref=282182&site=3729&b=13" border="0" alt="Hitflip - DVDs tauschen" width="125" height="125"/></a><br>
+<!-- END PARTNER PROGRAM -->
+</td>
+<td align="center">
+<script language="javascript">
+var uri = 'http://impde.tradedoubler.com/imp/pool/iframe/150738/1231753?' + new String (Math.random()).substring (2, 11);
+document.write('<iframe src="'+uri +'" width="248" height="140" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>');
+</script>
+
+</td>
+<td align="right">
+<script type="text/javascript"><!--
+  amazon_ad_tag = "bistdubloede-21";  amazon_ad_width = "180";  amazon_ad_height = "150";  amazon_ad_logo = "hide";  amazon_ad_link_target = "new";  amazon_ad_border = "hide";//--></script>
+<script type="text/javascript" src="http://www.assoc-amazon.de/s/ads.js"></script>
+</td>
+</tr>
+
+
+
+
+
+<!-- Site Meter -->
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+<a href="http://clustrmaps.com/counter/maps.php?url=http://disturbed-reality.de" id="clustrMapsLink">
+<img src="http://clustrmaps.com/counter/index2.php?url=http://disturbed-reality.de" border="0" width="1" height="1" alt="Locations of visitors to this page"onError="this.onError=null; this.src='http://www.meetomatic.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://clustrmaps.com/'">
+</a>
+</table>
+
+  	</td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td class="left"></td>
+	<td class="row2" align="center"><span class="copyright"><br /><br />
+	Based on DAJ Glass, a template by <a href="http://www.dumbassjones.com/" target="_blank" class="copyright">Dustin Baccetti</a>. EQ graphic based off of a design from <a href="http://www.freeclipart.nu" class="copyright" target="blank">www.freeclipart.nu</a>. Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> © 2001, 2006 phpBB Group<br /></span></td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td height="27" class="ll"></td>
+	<td class="lc"></td>
+	<td class="lr"></td>
+  </tr>
+</table>
+
+</body>
+</html>

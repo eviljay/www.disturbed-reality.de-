@@ -1,0 +1,128 @@
+
+<link rel="stylesheet" type="text/css" href="default.css">
+
+<title>bist-du-bloe.de - das hamsterrezpt - Seite 1 - </title><table border="0" cellspacing="1" cellpadding="3" width="100%"><tr><th class="head" align="left" bgcolor="" colspan="2">
+      <a href="index.php?artcat=0">Artikel</a> > <a href="index.php?artcat=3">brainfuck*</a></th></tr>
+      <th class="head" align="left" bgcolor="" colspan="2">
+      das hamsterrezpt - Seite 1</th></tr></table>
+      <p align="left">wie auch immer,<br />
+hab geiles 'rezept' gefunden:<br />
+<br />
+Zutaten:<br />
+.<br />
+-Ein Hamster, klein süß und goldig<br />
+-1800 Gramm feinstes Dope<br />
+-Hamsterfutter für ein Jahr<br />
+-Laufrad (für den Hamster!!!)<br />
+-Mixer<br />
+-Hochleistungsakku<br />
+.<br />
+Zubereitung:<br />
+.<br />
+Zuerst besorgen wir uns den süßesten kleinen Hamster aus dem Tierheim oder wir befreien ihn aus der Zoohandlung oder aus einem medizinischen Versuchslabor.<br />
+Dann nennen wir ihn Schnucki. Auf keinen Fall den süßen Kleinen 'Hansi' oder 'Goldi' nennen, denn sonst funktioniert es nicht.<br />
+Dann kaufen wir Hamsterfutter für ein Jahr und schmeißen es zu Hause in den Kompostmüll.<br />
+Unser Schnucki wird sich im folgenden Jahr ausschließlich von feinstem Dope ernähren. Ganz im Gegenteil zu uns, die abstinent bleiben müssen, damit es auch funktioniert.<br />
+Wir sollten bei der Fütterung beachten, dass die tägliche Futtermenge die Fünf Gramm nicht übersteigt. Allein schon wegen der Kosten.<br />
+Damit sich unser Schnucki nicht langweilt und sich auch ansonsten rundum wohlfühlt, stellen wir ihm ein Laufrad zur Verfügung. Dieses schließen wir an ein Aufladegerät für unseren Hochleistungsakku an. So dass dieser nach Verlauf eines Jahres exakt von Schnucki aufgeladen wird.<br />
+Ist Schnucki nach dem einjährigen Dopegenuss nun groß und stark geworden, nehmen wir ihn aus seinem Laufrad heraus halten ihn zart in unserem Arm und sagen ihm, während wir ihn liebevoll streicheln, was für ein süßer kleiner Fratz er ist.<br />
+Dann schmeißen wir Schnucki in den Mixer, welchen wir vorher an den Hochleistungsakku angeschlossen haben, und verarbeiten ihn zu Tiermehl, das wir uns von der EU subventionieren lassen.<br />
+Dieses Tiermehl lässt sich hervorragen lagern und ist auf verschiedenste Arten konsumierbar.<br />
+<br />
+Serviervorschläge:<br />
+<br />
+- Als Mische in der Honigbong<br />
+- Als Jointglasur<br />
+- im ökologischen Müsli<br />
+- Als Line zur nasalen Konsumtion<br />
+- Als Stolperstein für Gesundheits- und LandwirtschaftsministerInnen<br />
+- Als Analpulver<br />
+- In Gummibärchen der Firma Harribo, welche übrigens immer noch nicht in den Entschädigungsfond eingezahlt hat.<br />
+Man kann es auch in Keksen verbacken, wobei unklar ist, ab welcher Temperatur das THC verdampft. Aber ist auch letztendlich egal, wir haben ja dann immer noch das Hamstertiermehl.<br />
+<br />
+Guten Appetit!!!<br />
+<br />
+P.S. Bei kleinen Hamsterchen aus dem Versuchslabor könnten unerwartete Nebenwirkungen auftreten. Diese sind, so wie wir Euch kranken Kerle kennen, aber bestimmt trotzdem erwünscht.<br />
+<br />
+ <br />
+<table border="0" cellspacing="1" cellpadding="2" width="100%">
+      <tr>
+        <td class="left" bgcolor="">
+          Autor: <a href="mailto:alo@disturbed-reality.de">horus</a>
+        </td>
+        <td class="right" bgcolor="">
+          <a href="kommentar.php?id=43">0 Kommentare</a> <br>
+		  </td>
+        <td class="right" bgcolor="">
+          <a href="artikeldruck.php?id=43">Druckansicht</a>
+        </td>
+      </tr>
+      <tr>
+        <td class="left" bgcolor="">
+          Letzte Änderung: 19.09.2003, 15:54  </td>
+        <td class="right" bgcolor="">
+          Angesehen: 8
+        </td>
+        <td class="right" bgcolor="">
+          -
+        </td>
+      </tr>
+     </table>
+<link rel="stylesheet" type="text/css" href="default.css">
+
+<title>bist-du-bloe.de - Kommentare</title><table border=0 cellspacing=1 cellpadding=3 width="100%">
+      <tr><th class=head colspan=2 bgcolor=>
+      Kommentare zum Artikel #43</th></tr></table>
+<table border="0" width="100%" cellspacing="1" cellpadding="3">
+<FORM name="newskom" METHOD="POST" ACTION="kommentar.php?id=43">
+<INPUT TYPE="hidden" NAME="filled" VALUE="1">
+                            <tr>
+                              <th class=head colspan="2" bgcolor="">Kommentar
+                                abgeben</th>
+                            </tr>
+                            <tr>
+                              <td class="left" align="right" bgcolor="">Autor:</td>
+                              <td class="right" bgcolor=""><input type="text" name="autor" size="40" maxlength=40></td>
+                            </tr>
+
+                            <tr>
+                              <td class="left" align="right" bgcolor="" valign="top">Kommentar:</td>
+                              <td class="right" bgcolor=""><textarea heigth="5" width="60" name="text" rows="5" cols="60"></textarea></td>
+                            </tr>
+
+                           <tr>
+                              <td class="left" align="right" bgcolor="" valign="top">Smilies:</td>
+                              <script language="JavaScript">
+                              <!--
+                              function setsmile(Zeichen) {
+                                 document.newskom.text.value =
+                                 document.newskom.text.value + Zeichen;
+                              }
+                              //-->
+                              </script>
+  <td class="right" bgcolor="">Zum Einfügen anklicken:
+   <a href="javascript:setsmile(':-)')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile01.gif" border=0></a>
+   <a href="javascript:setsmile(';-)')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile02.gif" border=0></a>
+   <a href="javascript:setsmile(':O')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile03.gif" border=0></a>
+   <a href="javascript:setsmile(';-(')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile04.gif" border=0></a>
+   <a href="javascript:setsmile(':D')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile05.gif" border=0></a>
+   <a href="javascript:setsmile('8-)')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile06.gif" border=0></a>
+   <a href="javascript:setsmile(':-O')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile07.gif" border=0></a>
+   <a href="javascript:setsmile(':-(')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile08.gif" border=0></a>
+   <a href="javascript:setsmile('(?)')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile09.gif" border=0></a>
+   <a href="javascript:setsmile('(!)')"><img align="absmiddle" src="http://disturbed-reality.de/artikel/img/smile10.gif" border=0></a>
+  </td>
+ </tr>
+<tr><td class="header" bgcolor="" colspan="2" align="right">
+<p align="center">
+  <INPUT TYPE="submit" name="action" VALUE="Absenden"></p>
+  </td></tr>
+ 
+  <tr>
+    <td align="center" class="right" colspan=2><a href="artikel.php?id=43">Zurück zum Artikel</a></td></tr>
+</form>
+</table>
+
+<center><font face=verdana size="1">
+              -- <a href="http://www.pscript.de" target="_blank">PSCRIPT Artikel 0.98 beta</a>  &copy; Thomas Ehrhardt, 2002-2003 --
+              </font></center>

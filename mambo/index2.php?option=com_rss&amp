@@ -1,0 +1,23 @@
+<br />
+<b>Notice</b>:  Table 'usr_web112_1.mos_components' doesn't exist in <b>/var/www/web112/html/mambo/includes/database.php</b> on line <b>184</b><br />
+<br />
+<b>Notice</b>:  Table 'usr_web112_1.mos_content' doesn't exist in <b>/var/www/web112/html/mambo/includes/database.php</b> on line <b>184</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/web112/html/mambo/components/com_rss/rss.php</b> on line <b>132</b><br />
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- generator="FeedCreator 1.7.1" -->
+<rss version="2.0">
+    <channel>
+        <title>Powered by Mambo 4.5.1</title>
+        <description>Mambo site syndication</description>
+        <link>bist-du-bloe.de</link>
+        <lastBuildDate>Sun, 23 Jan 2005 07:57:26 +0100</lastBuildDate>
+        <generator>FeedCreator 1.7.1</generator>
+        <image>
+            <url>http://disturbed-reality.de/mambo/images/M_images/mambo_rss.png</url>
+            <title>Powered by Mambo 4.5.1</title>
+            <link>bist-du-bloe.de</link>
+            <description>Mambo site syndication</description>
+        </image>
+    </channel>
+</rss>

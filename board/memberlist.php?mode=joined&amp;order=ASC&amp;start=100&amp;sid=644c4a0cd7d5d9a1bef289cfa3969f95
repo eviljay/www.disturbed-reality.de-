@@ -1,0 +1,609 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<title>::board.bist-du-bloe.de:: :: Mitgliederliste</title>
+<link rel="stylesheet" href="templates/smartDark/smartDark.css" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0">
+
+<a name="top"></a>
+
+<table width="97%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/logo_phpBB.gif" alt="::board.bist-du-bloe.de::" border="0"></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">::board.bist-du-bloe.de::</span><br /><span class="gen">'leap your head up high and pull your brains out'<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="faq.php?sid=b99ed282638eea18990cf858c4efdb78" class="mainmenu">FAQ</a></span><span class="mainmenu"> :: <a href="search.php?sid=b99ed282638eea18990cf858c4efdb78" class="mainmenu">Suchen</a> :: <a href="memberlist.php?sid=b99ed282638eea18990cf858c4efdb78" class="mainmenu">Mitgliederliste</a> :: <a href="groupcp.php?sid=b99ed282638eea18990cf858c4efdb78" class="mainmenu">Benutzergruppen</a>
+						:: <a href="profile.php?mode=register&amp;sid=b99ed282638eea18990cf858c4efdb78" class="mainmenu">Registrieren</a></span>
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="profile.php?mode=editprofile&amp;sid=b99ed282638eea18990cf858c4efdb78" class="mainmenu">Profil</a> :: <a href="privmsg.php?folder=inbox&amp;sid=b99ed282638eea18990cf858c4efdb78" class="mainmenu">Einloggen, um private Nachrichten zu lesen</a> :: <a href="login.php?sid=b99ed282638eea18990cf858c4efdb78" class="mainmenu">Login</a></span></td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="maintitle">
+						: <a href="http://disturbed-reality.de/blog/">Blog</a> ::
+						<a href="http://disturbed-reality.de/wiki/">Filme-Review-Datenbank</a> ::
+						<i>Board</i> :</td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+		<br />
+<p align="center"><!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1309&refurl='+escape(document.location.href)+'" width="728" height="90" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM -->
+<form method="post" action="memberlist.php?sid=b99ed282638eea18990cf858c4efdb78">
+  <table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+	<tr>
+	  <td align="left"><span class="nav"><a href="index.php?sid=b99ed282638eea18990cf858c4efdb78" class="nav">::board.bist-du-bloe.de:: Foren-Übersicht</a></span></td>
+	  <td align="right" nowrap="nowrap"><span class="genmed">Sortierungs-Methode auswählen:&nbsp;<select name="mode"><option value="joined" selected="selected">Anmeldungsdatum</option><option value="username">Benutzername</option><option value="location">Ort</option><option value="posts">Beiträge total</option><option value="email">E-Mail</option><option value="website">Website</option><option value="topten">Top-Ten-Autoren</option></select>&nbsp;&nbsp;Ordnung&nbsp;<select name="order"><option value="ASC" selected="selected">Aufsteigend</option><option value="DESC">Absteigend</option></select>&nbsp;&nbsp;
+		<input type="submit" name="submit" value="Sortieren" class="liteoption" />
+		</span></td>
+	</tr>
+  </table>
+  <table width="100%" cellpadding="3" cellspacing="1" border="0" class="forumline">
+	<tr>
+	  <th height="25" class="thCornerL" nowrap="nowrap">#</th>
+	  <th class="thTop" nowrap="nowrap">&nbsp;</th>
+	  <th class="thTop" nowrap="nowrap">Benutzername</th>
+	  <th class="thTop" nowrap="nowrap">E-Mail</th>
+	  <th class="thTop" nowrap="nowrap">Wohnort</th>
+	  <th class="thTop" nowrap="nowrap">Anmeldungsdatum</th>
+	  <th class="thTop" nowrap="nowrap">Beiträge</th>
+	  <th class="thCornerR" nowrap="nowrap">Website</th>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;1&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=1&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">alo</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;<a href="mailto:alo@bist-du-bloe.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">28.02.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">3268</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="http://www.bist-du-bloe.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;2&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=2&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">anika</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;<a href="mailto:heili211@web.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">28.02.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">3</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;3&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=3&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=3&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Erik</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;<a href="mailto:erik-d@web.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">01.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;4&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=4&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=4&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">trasch</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">01.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">1</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;5&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=5&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">kaja</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">03.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">1</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;6&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=6&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=6&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">hoschdd</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">05.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">2</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="http://www.cpu-show.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;7&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=7&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Horus</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">07.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">7</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="http://Vereinigunggeisteskranker.piranho.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;8&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=8&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">Paderborn</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">11.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">9488</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="http://www.splatter-movies.com" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;9&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=9&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Refu</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;<a href="mailto:webmaster@rottenarmy.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">Hannover</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">11.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">4338</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="http://www.rottenarmy.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;10&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=10&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=10&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">ZILLA</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">11.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">51</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="http://www.zillasworld.de" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;11&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=11&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=11&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Smeagol</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">11.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">30</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;12&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=12&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=12&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Hellbound</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">11.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">984</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="http://www.splatterfilme.com" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;13&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=13&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=13&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">gammeltier</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">11.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">9</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;14&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=14&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=14&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Belial</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">11.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">2</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;15&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=15&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=15&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Wifebeater</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;<a href="mailto:wifebeater@gmx.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">11.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">1</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;16&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=16&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=16&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Satan-Sascha</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">12.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">1462</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;17&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=17&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=17&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">zeRRiell-</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">12.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;18&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=18&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=18&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">phoenix-666</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">12.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;19&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=19&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=19&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">MindyClarkeFan</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">12.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">2</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;20&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=20&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=20&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">GOREMASTER666</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">12.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">10</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;21&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=21&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=21&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">FuSL</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">12.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">10</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="http://www.fusl.de.vu" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;22&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=22&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=22&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">sUsPeRiUs</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;<a href="mailto:susperius@gmx.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">OWL</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">12.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">222</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;23&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=23&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=23&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Freakazoid</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">12.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;24&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=24&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=24&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Le-Chuck</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">12.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;25&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=25&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=25&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Slayer</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">13.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">73</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;26&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=26&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=26&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">ARDAN</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">16.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">1</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;27&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=27&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=27&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Giftzwerg</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">17.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">4</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;28&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=28&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=28&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">evildead</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">17.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;29&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=29&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=29&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">VincentVega</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;<a href="mailto:freiehodenliegenimtrend@web.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">17.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">44</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;30&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=30&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=30&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Lodde[vonStein]</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">17.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">1</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;31&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=31&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=31&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">illwind</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">19.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;32&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=33&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=33&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Thomas</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">21.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;33&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=34&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=34&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">elli</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">21.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;34&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=35&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=35&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">FilmOEsi</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;<a href="mailto:martin.pointner@gmx.at"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">22.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">3</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;35&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=36&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=36&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">BadMoon</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">22.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">6</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;36&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=37&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=37&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">NachoMan</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">23.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;37&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=38&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=38&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Leatherface</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;<a href="mailto:Leatherface1@aol.com"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">Irgendwo im Nirgendwo</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">24.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">3294</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;38&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=39&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=39&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Redflyer</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">26.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;39&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=40&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=40&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">--Ina--</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">27.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">1</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="http://www.ex-cathedra.de.vu" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;40&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=41&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=41&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Amy</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">29.03.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;41&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=42&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=42&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Killer</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">31.03.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">1</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;42&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=43&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=43&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">splatterhellbound</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;<a href="mailto:beergott@gmx.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">03.04.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">17</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="http://www.18dvd.de.vu" target="_userwww"><img src="templates/smartDark/images/lang_english/icon_www.gif" alt="Website dieses Benutzers besuchen" title="Website dieses Benutzers besuchen" border="0" /></a>&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;43&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=44&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=44&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">polux</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;<a href="mailto:polux@gmx.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">Wettenberg / Hessen</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">03.04.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">754</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;44&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=45&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=45&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">TheRealSplatter</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">05.04.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;45&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=46&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=46&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">splattersonja</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">06.04.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;46&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=47&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=47&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Creative</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">07.04.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">1</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;47&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=48&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=48&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Paula</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">08.04.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">3</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;48&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=49&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=49&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">JANER</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">08.04.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center"><span class="gen">&nbsp;49&nbsp;</span></td>
+	  <td class="row1" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=50&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=50&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">JANER1</a></span></td>
+	  <td class="row1" align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gensmall">08.04.2002</span></td>
+	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
+	  <td class="row1" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="row2" align="center"><span class="gen">&nbsp;50&nbsp;</span></td>
+	  <td class="row2" align="center">&nbsp;<a href="privmsg.php?mode=post&amp;u=51&amp;sid=b99ed282638eea18990cf858c4efdb78"><img src="templates/smartDark/images/lang_english/icon_pm.gif" alt="Private Nachricht senden" title="Private Nachricht senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center"><span class="gen"><a href="profile.php?mode=viewprofile&amp;u=51&amp;sid=b99ed282638eea18990cf858c4efdb78" class="gen">Dark-Rites</a></span></td>
+	  <td class="row2" align="center" valign="middle">&nbsp;<a href="mailto:nobody666@onlinehome.de"><img src="templates/smartDark/images/lang_english/icon_email.gif" alt="E-Mail senden" title="E-Mail senden" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gensmall">09.04.2002</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="gen">14</span></td>
+	  <td class="row2" align="center">&nbsp;&nbsp;</td>
+	</tr>
+	<tr>
+	  <td class="catbottom" colspan="8" height="28">&nbsp;</td>
+	</tr>
+  </table>
+  <table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+	<tr>
+	  <td align="right" valign="top"></td>
+	</tr>
+  </table>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+	<td><span class="nav">Seite <b>1</b> von <b>19</b></span></td>
+	<td align="right"><span class="gensmall">Alle Zeiten sind GMT + 2 Stunden</span><br /><span class="nav">Gehe zu Seite <b>1</b>, <a href="memberlist.php?mode=joined&amp;order=ASC&amp;start=50&amp;sid=b99ed282638eea18990cf858c4efdb78">2</a>, <a href="memberlist.php?mode=joined&amp;order=ASC&amp;start=100&amp;sid=b99ed282638eea18990cf858c4efdb78">3</a> ... <a href="memberlist.php?mode=joined&amp;order=ASC&amp;start=800&amp;sid=b99ed282638eea18990cf858c4efdb78">17</a>, <a href="memberlist.php?mode=joined&amp;order=ASC&amp;start=850&amp;sid=b99ed282638eea18990cf858c4efdb78">18</a>, <a href="memberlist.php?mode=joined&amp;order=ASC&amp;start=900&amp;sid=b99ed282638eea18990cf858c4efdb78">19</a>&nbsp;&nbsp;<a href="memberlist.php?mode=joined&amp;order=ASC&amp;start=50&amp;sid=b99ed282638eea18990cf858c4efdb78">Weiter</a>&nbsp;</span></td>
+  </tr>
+</table></form>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td valign="top" align="right">
+<form method="get" name="jumpbox" action="viewforum.php?sid=b99ed282638eea18990cf858c4efdb78" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Gehe zu:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42">updates</option><option value="21">der brotkorb</option><option value="17">support-board</option><option value="18">verbesserungen&wünsche</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">*brainfuck</option><option value="41">bolzplatz</option><option value="25">lustiges aus dem netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">allgemein</option><option value="28">splatter&horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">hollywood</option><option value="19">schnittberichte&zensur</option><option value="34">amateur filme & börsen</option><option value="31">...im TV</option><option value="33">...und die passende musik</option><option value="32">gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">shop</option><option value="-1">----------------</option><option value="23">zu verkaufen</option><option value="24">suche</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">hard/software/technik</option><option value="-1">----------------</option><option value="27">allgemein</option><option value="36">windows/OS X/Linux... betriebssysteme & Programme</option><option value="37">internet und alles was dranhängt</option><option value="38">games</option><option value="39">ps/2 & konsolen</option><option value="-1">&nbsp;</option><option value="-1">off topic</option><option value="-1">----------------</option><option value="26">sunshine-bar</option><option value="45">politik</option></select><input type="hidden" name="sid" value="b99ed282638eea18990cf858c4efdb78" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+</td>
+  </tr>
+</table>
+
+<p align="center">
+<script type="text/javascript"><!--
+  amazon_ad_tag = "bistdubloede-21";
+  amazon_ad_width = "600";
+  amazon_ad_height = "520";
+  amazon_ad_logo = "hide";
+  amazon_ad_link_target = "new";
+  amazon_ad_border = "hide";
+//--></script>
+<script type="text/javascript" src="http://www.assoc-amazon.de/s/ads.js"></script>
+<br />
+<div align="center">
+smartDark Style &copy; 2002 <a href="http://smartor.is-root.com" target="_blank" class="copyright">Smartor</a><br />Powered by <a href="http://www.phpbb.com/" target="_blank" class="copyright">phpBB</a>  &copy; 2001, 2002 phpBB Group<br />&nbsp;&nbsp;patched by a.dahl<br>
+
+    <!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><p><!-- End of Netstat Code --><p>
+</span></div></td></tr></table></body></html>

@@ -1,0 +1,293 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<title>bist-du-bloe.de :: View Forum - hausaufgaben, übungszettel</title>
+<link rel="stylesheet" href="templates/smartBlue/smartBlue.css" type="text/css">
+
+</head>
+<body leftmargin="0" topmargin="0">
+
+<a name="top"></a>
+
+<table width="97%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=e26105e03a95ce909a843c38b00b22d0"><img src="templates/smartBlue/images/logo_phpBB.gif" alt="bist-du-bloe.de" border="0"></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">bist-du-bloe.de</span><br /><span class="gen">das forum zum studium<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="faq.php?sid=e26105e03a95ce909a843c38b00b22d0" class="mainmenu">FAQ</a></span><span class="mainmenu"> :: <a href="search.php?sid=e26105e03a95ce909a843c38b00b22d0" class="mainmenu">Search</a> :: <a href="memberlist.php?sid=e26105e03a95ce909a843c38b00b22d0" class="mainmenu">Memberlist</a> :: <a href="groupcp.php?sid=e26105e03a95ce909a843c38b00b22d0" class="mainmenu">Usergroups</a>
+						:: <a href="profile.php?mode=register&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="mainmenu">Register</a></span>
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="profile.php?mode=editprofile&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="mainmenu">Profile</a> :: <a href="privmsg.php?folder=inbox&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="mainmenu">Login to check your private messages</a> :: <a href="login.php?sid=e26105e03a95ce909a843c38b00b22d0" class="mainmenu">Login</a></span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+		<br />
+
+<form method="post" action="viewforum.php?f=5&amp;start=0&amp;sid=e26105e03a95ce909a843c38b00b22d0">
+  <table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+	<tr>
+	  <td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewforum.php?f=5&amp;sid=e26105e03a95ce909a843c38b00b22d0">hausaufgaben, übungszettel</a><br /><span class="gensmall"><b>Moderators: None<br /><br />Users browsing this forum: None</b></span></td>
+	  <td align="right" valign="bottom" nowrap="nowrap"><span class="gensmall"><b></b></span></td>
+	</tr>
+	<tr>
+	  <td align="left" valign="middle" width="50"><a href="posting.php?mode=newtopic&amp;f=5&amp;sid=e26105e03a95ce909a843c38b00b22d0"><img src="templates/smartBlue/images/lang_english/post.gif" border="0" alt="Post new topic" /></a></td>
+	  <td align="left" valign="middle" class="nav" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=e26105e03a95ce909a843c38b00b22d0" class="nav">bist-du-bloe.de Forum Index</a> -> <a class="nav" href="viewforum.php?f=5&amp;sid=e26105e03a95ce909a843c38b00b22d0">hausaufgaben, übungszettel</a></span></td>
+	  <td align="right" valign="bottom" class="nav" nowrap="nowrap"><span class="gensmall"><a href="viewforum.php?f=5&amp;mark=topics&amp;sid=e26105e03a95ce909a843c38b00b22d0">Mark all topics read</a></span></td>
+	</tr>
+  </table>
+
+  <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline">
+	<tr>
+	  <th colspan="2" align="center" height="25" class="thCornerL" nowrap="nowrap">&nbsp;Topics&nbsp;</th>
+	  <th width="50" align="center" class="thTop" nowrap="nowrap">&nbsp;Replies&nbsp;</th>
+	  <th width="100" align="center" class="thTop" nowrap="nowrap">&nbsp;Author&nbsp;</th>
+	  <th width="50" align="center" class="thTop" nowrap="nowrap">&nbsp;Views&nbsp;</th>
+	  <th align="center" class="thCornerR" nowrap="nowrap">&nbsp;Last Post&nbsp;</th>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder_announce.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><b>Announcement:</b> <a href="viewtopic.php?t=46&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">HIER GEHTS ZUM CHAT</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=e26105e03a95ce909a843c38b00b22d0">alo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">7</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Jan 13, 2004 6:33 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=e26105e03a95ce909a843c38b00b22d0">alo</a> <a href="viewtopic.php?p=74&amp;sid=e26105e03a95ce909a843c38b00b22d0#74"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=48&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">schwander die beiden aufgaben</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=e26105e03a95ce909a843c38b00b22d0">alo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">18</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Thu Jan 29, 2004 2:58 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=e26105e03a95ce909a843c38b00b22d0">alo</a> <a href="viewtopic.php?p=76&amp;sid=e26105e03a95ce909a843c38b00b22d0#76"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=45&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">Schwander2</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=3&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lutzhasser</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">11</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Jan 07, 2004 12:20 pm<br /><a href="profile.php?mode=viewprofile&amp;u=3&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lutzhasser</a> <a href="viewtopic.php?p=72&amp;sid=e26105e03a95ce909a843c38b00b22d0#72"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=44&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">Schwander 2</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=3&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lutzhasser</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">11</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Jan 07, 2004 12:18 pm<br /><a href="profile.php?mode=viewprofile&amp;u=3&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lutzhasser</a> <a href="viewtopic.php?p=71&amp;sid=e26105e03a95ce909a843c38b00b22d0#71"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=29&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">Didaktik der Mathematik HA150 12.11.03</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">2</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=4&amp;sid=e26105e03a95ce909a843c38b00b22d0">SchmuddelKerstin</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">24</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Jan 07, 2004 12:01 pm<br /><a href="profile.php?mode=viewprofile&amp;u=3&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lutzhasser</a> <a href="viewtopic.php?p=70&amp;sid=e26105e03a95ce909a843c38b00b22d0#70"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=39&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">schwander die aufgabe 2?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=e26105e03a95ce909a843c38b00b22d0">alo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">16</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Dec 26, 2003 12:40 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=e26105e03a95ce909a843c38b00b22d0">momo</a> <a href="viewtopic.php?p=69&amp;sid=e26105e03a95ce909a843c38b00b22d0#69"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=43&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">Wie wichtig ist der Umweltschutz?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lisa</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">13</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Dec 22, 2003 2:20 pm<br /><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lisa</a> <a href="viewtopic.php?p=68&amp;sid=e26105e03a95ce909a843c38b00b22d0#68"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=42&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">Ohne Wasser, merkt euch das, wär` unsre Welt ein leeres Fass</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lisa</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">9</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Dec 22, 2003 2:18 pm<br /><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lisa</a> <a href="viewtopic.php?p=67&amp;sid=e26105e03a95ce909a843c38b00b22d0#67"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=41&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">Farben und Färben</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lisa</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">9</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Dec 22, 2003 2:17 pm<br /><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lisa</a> <a href="viewtopic.php?p=66&amp;sid=e26105e03a95ce909a843c38b00b22d0#66"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=40&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">Herstellen und Trennen von Stoffgemischen</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lisa</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">11</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Dec 22, 2003 2:16 pm<br /><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lisa</a> <a href="viewtopic.php?p=65&amp;sid=e26105e03a95ce909a843c38b00b22d0#65"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=36&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">Wasser 26.11.03</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=4&amp;sid=e26105e03a95ce909a843c38b00b22d0">SchmuddelKerstin</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">12</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Dec 03, 2003 12:43 am<br /><a href="profile.php?mode=viewprofile&amp;u=4&amp;sid=e26105e03a95ce909a843c38b00b22d0">SchmuddelKerstin</a> <a href="viewtopic.php?p=60&amp;sid=e26105e03a95ce909a843c38b00b22d0#60"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=34&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">Chemieprotokoll II, Farben und Färben</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=4&amp;sid=e26105e03a95ce909a843c38b00b22d0">SchmuddelKerstin</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">13</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Nov 25, 2003 5:29 pm<br /><a href="profile.php?mode=viewprofile&amp;u=4&amp;sid=e26105e03a95ce909a843c38b00b22d0">SchmuddelKerstin</a> <a href="viewtopic.php?p=58&amp;sid=e26105e03a95ce909a843c38b00b22d0#58"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=32&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">ADG Aufgaben</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=e26105e03a95ce909a843c38b00b22d0">momo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">9</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Nov 25, 2003 2:11 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=e26105e03a95ce909a843c38b00b22d0">momo</a> <a href="viewtopic.php?p=56&amp;sid=e26105e03a95ce909a843c38b00b22d0#56"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=31&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">Juchu!! WGMS III</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=e26105e03a95ce909a843c38b00b22d0">momo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">9</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Nov 25, 2003 2:07 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=e26105e03a95ce909a843c38b00b22d0">momo</a> <a href="viewtopic.php?p=55&amp;sid=e26105e03a95ce909a843c38b00b22d0#55"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=28&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">Hausaufgaben Mathe - Didaktik 5.11.03</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lisa</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">11</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Nov 17, 2003 8:54 pm<br /><a href="profile.php?mode=viewprofile&amp;u=7&amp;sid=e26105e03a95ce909a843c38b00b22d0">Lisa</a> <a href="viewtopic.php?p=46&amp;sid=e26105e03a95ce909a843c38b00b22d0#46"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=20&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">wgms 3 blatt 2</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=e26105e03a95ce909a843c38b00b22d0">momo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">8</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Nov 12, 2003 7:59 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=e26105e03a95ce909a843c38b00b22d0">momo</a> <a href="viewtopic.php?p=31&amp;sid=e26105e03a95ce909a843c38b00b22d0#31"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartBlue/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=18&amp;sid=e26105e03a95ce909a843c38b00b22d0" class="topictitle">mathe didaktik 150</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=e26105e03a95ce909a843c38b00b22d0">alo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">9</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Nov 12, 2003 7:44 am<br /><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=e26105e03a95ce909a843c38b00b22d0">alo</a> <a href="viewtopic.php?p=29&amp;sid=e26105e03a95ce909a843c38b00b22d0#29"><img src="templates/smartBlue/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="catBottom" align="center" valign="middle" colspan="6" height="28"><span class="genmed">Display topics from previous:&nbsp;<select name="topicdays"><option value="0" selected="selected">All Topics</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;
+		<input type="submit" class="liteoption" value="Go" name="submit" />
+		</span></td>
+	</tr>
+  </table>
+
+  <table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+	<tr>
+	  <td align="left" valign="middle" width="50"><a href="posting.php?mode=newtopic&amp;f=5&amp;sid=e26105e03a95ce909a843c38b00b22d0"><img src="templates/smartBlue/images/lang_english/post.gif" border="0" alt="Post new topic" /></a></td>
+	  <td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=e26105e03a95ce909a843c38b00b22d0" class="nav">bist-du-bloe.de Forum Index</a> -> <a class="nav" href="viewforum.php?f=5&amp;sid=e26105e03a95ce909a843c38b00b22d0">hausaufgaben, übungszettel</a></span></td>
+	  <td align="right" valign="middle" nowrap="nowrap"><span class="gensmall">All times are GMT</span><br /><span class="nav"></span>
+		</td>
+	</tr>
+	<tr>
+	  <td align="left" colspan="3"><span class="nav">Page <b>1</b> of <b>1</b></span></td>
+	</tr>
+  </table>
+</form>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+	<td align="right">
+<form method="get" name="jumpbox" action="viewforum.php?sid=e26105e03a95ce909a843c38b00b22d0" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">protest</option><option value="-1">----------------</option><option value="1">streik!</option><option value="-1">&nbsp;</option><option value="-1">studium</option><option value="-1">----------------</option><option value="4">vorlesungen, seminare, ...</option><option value="5">hausaufgaben, übungszettel</option><option value="6">klausuren</option><option value="8">praktikum</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="7">offtopic</option></select><input type="hidden" name="sid" value="e26105e03a95ce909a843c38b00b22d0" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="0" border="0" align="center" cellpadding="0">
+	<tr>
+		<td align="left" valign="top"><table cellspacing="3" cellpadding="0" border="0">
+			<tr>
+				<td width="20" align="left"><img src="templates/smartBlue/images/folder_new.gif" alt="New posts" width="19" height="18" /></td>
+				<td class="gensmall">New posts</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/smartBlue/images/folder.gif" alt="No new posts" width="19" height="18" /></td>
+				<td class="gensmall">No new posts</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/smartBlue/images/folder_announce.gif" alt="Announcement" width="19" height="18" /></td>
+				<td class="gensmall">Announcement</td>
+			</tr>
+			<tr>
+				<td width="20" align="center"><img src="templates/smartBlue/images/folder_new_hot.gif" alt="New posts [ Popular ]" width="19" height="18" /></td>
+				<td class="gensmall">New posts [ Popular ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/smartBlue/images/folder_hot.gif" alt="No new posts [ Popular ]" width="19" height="18" /></td>
+				<td class="gensmall">No new posts [ Popular ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/smartBlue/images/folder_sticky.gif" alt="Sticky" width="19" height="18" /></td>
+				<td class="gensmall">Sticky</td>
+			</tr>
+			<tr>
+				<td class="gensmall"><img src="templates/smartBlue/images/folder_lock_new.gif" alt="" width="19" height="18" /></td>
+				<td class="gensmall">New posts [ Locked ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td class="gensmall"><img src="templates/smartBlue/images/folder_lock.gif" alt="" width="19" height="18" /></td>
+				<td class="gensmall">No new posts [ Locked ]</td>
+			</tr>
+		</table></td>
+		<td align="right"><span class="gensmall">You <b>can</b> post new topics in this forum<br />You <b>can</b> reply to topics in this forum<br />You <b>cannot</b> edit your posts in this forum<br />You <b>cannot</b> delete your posts in this forum<br />You <b>cannot</b> vote in polls in this forum<br /></span></td>
+	</tr>
+</table>
+
+<br />
+<div align="center"><span class="copyright"><br /><br />
+smartBlue Style &copy; 2002 <a href="http://smartor.is-root.com" target="_blank" class="copyright">Smartor</a><br />
+Powered by <a href="http://www.phpbb.com/" target="_blank" class="copyright">phpBB</a> 2.0.6 &copy; 2001, 2002 phpBB Group<br />&nbsp;&nbsp;patched by a.dahl<br>
+<script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript">
+<!--
+  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);
+// -->
+</script>
+</span>
+</div>
+</td></tr>
+</table>
+</body>
+</html>

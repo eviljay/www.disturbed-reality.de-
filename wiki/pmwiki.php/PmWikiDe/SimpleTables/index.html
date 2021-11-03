@@ -1,0 +1,343 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/1">
+	<title>reviews.disturbed-reality.de | PmWikiDe / Einfache Tabellen </title>
+    <meta http-equiv='Content-Style-Type' content='text/css' />
+	<meta http-equiv="Content-Type" content="text/html;" />
+
+	<link rel="stylesheet" href='http://disturbed-reality.de/wiki/pub/skins/disturbed/wp-layout.css' type="text/css" media="screen" />
+
+	<style type="text/css" media="screen">
+
+/* BEGIN IMAGE CSS */
+/*	To accomodate differing install paths of WordPress, images are referred only here,
+    and not in the wp-layout.css file. If you prefer to use only CSS for colors and what
+    not, then go right ahead and delete the following lines, and the image files. */
+
+body { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickbgcolor.jpg"); }	
+#page { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickbg.jpg") repeat-y top; border: none; } 
+#header { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickheader.jpg") no-repeat bottom center; }
+#footer { background: url("http://disturbed-reality.de/wiki/pub/skins/disturbed/images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+			
+/*  Because the template is slightly different, size-wise, with images, this needs to be set here
+    If you don't want to use the template's images, you can also delete the following two lines. */
+			
+#header { margin: 0 !important; margin: 0 0 0 1px; padding: 1px; height: 198px; width: 758px; }
+#headerimg { margin: 7px 9px 0; height: 192px; width: 740px; } 
+/* END IMAGE CSS */
+		
+
+/* 	To ease the insertion of a personal header image, I have done it in such a way,
+    that you simply drop in an image called 'personalheader.jpg' into your /images/
+    directory. Dimensions should be at least 760px x 200px. Anything above that will
+    get cropped off of the image. */
+		
+#headerimg { background: url('http://disturbed-reality.de/wiki/pub/skins/disturbed/images/personalheader.jpg') no-repeat top;}
+</style>
+<script language="javascript" src="/pub/guiedit/guiedit.js"></script>
+</head>
+
+<body>
+<div id="page">
+
+<? // Begin Header ?>
+<div id="header">
+	<div id="headerimg">
+		<!--<h1><a href="http://disturbed-reality.de/wiki/pmwiki.php" title="reviews.disturbed-reality.de">reviews.disturbed-reality.de</a></h1>-->
+		<!--<div class="description">
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimpleTables'>Einfache Tabellen</a></h2>
+        </div>-->
+	</div>
+</div>
+<hr />
+<? // End Header ?>
+<p align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+document.write('<iframe src="http://banners.webmasterplan.com/view.asp?site=1382&ref=282182&type=text&tnb=32&showjs=0&template=1321&refurl='+escape(document.location.href)+'" width="728" height="90" marginheight="0" marginwidth="0" frameborder="0" scrolling="no"></iframe>')
+</script>
+<!-- END PARTNER PROGRAM -->
+
+
+<!--Begin Frontpage-->
+<br />	<div id="content" class="narrowcolumn">
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+            <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimpleTables'>Einfache Tabellen</a>
+        
+
+        <!--PageText-->
+<div id='wikitext'>
+<p>
+<span style='font-size:83%'><span  style='color: green;'>(deutsche Übersetzung der Seite <span class='wikiword'><a style='color: green' class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWiki/SimpleTables'>PmWiki.SimpleTables</a></span>, Stand 12.09.2005)</span></span>
+</p>
+<p class='vspace'></p><h2>Grundlagen zu Tabellen</h2>
+<p>Tabellen werden mit Hilfe des doppelten 'pipe'-Zeichens <code>||</code> definiert. (Auf deutschen Tastaturen befindet sich das 'pipe'-Zeichen in der Regel links unten auf der Taste mit den Zeichen '&lt;' und '&gt;'. Das 'pipe'-Zeichen lässt sich unter Windows normalerweise durch gleichzeitiges Drücken der &lt;AltGr&gt;-Taste und der '&lt;'-Taste erzeugen. Macintosh Nutzer verwenden Wahltaste+7.). Zeilen, die mit <code>||</code> beginnen, zeigen den Beginn einer Tabellenzeile an. Das Auftreten von <code>||</code> innerhalb einer Zeile markiert den Beginn einer neuen Tabellenzelle. Nachfolgende Tabelle enthält zur besseren Sichtbarkeit einen Rand (standardmäßig ist kein rand sichtbar).
+</p>
+<p class='vspace'></p><div class='indent'><span  style='font-weight: bold;'> Einfache Tabelle</span>
+</div><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+|| border=1
+|| Zelle 1 || Zelle 2 || Zelle 3 ||
+|| Zelle 1 || Zelle 2 || Zelle 3 ||</pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='1'><tr ><td  align='center'>Zelle 1</td><td  align='center'>Zelle 2</td><td  align='center'>Zelle 3</td></tr>
+<tr ><td  align='center'>Zelle 1</td><td  align='center'>Zelle 2</td><td  align='center'>Zelle 3</td></tr>
+</table>
+</td></tr></table>
+<p class='vspace'></p><p>Kopfzellen können gebildet werden, indem man ! als erstes Zeichen einer Zelle eingibt. Dies sind <em>Tabellenköpfe</em>, keine <em>Überschriften</em>, so daß !! und !!! keine Wirkung haben!
+</p>
+<p class='vspace'></p><div class='indent'><span  style='font-weight: bold;'> Tabellenköpfe</span>
+</div><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+|| border=1
+||! Zelle 1 ||! Zelle 2 ||! Zelle 3 ||
+|| Zelle 1  ||  Zelle 2 ||  Zelle 3 ||</pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='1'><tr ><th  align='center'>Zelle 1</th><th  align='center'>Zelle 2</th><th  align='center'>Zelle 3</th></tr>
+<tr ><td  align='center'>Zelle 1</td><td  align='center'>Zelle 2</td><td  align='center'>Zelle 3</td></tr>
+</table>
+</td></tr></table>
+<p class='vspace'></p><p>Tabellen können eine Beschriftung besitzen: <code class='escaped'>||!Beschriftung!||</code>. Jede  Beschriftung muss vor den anderen Zeilen der Tabelle eingefügt werden.
+</p>
+<p class='vspace'></p><div class='indent'><span  style='font-weight: bold;'> Tabellenbeschriftung</span>
+</div><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+|| border=1
+||! Eine besondere Tabelle !||
+||! Zeile 1 ||! Zeile 2 ||! Zeile 3 ||
+|| Zeile 1  ||  Zeile 2 ||  Zeile 3 ||</pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='1'><caption  align='center'>Eine besondere Tabelle</caption>
+<tr ><th  align='center'>Zeile 1</th><th  align='center'>Zeile 2</th><th  align='center'>Zeile 3</th></tr>
+<tr ><td  align='center'>Zeile 1</td><td  align='center'>Zeile 2</td><td  align='center'>Zeile 3</td></tr>
+</table>
+</td></tr></table>
+<p class='vspace'></p><h2>Formatierung von Zellinhalten</h2>
+<p>Zellinhalte dürfen links-, rechtsbündig oder zentriertsein.
+</p><ul><li>Um Inhalte nach linksbündig auszurichten, wird der Zelleninhalt ohne Leerzeichen direkt rechts neben das führende <code>||</code> geschrieben
+</li><li>Um Inhalte zu zentrieren, wird jeweils ein Leerzeichen vor und nach dem Zelleninhalt gesetzt
+</li><li>Für die rechtsbündige Ausrichtung wird der Zelleninhalt ohne Leerzeichen direkt links neben das das folgende <code>||</code> gestellt,wobei vor dem Zelleninhalt ein Leerzeichen eingetippt wird
+</li></ul><p class='vspace'></p><div class='indent'><span  style='font-weight: bold;'> Ausrichtung in den Zellen</span>
+</div><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+|| border=1 width=100%
+||!Zelle 1      ||! Zelle 2  ||!       Zelle 3||
+||linksbündig  || zentriert || rechtsbündig||</pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='1' width='100%'><tr ><th  align='left'>Zelle 1</th><th  align='center'>Zelle 2</th><th  align='right'>Zelle 3</th></tr>
+<tr ><td  align='left'>linksbündig</td><td  align='center'>zentriert</td><td  align='right'>rechtsbündig</td></tr>
+</table>
+</td></tr></table>
+<p class='vspace'></p><div class='indent'><span  style='font-weight: bold;'> Standardausrichtung</span>
+</div><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+|| border=1 width=100%
+||!Zelle standard||!Zelle links ||
+||bündig nach Standard||linksbündig || </pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='1' width='100%'><tr ><th >Zelle standard</th><th  align='left'>Zelle links</th></tr>
+<tr ><td >bündig nach Standard</td><td  align='left'>linksbündig</td></tr>
+</table>
+</td></tr></table>
+<p class='vspace'></p><p>Es sei bemerkt, daß die Kopfzellen und die Einzelzellen verschiedene Voreinstellungen haben.
+</p>
+<p class='vspace'></p><p>Eine Zelle überspannt mehrere Spalten, wenn der Zelle weitere leere Zellen folgen. (Zur Zeit existiert keine Syntax für das überspannen von Zeilen)
+</p>
+<p class='vspace'></p><div class='indent'><span  style='font-weight: bold;'> Überspannen von Zeilen</span>
+</div><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+|| border=1 width=100%
+|| |||| rechte Spalte ||
+|| || mittlere Spalte ||||
+|| linke Spalte ||||||
+|| linke Spalte || mittlere Spalte || rechte Spalte ||
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='1' width='100%'><tr ><td  colspan='2'>&nbsp;</td><td  align='center'>rechte Spalte</td></tr>
+<tr ><td >&nbsp;</td><td  align='center' colspan='2'>mittlere Spalte</td></tr>
+<tr ><td  align='center' colspan='3'>linke Spalte</td></tr>
+<tr ><td  align='center'>linke Spalte</td><td  align='center'>mittlere Spalte</td><td  align='center'>rechte Spalte</td></tr>
+</table>
+</td></tr></table>
+<p class='vspace'></p><h2>Tabelleneigenschaften</h2>
+<p>Jede Zeile, welche mit <code class='escaped'>||</code> beginnt, aber nicht mit <code class='escaped'>||</code> endet, setzt die <em>Tabelleneigenschaften</em> für alle folgenden Tabellen. Diese Eigenschaften können Größe, Position, Rahmen, Hintergrundfarbe und die Zellenabstände in der Tabelle bestimmen. (Tatsächlich handelt es sich hier nur um die in den &lt;table&gt; Ausdruck gesetzten Standard-HTML-Eigenschaften.)
+</p>
+<p class='vspace'></p><p>Mit dem <code class='escaped'>width=</code> Attribut in Prozent oder einem absoluten Wert wird die Tabellenweite festgelegt.
+</p>
+<p class='vspace'></p><div class='indent'><span  style='font-weight: bold;'> Tabellenweite</span>
+</div><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+|| border=1 width=100% 
+|| Zeile 1 || Zeile 2 || Zeile 3 ||
+|| z1 || zeilezeilezeilezeile2 || zeile 3 ||</pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='1' width='100%' ><tr ><td  align='center'>Zeile 1</td><td  align='center'>Zeile 2</td><td  align='center'>Zeile 3</td></tr>
+<tr ><td  align='center'>z1</td><td  align='center'>zeilezeilezeilezeile2</td><td  align='center'>zeile 3</td></tr>
+</table>
+</td></tr></table>
+<p class='vspace'></p><p>Das <code class='escaped'>border=</code> Attribut setzt die Größe der Tabellenränder.
+</p>
+<p class='vspace'></p><div class='indent'><span  style='font-weight: bold;'> Tabellen mit und ohne Rahmen</span>
+</div><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+|| border=10 
+||!Zeile 1      ||! Zeile 2  ||!       Zeile 3||
+||linksbündig || zentriert || rechtsbündig||
+
+|| border=0
+||!Zeile 1      ||! Zeile 2  ||!       Zeile 3||
+||linksbündig || zentriert || rechtsbündig||</pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='10' ><tr ><th  align='left'>Zeile 1</th><th  align='center'>Zeile 2</th><th  align='right'>Zeile 3</th></tr>
+<tr ><td  align='left'>linksbündig</td><td  align='center'>zentriert</td><td  align='right'>rechtsbündig</td></tr>
+</table>
+<p class='vspace'></p>
+<table  border='0'><tr ><th  align='left'>Zeile 1</th><th  align='center'>Zeile 2</th><th  align='right'>Zeile 3</th></tr>
+<tr ><td  align='left'>linksbündig</td><td  align='center'>zentriert</td><td  align='right'>rechtsbündig</td></tr>
+</table>
+</td></tr></table>
+<p class='vspace'></p><p>Mit <code class='escaped'>align=center</code>, <code class='escaped'>align=left</code>, and <code class='escaped'>align=right</code> wird die Tabelle links-, rechtsbündig oder zentriert ausgerichtet. <code class='escaped'>align=left</code> und <code class='escaped'>align=right</code> erzeugen eine <em>fließende (floating) Tabelle</em>, so dass der Text um die Tabelle herumfließt.
+</p>
+<p class='vspace'></p><div class='indent'><span  style='font-weight: bold;'> Tabellenausrichtung</span>
+</div><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+|| border=1 align=center
+||!Zeile 1      ||! Zeile 2  ||!       Zeile 3||
+||linksbündig || zentriert || rechtsbündig||
+
+|| border=1 align=left
+||!Zeile 1      ||! Zeile 2  ||!       Zeile 3||
+||linksbündig || zentriert || rechtsbündig||
+Der Text fließt rechts um die links ausgerichtete Tabelle.</pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='1' align='center'><tr ><th  align='left'>Zeile 1</th><th  align='center'>Zeile 2</th><th  align='right'>Zeile 3</th></tr>
+<tr ><td  align='left'>linksbündig</td><td  align='center'>zentriert</td><td  align='right'>rechtsbündig</td></tr>
+</table>
+<p class='vspace'></p>
+<table  border='1' align='left'><tr ><th  align='left'>Zeile 1</th><th  align='center'>Zeile 2</th><th  align='right'>Zeile 3</th></tr>
+<tr ><td  align='left'>linksbündig</td><td  align='center'>zentriert</td><td  align='right'>rechtsbündig</td></tr>
+</table><p>Der Text fließt rechts um die links ausgerichtete Tabelle.
+</p>
+</td></tr></table>
+<p class='vspace'></p><p>Das <code class='escaped'>bgcolor=</code> Attribute legt die Hintergrundfarbe fest. Im Moment können keine individuellen Farben für Zeilen oder Spalten in einer Tabelle festgelegt werden (siehe aber auch <a class='urllink' href='http://www.pmwiki.org/wiki/Cookbook/FormattingSimpleTables' rel='nofollow'>Cookbook:FormattingSimpleTables</a>).
+</p>
+<p class='vspace'></p><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+|| border=1 align=center bgcolor=yellow
+||!Zeile 1      ||! Zeile 2  ||!       Zeile 3||
+||linksbündig || zentriert || rechtsbündig||</pre></td></tr><tr><td 
+        class='markup2' valign='top'><table  border='1' align='center' bgcolor='yellow'><tr ><th  align='left'>Zeile 1</th><th  align='center'>Zeile 2</th><th  align='right'>Zeile 3</th></tr>
+<tr ><td  align='left'>linksbündig</td><td  align='center'>zentriert</td><td  align='right'>rechtsbündig</td></tr>
+</table>
+</td></tr></table>
+<p class='vspace'></p><h2>Weitere Beispiele</h2>
+<div class='indent'><span  style='font-weight: bold;'> Eine komplexere Tabelle</span>
+</div><table class='markup vert' align='center'>
+      <tr><td class='markup1' valign='top'><pre>
+%define=sp padding-right:1em font-weight:bold%
+|| border=1
+|| [++Events Calendar++] ||||||||||
+|| '''May 2005''' || '''June 2005''' || '''July 2005''' || '''August
+2005''' || '''September 2005''' ||
+||%sp%'''10'''%%6:30 - 8:30 Big
+Meeting[[&lt;&lt;]][[&lt;&lt;]]%sp%'''17'''%%7:00 - 8:30 Bigger
+Meeting[[&lt;&lt;]][[&lt;&lt;]]%sp%'''24'''%%7:00 - 8:30 Biggest Meeting||
+|| || || ||
+|| '''October 2005''' || '''November 2005''' || '''December 2005''' ||
+'''January 2006''' || '''February 2006''' ||
+|| || || || || ||
+</pre></td></tr><tr><td 
+        class='markup2' valign='top'><p>
+</p>
+<table  border='1'><tr ><td  align='center' colspan='5'><span style='font-size:144%'>Events Calendar</span></td></tr>
+<tr ><td  align='center'><strong>May 2005</strong></td><td  align='center'><strong>June 2005</strong></td><td  align='center'><strong>July 2005</strong></td><td  align='center'><strong>August 2005</strong></td><td  align='center'><strong>September 2005</strong></td></tr>
+<tr ><td ><span  style='padding-right: 1em; font-weight: bold;'><strong>10</strong></span>6:30 - 8:30 Big Meeting<br clear='all' /><br clear='all' /><span  style='padding-right: 1em; font-weight: bold;'><strong>17</strong></span>7:00 - 8:30 Bigger Meeting<br clear='all' /><br clear='all' /><span  style='padding-right: 1em; font-weight: bold;'><strong>24</strong></span>7:00 - 8:30 Biggest Meeting</td><td >&nbsp;</td><td >&nbsp;</td><td >&nbsp;</td><td >&nbsp;</td></tr>
+<tr ><td  align='center'><strong>October 2005</strong></td><td  align='center'><strong>November 2005</strong></td><td  align='center'><strong>December 2005</strong></td><td  align='center'><strong>January 2006</strong></td><td  align='center'><strong>February 2006</strong></td></tr>
+<tr ><td >&nbsp;</td><td >&nbsp;</td><td >&nbsp;</td><td >&nbsp;</td><td >&nbsp;</td></tr>
+</table>
+</td></tr></table>
+<p class='vspace'></p><p  style='background-color: #eee;'><span class='wikitrail'>&lt;&lt; <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Uploads'>Hochladen von Dateien</a> | <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DocumentationIndex'>Dokumentationsindex</a> | <a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/AdvancedTables'>Erweiterte Tabellen</a> &gt;&gt;</span>
+</p>
+<p class='vspace'></p>
+</div>
+
+	
+	   <!-- Das kann man vielleicht mal fŸr Trails noch brauchen, aber wohl eher nicht
+		<div class="navigation">
+			<div class="alignleft"><?php posts_nav_link('','','&laquo; Previous Entries') ?></div>
+			<div class="alignright"><?php posts_nav_link('','Next Entries &raquo;','') ?></div>
+		</div>
+		-->
+		
+	</div>
+	
+<!--End Frontpage-->
+
+<? // Begin Sidebar Menu ?>
+<?php /* If this is not a permalink page, show the menu */ if (!($withcomments) && (!$single)) { ?>
+
+	<div id="sidebar">
+		<ul>
+			<li>
+                You are on <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe'>PmWikiDe</a> /
+                <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimpleTables'>Einfache Tabellen</a>
+            </li>
+
+			<li>
+                <!-- MIKE: Suchform-->
+                <form action='http://disturbed-reality.de/wiki/pmwiki.php'>
+                    <input type='hidden' name='n' value='PmWikiDe.SimpleTables' />
+                    <input type='hidden' name='action' value='search' />
+                    <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Search'>Suchen</a>:
+                    <input class='searchbox' type='text' name='q' value='' />
+                    <input class='searchbutton' type='submit' value='Los' />
+                </form>
+			</li>
+                        
+            <!-- MIKE: Seitentitel und Gruppe-->
+            <li>
+                <h1><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/PmWikiDe'>Deutsches Wiki</a></h1>
+<ul><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiWikiWeb'>Was ist ein Wiki?</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Installation'>Installation</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/DocumentationIndex'>Dokumentationsindex</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/WikiSandbox'>Sandkasten</a>
+</li><li><a class='wikilink' href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/RecentChanges'>Aktuelle Änderungen</a>
+</li></ul><hr />
+<p class='vspace'></p>
+
+            </li>
+
+		</ul>
+	</div>
+
+<? } // End Sidebar Menu  ?>
+
+
+
+<? // Begin Footer ?>
+<hr />
+<div id="footer">
+	<p>
+		<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimpleTables?action=edit'>Seite Bearbeiten</a> -
+		<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimpleTables?action=diff'>Seitenhistorie</a> -
+	 	<!--<a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimpleTables?action=upload'>Upload File</a> -->		
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/SimpleTables?action=print' target='_blank'>Druckansicht</a> -
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/RecentChanges'>Aktuelle &Auml;nderungen</a> -
+        <a href='http://disturbed-reality.de/wiki/pmwiki.php/PmWikiDe/Search'>Suchen</a><br /><br />
+        <br />Zuletzt ge&auml;ndert am 12.09.2005 08:27 Uhr		   		
+		<br />reviews.disturbed-reality.de is running  
+		<a href="http://www.pmwiki.org">PmWiki</a>. 
+<!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><!-- End of Netstat Code -->
+<?PHP include("../counter/inc.stats.php");?>
+<!-- alo counter block -->
+<!-- Site Meter -->
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+
+        </div>
+		
+	</p>
+</div>
+</div>
+<? // End Footer ?><br>
+</body>
+</html>

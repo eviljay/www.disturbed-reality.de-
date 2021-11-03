@@ -1,0 +1,33 @@
+BODY { SCROLLBAR-FACE-COLOR: #F0F0F0;
+
+       SCROLLBAR-HIGHLIGHT-COLOR: #727272;
+       SCROLLBAR-SHADOW-COLOR: #727272;
+
+       SCROLLBAR-3DLIGHT-COLOR: #F0F0F0;
+       SCROLLBAR-DARKSHADOW-COLOR: #F0F0F0; 
+
+       SCROLLBAR-ARROW-COLOR: #C0C0C0;
+       SCROLLBAR-TRACK-COLOR: #F0F0F0;
+      }
+
+.menue_fade {  background-color: #000000; filter: Alpha(Opacity=75); clip:   rect(   )}
+.menue_rechts {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; font-weight: bold; text-decoration: none; color: #FFFFFF; background-color: #000000; filter: Alpha(Opacity=35); clip:  rect( auto  )}
+.menue_cat1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: small; font-weight: bold; color: #FFFFFF; background-color: #000000; filter: Alpha(Opacity=35); clip:  rect( auto  )}
+.menue_cat2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; font-weight: bold; color: #000000}
+p {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; font-weight: normal; color: #333333; text-align: justify}
+.text {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; color: #5C5A5A; text-align: justify}
+a:link {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; color: #999999}
+a:active {  text-decoration: none; color: #FFFFFF}
+a:visited {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; color: #999999}
+a:hover {  color: #FFFFFF; background-color: #666666}
+.menue { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; font-weight: bold; text-decoration: none; color: #FFFFFF; clip: rect( ) }
+a {  color: #000000}
+td { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; color: #333333; text-align: justify }
+.menue_display { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8px; font-weight: bold; text-decoration: none; color: #FFFFFF; clip: rect( ) }
+.menue_top { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7px; font-weight: bold; text-decoration: none; color: #FFFFFF; filter: Alpha(Opacity=45); clip: rect( ) ; background-color: #000000}
+.theme_nummer {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: small; font-weight: bold; color: #000000}textarea {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; color: #666666; background-color: #EEEEEE; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+input {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; color: #666666; background-color: #EEEEEE; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+h1 {  font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small}
+.portfolio_img {  border: #666666; border-style: solid; border-top-width: thin; border-right-width: thin; border-bottom-width: thin; border-left-width: thin}
+.link_online {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; font-weight: normal; color: #D3D3D3; text-decoration: blink}
+.statistik {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; font-weight: normal; color: #D3D3D3; text-decoration: none}

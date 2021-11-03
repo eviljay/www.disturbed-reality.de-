@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="generator" content="gelato cioccolato (0.95)" />
+	<link rel="shortcut icon" href="http://disturbed-reality.de/tumble/images/favicon.ico" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://disturbed-reality.de/tumble/rss.php"/>
+	<link rel="stylesheet" type="text/css" href="http://disturbed-reality.de/tumble/themes/minim/style.css"/>
+	<link rel="stylesheet" type="text/css" href="http://disturbed-reality.de/tumble/admin/css/lightbox.css" />
+	<script language="javascript" type="text/javascript" src="http://disturbed-reality.de/tumble/admin/scripts/jquery.js"></script>
+	<script language="javascript" type="text/javascript" src="http://disturbed-reality.de/tumble/admin/scripts/lightbox.js"></script>	
+    <title>disturbed reality</title>
+    <!--[if IE]>
+        <style type="text/css">
+            div.post div.quote span.quote big.quote {
+                line-height: 40px;
+            }
+        </style>
+    <![endif]-->
+</head>
+<body>
+    <div id="sideblock">
+    <a href="http://twitter.com/nbkdnzr">
+    <img src="http://disturbed-reality.de/tumble/themes/minim/img/twitter.png" id="twitter" alt="twitter" title="twitter" width="200" />
+    </a>
+    <br />
+    as well as...    <br />  
+    <a href="http://www.flickr.com/photos/disturbedreality/">Flickr</a><br />
+    <a href="xmpp:alo@jabber.org">Jabber</a><br />
+    <a href="http://people.icq.com/people/about_me.php?uin=115857402">ICQ</a><br />
+    <a href="skype:nbkdnzr?call">Skype</a>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+    <div id="container">
+        <a href="http://disturbed-reality.de/tumble/rss.php"><img src="http://disturbed-reality.de/tumble/themes/minim/img/rss_black.png" id="rss" alt="RSS" title="RSS" /></a>
+
+        <h1><a href="http://disturbed-reality.de/tumble/"> disturbed reality </a></h1>        
+        
+            <div id="description">
+                …denn erst die kleinen Nebensachen machen das Leben lebenswert.
+            </div>
+                <div class="date">
+                    Jun 12
+                </div>
+
+        
+            <div class="post">
+                <a href="http://disturbed-reality.de/tumble/index.php?post=215"><img src="http://disturbed-reality.de/tumble/themes/minim/img/link.gif" class="permalink" alt="Permalink" title="Permalink to this Post"/></a>
+
+                
+                    <div class="link">
+                        <!--&#187;--> <a href="http://handelsblatt6.blogg.de/eintrag.php?id=2147">Artikel beim Handelsblatt</a> <small>&rarr;</small>
+                            <div class="description">	<p>Nun ist es amtlich: Ursula von der Leyen hat gelogen. Öffentlich. Oder aber die Bundesregierung hat gelogen &#8211; in einer Antwort auf eine offzielle Bundestagsanfrage.</p>
+
+	<p>Die Internetsperren im angeblichen Kampf gegen Kinderpornographie verwandeln sich von der Schlammschacht in einen ernsthaften Skandal. </p></div>
+                    </div>             
+				
+			</div>		
+    </div>
+    <div id="footer">
+        #15 | 
+        <a href="http://disturbed-reality.de/datenschutz.txt">Datenschutz</a> | <a href="http://disturbed-reality.de/impressum.txt">Impressum</a><br /> 
+
+    <br/>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1247354-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+    </div>
+</body>
+</html> 

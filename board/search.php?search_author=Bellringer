@@ -1,0 +1,500 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php" title="board.disturbed-reality.de Foren-Übersicht" />
+<link rel="search" href="./search.php" title="Suchen" />
+<link rel="help" href="./faq.php" title="FAQ" />
+<link rel="author" href="./memberlist.php" title="Mitgliederliste" />
+
+<title>board.disturbed-reality.de :: Suchen</title>
+<link rel="stylesheet" href="templates/DAJ_Glass/DAJ_Glass.css" type="text/css" />
+</head>
+<body>
+
+<a name="top"></a>
+
+<br class="gensmall">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+  	<td height="14" width="25" nowrap="nowrap" class="ul"></td>
+	<td width="100%" class="uc"></td>
+	<td width="25" nowrap="nowrap" class="ur"></td>
+  </tr>
+  <tr>
+  	<td class="headl"></td>
+	<td class="row3"><a href="index.php"><img src="templates/DAJ_Glass/images/logo_phpBB.gif" border="0" alt="board.disturbed-reality.de Foren-Übersicht" /></a>
+	</td>
+	<td class="headr"></td>
+  </tr>
+  <tr valign="bottom">
+  	<td rowspan="3" class="tul"></td>
+	<td height="30" class="tuc">
+	  <table width="100%" cellspacing="0" cellpadding="2">
+	  	<tr valign="bottom">
+		  <td><a href="index.php" class="mainmenu1">board.disturbed-reality.de</a></td>
+		  <td align="right" nowrap="nowrap">
+	  		<table cellspacing="0" cellpadding="0" border="0">
+	  		  <tr valign="bottom">
+	  		  <td>: <a href="http://disturbed-reality.de/blog/" class="mainmenu1">Blog</a> ::
+						<a href="http://disturbed-reality.de/review/" class="mainmenu1">Reviews</a> ::
+						<i class="mainmenu1">Board</i> :</td>
+		  		<td><a href="faq.php"><img src="templates/DAJ_Glass/images/icon_mini_faq.gif" border="0" alt="FAQ" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="faq.php" class="mainmenu1">FAQ</a>  </span></td>
+		  		<td><a href="search.php"><img src="templates/DAJ_Glass/images/icon_mini_search.gif" border="0" alt="Suchen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="search.php" class="mainmenu1">Suchen</a>  </span></td>
+		  		<td><a href="memberlist.php"><img src="templates/DAJ_Glass/images/icon_mini_members.gif" border="0" alt="Mitgliederliste" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="memberlist.php" class="mainmenu1">Mitgliederliste</a>  </span></td>
+		  		<td><a href="groupcp.php"><img src="templates/DAJ_Glass/images/icon_mini_groups.gif" border="0" alt="Benutzergruppen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="groupcp.php" class="mainmenu1">Benutzergruppen</a></span></td>
+			  </tr>
+	  		</table>
+		  </td>
+		</tr>
+	  </table>
+	</td>
+	<td rowspan="3" class="tur"></td>
+  </tr>
+  <tr>
+  	<td height="10" class="row5"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" height="1" width="1"></td>
+  </tr>
+  <tr valign="top">
+	<td height="30" nowrap="nowrap" class="tlc">
+	  <table width="100%" cellspacing="0" cellpadding="2" border="0">
+	  	<tr valign="top">
+		  <td><span class="mainmenu1">
+		  <a href="profile.php?mode=register" class="mainmenu1">Registrieren</a>  :: 
+		  <a href="login.php" class="mainmenu1">Login</a>
+		  </span></td>
+		  <td nowrap="nowrap" align="right"><span class="mainmenu1">
+		  <a href="privmsg.php?folder=inbox" class="mainmenu1">Einloggen, um private Nachrichten zu lesen</a>
+		  </span></td>
+		</tr>
+	  </table>
+	</td>
+  </tr>
+  <tr>
+    <td class="left"></td>
+	<td class="row2">
+<i><small>Werbung:</small></i>
+
+<ul style="margin-bottom:0px; border:0px none #FFFFFF; overflow:hidden; width:100%; margin-top:0px; border-spacing:0px; list-style:none;  padding:0px; margin-right:0px;">
+	<li style="width:49%; display:inline; float:left; clear:none;"><a style="font-size:12px; line-height:140%; " href="http://www.geizclub24.de/gutscheine/DVD" target="_self">DVD Gutscheine</a></li>
+</ul>
+<hr><table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr valign="top">
+	<td nowrap="nowrap"><img src="templates/DAJ_Glass/images/nav.gif" border="0"></td>
+	<td width="100%" class="mainmenu"><a href="index.php" class="mainmenu">board.disturbed-reality.de Foren-Übersicht</a> » <a href="search.php" class="mainmenu">Suchen</a></td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="0" cellpadding="0" class="forumline">
+  <tr>
+	<td height="25" nowrap="nowrap" class="row4"><span class="cattitle"> Die Suche hat 1450 Ergebnisse ergeben.</span></td>
+  </tr>
+  <tr>
+  	<td colspan="3">
+	  <table width="100%" cellspacing="1" cellpadding="3" border="0">
+		<tr align="center">
+		  <td width="150" height="20" class="row6" nowrap="nowrap"><span class="mainmenu">Autor</span></td>
+		  <td width="100%" class="row6" nowrap="nowrap"><span class="mainmenu">Nachricht</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5013&amp;highlight=" class="mainmenu">Iran .... unglaublich....</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>11</b><br />Aufrufe: <b>2657</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=45" class="postdetails">Politik</a></b>   Verfasst am: Mo Dez 25, 2006 12:18 am   Titel: <b><a href="viewtopic.php?p=68441&amp;highlight=#68441">Iran .... unglaublich....</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Und noch nen Burner:<br /><br />http://www.spiegel.de/politik/ausland/0,1518,456288,00.html<br /><br />Das gibts echt nicht was da abgeht....ohhh man..... <img src="images/smiles/icon_eek.gif" alt="Shocked" border="0" /><br /><br />Die waren doch neulich auch bei SternTV, oder?<br />De ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6952&amp;highlight=" class="mainmenu">Merry X-Mas</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>14</b><br />Aufrufe: <b>2624</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=26" class="postdetails">Sunshine-bar</a></b>   Verfasst am: So Dez 24, 2006 12:48 pm   Titel: <b><a href="viewtopic.php?p=68427&amp;highlight=#68427">Merry X-Mas</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Also von mir natürlich auch ein frohes Fest an alle!<br /><br />Lasst es euch gut gehen, lasst euch reich beschenken und feiert ordentlich!<br /><br /> <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6937&amp;highlight=" class="mainmenu">Jigsaw's Dead</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>654</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Do Dez 21, 2006 9:50 pm   Titel: <b><a href="viewtopic.php?p=68353&amp;highlight=#68353">Jigsaw's Dead</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">alter schniedel, ich kann's mir immer wieder anschauen... <br />ich hab schon krämpfe... <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6937&amp;highlight=" class="mainmenu">Jigsaw's Dead</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>654</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Do Dez 21, 2006 2:56 pm   Titel: <b><a href="viewtopic.php?p=68329&amp;highlight=#68329">Jigsaw's Dead</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Puh... nach langem Umzugsstress bin ich nun wohl wieder full-time-board-user!  <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> <br /><br />Gleich mal mit Jigsaw's Dead.  <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" />  <br />(Je öfter man es sich anschaut, desto geiler ist es)<br /><br /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6012&amp;highlight=" class="mainmenu">Dialoge vor Gericht *g*</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>12</b><br />Aufrufe: <b>1965</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=26" class="postdetails">Sunshine-bar</a></b>   Verfasst am: Mo Nov 27, 2006 5:35 pm   Titel: <b><a href="viewtopic.php?p=67369&amp;highlight=#67369">Dialoge vor Gericht *g*</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">DIE Strafe hätt ich auch bezahlt!!!!! <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /><br /><br />auf alle Fälle ich auch!!<br /><br /> <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /> <br /><br />P.S.:<br />Nach langer abwesenheit mal wieder hier!<br />Hab euch schon vermisst. <br /> <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br /><br />Fällt mir grad auf - hab auf de ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6012&amp;highlight=" class="mainmenu">Dialoge vor Gericht *g*</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>12</b><br />Aufrufe: <b>1965</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=26" class="postdetails">Sunshine-bar</a></b>   Verfasst am: So Nov 26, 2006 2:49 pm   Titel: <b><a href="viewtopic.php?p=67343&amp;highlight=#67343">Dialoge vor Gericht *g*</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">DIE Strafe hätt ich auch bezahlt!!!!! <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /><br /><br />auf alle Fälle ich auch!!<br /><br /> <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /> <br /><br />P.S.:<br />Nach langer abwesenheit mal wieder hier!<br />Hab euch schon vermisst. <br /> <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6707&amp;highlight=" class="mainmenu">Bundeswehrtyp</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>451</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Sa Nov 11, 2006 2:34 pm   Titel: <b><a href="viewtopic.php?p=66682&amp;highlight=#66682">Bundeswehrtyp</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody"><img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /> <br /><br /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6456&amp;highlight=" class="mainmenu">Zockfähiger Rechner</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>32</b><br />Aufrufe: <b>7034</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=36" class="postdetails">Computer, Betriebssysteme & Programme</a></b>   Verfasst am: Di Nov 07, 2006 11:32 pm   Titel: <b><a href="viewtopic.php?p=66553&amp;highlight=#66553">Zockfähiger Rechner</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">all inclusive - mit Expressversand (30 EUR) <br /><br />962 EUR</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6456&amp;highlight=" class="mainmenu">Zockfähiger Rechner</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>32</b><br />Aufrufe: <b>7034</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=36" class="postdetails">Computer, Betriebssysteme & Programme</a></b>   Verfasst am: Di Nov 07, 2006 6:47 pm   Titel: <b><a href="viewtopic.php?p=66542&amp;highlight=#66542">Zockfähiger Rechner</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hab heut mein neues System bekommen!<br /><br />CPU: Core 2 Duo E6400<br />Board: Asus P5NSLI<br />RAM: 2GB GEIL CL4<br />Sharkoon 450W Netzteil<br />Grafik: MSI Nvidia 7900GTO<br />2x 250 GB Samsung S-ATA<br /><br />Werd dann mal am Wo ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6329&amp;highlight=" class="mainmenu">Desperatly seeking: 10.000 Splatteralex ;-)</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>50</b><br />Aufrufe: <b>14669</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=2" class="postdetails">Brainfuck</a></b>   Verfasst am: So Okt 29, 2006 11:17 pm   Titel: <b><a href="viewtopic.php?p=66253&amp;highlight=#66253">Desperatly seeking: 10.000 Splatteralex ;-)</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Seltsam, dass er in jedem Thread ein &quot;ok&quot; oder &quot;Wer weiss...&quot; dazu schreibt... nur hier nicht. <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br /><br />OK!   <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> <br /><br />Ja - lang nix mehr von dir gehört!<br />... ...<br />Wer weiss ( :win ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6634&amp;highlight=" class="mainmenu">Vista</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1</b><br />Aufrufe: <b>508</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=36" class="postdetails">Computer, Betriebssysteme & Programme</a></b>   Verfasst am: Di Okt 24, 2006 10:32 pm   Titel: <b><a href="viewtopic.php?p=66122&amp;highlight=#66122">Vista</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Teste morgen mal die RC2 an - war heut auf der Systems-Messe und dort lag ne RC2-CD rum  <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /> <br /><br />RC1 wird dir da hinterhergeworfen.<br /><br />Bin mal gespannt wie die RC2 sich schlägt.<br /><br />Sonst schon jemand R ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6329&amp;highlight=" class="mainmenu">Desperatly seeking: 10.000 Splatteralex ;-)</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>50</b><br />Aufrufe: <b>14669</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=2" class="postdetails">Brainfuck</a></b>   Verfasst am: So Okt 22, 2006 3:19 am   Titel: <b><a href="viewtopic.php?p=66012&amp;highlight=#66012">Desperatly seeking: 10.000 Splatteralex ;-)</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hehe, sehe gerade, dass Alex seit dem 24. August mehr Posts geschafft hat, als ich in fast zweieinhalb Jahren. Sachen gibt's. <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br /><br />Das ist 100%iger Schwindel!!<br />Ist mir schon öfters Aufgefallen, das  ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6619&amp;highlight=" class="mainmenu">Es funktioniert wirklich</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>7</b><br />Aufrufe: <b>803</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Sa Okt 21, 2006 11:16 am   Titel: <b><a href="viewtopic.php?p=65991&amp;highlight=#65991">Es funktioniert wirklich</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody"><img src="images/smiles/icon_eek.gif" alt="Shocked" border="0" />  <img src="images/smiles/icon_eek.gif" alt="Shocked" border="0" />   geilo!</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6619&amp;highlight=" class="mainmenu">Es funktioniert wirklich</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>7</b><br />Aufrufe: <b>803</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Sa Okt 21, 2006 11:11 am   Titel: <b><a href="viewtopic.php?p=65989&amp;highlight=#65989">Es funktioniert wirklich</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ich würd's ja gern mal probieren - nur ist das wirklich sicher?<br /><br />Was passiert mit der Handynummer? Spam-SMS?</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6617&amp;highlight=" class="mainmenu">Gothic 3</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>14</b><br />Aufrufe: <b>2427</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=38" class="postdetails">Spiele</a></b>   Verfasst am: Fr Okt 20, 2006 11:39 pm   Titel: <b><a href="viewtopic.php?p=65986&amp;highlight=#65986">Gothic 3</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Bin mal wieder auf der Suche nach einem schönen Game.<br /><br />Hab aber irgendwo her gehört, das Gothic 3 nur was für Gothic-Kenner sein soll.<br />Gamestar hat das glaub ich geschrieben.<br /><br />Da ich noch nie Got ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6329&amp;highlight=" class="mainmenu">Desperatly seeking: 10.000 Splatteralex ;-)</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>50</b><br />Aufrufe: <b>14669</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=2" class="postdetails">Brainfuck</a></b>   Verfasst am: Fr Okt 20, 2006 11:37 pm   Titel: <b><a href="viewtopic.php?p=65985&amp;highlight=#65985">Desperatly seeking: 10.000 Splatteralex ;-)</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Hehe, sehe gerade, dass Alex seit dem 24. August mehr Posts geschafft hat, als ich in fast zweieinhalb Jahren. Sachen gibt's. <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br /><br />Das ist 100%iger Schwindel!!<br />Ist mir schon öfters Aufgefallen, das  ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6599&amp;highlight=" class="mainmenu">Lil' Superstar</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>0</b><br />Aufrufe: <b>490</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Mo Okt 16, 2006 11:08 pm   Titel: <b><a href="viewtopic.php?p=65863&amp;highlight=#65863">Lil' Superstar</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Lol!<br /><br />(Is übrigens ein Erwachsener Mann, der eine Wachstumskrankheit hat!!)<br /><br /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6586&amp;highlight=" class="mainmenu">Gut gemachter Trick</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>627</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Sa Okt 14, 2006 12:19 pm   Titel: <b><a href="viewtopic.php?p=65814&amp;highlight=#65814">Gut gemachter Trick</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody"><img src="images/smiles/icon_eek.gif" alt="Shocked" border="0" /> ^^ Effekt trotzdem verhältnismässig schwach  <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /><br /><br />Tja - aber trotzdem ein geiler SFX!</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6575&amp;highlight=" class="mainmenu">Alternativen zu Outlook?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>10</b><br />Aufrufe: <b>1422</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=36" class="postdetails">Computer, Betriebssysteme & Programme</a></b>   Verfasst am: Fr Okt 13, 2006 6:41 pm   Titel: <b><a href="viewtopic.php?p=65802&amp;highlight=#65802">Alternativen zu Outlook?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">benutze auch den donnervogel. gab noch keine probleme.<br />zu outlook gibts ja nicht sooo große unterschiede, aber dafür schlägt der feuerfuchs den microsoft konkurenten um längen!<br /><br />right, baby</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6586&amp;highlight=" class="mainmenu">Gut gemachter Trick</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>627</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Fr Okt 13, 2006 6:39 pm   Titel: <b><a href="viewtopic.php?p=65801&amp;highlight=#65801">Gut gemachter Trick</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Des müsst ihr euch unbedingt anschauen! <br />Echt sehr gut gemachter Trick.<br /><br />Kommt recht am Ende aber die Vorgeschichte müsst ihr euch auch angucken. <br />Diesmal leider nur 30 Sekunden ...<br /><br /><br />[url=http ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6575&amp;highlight=" class="mainmenu">Alternativen zu Outlook?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>10</b><br />Aufrufe: <b>1422</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=36" class="postdetails">Computer, Betriebssysteme & Programme</a></b>   Verfasst am: Do Okt 12, 2006 8:17 pm   Titel: <b><a href="viewtopic.php?p=65754&amp;highlight=#65754">Alternativen zu Outlook?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">gestern ging über heise, das das alte schlachtross eudora opensource wird, das ist auch ganz brauchbar.<br /><br />Hab gedacht Eudora ist schon länger open source  <img src="images/smiles/icon_confused.gif" alt="Confused" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6577&amp;highlight=" class="mainmenu">EM 2008 - Qualifikation</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>808</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=26" class="postdetails">Sunshine-bar</a></b>   Verfasst am: Mi Okt 11, 2006 7:13 pm   Titel: <b><a href="viewtopic.php?p=65682&amp;highlight=#65682">EM 2008 - Qualifikation</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">3:1 für Slowakei!   <img src="images/smiles/icon_confused.gif" alt="Confused" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6574&amp;highlight=" class="mainmenu">Game Klassiker</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>5</b><br />Aufrufe: <b>1197</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=38" class="postdetails">Spiele</a></b>   Verfasst am: Mi Okt 11, 2006 7:12 pm   Titel: <b><a href="viewtopic.php?p=65681&amp;highlight=#65681">Game Klassiker</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Goil - Project IGI wär mal wieder ne phäääte geschichte</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6575&amp;highlight=" class="mainmenu">Alternativen zu Outlook?</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>10</b><br />Aufrufe: <b>1422</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=36" class="postdetails">Computer, Betriebssysteme & Programme</a></b>   Verfasst am: Mi Okt 11, 2006 7:11 pm   Titel: <b><a href="viewtopic.php?p=65680&amp;highlight=#65680">Alternativen zu Outlook?</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ich bin totaler THUNDERBIRD fan! <br /><br /> <img src="images/smiles/icon_smile.gif" alt="Smile" border="0" /></span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6571&amp;highlight=" class="mainmenu">Nokias  AEON</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=437">Bellringer</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1</b><br />Aufrufe: <b>491</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=36" class="postdetails">Computer, Betriebssysteme & Programme</a></b>   Verfasst am: Di Okt 10, 2006 10:19 pm   Titel: <b><a href="viewtopic.php?p=65634&amp;highlight=#65634">Nokias  AEON</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Vorhin im Netz gefunden.<br />Nokias Handyline in naher Zukunft.<br /><br />AEON <br /><br />http://www.mobinaute.com/mobinaute/images/aeon-concept-2.jpg<br /><br />http://cache.gizmodo.com/assets/resources/2006/10/Aeon.jpg<br /><br />S ...</span></td>
+  		</tr>
+	  </table>
+	</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+  <tr valign="top">
+	<td><span class="genmed">Gehe zu Seite <b>1</b>, <a href="search.php?search_id=1259778224&amp;start=25">2</a>, <a href="search.php?search_id=1259778224&amp;start=50">3</a> ... <a href="search.php?search_id=1259778224&amp;start=1375">56</a>, <a href="search.php?search_id=1259778224&amp;start=1400">57</a>, <a href="search.php?search_id=1259778224&amp;start=1425">58</a>&nbsp;&nbsp;<a href="search.php?search_id=1259778224&amp;start=25">Weiter</a></span></td>
+	<td align="right" nowrap="nowrap"><span class="nav">Seite <b>1</b> von <b>58</b></span></td>
+  </tr>
+</table>
+
+<br /><form method="get" name="jumpbox" action="viewforum.php" onSubmit="if(document.jumpbox.f.value == -1){return false;}">
+<table width="100%" cellspacing="1" border="0" cellpadding="1">
+  <tr>
+	<td align="right" nowrap="nowrap"><span class="gensmall">Gehe zu: <select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42">Updates</option><option value="17">Support</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">Brainfuck</option><option value="25">Lustiges aus dem Netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">Allgemeines</option><option value="28">Splatter & Horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">Hollywood und mehr…</option><option value="19">Schnittberichte und Zensur</option><option value="34">Amateurfilme, Börsen & Veranstaltungen</option><option value="31">...im TV</option><option value="33">...und die passende Musik</option><option value="32">Gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">Marktplatz</option><option value="-1">----------------</option><option value="23">Gesucht und Gefunden</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">Hard-& Software</option><option value="-1">----------------</option><option value="36">Computer, Betriebssysteme & Programme</option><option value="37">Internet</option><option value="38">Spiele</option><option value="-1">&nbsp;</option><option value="-1">Offtopic</option><option value="-1">----------------</option><option value="26">Sunshine-bar</option><option value="45">Politik</option></select><input type="hidden" name="sid" value="77962500820c9abc9b5fbe498cab6871" /> <input type="submit" class="newsbutton" value="Go" /></span></td>
+  </tr>
+</table>
+</form>
+
+
+<p align="center">
+<table align="center" border="0">
+<tr>
+<td align="left">
+<!-- eBay RelevanceAd -->
+<script language='JavaScript' type='text/javascript'>
+//<-- DO NOT CHANGE -->
+// <!--<[CDATA[
+    era_width = '120';
+    era_height = '120';
+    era_layout = 'img';
+    era_color_border = 'FFFFFF';
+    era_color_bg = 'FFFFFF';
+    era_color_text = '000000';
+    era_color_title = '000000';
+    era_color_link = '003399';
+    era_itemtype = '0';
+    era_maxprice = '50';
+    era_desiredcategory = '83733';
+    era_hint= 'sammler,collector,edition,special,SE';
+    era_publisher='282182';
+// ]]> -->
+</script>
+<script language='JavaScript' type='text/javascript' src='http://ebayrelevancead.webmasterplan.com/js/show_ads.js'></script>
+<!-- /eBay RelevanceAd -->
+
+</td>
+
+<td align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+  //<!--<[CDATA[
+    am_referrer = '282182';
+    am_template = '4';
+
+    am_color_text = '000000';
+    am_color_title = '000000';
+    am_color_border = 'FFFFFF';
+    am_color_background = 'FFFFFF';
+    am_color_price = '990000';
+    am_color_link = '333333';
+
+    am_stmo = '1';
+  // ]]> -->
+</script>
+<script language="JavaScript" type="text/javascript" src="http://banners.affilimatch.de/show_ads.js"></script>
+<!-- END PARTNER PROGRAM -->
+</td>
+<td align="right">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<a href="http://partners.webmasterplan.com/click.asp?ref=282182&site=3729&type=b86&bnb=86"  target="_top">
+<img src="http://banners.webmasterplan.com/view.asp?ref=282182&site=3729&b=86" border="0" alt="Tauschen statt kaufen! Bei Anmeldung ein Artikel geschenkt. Hier klicken!" width="125" height="125"/></a><br>
+<!-- END PARTNER PROGRAM -->
+</td>
+</tr></table>
+
+
+
+
+
+
+
+
+
+<!-- Site Meter --><p align="right">
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1247354-1";
+urchinTracker();
+</script>
+
+  	</td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td class="left"></td>
+	<td class="row2" align="center"><span class="copyright"><br /><br />
+	Based on DAJ Glass, a template by <a href="http://www.dumbassjones.com/" target="_blank" class="copyright">Dustin Baccetti</a>. EQ graphic based off of a design from <a href="http://www.freeclipart.nu" class="copyright" target="blank">www.freeclipart.nu</a>. Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> © 2001, 2006 phpBB Group<br><a href="http://disturbed-reality.de/blog/?page_id=645">Impressum</a> | <a href="http://disturbed-reality.de/blog/?page_id=1624">Datenschutzhinweise</a><br /></span></td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td height="27" class="ll"></td>
+	<td class="lc"></td>
+	<td class="lr"></td>
+  </tr>
+</table>
+
+</body>
+</html>

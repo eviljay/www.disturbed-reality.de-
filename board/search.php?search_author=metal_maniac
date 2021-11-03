@@ -1,0 +1,500 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php" title="board.disturbed-reality.de Foren-Übersicht" />
+<link rel="search" href="./search.php" title="Suchen" />
+<link rel="help" href="./faq.php" title="FAQ" />
+<link rel="author" href="./memberlist.php" title="Mitgliederliste" />
+
+<title>board.disturbed-reality.de :: Suchen</title>
+<link rel="stylesheet" href="templates/DAJ_Glass/DAJ_Glass.css" type="text/css" />
+</head>
+<body>
+
+<a name="top"></a>
+
+<br class="gensmall">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+  	<td height="14" width="25" nowrap="nowrap" class="ul"></td>
+	<td width="100%" class="uc"></td>
+	<td width="25" nowrap="nowrap" class="ur"></td>
+  </tr>
+  <tr>
+  	<td class="headl"></td>
+	<td class="row3"><a href="index.php"><img src="templates/DAJ_Glass/images/logo_phpBB.gif" border="0" alt="board.disturbed-reality.de Foren-Übersicht" /></a>
+	</td>
+	<td class="headr"></td>
+  </tr>
+  <tr valign="bottom">
+  	<td rowspan="3" class="tul"></td>
+	<td height="30" class="tuc">
+	  <table width="100%" cellspacing="0" cellpadding="2">
+	  	<tr valign="bottom">
+		  <td><a href="index.php" class="mainmenu1">board.disturbed-reality.de</a></td>
+		  <td align="right" nowrap="nowrap">
+	  		<table cellspacing="0" cellpadding="0" border="0">
+	  		  <tr valign="bottom">
+	  		  <td>: <a href="http://disturbed-reality.de/blog/" class="mainmenu1">Blog</a> ::
+						<a href="http://disturbed-reality.de/review/" class="mainmenu1">Reviews</a> ::
+						<i class="mainmenu1">Board</i> :</td>
+		  		<td><a href="faq.php"><img src="templates/DAJ_Glass/images/icon_mini_faq.gif" border="0" alt="FAQ" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="faq.php" class="mainmenu1">FAQ</a>  </span></td>
+		  		<td><a href="search.php"><img src="templates/DAJ_Glass/images/icon_mini_search.gif" border="0" alt="Suchen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="search.php" class="mainmenu1">Suchen</a>  </span></td>
+		  		<td><a href="memberlist.php"><img src="templates/DAJ_Glass/images/icon_mini_members.gif" border="0" alt="Mitgliederliste" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="memberlist.php" class="mainmenu1">Mitgliederliste</a>  </span></td>
+		  		<td><a href="groupcp.php"><img src="templates/DAJ_Glass/images/icon_mini_groups.gif" border="0" alt="Benutzergruppen" /></a></td>
+		  		<td><span class="mainmenu1"> <a href="groupcp.php" class="mainmenu1">Benutzergruppen</a></span></td>
+			  </tr>
+	  		</table>
+		  </td>
+		</tr>
+	  </table>
+	</td>
+	<td rowspan="3" class="tur"></td>
+  </tr>
+  <tr>
+  	<td height="10" class="row5"><img src="templates/DAJ_Glass/images/spacer.gif" border="0" height="1" width="1"></td>
+  </tr>
+  <tr valign="top">
+	<td height="30" nowrap="nowrap" class="tlc">
+	  <table width="100%" cellspacing="0" cellpadding="2" border="0">
+	  	<tr valign="top">
+		  <td><span class="mainmenu1">
+		  <a href="profile.php?mode=register" class="mainmenu1">Registrieren</a>  :: 
+		  <a href="login.php" class="mainmenu1">Login</a>
+		  </span></td>
+		  <td nowrap="nowrap" align="right"><span class="mainmenu1">
+		  <a href="privmsg.php?folder=inbox" class="mainmenu1">Einloggen, um private Nachrichten zu lesen</a>
+		  </span></td>
+		</tr>
+	  </table>
+	</td>
+  </tr>
+  <tr>
+    <td class="left"></td>
+	<td class="row2">
+<i><small>Werbung:</small></i>
+
+<ul style="margin-bottom:0px; list-style:none; border-spacing:0px; border:0px none #FFFFFF; margin-right:0px; overflow:hidden; width:100%; padding:0px;  margin-top:0px;">
+	<li style="display:inline; width:49%; float:left; clear:none;"><a style="line-height:140%; font-size:12px; " href="http://www.geizclub24.de/gutscheine/DVD" target="_self">DVD Gutscheine</a></li>
+</ul>
+<hr><table width="100%" cellspacing="1" cellpadding="1" border="0">
+  <tr valign="top">
+	<td nowrap="nowrap"><img src="templates/DAJ_Glass/images/nav.gif" border="0"></td>
+	<td width="100%" class="mainmenu"><a href="index.php" class="mainmenu">board.disturbed-reality.de Foren-Übersicht</a> » <a href="search.php" class="mainmenu">Suchen</a></td>
+  </tr>
+</table>
+
+<br />
+
+<table width="100%" cellspacing="0" cellpadding="0" class="forumline">
+  <tr>
+	<td height="25" nowrap="nowrap" class="row4"><span class="cattitle"> Die Suche hat 877 Ergebnisse ergeben.</span></td>
+  </tr>
+  <tr>
+  	<td colspan="3">
+	  <table width="100%" cellspacing="1" cellpadding="3" border="0">
+		<tr align="center">
+		  <td width="150" height="20" class="row6" nowrap="nowrap"><span class="mainmenu">Autor</span></td>
+		  <td width="100%" class="row6" nowrap="nowrap"><span class="mainmenu">Nachricht</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5274&amp;highlight=" class="mainmenu">Saw 3</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>137</b><br />Aufrufe: <b>30962</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Do Feb 01, 2007 10:38 pm   Titel: <b><a href="viewtopic.php?p=69524&amp;highlight=#69524">Saw 3</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">aber eins muss von sinarius und mir auch noch in bezug auf das publikum dazu gesagt werden ...<br /><br />oldies but goldies  http://wuerziworld.de/Smilies/gruselgoldis/hallo16.gif <br /><br />wir waren mit die ältes ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5274&amp;highlight=" class="mainmenu">Saw 3</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>137</b><br />Aufrufe: <b>30962</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mo Jan 29, 2007 11:31 am   Titel: <b><a href="viewtopic.php?p=69433&amp;highlight=#69433">Saw 3</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">1. Wann hat denn die Band im 2 Rooms angefangen? Also als ich dort war, war da noch nix mit Band, ich hab mich dann wieder verzogen denn die Musik die dort gelaufen ist bevor die Band kam, hat irgendw ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6683&amp;highlight=" class="mainmenu">&quot;reeker&quot; von 18 auf 16???</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>802</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: Mi Nov 08, 2006 9:10 am   Titel: <b><a href="viewtopic.php?p=66556&amp;highlight=#66556">&quot;reeker&quot; von 18 auf 16???</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">danke schön ...  http://www.cosgan.de/images/more/bigs/c014.gif</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6285&amp;highlight=" class="mainmenu">Crank - Trailer</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>21</b><br />Aufrufe: <b>3983</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Mo Nov 06, 2006 9:49 pm   Titel: <b><a href="viewtopic.php?p=66477&amp;highlight=#66477">Crank - Trailer</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">der film ist aber NICHTS für leute, die mit medizin zu tun haben  <img src="images/smiles/icon_rolleyes.gif" alt="Rolling Eyes" border="0" />  ... denn sowenig &quot;realität&quot; in bezug auf adrenalin hab ich schon lange nicht mehr gesehen  <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" /><br /><br />ich fand ihn int ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1869</b><br />Aufrufe: <b>399589</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mo Nov 06, 2006 9:46 pm   Titel: <b><a href="viewtopic.php?p=66475&amp;highlight=#66475">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">NAVY CIS 2.1 + 2.2<br />Reeker<br />Lordi - market square massacre</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6683&amp;highlight=" class="mainmenu">&quot;reeker&quot; von 18 auf 16???</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>802</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=19" class="postdetails">Schnittberichte und Zensur</a></b>   Verfasst am: Mo Nov 06, 2006 1:38 pm   Titel: <b><a href="viewtopic.php?p=66439&amp;highlight=#66439">&quot;reeker&quot; von 18 auf 16???</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">habe neulich in einem 18er bereich den film &quot;reeker&quot; bestellt ... heute kam er ... ausgezeichnet mit &quot;freigegeben ab 16&quot;<br /><br />es ist aber die UNCUT version ... bei der OFDB steht nur ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1869</b><br />Aufrufe: <b>399589</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mo Okt 02, 2006 4:10 pm   Titel: <b><a href="viewtopic.php?p=65283&amp;highlight=#65283">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">navy cis 1.1 und 1.2<br />die purpurnen flüsse</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1869</b><br />Aufrufe: <b>399589</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Sa Sep 30, 2006 10:24 pm   Titel: <b><a href="viewtopic.php?p=65231&amp;highlight=#65231">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">die 12 geschworenen</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6462&amp;highlight=" class="mainmenu">subway-sandwiches</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>18</b><br />Aufrufe: <b>3893</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=26" class="postdetails">Sunshine-bar</a></b>   Verfasst am: Sa Sep 23, 2006 7:51 am   Titel: <b><a href="viewtopic.php?p=65007&amp;highlight=#65007">subway-sandwiches</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody"><br /><br />guggst du hier ---&gt;&gt;&gt; http://www.subway-vs.de/centix/speisekarte/foglestory.html<br /><br /><br /><br /> <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" /> <br />da kann man ja ne doku drüber drehen...<br /><br />aber fetten respekt an den typen der es ausgeha ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6466&amp;highlight=" class="mainmenu">Budapest</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>16</b><br />Aufrufe: <b>3922</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=26" class="postdetails">Sunshine-bar</a></b>   Verfasst am: Fr Sep 22, 2006 5:30 pm   Titel: <b><a href="viewtopic.php?p=64981&amp;highlight=#64981">Budapest</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody"><br />*nur mit der Unterhose bekleidet durch's Forum saust* ---&gt; <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br /><br /><br /> http://www.cosgan.de/images/more/bigs/a136.gif  *wegrenn*<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> http://www.cosgan.de/images/more/bi ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6465&amp;highlight=" class="mainmenu">Mecklenburg-Vorpommern hat gewählt!</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>14</b><br />Aufrufe: <b>2321</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=45" class="postdetails">Politik</a></b>   Verfasst am: Do Sep 21, 2006 10:26 pm   Titel: <b><a href="viewtopic.php?p=64945&amp;highlight=#64945">Mecklenburg-Vorpommern hat gewählt!</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">schonmal darüber nachgedacht, dass es auch einige leute gibt, die einfach aus protest die NPD wählen, weil sie mit dem restlichen politischen parteiangebot nicht zufrieden sind?!?!?!</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6462&amp;highlight=" class="mainmenu">subway-sandwiches</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>18</b><br />Aufrufe: <b>3893</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=26" class="postdetails">Sunshine-bar</a></b>   Verfasst am: Mo Sep 18, 2006 11:32 pm   Titel: <b><a href="viewtopic.php?p=64789&amp;highlight=#64789">subway-sandwiches</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">@hope ... du bildest es dir nicht ein, dass du gesund isst ... es ist gesund ... <br /><br /><br />guggst du hier ---&gt;&gt;&gt; http://www.subway-vs.de/centix/speisekarte/foglestory.html<br /><br />und teuer ist relati ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1869</b><br />Aufrufe: <b>399589</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Fr Sep 15, 2006 1:42 pm   Titel: <b><a href="viewtopic.php?p=64611&amp;highlight=#64611">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">die dritte staffel von CSI Miami bei Amazon gekauft <br /><br />2 DVD Boxen für je 29,95€<br /><br /><br />nächsten Monat gehts dann mit CSI weiter *öhm* oder Navy CIS *hihi*</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6452&amp;highlight=" class="mainmenu">Sinarius self-made-desperate-housewifes-box</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>5</b><br />Aufrufe: <b>695</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=20" class="postdetails">Allgemeines</a></b>   Verfasst am: Fr Sep 15, 2006 1:35 pm   Titel: <b><a href="viewtopic.php?p=64608&amp;highlight=#64608">Sinarius self-made-desperate-housewifes-box</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">wow ... danke  <img src="images/smiles/icon_redface.gif" alt="Embarassed" border="0" />  fürs gratulieren ... mal schauen wie die ECHTE box rüber kommt ... aber auf keinen fall so ideenreich wie von sinarius gemacht ... und das sag ich nicht, weils sinarius ist *g*</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6452&amp;highlight=" class="mainmenu">Sinarius self-made-desperate-housewifes-box</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>5</b><br />Aufrufe: <b>695</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=20" class="postdetails">Allgemeines</a></b>   Verfasst am: Fr Sep 15, 2006 1:20 am   Titel: <b><a href="viewtopic.php?p=64598&amp;highlight=#64598">Sinarius self-made-desperate-housewifes-box</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Meinst Du mit unscharf nur die Bilder oder auch die Cover der Box?<br /><br />Ansonsten sieht die Box sehr nett aus. <img src="images/smiles/alo_daumenhoch.gif" alt="daumenhoch" border="0" /><br /><br /><br />unscharf sind nur meine aufnahmen geworden ... ansonsten ist an dem ding alles  ht ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6453&amp;highlight=" class="mainmenu">wärs doch nur ketchup gewesen ...</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1</b><br />Aufrufe: <b>341</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Do Sep 14, 2006 11:13 pm   Titel: <b><a href="viewtopic.php?p=64580&amp;highlight=#64580">wärs doch nur ketchup gewesen ...</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">.... http://metal-maniac.chris-blues.de/upload/halle%20berry.jpg</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6452&amp;highlight=" class="mainmenu">Sinarius self-made-desperate-housewifes-box</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>5</b><br />Aufrufe: <b>695</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=20" class="postdetails">Allgemeines</a></b>   Verfasst am: Do Sep 14, 2006 10:16 pm   Titel: <b><a href="viewtopic.php?p=64546&amp;highlight=#64546">Sinarius self-made-desperate-housewifes-box</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">guggt ihr hier ... hab ich von sinarius zum 2-jährigen geschenkt bekommen ...leider biiiiiisschen unscharf geworden  <img src="images/smiles/icon_cool.gif" alt="Cool" border="0" /> <br /><br />http://metal-maniac.chris-blues.de/upload/DH%203.jpg<br /><br />http://metal-maniac. ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6435&amp;highlight=" class="mainmenu">Peter Jackson verfilmt &quot;Temeraire&quot;</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>3</b><br />Aufrufe: <b>829</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=43" class="postdetails">Hollywood und mehr…</a></b>   Verfasst am: Do Sep 14, 2006 1:24 pm   Titel: <b><a href="viewtopic.php?p=64492&amp;highlight=#64492">Peter Jackson verfilmt &quot;Temeraire&quot;</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">so genial ich auch jackson finde ... aber meine SAPHIRA wird der niemals hinbekommen!!! http://metal-maniac.chris-blues.de/upload/saphira_04.jpg</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1869</b><br />Aufrufe: <b>399589</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mi Sep 13, 2006 4:08 pm   Titel: <b><a href="viewtopic.php?p=64466&amp;highlight=#64466">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">ZZ Top - Greatest Hits<br />Jethro Tull - Slipstream<br />Serialkillers - Die echten Hannibal Lecters<br /><br />je 4,99€ bei REAL <br /><br /><br />dann noch Nachtrag von DVD Messe vor 1,5 Wochen in München<br /><br />the secret life o ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=5012&amp;highlight=" class="mainmenu">The Descent</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>72</b><br />Aufrufe: <b>20498</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=28" class="postdetails">Splatter & Horror</a></b>   Verfasst am: Mo Aug 28, 2006 11:56 pm   Titel: <b><a href="viewtopic.php?p=63756&amp;highlight=#63756">The Descent</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">schade ums geld für diesen miesen streifen!!!</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=1405&amp;highlight=" class="mainmenu">Eure neusten DVD´s</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>1869</b><br />Aufrufe: <b>399589</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=30" class="postdetails">DVD, VHS & laserdisk</a></b>   Verfasst am: Mo Aug 28, 2006 4:57 pm   Titel: <b><a href="viewtopic.php?p=63689&amp;highlight=#63689">Eure neusten DVD´s</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">von Amazon.de für 7,99€<br /><br />Sieben (special edition 2-disc set)<br /><br /><br /><br />von sinarius am samstag geschenkt bekommen http://www.cosgan.de/images/smilie/liebe/s010.gif <br /><br />beim Weltbild-Verlag<br /><br />Drei Hase ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6329&amp;highlight=" class="mainmenu">Desperatly seeking: 10.000 Splatteralex ;-)</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>50</b><br />Aufrufe: <b>14669</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=2" class="postdetails">Brainfuck</a></b>   Verfasst am: Do Aug 24, 2006 5:21 pm   Titel: <b><a href="viewtopic.php?p=63546&amp;highlight=#63546">Desperatly seeking: 10.000 Splatteralex ;-)</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">ja und um wat? um nüscht ...  http://www.cosgan.de/smiliegenerator/ablage/275/7.png</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6329&amp;highlight=" class="mainmenu">Desperatly seeking: 10.000 Splatteralex ;-)</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>50</b><br />Aufrufe: <b>14669</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=2" class="postdetails">Brainfuck</a></b>   Verfasst am: Do Aug 24, 2006 3:25 pm   Titel: <b><a href="viewtopic.php?p=63536&amp;highlight=#63536">Desperatly seeking: 10.000 Splatteralex ;-)</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Meine Theorie ist ja eher, dass Alex festgestellt hat, dass der Postcount nur bis 9999 geht und sich dann wieder auf 0 zurücksetzt. Und nun fürchtet er um sein Lebenswerk. <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />   http://disturbed-realit ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6330&amp;highlight=" class="mainmenu">Geil wenn's echt wäre</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>7</b><br />Aufrufe: <b>639</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=25" class="postdetails">Lustiges aus dem Netz</a></b>   Verfasst am: Mi Aug 23, 2006 10:56 pm   Titel: <b><a href="viewtopic.php?p=63524&amp;highlight=#63524">Re: Geil wenn's echt wäre</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">Ich hab das sogar so clever angerichtet, dass ich zwischen Bett und Couch wechseln kann ohne dabei den BODEN BERÜHREN ZU MÜSSEN! <br /><br /><br /> http://www.cosgan.de/images/more/bigs/e076.gif   auch haben will ...</span></td>
+  		</tr>
+  		<tr>
+		  <td class="row1" colspan="2" height="20"><span class="mainmenu"><img src="templates/DAJ_Glass/images/folder.gif" border="0" align="absmiddle" />  Thema: <a href="viewtopic.php?t=6329&amp;highlight=" class="mainmenu">Desperatly seeking: 10.000 Splatteralex ;-)</a></span></td>
+  		</tr>
+  		<tr>
+		  <td width="150" valign="top" class="row7" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=623">metal_maniac</a></b></span><br /><br />
+	  	  <span class="postdetails">Antworten: <b>50</b><br />Aufrufe: <b>14669</b></span><br /></td>
+		  <td width="100%" valign="middle" height="20" class="row2"><img src="templates/DAJ_Glass/images/icon_minipost.gif" alt="Beitrag" title="Beitrag" border="0" /><span class="postdetails">Forum: <b><a href="viewforum.php?f=2" class="postdetails">Brainfuck</a></b>   Verfasst am: Mi Aug 23, 2006 10:44 pm   Titel: <b><a href="viewtopic.php?p=63522&amp;highlight=#63522">Desperatly seeking: 10.000 Splatteralex ;-)</a></b></span></td>
+  		</tr>
+  		<tr>
+		  <td valign="top" class="row2"><span class="postbody">wir schreiben das jahr 2666 ... wir befinden uns in einer fernen zukunft ... das splatterforum dringt dabei in galaxien vor ... die nie ein mensch zuvor gesehen hat ... <br /><br />auf der suche nach dem ents ...</span></td>
+  		</tr>
+	  </table>
+	</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+  <tr valign="top">
+	<td><span class="genmed">Gehe zu Seite <b>1</b>, <a href="search.php?search_id=624458843&amp;start=25">2</a>, <a href="search.php?search_id=624458843&amp;start=50">3</a> ... <a href="search.php?search_id=624458843&amp;start=825">34</a>, <a href="search.php?search_id=624458843&amp;start=850">35</a>, <a href="search.php?search_id=624458843&amp;start=875">36</a>&nbsp;&nbsp;<a href="search.php?search_id=624458843&amp;start=25">Weiter</a></span></td>
+	<td align="right" nowrap="nowrap"><span class="nav">Seite <b>1</b> von <b>36</b></span></td>
+  </tr>
+</table>
+
+<br /><form method="get" name="jumpbox" action="viewforum.php" onSubmit="if(document.jumpbox.f.value == -1){return false;}">
+<table width="100%" cellspacing="1" border="0" cellpadding="1">
+  <tr>
+	<td align="right" nowrap="nowrap"><span class="gensmall">Gehe zu: <select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42">Updates</option><option value="17">Support</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">Brainfuck</option><option value="25">Lustiges aus dem Netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">Allgemeines</option><option value="28">Splatter & Horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">Hollywood und mehr…</option><option value="19">Schnittberichte und Zensur</option><option value="34">Amateurfilme, Börsen & Veranstaltungen</option><option value="31">...im TV</option><option value="33">...und die passende Musik</option><option value="32">Gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">Marktplatz</option><option value="-1">----------------</option><option value="23">Gesucht und Gefunden</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">Hard-& Software</option><option value="-1">----------------</option><option value="36">Computer, Betriebssysteme & Programme</option><option value="37">Internet</option><option value="38">Spiele</option><option value="-1">&nbsp;</option><option value="-1">Offtopic</option><option value="-1">----------------</option><option value="26">Sunshine-bar</option><option value="45">Politik</option></select><input type="hidden" name="sid" value="77962500820c9abc9b5fbe498cab6871" /> <input type="submit" class="newsbutton" value="Go" /></span></td>
+  </tr>
+</table>
+</form>
+
+
+<p align="center">
+<table align="center" border="0">
+<tr>
+<td align="left">
+<!-- eBay RelevanceAd -->
+<script language='JavaScript' type='text/javascript'>
+//<-- DO NOT CHANGE -->
+// <!--<[CDATA[
+    era_width = '120';
+    era_height = '120';
+    era_layout = 'img';
+    era_color_border = 'FFFFFF';
+    era_color_bg = 'FFFFFF';
+    era_color_text = '000000';
+    era_color_title = '000000';
+    era_color_link = '003399';
+    era_itemtype = '0';
+    era_maxprice = '50';
+    era_desiredcategory = '83733';
+    era_hint= 'sammler,collector,edition,special,SE';
+    era_publisher='282182';
+// ]]> -->
+</script>
+<script language='JavaScript' type='text/javascript' src='http://ebayrelevancead.webmasterplan.com/js/show_ads.js'></script>
+<!-- /eBay RelevanceAd -->
+
+</td>
+
+<td align="center">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<script language="JavaScript" type="text/javascript">
+  //<!--<[CDATA[
+    am_referrer = '282182';
+    am_template = '4';
+
+    am_color_text = '000000';
+    am_color_title = '000000';
+    am_color_border = 'FFFFFF';
+    am_color_background = 'FFFFFF';
+    am_color_price = '990000';
+    am_color_link = '333333';
+
+    am_stmo = '1';
+  // ]]> -->
+</script>
+<script language="JavaScript" type="text/javascript" src="http://banners.affilimatch.de/show_ads.js"></script>
+<!-- END PARTNER PROGRAM -->
+</td>
+<td align="right">
+<!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK -->
+<a href="http://partners.webmasterplan.com/click.asp?ref=282182&site=3729&type=b86&bnb=86"  target="_top">
+<img src="http://banners.webmasterplan.com/view.asp?ref=282182&site=3729&b=86" border="0" alt="Tauschen statt kaufen! Bei Anmeldung ein Artikel geschenkt. Hier klicken!" width="125" height="125"/></a><br>
+<!-- END PARTNER PROGRAM -->
+</td>
+</tr></table>
+
+
+
+
+
+
+
+
+
+<!-- Site Meter --><p align="right">
+<script type="text/javascript" src="http://s25.sitemeter.com/js/counter.js?site=s25nbkdnzr">
+</script>
+<noscript>
+<a href="http://s25.sitemeter.com/stats.asp?site=s25nbkdnzr" target="_top">
+<img src="http://s25.sitemeter.com/meter.asp?site=s25nbkdnzr" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1247354-1";
+urchinTracker();
+</script>
+
+  	</td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td class="left"></td>
+	<td class="row2" align="center"><span class="copyright"><br /><br />
+	Based on DAJ Glass, a template by <a href="http://www.dumbassjones.com/" target="_blank" class="copyright">Dustin Baccetti</a>. EQ graphic based off of a design from <a href="http://www.freeclipart.nu" class="copyright" target="blank">www.freeclipart.nu</a>. Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> © 2001, 2006 phpBB Group<br><a href="http://disturbed-reality.de/blog/?page_id=645">Impressum</a> | <a href="http://disturbed-reality.de/blog/?page_id=1624">Datenschutzhinweise</a><br /></span></td>
+	<td class="right"></td>
+  </tr>
+  <tr>
+  	<td height="27" class="ll"></td>
+	<td class="lc"></td>
+	<td class="lr"></td>
+  </tr>
+</table>
+
+</body>
+</html>

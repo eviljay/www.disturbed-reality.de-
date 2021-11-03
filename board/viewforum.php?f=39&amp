@@ -1,0 +1,228 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<title>::board.bist-du-bloe.de:: :: Forum anzeigen - ps/2 & konsolen</title>
+<link rel="stylesheet" href="templates/smartDark/smartDark.css" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0">
+
+<a name="top"></a>
+
+<table width="97%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=d188b5ae8d478f0615e5b9ae6068319a"><img src="templates/smartDark/images/logo_phpBB.gif" alt="::board.bist-du-bloe.de::" border="0"></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">::board.bist-du-bloe.de::</span><br /><span class="gen">'leap your head up high and pull your brains out'<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="faq.php?sid=d188b5ae8d478f0615e5b9ae6068319a" class="mainmenu">FAQ</a></span><span class="mainmenu"> :: <a href="search.php?sid=d188b5ae8d478f0615e5b9ae6068319a" class="mainmenu">Suchen</a> :: <a href="memberlist.php?sid=d188b5ae8d478f0615e5b9ae6068319a" class="mainmenu">Mitgliederliste</a> :: <a href="groupcp.php?sid=d188b5ae8d478f0615e5b9ae6068319a" class="mainmenu">Benutzergruppen</a>
+						:: <a href="profile.php?mode=register&amp;sid=d188b5ae8d478f0615e5b9ae6068319a" class="mainmenu">Registrieren</a></span>
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="profile.php?mode=editprofile&amp;sid=d188b5ae8d478f0615e5b9ae6068319a" class="mainmenu">Profil</a> :: <a href="privmsg.php?folder=inbox&amp;sid=d188b5ae8d478f0615e5b9ae6068319a" class="mainmenu">Einloggen, um private Nachrichten zu lesen</a> :: <a href="login.php?sid=d188b5ae8d478f0615e5b9ae6068319a" class="mainmenu">Login</a></span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+		<br />
+
+<form method="post" action="viewforum.php?f=39&amp;start=0&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">
+  <table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+	<tr>
+	  <td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewforum.php?f=39&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">ps/2 & konsolen</a><br /><span class="gensmall"><b><b>Moderatoren</b>: <a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">alo</a>, <a href="groupcp.php?g=377&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">fickschweine</a><br /><br />Benutzer in diesem Forum: Keine</b></span></td>
+	  <td align="right" valign="bottom" nowrap="nowrap"><span class="gensmall"><b></b></span></td>
+	</tr>
+	<tr>
+	  <td align="left" valign="middle" width="50"><a href="posting.php?mode=newtopic&amp;f=39&amp;sid=d188b5ae8d478f0615e5b9ae6068319a"><img src="templates/smartDark/images/lang_english/post.gif" border="0" alt="Neues Thema eröffnen" /></a></td>
+	  <td align="left" valign="middle" class="nav" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=d188b5ae8d478f0615e5b9ae6068319a" class="nav">::board.bist-du-bloe.de:: Foren-Übersicht</a> -> <a class="nav" href="viewforum.php?f=39&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">ps/2 & konsolen</a></span></td>
+	  <td align="right" valign="bottom" class="nav" nowrap="nowrap"><span class="gensmall"><a href="viewforum.php?f=39&amp;mark=topics&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Alle Themen als gelesen markieren</a></span></td>
+	</tr>
+  </table>
+
+  <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline">
+	<tr>
+	  <th colspan="2" align="center" height="25" class="thCornerL" nowrap="nowrap">&nbsp;Themen&nbsp;</th>
+	  <th width="50" align="center" class="thTop" nowrap="nowrap">&nbsp;Antworten&nbsp;</th>
+	  <th width="100" align="center" class="thTop" nowrap="nowrap">&nbsp;Autor&nbsp;</th>
+	  <th width="50" align="center" class="thTop" nowrap="nowrap">&nbsp;Aufrufe&nbsp;</th>
+	  <th align="center" class="thCornerR" nowrap="nowrap">&nbsp;Letzter&nbsp;Beitrag&nbsp;</th>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=5084&amp;sid=d188b5ae8d478f0615e5b9ae6068319a" class="topictitle">Welches Game wird bei O.C. California gespielt?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">5</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=587&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Dendemann</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">91</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sa Aug 27, 2005 9:41 am<br /><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Refu</a> <a href="viewtopic.php?p=51481&amp;sid=d188b5ae8d478f0615e5b9ae6068319a#51481"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4000&amp;sid=d188b5ae8d478f0615e5b9ae6068319a" class="topictitle">Kultiges Videospiele-Quiz! :)</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">15</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=559&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Lester_Chaykin</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">262</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mo Mai 02, 2005 10:57 pm<br /><a href="profile.php?mode=viewprofile&amp;u=126&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">burnedeyez</a> <a href="viewtopic.php?p=47690&amp;sid=d188b5ae8d478f0615e5b9ae6068319a#47690"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4322&amp;sid=d188b5ae8d478f0615e5b9ae6068319a" class="topictitle">Grand Theft Auto: San Andreas</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">7</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=587&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Dendemann</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">143</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">So Nov 14, 2004 5:52 pm<br /><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Sinarius</a> <a href="viewtopic.php?p=43191&amp;sid=d188b5ae8d478f0615e5b9ae6068319a#43191"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2789&amp;sid=d188b5ae8d478f0615e5b9ae6068319a" class="topictitle">Phantom Konsole!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">2</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=389&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Tempelritter</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">113</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sa Jul 03, 2004 3:27 am<br /><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Sinarius</a> <a href="viewtopic.php?p=35411&amp;sid=d188b5ae8d478f0615e5b9ae6068319a#35411"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=821&amp;sid=d188b5ae8d478f0615e5b9ae6068319a" class="topictitle">Kampf der Spielekonsolen</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">14</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">243</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mi Mai 26, 2004 2:37 pm<br /><a href="profile.php?mode=viewprofile&amp;u=507&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Alexiel</a> <a href="viewtopic.php?p=32951&amp;sid=d188b5ae8d478f0615e5b9ae6068319a#32951"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder_lock.gif" width="19" height="18" alt="Dieses Thema ist gesperrt, du kannst keine Beiträge editieren oder beantworten." title="Dieses Thema ist gesperrt, du kannst keine Beiträge editieren oder beantworten." /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=3230&amp;sid=d188b5ae8d478f0615e5b9ae6068319a" class="topictitle">ManHunt</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=463&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Stickhead</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">115</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fr Feb 20, 2004 3:22 pm<br /><a href="profile.php?mode=viewprofile&amp;u=240&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Freddy_Krueger</a> <a href="viewtopic.php?p=29883&amp;sid=d188b5ae8d478f0615e5b9ae6068319a#29883"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=795&amp;sid=d188b5ae8d478f0615e5b9ae6068319a" class="topictitle">Mortal Kombat 5 - Deady Alliance</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">10</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Refu</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">199</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Do Feb 19, 2004 8:16 pm<br /><a href="profile.php?mode=viewprofile&amp;u=463&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">Stickhead</a> <a href="viewtopic.php?p=29848&amp;sid=d188b5ae8d478f0615e5b9ae6068319a#29848"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="catBottom" align="center" valign="middle" colspan="6" height="28"><span class="genmed">Siehe Beiträge der letzten:&nbsp;<select name="topicdays"><option value="0" selected="selected">Alle Themen anzeigen</option><option value="1">1 Tag</option><option value="7">7 Tage</option><option value="14">2 Wochen</option><option value="30">1 Monat</option><option value="90">3 Monate</option><option value="180">6 Monate</option><option value="364">1 Jahr</option></select>&nbsp;
+		<input type="submit" class="liteoption" value="Go" name="submit" />
+		</span></td>
+	</tr>
+  </table>
+
+  <table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+	<tr>
+	  <td align="left" valign="middle" width="50"><a href="posting.php?mode=newtopic&amp;f=39&amp;sid=d188b5ae8d478f0615e5b9ae6068319a"><img src="templates/smartDark/images/lang_english/post.gif" border="0" alt="Neues Thema eröffnen" /></a></td>
+	  <td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=d188b5ae8d478f0615e5b9ae6068319a" class="nav">::board.bist-du-bloe.de:: Foren-Übersicht</a> -> <a class="nav" href="viewforum.php?f=39&amp;sid=d188b5ae8d478f0615e5b9ae6068319a">ps/2 & konsolen</a></span></td>
+	  <td align="right" valign="middle" nowrap="nowrap"><span class="gensmall">Alle Zeiten sind GMT + 2 Stunden</span><br /><span class="nav"></span>
+		</td>
+	</tr>
+	<tr>
+	  <td align="left" colspan="3"><span class="nav">Seite <b>1</b> von <b>1</b></span></td>
+	</tr>
+  </table>
+</form>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+	<td align="right">
+<form method="get" name="jumpbox" action="viewforum.php?sid=d188b5ae8d478f0615e5b9ae6068319a" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Gehe zu:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42">updates</option><option value="21">der brotkorb</option><option value="17">support-board</option><option value="18">verbesserungen&wünsche</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">*brainfuck</option><option value="41">bolzplatz</option><option value="25">lustiges aus dem netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">allgemein</option><option value="28">splatter&horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">hollywood</option><option value="19">schnittberichte&zensur</option><option value="34">amateur filme & börsen</option><option value="31">...im TV</option><option value="33">...und die passende musik</option><option value="32">gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">shop</option><option value="-1">----------------</option><option value="23">zu verkaufen</option><option value="24">suche</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">hard/software/technik</option><option value="-1">----------------</option><option value="27">allgemein</option><option value="36">windows/linux/OS/2/... betriebssysteme</option><option value="37">internet und alles was dranhängt</option><option value="38">games</option><option value="39">ps/2 & konsolen</option><option value="-1">&nbsp;</option><option value="-1">off topic</option><option value="-1">----------------</option><option value="26">sunshine-bar</option><option value="45">politik</option></select><input type="hidden" name="sid" value="d188b5ae8d478f0615e5b9ae6068319a" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="0" border="0" align="center" cellpadding="0">
+	<tr>
+		<td align="left" valign="top"><table cellspacing="3" cellpadding="0" border="0">
+			<tr>
+				<td width="20" align="left"><img src="templates/smartDark/images/folder_new.gif" alt="Neue Beiträge" width="19" height="18" /></td>
+				<td class="gensmall">Neue Beiträge</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/smartDark/images/folder.gif" alt="Keine neuen Beiträge" width="19" height="18" /></td>
+				<td class="gensmall">Keine neuen Beiträge</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/smartDark/images/folder_announce.gif" alt="Ankündigung" width="19" height="18" /></td>
+				<td class="gensmall">Ankündigung</td>
+			</tr>
+			<tr>
+				<td width="20" align="center"><img src="templates/smartDark/images/folder_new_hot.gif" alt="Neue Beiträge [ Top-Thema ]" width="19" height="18" /></td>
+				<td class="gensmall">Neue Beiträge [ Top-Thema ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/smartDark/images/folder_hot.gif" alt="Keine neuen Beiträge [ Top-Thema ]" width="19" height="18" /></td>
+				<td class="gensmall">Keine neuen Beiträge [ Top-Thema ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/smartDark/images/folder_sticky.gif" alt="Wichtig" width="19" height="18" /></td>
+				<td class="gensmall">Wichtig</td>
+			</tr>
+			<tr>
+				<td class="gensmall"><img src="templates/smartDark/images/folder_lock_new.gif" alt="" width="19" height="18" /></td>
+				<td class="gensmall">Neue Beiträge [ Gesperrt ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td class="gensmall"><img src="templates/smartDark/images/folder_lock.gif" alt="" width="19" height="18" /></td>
+				<td class="gensmall">Keine neuen Beiträge [ Gesperrt ]</td>
+			</tr>
+		</table></td>
+		<td align="right"><span class="gensmall">Du <b>kannst keine</b> Beiträge in dieses Forum schreiben.<br />Du <b>kannst</b> auf Beiträge in diesem Forum <b>nicht</b> antworten.<br />Du <b>kannst</b> deine Beiträge in diesem Forum <b>nicht</b> bearbeiten.<br />Du <b>kannst</b> deine Beiträge in diesem Forum <b>nicht</b> löschen.<br />Du <b>kannst</b> an Umfragen in diesem Forum <b>nicht</b> mitmachen.<br /></span></td>
+	</tr>
+</table>
+
+<br />
+<div align="center">
+<span class="copyright"><br /><br />
+    <script type="text/javascript"><!--
+google_ad_client = "pub-3794771864894198";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "336699";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br>
+smartDark Style &copy; 2002 <a href="http://smartor.is-root.com" target="_blank" class="copyright">Smartor</a><br />Powered by <a href="http://www.phpbb.com/" target="_blank" class="copyright">phpBB</a>  &copy; 2001, 2002 phpBB Group<br />&nbsp;&nbsp;patched by a.dahl<br>
+
+    <!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><p><!-- End of Netstat Code --><p>
+
+<! Start Google AdSense>
+
+    <script type="text/javascript"><!--
+google_ad_client = "pub-3794771864894198";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "336699";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<! End Google AdSense></span></div></td></tr></table></body></html>

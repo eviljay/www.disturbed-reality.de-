@@ -1,0 +1,574 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<title>::board.bist-du-bloe.de:: :: Forum anzeigen - SCFI / Fantasy</title>
+<link rel="stylesheet" href="templates/smartDark/smartDark.css" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0">
+
+<a name="top"></a>
+
+<table width="97%" cellspacing="0" cellpadding="10" border="0" align="center">
+	<tr>
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td><a href="index.php?sid=13527710c3b735c235972b709801cb95"><img src="templates/smartDark/images/logo_phpBB.gif" alt="::board.bist-du-bloe.de::" border="0"></a></td>
+				<td align="center" width="100%" valign="middle"><span class="maintitle">::board.bist-du-bloe.de::</span><br /><span class="gen">'leap your head up high and pull your brains out'<br />&nbsp; </span>
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="faq.php?sid=13527710c3b735c235972b709801cb95" class="mainmenu">FAQ</a></span><span class="mainmenu"> :: <a href="search.php?sid=13527710c3b735c235972b709801cb95" class="mainmenu">Suchen</a> :: <a href="memberlist.php?sid=13527710c3b735c235972b709801cb95" class="mainmenu">Mitgliederliste</a> :: <a href="groupcp.php?sid=13527710c3b735c235972b709801cb95" class="mainmenu">Benutzergruppen</a>
+						:: <a href="profile.php?mode=register&amp;sid=13527710c3b735c235972b709801cb95" class="mainmenu">Registrieren</a></span>
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="profile.php?mode=editprofile&amp;sid=13527710c3b735c235972b709801cb95" class="mainmenu">Profil</a> :: <a href="privmsg.php?folder=inbox&amp;sid=13527710c3b735c235972b709801cb95" class="mainmenu">Einloggen, um private Nachrichten zu lesen</a> :: <a href="login.php?sid=13527710c3b735c235972b709801cb95" class="mainmenu">Login</a></span></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table>
+		<br />
+
+<form method="post" action="viewforum.php?f=44&amp;start=0&amp;sid=13527710c3b735c235972b709801cb95">
+  <table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+	<tr>
+	  <td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewforum.php?f=44&amp;sid=13527710c3b735c235972b709801cb95">SCFI / Fantasy</a><br /><span class="gensmall"><b><b>Moderatoren</b>: <a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=13527710c3b735c235972b709801cb95">alo</a>, <a href="groupcp.php?g=377&amp;sid=13527710c3b735c235972b709801cb95">fickschweine</a><br /><br />Benutzer in diesem Forum: Keine</b></span></td>
+	  <td align="right" valign="bottom" nowrap="nowrap"><span class="gensmall"><b>Gehe zu Seite <b>1</b>, <a href="viewforum.php?f=44&amp;topicdays=0&amp;start=50&amp;sid=13527710c3b735c235972b709801cb95">2</a>&nbsp;&nbsp;<a href="viewforum.php?f=44&amp;topicdays=0&amp;start=50&amp;sid=13527710c3b735c235972b709801cb95">Weiter</a></b></span></td>
+	</tr>
+	<tr>
+	  <td align="left" valign="middle" width="50"><a href="posting.php?mode=newtopic&amp;f=44&amp;sid=13527710c3b735c235972b709801cb95"><img src="templates/smartDark/images/lang_english/post.gif" border="0" alt="Neues Thema eröffnen" /></a></td>
+	  <td align="left" valign="middle" class="nav" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=13527710c3b735c235972b709801cb95" class="nav">::board.bist-du-bloe.de:: Foren-Übersicht</a> -> <a class="nav" href="viewforum.php?f=44&amp;sid=13527710c3b735c235972b709801cb95">SCFI / Fantasy</a></span></td>
+	  <td align="right" valign="bottom" class="nav" nowrap="nowrap"><span class="gensmall"><a href="viewforum.php?f=44&amp;mark=topics&amp;sid=13527710c3b735c235972b709801cb95">Alle Themen als gelesen markieren</a></span></td>
+	</tr>
+  </table>
+
+  <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline">
+	<tr>
+	  <th colspan="2" align="center" height="25" class="thCornerL" nowrap="nowrap">&nbsp;Themen&nbsp;</th>
+	  <th width="50" align="center" class="thTop" nowrap="nowrap">&nbsp;Antworten&nbsp;</th>
+	  <th width="100" align="center" class="thTop" nowrap="nowrap">&nbsp;Autor&nbsp;</th>
+	  <th width="50" align="center" class="thTop" nowrap="nowrap">&nbsp;Aufrufe&nbsp;</th>
+	  <th align="center" class="thCornerR" nowrap="nowrap">&nbsp;Letzter&nbsp;Beitrag&nbsp;</th>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4743&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Das schwarze Loch</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">28</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">So Apr 24, 2005 4:58 pm<br /><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=13527710c3b735c235972b709801cb95">Sinarius</a> <a href="viewtopic.php?p=47464&amp;sid=13527710c3b735c235972b709801cb95#47464"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder_hot.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=3484&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Star Wars Episode III</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">35</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">413</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mi Apr 13, 2005 6:44 pm<br /><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=13527710c3b735c235972b709801cb95">Sinarius</a> <a href="viewtopic.php?p=47079&amp;sid=13527710c3b735c235972b709801cb95#47079"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2073&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">FEINDE AUS DEM NICHTS - QUATERMASS 2</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">9</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">126</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Di März 01, 2005 9:53 pm<br /><a href="profile.php?mode=viewprofile&amp;u=407&amp;sid=13527710c3b735c235972b709801cb95">jaybo</a> <a href="viewtopic.php?p=46298&amp;sid=13527710c3b735c235972b709801cb95#46298"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4640&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">The Sound of Thunder</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">18</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Do Feb 24, 2005 9:20 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=46145&amp;sid=13527710c3b735c235972b709801cb95#46145"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4635&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">VOYAGE TO THE PREHISTORIC PLANET</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">13</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Di Feb 22, 2005 8:34 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=46099&amp;sid=13527710c3b735c235972b709801cb95#46099"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=3633&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Lifeforce die tödliche Bedrohung Kinofassung VS Directors Cu</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">6</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">126</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Do Feb 10, 2005 3:53 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=45854&amp;sid=13527710c3b735c235972b709801cb95#45854"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=1728&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">It Came From Outer Space! (1953)</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">8</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">126</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mo Jan 24, 2005 11:46 am<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=45403&amp;sid=13527710c3b735c235972b709801cb95#45403"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4258&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Cube Zero</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">10</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=407&amp;sid=13527710c3b735c235972b709801cb95">jaybo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">136</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mo Jan 17, 2005 7:36 pm<br /><a href="profile.php?mode=viewprofile&amp;u=574&amp;sid=13527710c3b735c235972b709801cb95">toRRid-</a> <a href="viewtopic.php?p=45305&amp;sid=13527710c3b735c235972b709801cb95#45305"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2847&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Moontrap - Gefangen in Raum und Zeit</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">7</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">151</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sa Jan 15, 2005 2:47 pm<br /><a href="profile.php?mode=viewprofile&amp;u=336&amp;sid=13527710c3b735c235972b709801cb95">Myunji_Hausen</a> <a href="viewtopic.php?p=45259&amp;sid=13527710c3b735c235972b709801cb95#45259"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=3963&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">The Chronicles of Riddick - FSK 12 !!!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">8</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=578&amp;sid=13527710c3b735c235972b709801cb95">aCiD</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">325</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Di Dez 21, 2004 6:18 pm<br /><a href="profile.php?mode=viewprofile&amp;u=38&amp;sid=13527710c3b735c235972b709801cb95">Leatherface</a> <a href="viewtopic.php?p=44518&amp;sid=13527710c3b735c235972b709801cb95#44518"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4199&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Mission to Mars</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">8</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">121</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Do Dez 16, 2004 5:03 pm<br /><a href="profile.php?mode=viewprofile&amp;u=198&amp;sid=13527710c3b735c235972b709801cb95">Tony_Montana</a> <a href="viewtopic.php?p=44384&amp;sid=13527710c3b735c235972b709801cb95#44384"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4276&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">&quot;The Blob&quot; Remake geplant</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">72</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Di Nov 23, 2004 5:24 pm<br /><a href="profile.php?mode=viewprofile&amp;u=407&amp;sid=13527710c3b735c235972b709801cb95">jaybo</a> <a href="viewtopic.php?p=43614&amp;sid=13527710c3b735c235972b709801cb95#43614"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4347&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Twin Peaks - Season 1</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=560&amp;sid=13527710c3b735c235972b709801cb95">Misfitsfiend</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">33</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mo Nov 22, 2004 9:54 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=43544&amp;sid=13527710c3b735c235972b709801cb95#43544"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder_lock.gif" width="19" height="18" alt="Dieses Thema ist gesperrt, du kannst keine Beiträge editieren oder beantworten." title="Dieses Thema ist gesperrt, du kannst keine Beiträge editieren oder beantworten." /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4285&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">AVP</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=448&amp;sid=13527710c3b735c235972b709801cb95">ravinstoned</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">50</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fr Nov 05, 2004 5:09 pm<br /><a href="profile.php?mode=viewprofile&amp;u=422&amp;sid=13527710c3b735c235972b709801cb95">HappyRotter</a> <a href="viewtopic.php?p=42731&amp;sid=13527710c3b735c235972b709801cb95#42731"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=1642&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Godzilla Filme</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">21</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">186</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mi Nov 03, 2004 10:26 am<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=42633&amp;sid=13527710c3b735c235972b709801cb95#42633"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=1964&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Invasion of the Body Snatchers (1956)</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">93</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Di Okt 26, 2004 8:44 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=42404&amp;sid=13527710c3b735c235972b709801cb95#42404"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2332&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Der Omega Mann - auf DVD !!!!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">9</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">98</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">So Okt 17, 2004 1:29 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=42191&amp;sid=13527710c3b735c235972b709801cb95#42191"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2760&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Terminal Invasion</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">47</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sa Okt 16, 2004 3:06 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=42146&amp;sid=13527710c3b735c235972b709801cb95#42146"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=1782&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Invasion vom Mars</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">11</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=16&amp;sid=13527710c3b735c235972b709801cb95">Satan-Sascha</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">85</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sa Okt 16, 2004 3:05 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=42145&amp;sid=13527710c3b735c235972b709801cb95#42145"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4128&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">HAL 9000 zu kaufen!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">21</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=13527710c3b735c235972b709801cb95">alo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">218</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Do Sep 23, 2004 10:37 pm<br /><a href="profile.php?mode=viewprofile&amp;u=453&amp;sid=13527710c3b735c235972b709801cb95">Mr_Maniac</a> <a href="viewtopic.php?p=41407&amp;sid=13527710c3b735c235972b709801cb95#41407"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4111&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Fresh Gordon?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">2</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=422&amp;sid=13527710c3b735c235972b709801cb95">HappyRotter</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">54</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fr Sep 17, 2004 1:01 pm<br /><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=13527710c3b735c235972b709801cb95">Sinarius</a> <a href="viewtopic.php?p=40996&amp;sid=13527710c3b735c235972b709801cb95#40996"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder_lock.gif" width="19" height="18" alt="Dieses Thema ist gesperrt, du kannst keine Beiträge editieren oder beantworten." title="Dieses Thema ist gesperrt, du kannst keine Beiträge editieren oder beantworten." /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4103&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Hellboy</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=407&amp;sid=13527710c3b735c235972b709801cb95">jaybo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">45</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mo Sep 13, 2004 10:53 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=13527710c3b735c235972b709801cb95">alo</a> <a href="viewtopic.php?p=40794&amp;sid=13527710c3b735c235972b709801cb95#40794"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=3852&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Flucht ins 23. Jahrhundert - Remake</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">53</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">So Sep 12, 2004 5:17 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=40678&amp;sid=13527710c3b735c235972b709801cb95#40678"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=4078&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Feuer und Eis</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">5</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=38&amp;sid=13527710c3b735c235972b709801cb95">Leatherface</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">85</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">So Sep 12, 2004 3:04 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=40671&amp;sid=13527710c3b735c235972b709801cb95#40671"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=3982&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Könnt ihr mir sagen um welchen Film es sich handelt???</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">14</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=407&amp;sid=13527710c3b735c235972b709801cb95">jaybo</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">226</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Do Aug 26, 2004 1:46 pm<br /><a href="profile.php?mode=viewprofile&amp;u=240&amp;sid=13527710c3b735c235972b709801cb95">Freddy_Krueger</a> <a href="viewtopic.php?p=39781&amp;sid=13527710c3b735c235972b709801cb95#39781"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><b>[Umfrage]</b> <a href="viewtopic.php?t=3970&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Klassische Godzilla Filme</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">8</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=13527710c3b735c235972b709801cb95">Sinarius</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">154</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Do Aug 19, 2004 4:27 pm<br /><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=13527710c3b735c235972b709801cb95">Sinarius</a> <a href="viewtopic.php?p=39359&amp;sid=13527710c3b735c235972b709801cb95#39359"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=3962&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Star Wars Trilogie DVD !!!</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=578&amp;sid=13527710c3b735c235972b709801cb95">aCiD</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">87</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mi Aug 18, 2004 6:48 am<br /><a href="profile.php?mode=viewprofile&amp;u=44&amp;sid=13527710c3b735c235972b709801cb95">polux</a> <a href="viewtopic.php?p=39269&amp;sid=13527710c3b735c235972b709801cb95#39269"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=3860&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Devil May Cry</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=13527710c3b735c235972b709801cb95">Refu</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">122</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Do Jul 29, 2004 9:15 am<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=37821&amp;sid=13527710c3b735c235972b709801cb95#37821"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=3721&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Die Herrschaft des Feuers</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">9</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">219</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mi Jul 14, 2004 10:24 pm<br /><a href="profile.php?mode=viewprofile&amp;u=507&amp;sid=13527710c3b735c235972b709801cb95">Alexiel</a> <a href="viewtopic.php?p=36588&amp;sid=13527710c3b735c235972b709801cb95#36588"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=1843&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Die totale Erinnerung - Total Recall</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">23</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">248</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fr Jul 09, 2004 9:51 am<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=36226&amp;sid=13527710c3b735c235972b709801cb95#36226"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2341&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Der Tag an dem die Erde still stand</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">7</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">189</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Do Jul 08, 2004 11:40 am<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=36134&amp;sid=13527710c3b735c235972b709801cb95#36134"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=3741&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Spiderman 2 Lego</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=55&amp;sid=13527710c3b735c235972b709801cb95">Goethe</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">86</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mi Jul 07, 2004 2:38 pm<br /><a href="profile.php?mode=viewprofile&amp;u=198&amp;sid=13527710c3b735c235972b709801cb95">Tony_Montana</a> <a href="viewtopic.php?p=36048&amp;sid=13527710c3b735c235972b709801cb95#36048"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2738&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Hollow Man - Unsichtbare Gefahr</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">6</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">93</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Di Jul 06, 2004 7:43 pm<br /><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=13527710c3b735c235972b709801cb95">Refu</a> <a href="viewtopic.php?p=35952&amp;sid=13527710c3b735c235972b709801cb95#35952"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2942&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Mad Max 4: Fury Road</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">6</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">147</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mo Jul 05, 2004 10:29 pm<br /><a href="profile.php?mode=viewprofile&amp;u=126&amp;sid=13527710c3b735c235972b709801cb95">BurnedEyez</a> <a href="viewtopic.php?p=35857&amp;sid=13527710c3b735c235972b709801cb95#35857"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2865&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Náufragos - Gestrandet</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">38</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mo Jul 05, 2004 11:55 am<br /><a href="profile.php?mode=viewprofile&amp;u=65&amp;sid=13527710c3b735c235972b709801cb95">Premutos</a> <a href="viewtopic.php?p=35638&amp;sid=13527710c3b735c235972b709801cb95#35638"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2700&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Die unglaubliche Geschichte des Mr. C</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">5</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">65</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mo Jul 05, 2004 11:42 am<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=35632&amp;sid=13527710c3b735c235972b709801cb95#35632"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=3691&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Saintsinner</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=543&amp;sid=13527710c3b735c235972b709801cb95">Sch@lli</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">37</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">So Jul 04, 2004 1:01 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=35538&amp;sid=13527710c3b735c235972b709801cb95#35538"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2790&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">was sagt Ihr zu  &quot; ROBOCOP &quot;....</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">20</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">202</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sa Jun 26, 2004 8:14 am<br /><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=13527710c3b735c235972b709801cb95">Refu</a> <a href="viewtopic.php?p=34852&amp;sid=13527710c3b735c235972b709801cb95#34852"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=1746&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Die Bestie aus dem Weltraum</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">5</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=38&amp;sid=13527710c3b735c235972b709801cb95">Leatherface</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">105</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mo Jun 21, 2004 9:44 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=34545&amp;sid=13527710c3b735c235972b709801cb95#34545"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=3312&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Hat jemand Infos zu &quot;Terror - Sie sind erst 20...&quot;</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">7</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=13527710c3b735c235972b709801cb95">Refu</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">160</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mo Jun 21, 2004 9:40 pm<br /><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=13527710c3b735c235972b709801cb95">Refu</a> <a href="viewtopic.php?p=34542&amp;sid=13527710c3b735c235972b709801cb95#34542"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2570&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">&quot;Metaluna 4 antwortet nicht&quot; aka &quot;This Island</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">15</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">179</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fr Jun 18, 2004 4:15 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=34337&amp;sid=13527710c3b735c235972b709801cb95#34337"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=1801&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Suche Filmtitel</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">79</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fr Jun 11, 2004 10:24 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=34020&amp;sid=13527710c3b735c235972b709801cb95#34020"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=469&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Der Tag des Falken</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">6</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=9&amp;sid=13527710c3b735c235972b709801cb95">Refu</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">66</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">So Jun 06, 2004 1:42 am<br /><a href="profile.php?mode=viewprofile&amp;u=198&amp;sid=13527710c3b735c235972b709801cb95">Tony_Montana</a> <a href="viewtopic.php?p=33688&amp;sid=13527710c3b735c235972b709801cb95#33688"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=1117&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Blumen des Schreckens</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">10</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">135</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Do Jun 03, 2004 4:08 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=33464&amp;sid=13527710c3b735c235972b709801cb95#33464"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2949&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">1994 - nur die Starken überleben</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">4</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">101</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Di Jun 01, 2004 4:25 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=33306&amp;sid=13527710c3b735c235972b709801cb95#33306"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2814&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Gesucht - CYBORG bzw. KILLERMASCHINEN Movies</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">7</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">115</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Di Jun 01, 2004 4:23 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=33305&amp;sid=13527710c3b735c235972b709801cb95#33305"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2912&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Syngenor - Das synthetische Genexperiment</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">3</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=389&amp;sid=13527710c3b735c235972b709801cb95">Tempelritter</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">87</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Di Jun 01, 2004 1:06 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=33289&amp;sid=13527710c3b735c235972b709801cb95#33289"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2863&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Alien Jäger - Mysterium in der Antarktis</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">2</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">39</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Do Mai 27, 2004 2:52 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=33109&amp;sid=13527710c3b735c235972b709801cb95#33109"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2495&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">Fliegende Untertassen greifen an</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">2</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">109</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Di Mai 11, 2004 1:11 pm<br /><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a> <a href="viewtopic.php?p=32442&amp;sid=13527710c3b735c235972b709801cb95#32442"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/smartDark/images/folder.gif" width="19" height="18" alt="Keine neuen Beiträge" title="Keine neuen Beiträge" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=2988&amp;sid=13527710c3b735c235972b709801cb95" class="topictitle">ZARDOZ mit Sean Connery</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">9</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=8&amp;sid=13527710c3b735c235972b709801cb95">splatteralex</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">231</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fr Feb 13, 2004 11:14 am<br /><a href="profile.php?mode=viewprofile&amp;u=1&amp;sid=13527710c3b735c235972b709801cb95">alo</a> <a href="viewtopic.php?p=29642&amp;sid=13527710c3b735c235972b709801cb95#29642"><img src="templates/smartDark/images/icon_latest_reply.gif" alt="Letzten Beitrag anzeigen" title="Letzten Beitrag anzeigen" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="catBottom" align="center" valign="middle" colspan="6" height="28"><span class="genmed">Siehe Beiträge der letzten:&nbsp;<select name="topicdays"><option value="0" selected="selected">Alle Themen anzeigen</option><option value="1">1 Tag</option><option value="7">7 Tage</option><option value="14">2 Wochen</option><option value="30">1 Monat</option><option value="90">3 Monate</option><option value="180">6 Monate</option><option value="364">1 Jahr</option></select>&nbsp;
+		<input type="submit" class="liteoption" value="Go" name="submit" />
+		</span></td>
+	</tr>
+  </table>
+
+  <table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+	<tr>
+	  <td align="left" valign="middle" width="50"><a href="posting.php?mode=newtopic&amp;f=44&amp;sid=13527710c3b735c235972b709801cb95"><img src="templates/smartDark/images/lang_english/post.gif" border="0" alt="Neues Thema eröffnen" /></a></td>
+	  <td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=13527710c3b735c235972b709801cb95" class="nav">::board.bist-du-bloe.de:: Foren-Übersicht</a> -> <a class="nav" href="viewforum.php?f=44&amp;sid=13527710c3b735c235972b709801cb95">SCFI / Fantasy</a></span></td>
+	  <td align="right" valign="middle" nowrap="nowrap"><span class="gensmall">Alle Zeiten sind GMT + 2 Stunden</span><br /><span class="nav">Gehe zu Seite <b>1</b>, <a href="viewforum.php?f=44&amp;topicdays=0&amp;start=50&amp;sid=13527710c3b735c235972b709801cb95">2</a>&nbsp;&nbsp;<a href="viewforum.php?f=44&amp;topicdays=0&amp;start=50&amp;sid=13527710c3b735c235972b709801cb95">Weiter</a></span>
+		</td>
+	</tr>
+	<tr>
+	  <td align="left" colspan="3"><span class="nav">Seite <b>1</b> von <b>2</b></span></td>
+	</tr>
+  </table>
+</form>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+	<td align="right">
+<form method="get" name="jumpbox" action="viewforum.php?sid=13527710c3b735c235972b709801cb95" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Gehe zu:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Forum auswählen</option><option value="-1">&nbsp;</option><option value="-1">allgemein</option><option value="-1">----------------</option><option value="42">updates</option><option value="21">der brotkorb</option><option value="17">support-board</option><option value="18">verbesserungen&wünsche</option><option value="47">mod-board</option><option value="-1">&nbsp;</option><option value="-1">bist-du-bloe.de</option><option value="-1">----------------</option><option value="2">*brainfuck</option><option value="41">bolzplatz</option><option value="25">lustiges aus dem netz</option><option value="-1">&nbsp;</option><option value="-1">der phantastische film</option><option value="-1">----------------</option><option value="20">allgemein</option><option value="28">splatter&horror</option><option value="44">SCFI / Fantasy</option><option value="30">DVD, VHS & laserdisk</option><option value="43">hollywood</option><option value="19">schnittberichte&zensur</option><option value="34">amateur filme & börsen</option><option value="31">...im TV</option><option value="33">...und die passende musik</option><option value="32">gerüchteküche</option><option value="-1">&nbsp;</option><option value="-1">shop</option><option value="-1">----------------</option><option value="23">zu verkaufen</option><option value="24">suche</option><option value="48">Preistipps und Webshops</option><option value="-1">&nbsp;</option><option value="-1">hard/software/technik</option><option value="-1">----------------</option><option value="27">allgemein</option><option value="36">windows/linux/OS/2/... betriebssysteme</option><option value="37">internet und alles was dranhängt</option><option value="38">games</option><option value="39">ps/2 & konsolen</option><option value="-1">&nbsp;</option><option value="-1">off topic</option><option value="-1">----------------</option><option value="26">sunshine-bar</option><option value="45">politik</option><option value="-1">&nbsp;</option><option value="-1">zelltruemmer</option><option value="-1">----------------</option><option value="49">Enjoy</option><option value="50">Sinn</option><option value="51">Brechen</option><option value="52">Online RPG</option></select><input type="hidden" name="sid" value="13527710c3b735c235972b709801cb95" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+</td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="0" border="0" align="center" cellpadding="0">
+	<tr>
+		<td align="left" valign="top"><table cellspacing="3" cellpadding="0" border="0">
+			<tr>
+				<td width="20" align="left"><img src="templates/smartDark/images/folder_new.gif" alt="Neue Beiträge" width="19" height="18" /></td>
+				<td class="gensmall">Neue Beiträge</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/smartDark/images/folder.gif" alt="Keine neuen Beiträge" width="19" height="18" /></td>
+				<td class="gensmall">Keine neuen Beiträge</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/smartDark/images/folder_announce.gif" alt="Ankündigung" width="19" height="18" /></td>
+				<td class="gensmall">Ankündigung</td>
+			</tr>
+			<tr>
+				<td width="20" align="center"><img src="templates/smartDark/images/folder_new_hot.gif" alt="Neue Beiträge [ Top-Thema ]" width="19" height="18" /></td>
+				<td class="gensmall">Neue Beiträge [ Top-Thema ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/smartDark/images/folder_hot.gif" alt="Keine neuen Beiträge [ Top-Thema ]" width="19" height="18" /></td>
+				<td class="gensmall">Keine neuen Beiträge [ Top-Thema ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/smartDark/images/folder_sticky.gif" alt="Wichtig" width="19" height="18" /></td>
+				<td class="gensmall">Wichtig</td>
+			</tr>
+			<tr>
+				<td class="gensmall"><img src="templates/smartDark/images/folder_lock_new.gif" alt="" width="19" height="18" /></td>
+				<td class="gensmall">Neue Beiträge [ Gesperrt ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td class="gensmall"><img src="templates/smartDark/images/folder_lock.gif" alt="" width="19" height="18" /></td>
+				<td class="gensmall">Keine neuen Beiträge [ Gesperrt ]</td>
+			</tr>
+		</table></td>
+		<td align="right"><span class="gensmall">Du <b>kannst keine</b> Beiträge in dieses Forum schreiben.<br />Du <b>kannst</b> auf Beiträge in diesem Forum <b>nicht</b> antworten.<br />Du <b>kannst</b> deine Beiträge in diesem Forum <b>nicht</b> bearbeiten.<br />Du <b>kannst</b> deine Beiträge in diesem Forum <b>nicht</b> löschen.<br />Du <b>kannst</b> an Umfragen in diesem Forum <b>nicht</b> mitmachen.<br /></span></td>
+	</tr>
+</table>
+
+<br /><div align="center"><span class="copyright"><br /><br />smartBlue Style &copy; 2002 <a href="http://smartor.is-root.com" target="_blank" class="copyright">Smartor</a><br />Powered by <a href="http://www.phpbb.com/" target="_blank" class="copyright">phpBB</a>  &copy; 2001, 2002 phpBB Group<br />&nbsp;&nbsp;patched by a.dahl<br><!-- alo counter block --><!-- Start of Netstat Code -->  <script language="JavaScript" src="http://m1.nedstatbasic.net/basic.js"></script>  <script language="JavaScript"><!--  nedstatbasic("ABoDTwfIAjdLgzdwSlOkjJAiAw4w", 0);// --></script><!-- End of Netstat Code -->
+<!-- alo counter block --></span></div></td></tr></table></body></html>
