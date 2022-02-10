@@ -79,16 +79,12 @@
   <tr>
     <td class="left"></td>
 	<td class="row2">
-<i><small>Werbung:</small></i><br>
-<!-- ab hier Linklift Werbeblock -->
-            
-<ul style="padding:0px; width:100%; border:0px none #FFFFFF; overflow:hidden; margin-right:0px; list-style:none; margin-bottom:0px; margin-top:0px; border-spacing:0px;">
-	<li style="width:49%; float:left; display:inline; clear:none;"><a style="font-size:10px; line-height:140%;" href="http://www.dvdhoelle.com" target="_self">FSK18 DVD, Games &amp; Merchandise</a></li>
-	<li style="width:49%; float:left; display:inline; clear:none;"><a style="font-size:10px; line-height:140%;" href="http://www.euroeyes-duesseldorf.de" target="_self">Augenlaserbehandlung</a></li>
-</ul>
-           
-<!-- Linklift Ende-->
+<i><small>Werbung:</small></i>
 
+<ul style="margin-right:0px; overflow:hidden; list-style:none; padding:0px; border-spacing:0px;  border:0px none #FFFFFF; margin-top:0px; width:100%; margin-bottom:0px;">
+	<li style="width:49%; clear:none; display:inline; float:left;"><a style=" font-size:12px; line-height:140%;" href="http://www.geizclub24.de/gutscheine/DVD" target="_self">DVD Gutscheine</a></li>
+	<li style="width:49%; clear:none; display:inline; float:left;"><a style=" font-size:12px; line-height:140%;" href="http://www.netleih.de" target="_self">Neu auf DVD: Online-Verleih</a></li>
+</ul>
 <hr><form action="login.php" method="post" target="_top">
 <table width="100%" cellspacing="1" cellpadding="1" border="0">
   <tr valign="top">

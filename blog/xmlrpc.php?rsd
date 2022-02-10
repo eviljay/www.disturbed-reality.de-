@@ -4,8 +4,8 @@
     <engineLink>http://wordpress.org/</engineLink>
     <homePageLink>http://disturbed-reality.de/blog</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://disturbed-reality.de/blog/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://disturbed-reality.de/blog/xmlrpc.php" />
+      <api name="WordPress" blogID="1" preferred="false" apiLink="http://disturbed-reality.de/blog/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="true" apiLink="http://disturbed-reality.de/blog/xmlrpc.php" />
       <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://disturbed-reality.de/blog/xmlrpc.php" />
       <api name="Blogger" blogID="1" preferred="false" apiLink="http://disturbed-reality.de/blog/xmlrpc.php" />
     </apis>

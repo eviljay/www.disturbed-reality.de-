@@ -156,10 +156,10 @@ Event.observe(
 <!-- hier die Linklift-Werbung hin -->
         
 <ul style="border:0px none #FFFFFF; margin-top:0px; padding:0px; margin-right:0px; list-style:none; width:100%; overflow:hidden; margin-bottom:0px; border-spacing:0px;">
-	<li style="width:32%; clear:none; display:inline; float:left;"><a style="line-height:140%; font-size:14px;" href="http://www.amango.de" target="_self">DVDs im Verleih</a></li>
-	<li style="width:32%; clear:none; display:inline; float:left;"><a style="line-height:140%; font-size:14px;" href="http://www.erotik-shop.com/catalog/826.html" target="_self">DVD Erotik Shop</a></li>
 	<li style="width:32%; clear:none; display:inline; float:left;"><a style="line-height:140%; font-size:14px;" href="http://www.jobdoo.de/" target="_self">Handwerkerauktionen</a></li>
 	<li style="width:32%; clear:none; display:inline; float:left;"><a style="line-height:140%; font-size:14px;" href="http://www.videobuster.de" target="_self">Online Videothek mit Community</a></li>
+	<li style="width:32%; clear:none; display:inline; float:left;"><a style="line-height:140%; font-size:14px;" href="http://www.erotik-shop.com/catalog/826.html" target="_self">DVD Erotik Shop</a></li>
+	<li style="width:32%; clear:none; display:inline; float:left;"><a style="line-height:140%; font-size:14px;" href="http://www.amango.de" target="_self">DVDs im Verleih</a></li>
 	<li style="width:32%; clear:none; display:inline; float:left;"><a style="line-height:140%; font-size:14px;" href="http://www.partnerflirt.ch" target="_self">Flirten</a></li>
 </ul>
 
@@ -225,7 +225,7 @@ urchinTracker();
                             </div>
             <h2>Diskussionen im Forum</h2>
             <ul>
-                <li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72866#72866'>HERZOG - Scheidungsanwalt &lt;---&gt; RTL</a> </li><li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72865#72865'>Grind House von Tarantino und Rodriguez</a> </li><li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72864#72864'>Uwe Boll: Kein Geld mehr für &quot;große&quot; Filme</a> </li><li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72863#72863'>Neil Marshalls &quot;Dooms Day&quot;</a> </li><li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72862#72862'>All The Boys Love Mandy Lane</a> </li><li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72861#72861'>Day of the Dead Remake</a> </li><li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72860#72860'>Uwe Boll: Kein Geld mehr für &quot;große&quot; Filme</a> </li><p>
+                <li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72872#72872'>Die trashigsten Trailer aller Zeiten</a> </li><li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72871#72871'>Die trashigsten Trailer aller Zeiten</a> </li><li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72870#72870'>Grind House von Tarantino und Rodriguez</a> </li><li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72869#72869'>Uwe Boll: Kein Geld mehr für &quot;große&quot; Filme</a> </li><li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72868#72868'>Neil Marshalls &quot;Dooms Day&quot;</a> </li><li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72867#72867'>Neil Marshalls &quot;Dooms Day&quot;</a> </li><li>&raquo; <a href='http://disturbed-reality.de/board/viewtopic.php?p=72866#72866'>HERZOG - Scheidungsanwalt &lt;---&gt; RTL</a> </li><p>
             </ul>
         </div>
     </div>

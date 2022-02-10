@@ -1,36 +1,70 @@
-<!DOCTYPE html>
-<html dir="ltr" lang="en">
-<head>
-<title>disturbed-reality.de Coming Soon</title>
-<meta name="description" content="disturbed-reality.de Coming Soon">
-<meta name="keywords" content="disturbed-reality.de Coming Soon">
-<meta name="copyright" content="Copyright 2019">
-<meta name="language" content="English">
-<meta name="publisher" content="101domain">
-<meta name="robots" content="index, follow">
-<meta name="GOOGLEBOT" content="index, follow">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <style type="text/css">
-@import "http://park.101datacenter.net/css/default.css?20190101125539";
+<!--
+.style3 {font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
+-->
 </style>
-</head>
-<body>
-<section class="announce">
-<div class="row">
-<div class="medium-7 large-8 columns">
-<h1>Featuring the future site for <br /><span>disturbed-reality.de</span></h1>
-</div>
-<div class="medium-5 large-4 columns">
-<div class="login-panel">
-<form method="post" action="https://my.101domain.com" target="_top">
-<h3 class="center-text">Login to Manage Domains / hosting</h3>
-<input class="button buy" name="" value="Login" type="submit" />
-</form>
-</div>
-</div>
-</div>
-</section>
-</body>
-</html>
+<table width="300" height="200"  border="0" align="center">
+  <tr>
+    <td><h2 align="center" class="style3"><b>“404”</b></h2>    </td>
+  </tr>
+  <tr>
+    <td><span class="style3">ups, da stimmt was nicht. du versucht gerade eine Seite aufzur&uuml;fen, die es gar nicht gibt</span></td>
+  </tr>
+  <tr>
+    <td><div align="center">hier gehts zur&uuml;ck zu <a href="http://disturbed-reality.de" class="style3"><br>
+    bist-du-bloe.de</a></div></td>
+  </tr>
+</table>
+<h2>&nbsp;</h2>
+<h2 align="center"><b>“404”</b></h2>
+<p align="center">
+It is said,“To err is human,”<br>
+That quote from alt.times.lore,<br>
+Alas, you have made an error,<br>
+So I say,“404.”<br>
+<br>
+Double-check your URL,<br>
+  As we all have heard before.<br>
+  You ask for an invalid filename,<br>
+  And I respond,“404.”<br>
+  <br>
+  Perhaps you made a typo —<br>
+  Your fingers may be sore —<br>
+But until you type it right,<br>
+You'll only get 404.
+
+<p align="center">
+Maybe you followed a bad link,<br>
+Surfing a foreign shore;<br>
+You'll just have to tell that author<br>
+About this 404.
+
+<p align="center">
+I'm just a lowly server<br>
+(Who likes to speak in metaphor),<br>
+So for a request that I don't know,<br>
+I must return 404.
+
+<p align="center">
+Be glad I'm not an old mainframe<br>
+That might just dump its core,<br>
+Because then you'd get a ten-meg file<br>
+Instead of this 404.
+
+<p align="center">
+I really would like to help you,<br>
+But I don't know what you're looking for,<br>
+And since I don't know what you want,<br>
+I give you 404.
+
+<p align="center">
+Remember Poe, insane with longing<br>
+For his tragically lost Lenore.<br>
+Instead, you quest for files.<br>
+Quoth the Raven,“404!”
+<p align="center">
+
+
+
+by Dan Black
+August 16, 1999
